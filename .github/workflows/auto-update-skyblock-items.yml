@@ -14,10 +14,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: |
+      - name: Fetch API
+        run: |
           curl -fsSL https://api.hypixel.net/v2/resources/skyblock/items -o new.json
+
+      - name: Check success
+        run: |
+          SUCCESS=$(jq -r '.success' new.json)
+          if [ "$SUCCESS" != "true" ]; then
+            echo "API not successful, exiting"
+            exit 0
+          fi
+
+      - name: Compare items and commit
+        run: |
           if [ -f skyblock_items.json ]; then
-            if cmp -s new.json skyblock_items.json; then
+            OLD_ITEMS=$(jq -c '.items' skyblock_items.json)
+            NEW_ITEMS=$(jq -c '.items' new.json)
+            if [ "$OLD_ITEMS" = "$NEW_ITEMS" ]; then
+              echo "No changes in items, exiting"
               exit 0
             fi
           fi
