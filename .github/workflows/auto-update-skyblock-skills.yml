@@ -34,7 +34,7 @@ jobs:
           if [ -f skyblock_skills.json ]; then
             OLD_SKILLS=$(jq -c '.skills' skyblock_skills.json)
             NEW_SKILLS=$(jq -c '.skills' new_skills.json)
-            if [ "OLD_SKILLS" = "NEW_SKILLS" ]; then
+            if [ "$OLD_SKILLS" = "$NEW_SKILLS" ]; then
               echo "No changes in skills, exiting"
               exit 0
             fi
