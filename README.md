@@ -17,9 +17,9 @@ This repository contains JSON files with Skyblock data from Hypixel. The data is
 
 Start date: 8th February 2026
 
-- `skyblock_collections.json` – Skyblock collection data.
-- `skyblock_items.json` – Skyblock item data.
-- `skyblock_skills.json` – Skyblock skill data.
+- [skyblock_collections.json](https://raw.githubusercontent.com/outin1337/SkyblockConstant/main/skyblock_collections.json) – Skyblock collection data.
+- [skyblock_items.json](https://raw.githubusercontent.com/outin1337/SkyblockConstant/main/skyblock_items.json) – Skyblock item data.
+- [skyblock_skills.json](https://raw.githubusercontent.com/outin1337/SkyblockConstant/main/skyblock_skills.json) – Skyblock skill data.
 
 ## Updates
 
