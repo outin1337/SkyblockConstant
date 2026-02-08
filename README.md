@@ -1,6 +1,6 @@
 # Skyblock Constants
 
-![Random Cat](https://cataas.com/cat)
+<img src="https://cataas.com/cat" alt="Random Cat" width="300" height="200"/>
 
 ---
 
