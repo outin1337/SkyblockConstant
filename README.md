@@ -11,7 +11,7 @@
 ![Update Frequency](https://img.shields.io/badge/update-every%205%20minutes-blue)
 ![JSON Valid](https://img.shields.io/badge/format-JSON-green)
 
-This repository contains JSON files with Skyblock data from Hypixel. The data is automatically updated every 5 minutes via GitHub Actions.
+This repository contains JSON files with Skyblock data from Hypixel. The data is automatically updated every 5 minutes (or whatever Github feels like) via GitHub Actions.
 
 ## Files
 
