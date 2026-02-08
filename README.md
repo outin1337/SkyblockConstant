@@ -1,5 +1,9 @@
 # Skyblock Constants
 
+![Random Cat](https://cataas.com/cat)
+
+---
+
 ![Collections Workflow](https://github.com/outin1337/SkyblockConstant/actions/workflows/auto-update-skyblock-collections.yml/badge.svg)
 ![Skills Workflow](https://github.com/outin1337/SkyblockConstant/actions/workflows/auto-update-skyblock-skills.yml/badge.svg)
 ![Items Workflow](https://github.com/outin1337/SkyblockConstant/actions/workflows/auto-update-skyblock-items.yml/badge.svg)
@@ -24,6 +28,7 @@ Start date: 8th February 2026
 ## Updates
 
 Data is fetched from the [Hypixel API](https://api.hypixel.net/) every 5 minutes using GitHub Actions to ensure it stays up-to-date.
+This project is not affiliated with Hypixel.
 
 ## License
 
