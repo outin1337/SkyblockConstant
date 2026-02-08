@@ -1,0 +1,46 @@
+name: auto-update-skyblock-collections
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch API
+        run: |
+          curl -fsSL https://api.hypixel.net/v2/resources/skyblock/collections -o new_collections.json
+
+      - name: Check success
+        run: |
+          SUCCESS=$(jq -r '.success' new_collections.json)
+          if [ "$SUCCESS" != "true" ]; then
+            echo "API not successful, exiting"
+            exit 0
+          fi
+
+      - name: Compare collections and commit
+        run: |
+          git config user.name "Auto Update Bot"
+          git config user.email "auto_update_bot@example.org"
+
+          if [ -f skyblock_collections.json ]; then
+            OLD_COLLECTIONS=$(jq -c '.collections' skyblock_collections.json)
+            $NEW_COLLECTIONS=$(jq -c '.collections' new_collections.json)
+            if [ "OLD_COLLECTIONS" = "$NEW_COLLECTIONS" ]; then
+              echo "No changes in collections, exiting"
+              exit 0
+            fi
+          fi
+
+          mv new_collections.json skyblock_collections.json
+          git add skyblock_collections.json
+          git commit -m "auto update skyblock collections" || exit 0
+          git push
