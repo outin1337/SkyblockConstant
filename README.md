@@ -1,4 +1,4 @@
-# Skyblock Data Repository
+# Skyblock Constants
 
 ![Collections Workflow](https://github.com/outin1337/SkyblockConstant/actions/workflows/auto-update-skyblock-collections.yml/badge.svg)
 ![Skills Workflow](https://github.com/outin1337/SkyblockConstant/actions/workflows/auto-update-skyblock-skills.yml/badge.svg)
@@ -15,9 +15,9 @@ This repository contains JSON files with Skyblock data from Hypixel. The data is
 
 ## Files
 
-- `skyblock_collections.json` – Contains all Skyblock collection data.
-- `skyblock_items.json` – Contains all Skyblock item data.
-- `skyblock_skills.json` – Contains all Skyblock skill data.
+- `skyblock_collections.json` – Skyblock collection data.
+- `skyblock_items.json` – Skyblock item data.
+- `skyblock_skills.json` – Skyblock skill data.
 
 ## Updates
 
