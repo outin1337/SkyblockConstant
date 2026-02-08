@@ -28,6 +28,8 @@ Start date: 8th February 2026
 ## Updates
 
 Data is fetched from the [Hypixel API](https://api.hypixel.net/) every 5 minutes using GitHub Actions to ensure it stays up-to-date.
+Only updates if the content is different.
+
 This project is not affiliated with Hypixel.
 
 ## License
