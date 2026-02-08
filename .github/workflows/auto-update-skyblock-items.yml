@@ -28,6 +28,9 @@ jobs:
 
       - name: Compare items and commit
         run: |
+          git config user.name "Auto Update Bot"
+          git config user.email "auto_update_bot@example.org"
+
           if [ -f skyblock_items.json ]; then
             OLD_ITEMS=$(jq -c '.items' skyblock_items.json)
             NEW_ITEMS=$(jq -c '.items' new.json)
@@ -36,6 +39,7 @@ jobs:
               exit 0
             fi
           fi
+
           mv new.json skyblock_items.json
           git add skyblock_items.json
           git commit -m "auto update skyblock items" || exit 0
