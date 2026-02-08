@@ -15,7 +15,7 @@ This repository contains JSON files with Skyblock data from Hypixel. The data is
 
 ## Files
 
-Start date: Sun, Feb 08 2026
+Start date: 8th February 2026
 
 - `skyblock_collections.json` – Skyblock collection data.
 - `skyblock_items.json` – Skyblock item data.
