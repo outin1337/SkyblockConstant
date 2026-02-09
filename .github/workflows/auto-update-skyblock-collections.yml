@@ -39,8 +39,9 @@ jobs:
               exit 0
             fi
           fi
+          
+          git pull --rebase origin main
 
           mv new_collections.json skyblock_collections.json
           git add skyblock_collections.json
-          git pull --rebase origin main
           git push origin main
