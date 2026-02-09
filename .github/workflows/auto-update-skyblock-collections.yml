@@ -44,4 +44,5 @@ jobs:
 
           mv new_collections.json skyblock_collections.json
           git add skyblock_collections.json
+          git commit -m "auto update skyblock items" || exit 0
           git push origin main
