@@ -43,4 +43,5 @@ jobs:
           mv new_skills.json skyblock_skills.json
           git add skyblock_skills.json
           git commit -m "auto update skyblock skills" || exit 0
-          git push
+          git pull --rebase origin main
+          git push origin main
