@@ -20,7 +20,7 @@ jobs:
 
       - name: Check success
         run: |
-          SUCCESS=$(jq -r '.success' new_collections.json)
+          SUCCESS=$(jq -S '.success' new_collections.json)
           if [ "$SUCCESS" != "true" ]; then
             echo "API not successful, exiting"
             exit 0
@@ -32,8 +32,8 @@ jobs:
           git config user.email "auto_update_bot@example.org"
 
           if [ -f skyblock_collections.json ]; then
-            OLD_COLLECTIONS=$(jq -c '.collections' skyblock_collections.json)
-            NEW_COLLECTIONS=$(jq -c '.collections' new_collections.json)
+            OLD_COLLECTIONS=$(jq -Sc '.collections' skyblock_collections.json)
+            NEW_COLLECTIONS=$(jq -Sc '.collections' new_collections.json)
             if [ "$OLD_COLLECTIONS" = "$NEW_COLLECTIONS" ]; then
               echo "No changes in collections, exiting"
               exit 0

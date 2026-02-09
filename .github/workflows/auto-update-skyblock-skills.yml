@@ -20,7 +20,7 @@ jobs:
 
       - name: Check success
         run: |
-          SUCCESS=$(jq -r '.success' new_skills.json)
+          SUCCESS=$(jq -S '.success' new_skills.json)
           if [ "$SUCCESS" != "true" ]; then
             echo "API not successful, exiting"
             exit 0
@@ -32,8 +32,8 @@ jobs:
           git config user.email "auto_update_bot@example.org"
 
           if [ -f skyblock_skills.json ]; then
-            OLD_SKILLS=$(jq -c '.skills' skyblock_skills.json)
-            NEW_SKILLS=$(jq -c '.skills' new_skills.json)
+            OLD_SKILLS=$(jq -Sc '.skills' skyblock_skills.json)
+            NEW_SKILLS=$(jq -Sc '.skills' new_skills.json)
             if [ "$OLD_SKILLS" = "$NEW_SKILLS" ]; then
               echo "No changes in skills, exiting"
               exit 0
