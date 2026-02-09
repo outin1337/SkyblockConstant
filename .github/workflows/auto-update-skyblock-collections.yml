@@ -16,11 +16,11 @@ jobs:
 
       - name: Fetch API
         run: |
-          curl -fsSL https://api.hypixel.net/v2/resources/skyblock/collections -o new_collections.json
+          curl -fsSL https://api.hypixel.net/v2/resources/skyblock/collections | jq -S . > new_collections.json
 
       - name: Check success
         run: |
-          SUCCESS=$(jq -S '.success' new_collections.json)
+          SUCCESS=$(jq -r '.success' new_collections.json)
           if [ "$SUCCESS" != "true" ]; then
             echo "API not successful, exiting"
             exit 0
