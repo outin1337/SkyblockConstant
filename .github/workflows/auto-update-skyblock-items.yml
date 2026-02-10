@@ -2,7 +2,7 @@ name: auto-update-skyblock-items
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/8 * * * *"
   workflow_dispatch:
 
 permissions:

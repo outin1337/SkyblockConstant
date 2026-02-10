@@ -2,7 +2,7 @@ name: auto-update-skyblock-skills
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/9 * * * *"
   workflow_dispatch:
 
 permissions:
