@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1771350587717,
+  "lastUpdated": 1771354487702,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy XP!",
@@ -3342,7 +3342,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Grim Reaper Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXVI   Grants +2.5➜2.6 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+250,000 Coins",
@@ -6148,5 +6148,5 @@
     }
   },
   "success": true,
-  "version": "0.24.1.23"
+  "version": "0.24.1.24"
 }
