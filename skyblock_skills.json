@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1771430387679,
+  "lastUpdated": 1771445687830,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy XP!",
@@ -3250,8 +3250,8 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Tiger Shark Sea Creature",
+            "Deep Sea Protector Sea Creature",
             "Treasure Hunter XVIII   Grants +1.7➜1.8 ⛃ Treasure Chance.",
             "+3 ❤ Health",
             "+65,000 Coins",
@@ -3262,8 +3262,8 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Grants +1.8➜1.9 ⛃ Treasure Chance.",
             "+3 ❤ Health",
             "+80,000 Coins",
@@ -6148,5 +6148,5 @@
     }
   },
   "success": true,
-  "version": "0.24.1.27"
+  "version": "0.24.1.28"
 }
