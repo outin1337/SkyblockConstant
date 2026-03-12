@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1773271420762,
+  "lastUpdated": 1773340720692,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy XP!",
@@ -3548,7 +3548,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lord Jawbus Sea Creature",
             "Treasure Hunter 45   Grants +4.4➜4.5 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+1,000,000 Coins",
@@ -3569,7 +3569,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "??? Sea Creature",
+            "Ragnarok Sea Creature",
             "Treasure Hunter 47   Grants +4.6➜4.7 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+1,000,000 Coins",
@@ -6148,5 +6148,5 @@
     }
   },
   "success": true,
-  "version": "0.24.2.9"
+  "version": "0.24.2.10"
 }
