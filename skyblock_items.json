@@ -40206,7 +40206,9 @@
       "id": "REFORGE_ANVIL",
       "material": "ANVIL",
       "name": "Reforge Anvil",
-      "tier": "EPIC"
+      "npc_sell_price": 2000000,
+      "tier": "EPIC",
+      "unstackable": true
     },
     {
       "id": "DARK_OAK_FENCE",
@@ -140293,6 +140295,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1771945962408,
+  "lastUpdated": 1773754321286,
   "success": true
 }
