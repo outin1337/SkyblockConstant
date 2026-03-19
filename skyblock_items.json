@@ -68217,6 +68217,18 @@
       ]
     },
     {
+      "category": "COSMETIC",
+      "durability": 3,
+      "id": "ROBOT_PERSONALITY",
+      "material": "SKULL_ITEM",
+      "museum": true,
+      "name": "Robot Minion Skin",
+      "skin": {
+        "signature": "CkatyDOBsnwpM6Is9PYkYPwsz9pm4uKFwbDYfRoZfHLF1J0Pt2bKdFDDHD+XYQRs8yDihRqWEK8mOxlsOpLDepxeq8FleRuBGYABgZQALMIi/86OfM6hPLBxHBFUDra0G+JdnPouInpG3kKjoTq3orehLlwhuM83eGiktwEgKhlQ3rSgA4XsxJcniCWdNuXnak4IgTeLNBcXHjkV9QKbAEsJlavp08BaYAGd/59roKL+RWDUMqSEIuK7E8enk4mWX3GqceuVvtqBW6x7r3d4xML6U/WgFPAlnS5nzxbe7PYw/YgqFyIKyH/eJ/NTxavgwgHOf8Ef5Sy7pCBVkqcDsCgzD6scZ5XJYfBQGXM8UjNtn1jG/DzUPEfJPnexrPZlydsdQB1/NF+evUvZPUGmhcrkY5FjpD0/N3oeSNgKw7ucnls4Al3CIyvlm1kwdfP6ZFjQmVVR10tTvUn3b2cAy1JrnHce3K6j0uOmEKW4Hi67nEsZsjl963amFYbUvhw/y/gQqorMwo4vb+S5T2quLj2S7SJaYGrfsqA5Q8vS0kfYgWqHt4UsjCnswP4/TKtgbPYMO3nHAUBELILplwLJ+0hDLc5GY2/20NGFJVCB0H6xlqsI1qXRFlydTEbG7ouBrgtXhiEjSGNMnWzx9zHWRuFd1DPILHXQ4lno1CR7WQw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY5NzAwNDUzNiwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTA5MDExMzg1ZjE5YzY4MGY4YmIzOWNiNmI3NTk5MWRkNDdjMTcxMmRjYzI3NjM0ODliYjgyZWMwYzljZjQ0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      }
+    },
+    {
       "category": "HELMET",
       "gemstone_slots": [
         {
@@ -87068,6 +87080,18 @@
       "unstackable": false
     },
     {
+      "category": "COSMETIC",
+      "durability": 3,
+      "id": "BANANA_MONKEY_PERSONALITY",
+      "material": "SKULL_ITEM",
+      "museum": true,
+      "name": "Banana Monkey Minion Skin",
+      "skin": {
+        "signature": "dvkZTlZWWeRvXNAa54r40gJhNxPxX0WRY9t6w6WThIDMhH6VJ61ockyYXt62NxPV/O9vmqoALy/g0HADqKyzRzr+CNkKEBJ9ts/YGqSJBAgNGbl+788QuP4YqpWrDZ9J0WlyEJhI745AUMp08fBnwtjcPiAX9ZwUfPWCdm2qeDIE5f5bIhrHFvjI0MnHMQBSP69o36dS8a/OhmrmLM7V/MVLxDq+7ZK1zEvExSQ+1h/h/hTlkFPhijhOSvZ5mBH79unqmnkx/faNVv0vS6Nma9o8meBVlk8oz/S1w4JrfSK4L0kg3+4O/1pevsvdZIm2oyoaGkz10+W/Qwpf36eESt2AX6Z1o528n4KS+AQwPLZcBXZiTuCPLaJ2h9JxxnEKvwFPJEg3stdwDpkWkBSkTw6uAAFle0YGzpp+A5ZWWlv5SbmhOSeUYo39tV5UscnYeQCaWVu7Ydfi1slgq/RrbsAXzRJZ7TG6Fmj/dcH04rIVaDL8KalyQeRZmQXcztXg+IBX3MZVG/jvmArBEGCGopLwo0HK8gV4fdy8Ha5hkJFffarrVXTWrQiPAGHHru0vXafYyd/9ghafSE9IO5CjPNokuNJDr/i5chIr/nRCUHd7YJqSMeEBgVmSJCtaqfgk/mae9oFKcb/mdf3YVRVnmlJ/e/U+bPfOLxLTDY0sTyc=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY5NzY5ODcyMSwKICAicHJvZmlsZUlkIiA6ICIyY2Y2MzExZjUyMTM0NTE2YTEyNTY3NWUwMzk3NmU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaWdodHN0b2NrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RkNTFhMDA0Nzc1ZDE4ZDAzMTllNjVlMWVkMjFmNmM0ZjU1OTk5NDRhYWJjNDQyZDBjMTVmZDExNzc5MzVlNTMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      }
+    },
+    {
       "id": "LEVER",
       "material": "LEVER",
       "name": "Lever",
@@ -103351,6 +103375,18 @@
       "id": "PINWHEEL_HOUSE_BARN_SKIN",
       "material": "WOOD",
       "name": "Pinwheel House Barn Skin",
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "COSMETIC",
+      "durability": 3,
+      "id": "THREE_STONE_JERRIES_BARN_SKIN",
+      "material": "SKULL_ITEM",
+      "name": "Three Stone Jerries Barn Skin",
+      "skin": {
+        "signature": "W/eYPvboxo1+E8FZXvSxaED2hk7AmYKXkjRVrKffKLlF3tVHpPv7+ZOsAB3NSKuS6VTPUJR+gbOS8SCUMAEnX47XBnRiFIDe2gwBp9mBBKV0vrsra4/AqlOpuD0BOKM7Bs9difXCuQSjlpSXHCE5g4Rf3Gc++qfX9uV7ST/tdKvvVOc/fZRTJdVDz9WzYV+QzwgdqodpncPxWyLzNs60attTVMUnIhJEC39ajmPkIe3nKlN4m8q/h79+oxRxzkrn7tQlwhR1kKvWenqodaTOuH9v8iEBizswRob3H4rqcxFQ83+dbktq0SKV4Q72w6ldxj+UyrNl2zssN1swYuul3NAMijp6b5QoEGF/o99ZeiwnXdnIK4gJmX3fqrinej1FJzR1GIkYNsOhJUDSJtzM2s/7MzOvMGq71AMztlfNYn6LxU7UiQfoYNkIrAL1FgmEsgusA9D40JV+qxF3lrDVhgPAn+55DfNxGB01TsQCk1rWOSSAoqsbgIdshfas4PNwJsjV6icpeMgOS9iE87+cDxXZNKft+E8QPEkbpbZ1EK2tlTKgd3xwZB0wUanaxF6K40KX7hdiMQWfxnKfn+ZmzcbFVDuzr2dVGLeb2j6skRyeSeoo5KCggZDLA4V+6oEGHF3WaIQFjuGYQB07h/f1N3STPN7XMLau6xrNxvnygjk=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3Mzc4NjY2MjczNywKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJjcmFmdENhcnJpZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZjAzMzgyYzdhMmY5NTE3NGU2MzM5NTg1MzRjZmI5MTYwOTk3MmY3NjVkYzg3MjZlYTVhZDlmZTNlMDY2ZWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
       "tier": "LEGENDARY"
     },
     {
@@ -140295,6 +140331,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1773754321286,
+  "lastUpdated": 1773955236742,
   "success": true
 }
