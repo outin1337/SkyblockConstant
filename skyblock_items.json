@@ -208,7 +208,7 @@
       "durability": 3,
       "id": "GLACITE_SHARD",
       "material": "SKULL_ITEM",
-      "name": "Glacite Shard",
+      "name": "Glacite Chunk",
       "npc_sell_price": 1,
       "skin": {
         "signature": "IubcIP+3D0cp7BabB9BevdjSd0jx3t1OpO71QADpURW3idI0zIN9HUa9gqeG0+Qs6k1IAvAVyPBgCkAIv+1ynfolPRpIELUYBwtb0lK84dfmT05MT7oqVBNRdf28Zf6p9JE/yXwEVCSAVKHoWZzPv1HW7C8ApYmpsmWopZ6jaV0b8rdHPqpzVmVjKfCaKl8NDKnfI03KmhWvrbYzs8qYvuvCMyqa2oT6C+h+CyYtO8uzJQH42WMiZOlMMV8AVq/euifuiyCd+o1qXAPRVHHi1B1cPi6WTEDFrb4lAwgPv0rwBt/yyChHt4TYouHX1Udq90gKdzjqMSfx0quw9UVpe2ykSgqwfjV1GEXHXXHg6wAfSi+Z9nNCb67llVey3AvhHV9lPwdEq1YJ+FZg06Z6wxpNq0XD4HeC+PVeU6tUUcjoPvKX+PGuck+n+ceJkSwd+xRPE+qtTqqfmH4FlMrs6bbJq/bYbJLe6y8rRbKPJG91Ak24JukKOZdGuxTpdW989mKVeYLYtDj5E84RwNGvB4R/TFJ6SToFOEqdg6aJH1UTEMrhCNjuJmjSEDDMWbHfCAL6kwuuPGJUQudCI8bzHNbZKIMMFuxRa56LolbxfBwu+gaAdlhU2MFrElCOZaKJoj3g2+Ey49lXnPAh7HW1bTbEetRR7sCyVOnO4aPC6Xw=",
@@ -936,7 +936,7 @@
         "signature": "CRXMVRQrnBoAqiepYKqxbpgI7RLapI3Vx+yLAaRiJU3kKrHVvu8cn9pzCOb2f0JlT/43tYNiTDukyyMOQpALG7dRsrfcd/ahVJC647RDKnEj6y13416gL+U6sDNdPtxWd6dJlPfHN5DE5Nj315y9EmvNdXzvnJLUqiRsdV2yByhCP6Ja621/HcGWl2P4qLA0NBWw++tIjbuo7Z8LvlcXxmel1VGOKCcgjVPgsZemnSou0/NczPwNjfReiXEPInyGJ8bGBTnwn0Ir9Mmbo6FtaOaOs9hHbN9zvtPNz+tqGZ37QCknfBqI/KnW+ivxewMykDpxQxEsEnZ/mUgW1w3DGezM8qOjijPCbLl0zUc+RRtlIfMeCCvjhiMF5KUh/zekXSTVTvxMEekx5HF8Al4g1t1CkjrYK1x5Yz2TRmaCzCxoDY4IYWObaUNuP6NHFmG0MLd88BV2Ef5ALAwRjg2Bm8YPz6Hif0T8tdjnR66XbMR/jkAZrIBn8sf7gr3TGnA4otwpO8Fo7QunALAQUNkPdGsWP5MqYMa1waHD/bZUfD6kVQDGneXeAeFrrOHMpSXiw/ydKQjTYqP4fmyojIpYR/2Z7RleIJWN3b+MRqOjZwi+v3zPZ5dWSB392d+vx0ktr8vXyKykDt5BB9TNo16199OWWoZ8vj26JYkTspNMfJs=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MDAyNDgxOSwKICAicHJvZmlsZUlkIiA6ICIyMWNjMzkxZmNkMjc0NzY5OTg5Y2M3M2VjYWRiNTE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT1NUTFk5NyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYTExYmEyODhiZDZhYTdkNDkzNjBiMDNiZGM2MTgxODkxNTRjNDRlNTg4NTE2ZWEyOWNhZmYyMjk0NmNlZTAwIgogICAgfQogIH0KfQ=="
       },
-      "tier": "RARE"
+      "tier": "EPIC"
     },
     {
       "category": "ACCESSORY",
@@ -18737,7 +18737,7 @@
       "stats": {
         "defense": 10,
         "health": 20,
-        "sea_creature_chance": 1,
+        "sea_creature_chance": 2,
         "treasure_chance": 0.1
       },
       "tier": "UNCOMMON"
@@ -18765,7 +18765,7 @@
       "stats": {
         "defense": 25,
         "health": 50,
-        "sea_creature_chance": 1,
+        "sea_creature_chance": 2,
         "treasure_chance": 0.1
       },
       "tier": "UNCOMMON"
@@ -18797,7 +18797,7 @@
       "stats": {
         "defense": 15,
         "health": 30,
-        "sea_creature_chance": 1,
+        "sea_creature_chance": 2,
         "treasure_chance": 0.1
       },
       "tier": "UNCOMMON"
@@ -18887,7 +18887,7 @@
       "stats": {
         "defense": 20,
         "health": 40,
-        "sea_creature_chance": 1,
+        "sea_creature_chance": 2,
         "treasure_chance": 0.1
       },
       "tier": "UNCOMMON"
@@ -18970,7 +18970,7 @@
       ],
       "salvages": [
         {
-          "amount": 5,
+          "amount": 20,
           "essence_type": "ICE",
           "type": "ESSENCE"
         }
@@ -29369,6 +29369,27 @@
     {
       "category": "PORTAL",
       "durability": 3,
+      "id": "GLOWING_MUSHROOM_CAVE_PORTAL",
+      "item_specific": {
+        "portal": {
+          "description_name": "%%aqua%%Glowing Mushroom Cave",
+          "destination_mode": "farming_1",
+          "holo_name": "Glowing Mushroom Cave",
+          "location_tag": "glowing_mushroom_cave",
+          "offset": "NEW",
+          "schematic_file": "sb_portal_glowing_mushroom_cave"
+        }
+      },
+      "material": "SKULL_ITEM",
+      "name": "Portal to the Glowing Mushroom Cave",
+      "skin": {
+        "signature": "O3vkTjT7tKfVpyQwg7q7m0PIqkfl1uvaQoeHMN9pwpOeMZ9kJH45rr4vJV6eb8qjWoOpYl01p8uLHyW3+TSFPuCDBsQSKIqAu7+h6LpZn3dGIfvS+7kml7keIR+L3JPiMz+qT52E2BWzRg78MDIb0OPF5sAB/3XvpiKq4TIQhyrw0m3ovi+7DF4Kk+DK2tTflgpsMb35kiR+hqyIq87vENv8iN9QnE8iI1xMQ3sirpDBhz+dtjMVKZkG9J3lKiiA4LUspphiM8L2NrkF0ru9WET9BngpUKArmBzldfMw0t8SXDUPkiCH2p3R7LkI1bVEaF+Cw/WVlSVMxJrBs9dkRkdDbpMDNRkiEkFfd39NPCaKi5nWzhaLmHTo4nIzYnZ76E4LpaYQflCZdH8ECewbmU/zFXUVcp+iYOkfgAIAFq901KQ/z0aDsC+181hMCfwmaPyz4rWX6efqeZge2qw9bV8SOz7bom0jz2KAoCU1xyi0Ql9A2OXu/YU5pvVUlqBI5pyp+y/EwHeJ3imRzdAH+UHRxdb4nTDl0txFISiZCAG/wvGW/cisdfaFn3PblmbFWtKTN9NrmM/MCnb1w5hnKPhvNFZt1ch8Xi1Xpa5zghSiy7TT2gANlkhvpjYWETmMfwcZ71sf1gM3SngYH6IpJzCeGWN+E0N+SoyMviq9Kec=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNjEwNzI5NjMzNCwKICAicHJvZmlsZUlkIiA6ICJiMWMyNWQ0YjMwZDU0N2Y4YTk3NmZlYTllOGU1YzBjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJvd29FbmRlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YjY4ODU0NWUzMjZlNGYxZmQxYzQwNTg3M2Q5YzViOGJiZTY5ZGQyNjg4OWNlM2RlYTEwYjRkOWUzZDdiNGRiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      }
+    },
+    {
+      "category": "PORTAL",
+      "durability": 3,
       "id": "TRAPPER_DEN_PORTAL",
       "item_specific": {
         "portal": {
@@ -30578,8 +30599,8 @@
       "glowing": true,
       "id": "HILT_OF_TRUE_ICE",
       "material": "ICE",
-      "name": "Hilt of True Ice",
-      "npc_sell_price": 500000,
+      "name": "True Ice",
+      "npc_sell_price": 100000,
       "salvages": [
         {
           "amount": 50,
@@ -40263,6 +40284,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_place": false,
       "id": "REFORGE_ANVIL",
       "material": "ANVIL",
       "name": "Reforge Anvil",
@@ -42919,7 +42941,7 @@
       "durability": 3,
       "id": "METEOR_SHARD",
       "material": "SKULL_ITEM",
-      "name": "Meteor Shard",
+      "name": "Meteor Chunk",
       "npc_sell_price": 41150,
       "skin": {
         "signature": "RXYFnBmPF/JNhjC1otwkZYkkwQOPrA3ak7wbSfrevsyqMTJNkfAWAzWozvGhFcKRoMQdsae19Azq/j6A0dE2LIRjd33cGOTfAQSRgOINoqHhMYYXtWh3y+W2KX6L1GdOuGHlk7yruJP0PwENqoaxdu0xxCqjdJzlhZdpIdzPTUE5bCQLU1Y4hxjtZBIYptJz0lZXf+wxM7+81DBGkfxH1MJ7upM/I7qFfhhouB1A01eWjbHhit90ObKSOOGJsgokvUNoWpZ5jhbxPtMrnbvof8V+nH28KCfcLGGEQrh9uHvCxfRKVfadsu26MtctTyyQ+JgY2oFLBMu3a9AQazxZZfQ+NA5VgasNSoRQRdOgPmic3HW2Pns1n6wPPsDhNUQgZjNyb/I7eRzx2g5F2ddaRdhycvVUM/kqD8uMaFgWPDpz5SUVkAxOJs/4n5JQbzorE5XFW2Hn8Osn7qTdzh9dzehrGk087OEaFXmoB5MJVnEVZrs8nffVc2xbfOCwvuRl/KjgwHMnZ3DuSqX18MmSEVM5/uxhOGBHQWdsdCKf9Rke4FLkkRlcVj8jLJzSCh60gyCMp2OHbe9aVw9lH1RyHvx7p6pqVDwNX7Oqy+URZiXz8PDc8FLWA4DGDUUDcxJbkFTTMmvj8hahyJRIIK5bJa4gTaYG+6etActLRV9LpzU=",
@@ -44283,7 +44305,8 @@
       "stats": {
         "BREAKING_POWER": 10,
         "DAMAGE": 99999999,
-        "MINING_SPEED": 99999999
+        "MINING_SPEED": 99999999,
+        "SWING_RANGE": 15
       },
       "tier": "UNOBTAINABLE"
     },
@@ -44466,6 +44489,16 @@
       "material": "STAINED_GLASS",
       "name": "Brown Stained Glass",
       "npc_sell_price": 3
+    },
+    {
+      "description": "%%gray%%A poignant reminder of the day you almost caught Bigfoot’s younger, lesser-known brother. Even collectors don’t want it, so it’s yours to keep.",
+      "durability": 7,
+      "id": "LITTLEFOOT_FLUFF",
+      "material": "INK_SACK",
+      "name": "Littlefoot Fluff",
+      "npc_sell_price": 1000000,
+      "tier": "LEGENDARY",
+      "unstackable": true
     },
     {
       "category": "LEGGINGS",
@@ -48659,7 +48692,7 @@
     {
       "id": "MINING_PUMPKIN",
       "material": "PUMPKIN_PIE",
-      "name": "Powder Pumpkin",
+      "name": "Powder Pie",
       "requirements": [
         {
           "tier": 1,
@@ -56473,7 +56506,7 @@
       "durability": 3,
       "id": "CRYOPOWDER_SHARD",
       "material": "SKULL_ITEM",
-      "name": "Cryopowder Shard",
+      "name": "Fragmented Cryopowder",
       "skin": {
         "signature": "fowa4o+1d38geNP9NB/jDILPW8BPUo/3oPOMhf45ga7bjrwqBZjnP5zkNLPAROAA4sxrh+AHup8dipvPIIpQ1BqT9QiQo/4nkMVDvDznvZBgyHRwI3/NFbSGQo2WIApmdt6jbWMFRLVd1trNRWMWQmgiSAZn3oIwSdC8O0oNTS0rw764wWgZ5w3fyph9cphkgALBlzPAdlzE7dPVYo3EdOAir5FHiyQQaP374tADtH2XEAXID96nesWvVdnAa7g+MbK7y3cgPi8uF7g/My9gBUHgF54FW3L2R2hNuErpWrg54jeoTpdN5CVT4YVHaQ1niRmqYwwRzEBjiDom4fDEeQDRniHTUQOjCkwWwz7v8xZTdZfQM3nORU+9HMPkRCqm/iYarQLsQ5V6XnyNtK2F03JbBP8laBlx0rx85R/jUv8sacDJRLsIZdUNFmSxUhO0ho+iAp+g5vzk5O+VCvQ5Z1h+pwR+RE77ggNcM8+KDEBK0f575DRGJIKz+BmZdWV0NorixFsGSxacbqC1tqD2LLZEA2qZ1H/s9UbnKmBapQ0x/YJfSYSK7n0pzDvqO/Fgy6gDyeLtPCRAMzuIGTs1mv2fZsDmeqKlbyWiAPKZNMf5jliegA9DwjcBl3iNTw07QqUbfA4pXp39DAPR+Oy68iqqBX2P4ocNm0/krR40WVQ=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODU1MDcwOTg2MSwKICAicHJvZmlsZUlkIiA6ICI0NTlkNzVlNjMyOWQ0MzQ1ODk4NjkxN2VjMTc3ZTA2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2lkYXV4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0NjQ4NzRkZjQ1MmMxZDcxN2VkZGQwZmIzYjg0ODIwMmFkMTU1NzEyNDVhZjZmYWRlMmVjZjUxNGYzYzgwYmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
@@ -65687,6 +65720,7 @@
       "material": "SKULL_ITEM",
       "museum": true,
       "name": "Maxor the Fish",
+      "npc_sell_price": 50000,
       "skin": {
         "signature": "dV4JFH3iS5ckbe/4F9FxoCMBP2alS2wmoYOcPVsaVxQIYIcyP+TyQQuuq4dwdBOsELbgU8vavYYk9oUa81ZBvKYO+Lv3sX6gyO2e/pjl8C6KqnDXjbMTWwqW57UEnQVYjk75gs7jdW6QGh96VKGL91LRFErutY2cNOSvBXnd0Q4k6b35ElHJQMlApJsm/6Z63yWKIyVXxsLXMbiYqTAUepEQVcaFq+Q7UURs4Hee3e1h4hpk9+0uDvkx1aVgo7LXT0iqXOwvA4yChQJBeYB1AIJzeYr4D785MqUObPyfbx8kqut0FtbUBOtlBAaw34j7LcdehD1N5H9WI05nGbjjfnqPUIH9TxtnPQgQjo04SNmzxi5M+UHjwD3sVjZ6uJzN2RFjjAElZdPO9r6A4dA/bnZ5ud7QLOPAj32p9MomQebocKBn5Bgry2bm9fsi9pcsy1x8UGLD45KoeDOiuvkpmTHjh0K4Nw77s4ONxRR9HzaUkJbdTTdqlfldGjBrIMnnApZky+NaL9YaVGS4BLgfymS11enGRXrWgs9opvL7oDHmqQnxqAxG3gzeEH+/8AMXOxOOhKnhuk0sh2DDgp74wQQdsn4wdOTjB6xxPdal8G2fgQPyo1/1gqUFNFKdIddxI5qEhC28Cxx2kPO/r2oadIZLo1/Kf4uU+WIz62rM3T8=",
         "value": "eyJ0aW1lc3RhbXAiOjE0ODEwNDc1OTIxMzAsInByb2ZpbGVJZCI6IjM5YWY2ODQ0NjgwOTRkMmY4YmE0N2U5MmQwODdiZTE4IiwicHJvZmlsZU5hbWUiOiJNSEZfV2l0aGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZGY3NGUzMjNlZDQxNDM2OTY1ZjVjNTdkZGYyODE1ZDUzMzJmZTk5OWU2OGZiYjlkNmNmNWM4YmQ0MTM5ZiJ9fX0="
@@ -66241,7 +66275,7 @@
       "durability": 3,
       "id": "SHINY_SHARD",
       "material": "SKULL_ITEM",
-      "name": "Shiny Shard",
+      "name": "Shiny Token",
       "skin": {
         "signature": "syjqvfEwP5xDBm+35ysFW5rYmbRRF5aqcOjdp1Ipm6tLTTcG+kJtXLKh4k52/zcnT8maZ0YbyXMTpLgjYiUceMh0H0DytypgGKi1ujmE9OKz460X6q2wMbq+gvEeOu0WhspIXgQ9JypfIUALcmhSh7bpBg+t2Ku3+R7A9oZHq3xI+Xg9x3oE5N1/nVTGlcbhxOcVIYECGe8yDO0ygbTKMCl5h43ZsE+P1SSLHQmVbS57djFrhd9NrZxZCT7olJ6xWgCO9Gzm1+q1XVsrhXAkg5DNlMTsl+KUTfD/xtYTbviKuSIC59+v3xNZHvgYAvsul8D+0MGZgQ9kaD9DrtOPF3x+j9gFlMLbve5sYhHqXq99S9lBc+nHm8sUWP3fYDQn6jm5/fZqzFyQma4CnVhhBIKJyRR6pSDlW+I7zuKzwFTk7p1CjgZT5zRb1zcO5EyJQQiI9AcwDNK5V+byR49AapK+/xjBpXpvIXX5VnM50pzHhbU5Fzx/A+FUu/rW1MhTZIv70QvhTf0tLWweuKlbvrVHomXI+J9FVZKCn3IycBfGPmxC6AEGpFtJwi8leQQ/WVi2tn8Qik8J7MXEdB98QyDQm1NO3AdL7FWWD1vVMHQHRnzYYepUIlqP8PB2cL5tb5763xj9g7Pw5GgdyyXcPDYhoNEjEhDNIcywQFPRlWQ=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzc0MTkyMDU5OCwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMzJkOGEwZjM1YTJlMmE3NmUwZjgxNzhlYWU5NjVjOTAxODc0ZTQ0NTI3ZDVkZGUxYjA2ZDVlMzljNWQ5ZTJkIgogICAgfQogIH0KfQ=="
@@ -67294,6 +67328,17 @@
       "serializable": false,
       "soulbound": "SOLO",
       "tier": "UNCOMMON"
+    },
+    {
+      "durability": 3,
+      "id": "BLIZZARD_BOTTLE",
+      "material": "SKULL_ITEM",
+      "name": "Blizzard in a Bottle",
+      "skin": {
+        "signature": "cc/fGGl62Rfy0LA/4j8OY/HcpqbYcc+/HKMXkT7wQUKbfGJ3SNRjEPWL8McqVW6OWjQEbJzwd9E/DmgvkpxLMwm+tYurOu45dyKCd/3R7Pux3JZCxT5BpcbEkO6xFd0ruVZq7yBgX9m62x0CLtZ/HdeUuJCDTlAYei4NUZWb6TXPXbX4aTNMLN1AoiPOFBHZQzwW3xZB6paa5sDpduJwJAZzzML5RtGM1dbHSMsctbGvj4jtUhlTw0/JoCN/79G8InrByccQZ+ZlL+M9qjoqcHqkMVGaNtBEBWzqCf2MsA1uF9unfzN5Huzud5M5R1Ro9p2Zk05RRRJvQV9if8Oo0aIqh9d+XwgimiRgsblL2+GJCXNAxnctUKm7KsQrN9Do2f6R3FgeqvIlnNMrWzuYGTCT2wIky4FxfGDjbibD7cLD/yJpHOqSDCQDf7NjsSTtjsqIcs/59ER4hFZkCyysnF9xdN9Waohwb2Alm+Xj4jG6uMwtFIvfWVfmWjWNaOP3wVl5CDrVMEHbGHmY72sfiG3HHOwKx53MrMAdpfFvYRRsb9NmiSTyzIeRIHG7kxtPM4NVqVzgYVLJvL6Ta547CIEdh7c9nw0xT/0lgiXgjg/rWx/+QobDGQpJ6DuBVt/xD/SOKPZEbuuVFaiUKmgQRuD2nDqTRITi0OL2/0r1nQw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2ODkyMjI0OTc1MSwKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiOGFlZGQ1MmNkZTEyY2EzZmFiZjg0ZjZmYWNhNmE4YTdjYWI4YmMxODFjMTYzMDYxZTlhNTkzZGU1ZTY5MzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY"
     },
     {
       "id": "JUNGLE_WOOD_STAIRS",
@@ -72739,6 +72784,7 @@
       "material": "SKULL_ITEM",
       "museum": true,
       "name": "Goldor the Fish",
+      "npc_sell_price": 50000,
       "skin": {
         "signature": "ZZfUPv+pmVsIM+ZRrwJbJXpW5FS0Jd2vIEq7fl7LKqhRIAN9kCmRbNlk0PBqxqnTKtiLr3fFcB0v1Ggi5pmVUCgKpyzcZ2knarjLAI0dteoDakIxr7HZMA8nUwu/gElEiWFfkvOFM13kBwl/6ilau+JbYT5mlerr0xTQx4tCRuzzsLFg3FBwPgf5MHBxZS0725mDbCMOh1sHCr8woWr+/ZuiknvPmnmubSQN2B2z7JEOkcOcl0+ETcp4LawcMuFE1aEHUgyom3bWi1JrGJuknWP8HJMw0WZZQzkZNhOGhsQXmFlKAKzZ6katZtx19nqCXHCuZVBrX+XUy6ET7+57sJebB/DuNi/v16aZ777E3jjfT1eNwLXdCrGljShYV/YaNdmaAJH55B9aP39WNeb6Dx3RS9Nd+6oSpxFhN4dOuT3Dq8f/4TyaBZukQkid+U24yZ7gxB2WQfajuewdGzihylyZ8DYFAXfQBRyYWbaBN8fRkRA9HySijkFKh+eQ1lKuF0qiTPsjlCId/rM2szx0hT0HKxDk7LL313D9pRiFQaOfd6z4nZ4jLFQs6IskG04ueSVOAddP6YhtXwXLIhplM8ax86aGJH1w8zw8j2SFj80do6tPtWnQv4xgEeV9NY4GetbbkwfAbf+x/TwoI35UgQSd8A7HR9MjcRO1ZCwNbPo=",
         "value": "eyJ0aW1lc3RhbXAiOjE1NjUwMjk3ODk3NDIsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwYTViYzcyZjM3NmZhZjg2NWYzZTAxN2Q5MzMwMzM4NGViZmJkZWQ0Y2RmMmE2NDkxYTI2MTdmYmUzMWY2MjUifX19"
@@ -83698,6 +83744,19 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_recombobulate": false,
+      "description": "%%dark_gray%%%%italic%%Though far too small to be habitable, it reminds a certain creature of home.",
+      "durability": 3,
+      "id": "POCKET_SIZED_IGLOO",
+      "material": "SKULL_ITEM",
+      "name": "Pocket-sized Igloo",
+      "skin": {
+        "signature": "M9vXWCxyzf158O2kxQ1a9xGjt3bGRSQmt7aYLFWmOAnmjdiF1rmpijXkid3xhk8ncxLBAf31updWIOaipYJdIxZXM/jPOwDDaGYjZCEhzskA2rQKk3AeiinMCzc0hQKbuYpgFgcw6ZGXmHxwywKAOXiOp3kbEZF1BmCxLEQyLjguPRQXac60S1BDLoVYqpR7/Bq/x8JkU2G5GZasgpfHQRXTyLg4rEMKxqz0Qux+Mj/4/DKAUGtQ2KLKVDpIRuKI7/OxQfmDKTf8Ya72tD8GVB2RZf23wTZTrs4mKRId4CDrnm9UQZJ8hugdEHEMFLs3pX/6mWQub+hwVVzqkvZdUfUn0yKOgHyItN1/laYwBv0mftiZNsBFWmdde6J17phJcRdcdsTiGv06r8c7hcPlIVjKPq60Cn9vzHGrSMgtW1/AP4e049+QR/i4/wKp7uyznjTqRsQyXLKy0GB8VkOcfCk53Dr88cLJq5rMEs/FPiJOg6XbF8X3edlp3fGFyIiINajlpMGRTr4ZKfX0Uj0TYI90dgPfyi2GsEneYTduDoqURigYAvMEvga1vgyxs8bFigmm2itN3PFCiIubsmhKmipnDnxwObwP1Kx8peyBU7Afg/88wPC8HzDykdnt5dTlhMY6vu1q6Yk/FtGeMYFn5zyIoSwKaERaZ1NlE0da/iw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2ODkyMjI1MTU1NiwKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjY5NjE1NDkwNzk3MDhmNmRlYmJiZDM4MGE5NDdiMWVjMzJhM2M4MzZiMGJlYzkzYjE0NTQ5NzM2NmYwOWYyMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "MYTHIC"
+    },
+    {
       "category": "ACCESSORY",
       "durability": 3,
       "id": "FEATHER_RING",
@@ -84898,7 +84957,7 @@
         "mapped_item_ids": [],
         "parent": {}
       },
-      "name": "Earth Shard",
+      "name": "Earthen Blade",
       "npc_sell_price": 123,
       "rarity_salvageable": true,
       "requirements": [
@@ -89182,6 +89241,7 @@
       "material": "SKULL_ITEM",
       "museum": true,
       "name": "Storm the Fish",
+      "npc_sell_price": 50000,
       "skin": {
         "signature": "CMA23Slxt4aEA03whtJHmIhH540c5sVYqbmQatbOiIMGceUKpJY3QLnJ6O6ZP4duAJov31gp0SHLmvPUxlpaTapTpUUaCx0xoFkibjjLZv/98QUMkvdn0aizY090qQWP9AT6YIpptArWFIgMbhpNR3bWNnYWO64pFCYajMmIh5wEH1mxD7nlSjwBLFkLz6JV+ntdbJZ1FchX9dsCq9T1+jXOLpYvR0uzIXntIH7fpBigAlfgTTC9h0ISB+Ka7xNtb6TMmNLS3KyDuUE6zpDAOufl9jvX71YcPwQpvFDNMaknBagMx76fkKp/6P59y4dApuk5vqzhsi+IFAqhywmi9nsM4MiQrx1Ik4fNKSFR0fIweW3qehvvFzhYDSLd+aUmQjUTylLpMrLQ7IVxDoBVgrSCoZ9lGT2LGOX7QOkpw+vpxovyyEUJV4NlYNmblt7PeUsfWWESe2oboG5K9HhBc5adrrQwlE7JluGl+6jSyCn4gPnJWqTOpPu9GCU5mOOH6fNjbVg9DFOr2xfFooqPPbXUwLApoiW+ohm9oi4rp/d6Mmc1opmWAkbbu8wnanDdnCaS3Lg9sOe/gX2uubhEsb5Dup2aoU6hDzdjOShd8g/nhDtwXiLOqz+f1WdTFLUC6DX4xusKW5a6l9MRk93CywYYFQoTHIlPtFKJHRUb3+0=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzExMTY1OSwKICAicHJvZmlsZUlkIiA6ICJlNDNiMjBiZTIyNWM0NzhkOTc5ZDJhNDllNjc4MWI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3JkS2l3aXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRiMGU1MDQwMDZjYTI4ZDg1M2U0M2ZkY2VjZGJlNzU3YTY0ZWFkMjliYjg2YjVjNDE5OGU1YjcxM2RlNzgxNyIKICAgIH0KICB9Cn0="
@@ -91880,7 +91940,7 @@
       "durability": 3,
       "id": "SPOOKY_SHARD",
       "material": "SKULL_ITEM",
-      "name": "Spooky Shard",
+      "name": "Spooky Fragment",
       "npc_sell_price": 10000,
       "skin": {
         "signature": "TIjPGV6TSsCSCiL2geugHf70GneO91Vfja3qFj3fdZqsK1nrCIlsgA3l94C2UIzzLT9GYhBAHb8VCXvLVDVa8Da4S+0V9FrRtwTvDlpVhmnJVpCMW0cFGRJvOGJhY1FP2ggBMbd7LjT1azxjWJrPBRzajrrqDZa+GFGELU+5s3yfwIMS5tynTA8VyFAxpWQWub9h5yRbtaMLDki9nG8gBuceo++ymwz5ra5aj/4/huZw8BMHoNi5VUaSRLhuJwRT67B6dLXWpB4ySHQ4/0Tt//Qq+RqxAiFC/u5hY4lstAidXbgL95SPrixlwFNWCDCv3iOTt2hap4+tzO2chYYPUW+Ka61SyI0l92a9n3ZZwbEdVT9FPneiIGtcgG3Zyu4F6v731cyv29dP3IOPSYEH771X7TYqs3gfIHP9TL059jkTe3aeZOcZ3tI2moktT3GoY5aKRy+bLVlF6P4bjbAc/kyw8kEO/mD1MdMzhP8eSMjg7/JKRkv7qZ+8GGP4zgux3KU1LsMy+P6jZf25vBgQqp/ZonUw2Oz/+L9xCFV+DE7u3feZD8wycKX2A2K6FjlVRlOrYgVQcNRxpLSxT8D7zSOVNssm0CHsv+LaQhprYE1/5YDeVtdaMR9Z5RlYZ1MdlF+E9HS44N+Dre1wOI1dtTLZLQtm4TCfllQQWuRjHP0=",
@@ -94410,6 +94470,7 @@
       "id": "MANA_DISINTEGRATOR",
       "material": "SKULL_ITEM",
       "name": "Mana Disintegrator",
+      "npc_sell_price": 1000,
       "skin": {
         "signature": "GdSybCI6Ih2JB1gDD44o8NU1c1GX5K8ynuokIZfJtylwwqL4FFwUJLMoPAL6+h0uiLhugzFyddEmhFpWKaCZiv++Ia+xeJXXue/c59zFNuEBY5u2c5AuxW8XZtX/6Yk83xFOkS7xTGQwiNl2RbWkLFMpZJ87Xnf6jdMErJn1fsMI7hukYC2TpnZgLqQaQCQoPBxPk5ezlW0wWCDp3TUmtJN+zHFUTnbsE3adDrSDh6AJW0SG29EKvu7IH/9a/u0/QAb5IqTLjlkAkUVq+irOrIpt3fGz7lwD8HYc+40FjKohrH30uWbD8eTonoXYVKxEy6OmKs9oDuCnoNGqjLWCWaqUPH0Bkt1KqUaaONQLMhYYQHTWwrbImZD2IkXAuizuRMkflS2YDNKDXSEjbo/YL9Ng51PibLwbvxEa4R5LJOvuJ/9lbXA6UZtBaPUx4CF+NUWyRmLjQXmap9FSbeUCTLK7axSR2TZrDZNHiwwqkdbnzPFOrbOXFAwY1t3DN82btIMYUWBsALfP3FbdwVXKFS+f9VUyBWBlJ+EltUlCSxUqpcKcMgVhO7PI9W4xlv+oWkSQJ+oFfA4AkPH11EUBvQEg/Fuy+2SzIQEixDH4/ts2N7tYSXdPL+lGsEi22eYFPEz29NvlDZK5Rm0y7L9djxVEboSPbmmc61CuiaNNi2s=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5NzgyNzMyNCwKICAicHJvZmlsZUlkIiA6ICI3NTA5NzZmODRmMDE0NWFhYTc0MzAwYWJhMzc5MTIzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwY2hlYXRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYxNTY1YzFjMjY1ZjUwMzk4YzA2NDZhOWI3ZDY0Mjg5NTIyYzBiMDg5MDkxYmE1YTA0ZjFkMThiYWE4NjBkODUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
@@ -97771,7 +97832,7 @@
       "durability": 3,
       "id": "SHARD_OF_THE_SHREDDED",
       "material": "SKULL_ITEM",
-      "name": "Shard of the Shredded",
+      "name": "Shredded Sinew",
       "requirements": [
         {
           "level": 8,
@@ -100494,6 +100555,18 @@
     },
     {
       "durability": 3,
+      "id": "SUPER_SCORCHER",
+      "material": "SKULL_ITEM",
+      "name": "Super Scorcher",
+      "origin": "RIFT",
+      "skin": {
+        "signature": "w64Ego9KW6Kz0gTSGtbGRScqUysDkRqfw42w3AbV9CW1BeEh7D306YOeHv6zBDqK+MxdHQu5z/iukSYn+kp/O41M3WgxLeVtD1J5SsxrLZ2LPLBBfT8fOiFQmVUOiHtEkUUJpL5ocCn6PpE9edGtr/JXwbZinrc25udYvKgiFqrLLmLmt012llVP4JJTg0QeD9loukLhW/qorW7+5v9OZaCNP6YEF7e4XhG+SZVzrUM22g8qP39nEefokPH0Jf5vpPjTnhx5JX+1Jep3qPVMOg/vRnzmeGwLpUT2M9bsck6PR+ZVKx1u2u83rmLCWB+ipCdlN/LfGhWeW60cfy6slzECYTyVzvLsuUcQw9liIbzWwo2H+Bs4fsEVNVaeG3AuLH38W5o4HvVpLc56LiN8cxx4f6LL8nQbdhhqsZYWSX0tcjEc8xopCCzxkT7TZyX5+9EdW5u/ji7sxl+CgT0rE7pnfRa35lB8hCx63fRqflDnSqShesZ1il/Su2BhACdzyVSS3NY9y1Ytyj/G1tZ1vLdXTc78m6iFwkYB3Gh0PERZ/fK5L0vakWEM3n2qB2TVtmzyjbmGbsjqRHT4DhgN9ekNcUlNZ/wEwOfY4f+NCouZWyMa5dqdKfUtGGLbu25vsWkGlNug+9ByvuR8Z6DpGar2pfa8GiSqvQZIb+IonLA=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIzNDA4OTU0NiwKICAicHJvZmlsZUlkIiA6ICIzMjFjNTBiMjJhY2Q0OGUxOGEyMGU0N2I2ZThhYjE2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWdodDEzMzM3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0YzkwNTJhYzQyZmZkYmEzNDg4MDJiZjYwZmU4MDlkOTk3Y2Y1MWJjMDQ2ZjYxZDEwMmQ2ZGYzZjM1ZDdjZDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "EPIC"
+    },
+    {
+      "durability": 3,
       "id": "SUPER_SCRUBBER",
       "material": "SKULL_ITEM",
       "name": "Super Scrubber",
@@ -100607,6 +100680,13 @@
       "id": "TRAPPER_DEN_TRAVEL_SCROLL",
       "material": "EMPTY_MAP",
       "name": "Travel Scroll to the Trapper's Den",
+      "tier": "RARE"
+    },
+    {
+      "category": "TRAVEL_SCROLL",
+      "id": "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL",
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Glowing Mushroom Cave",
       "tier": "RARE"
     },
     {
@@ -104406,6 +104486,18 @@
       "tier": "RARE"
     },
     {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "COPPER_RING",
+      "material": "SKULL_ITEM",
+      "name": "Copper Ring",
+      "skin": {
+        "signature": "kMN17lRwV08KntfyPC+lqTjLN+7vTiLtJ8mZECkdLAH8skLdchZGLi6dCMKIo+wNRrM8GeOXwZAetk6nD3NHCdpRxau9r1rOU0Wu6gFYVC2bakB83n2OBvZ21OQbhqZybnOaNo5Z+A2k4gPZTmHFeCS5nli8CdhIztkUrheUyLZQpD71oW9eGu/rzbvGT4nYJelbxcJzBxQmgQbohnos80p8WDsKM9xZpmvHlEaqTJqRQ5K++84Y8H8kdY4t93a5M4YzzK5saD8x9fmOcKyDRp06XPIPm6Dux57ugF0pW1/KtKzOYDcZolgyjM//rBvUGwcSyVSOBQ/pN09Jh+4rhInCj2z4nlv5hQs2DLIQ56h7PVBu0g4z3XU8vE4CX5FAA2HB1A+qRNViHJ9ZXO8kzJeDHbJb6ZUc/Xx2sgjC/WlKs2SngQB1eSJOlAebTUrOs8/+O4zIv8lPVDsVoSce/MWDak0jAQg9cbGAJNdioW45dRCJhwos1L8Jp6FlvsZN+plY2e0l26j0tBFP7nF/DkItYuim9de4WawcgkEQ1GPRueIdf9D/xZ1EBmbdhlTfOoresiAjbvtuKwhxmNgNBXUp+kiLQQnStskDl3cTP5PqnRVNvSxzQXT0kcJCORCOZ1YYAGadC3nSpAO9gfzlaqqy43GtvssaY3t5I9abzVk=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzI1MTg4MjIwMywKICAicHJvZmlsZUlkIiA6ICIxN2Q0ODA1ZDRmMTA0YTA5OWRiYzJmNzYzMDNjYmRkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnaWZ0bWV0b25uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjgzYTgxMjUyNWZhZjM0OTljMzI5NDYzNDM5OGI1ZTBlOTY3NDg5ZjJlZTYzZTE0NDkwYzE0NDA1NTNhZjA2NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "UNCOMMON"
+    },
+    {
       "description": "Once full of life, now a reminder of your terrible gardening skills.",
       "id": "DEAD_PLANT",
       "material": "DEAD_BUSH",
@@ -104518,6 +104610,30 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NjIzOTc1NzI4OCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDUxYjdjNjlmNTEwODVjYzQzZjA1NzUxMzljZDU4YWZlMmI4M2YzM2QyYTIwM2E1YWZjMjY2YzIxMDE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "tier": "RARE"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "COPPER_ARTIFACT",
+      "material": "SKULL_ITEM",
+      "name": "Copper Artifact",
+      "skin": {
+        "signature": "Mnlikai8upe0/h0kTfqSM0wkT9G4C/OUhAni5sMttg4fefBx77PHquYQevApum/+uMGAHaXamOB2Kal1NrRo6kttw04K95k4pykdRAmwlVo8Gy9stQzqwaq2fMM6ytSvp9waS8VrlkY7zngnSloSyCfXTrs2RRtjuuf8bfBi2uY1qfoDDDV8A/lgJOOatSfMfxHRa/xyZq52lvGG6NWlygt1gScOMxPe2UjPRUj7fdFXEuZuNYnJpntcXh980MBa1IzZPGBpbnNwqDMpH0poczs6minVMgN/bEVkwIKuvEqkwDeME/nx4KVX6r3irTW7AK3/qbJhbLQMzH+DKdnbCM38hSt9B7sYWNYBihzGQ3mGne0BI4E98ETjiYJU39prTQts1n/+tXPVLromkV+e88cj8rFNIXchTSH/GdFD4AXdvkqXILFomhm/zMVkBpadY462zyEDJ8SeQNiyDI6bRU+yzhfHpeiWheWpyX8Y3mEXccWdt9Xh3bO/RrmYjKqY4JhfFlhLMYRG9FZSjG74ZO5SZBZd+0+GRRF34IR9XYQkiPytVG1jsCn9I1xgsUTHoOtv4mq4yG3wrBAJsAhGIYa9zGtVNkfKr0nVH/T8zPQuxj2jYWfMVCDT1ZXW+2sReBe7yZSJDWTw5U+RgHd1/3rK0rS5w6wt4j9m+FVShjo=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzI1MTg4MzQ5MSwKICAicHJvZmlsZUlkIiA6ICJkMWU5ODViZGYyMTg0OWQwYmFlZTNlYjBiNDM2ZmExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3NleUNoYW40MjAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkzM2U1MTlmYzZiMjljOTMwYmY3NGQ0MjZhMmY0ODg4YTk5OTRmZTI4OTJjNmQ1NTg1ZmQ2YTNhOGU1MjY4OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "RARE"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "COPPER_TALISMAN",
+      "material": "SKULL_ITEM",
+      "name": "Copper Talisman",
+      "skin": {
+        "signature": "bafySFQlY9b5wpRpR5g7wIgQ60I474q9WPv8FweREW8AENJi3xUfycMIrG4+4zn526d7GDDeHvtYN3I/nleSRUGtHMUuk5gIxD+mpiIeqk4gW4IGK865u6MC6I0WWl5uwOd2iIZIUICDgdnrLx+qmqgs6opeGmJBBiBtEbkcPZSfGEKjqMg2KWoOlBZ1FBmjjXYhAxQp1gttnGA7HXL1Ng0CgTww/g6nUMTzTLN1BV0dQHX4eJJG36xiiCOgNo00ZsB4vtjBkHge7oj3LTqI3qQlbPirUIlJ7T5EUZ+xWsJJ9iOCaoerPwLJkc82h5SQmdfAll8b2pgNpcNBoh4LXUmVB6CM8qCqEZYFuZpdWr4S+nNKPWx9UHZ+PhWji+Z9Iumm1eLWfIjRQaaBFe1HBHudZ19zKq8QuUXQG2RgPhjMdclJCrShY7vI9M+/iPEEcowbS013hD2fESawNcOztMS1wleSUI5wxQM5wq2XopccdJYEc0SNlSumH/Crt/gol4W0vUHnwyeonbXi+4mVIqTxsup1ahH+468Mq/r43QSq8bTaL4dlAlmGahIK5qHj8lX9VfeP2dPylNWMbihKQ/jpHNC1eqKCamdT7vhED6D5jRQv7OHADweRwOLGS7aEtHHjfpkMjPyxE/ux74vffFGTD1dEIjiv4Sb5o7MW46s=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzI1MTg3OTg0NSwKICAicHJvZmlsZUlkIiA6ICI0N2U2MjJjNmE1OWU0NmNhOWU3OGNjYzE1ZDliNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRpbGFmTVgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU2Y2JhMTFjYTEyNTgyNThlOTAzZjI1ODZmZTE5ZWNmMjBmNGE5OWVmNTg3MDM0N2NmMzJjMmJhNzZlNTljZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "COMMON"
     },
     {
       "category": "ACCESSORY",
@@ -106238,7 +106354,7 @@
       "id": "WALNUT",
       "material": "SKULL_ITEM",
       "name": "Walnut",
-      "npc_sell_price": 200,
+      "npc_sell_price": 10000,
       "skin": {
         "signature": "EcWlUbQpIcBzDlSt+JHa4Y6AlvV3IGCT19NOdrElIk1fMFTxSekL0wF5n3qU3LE/id40l06yxfmNhJkMcGTygrz4AUSL5jx3n8tuq028fORPIT5ATbRN5IJOgZoXAAYjOIz7lfskmpkeY4QDiBVgUV630to5aLu+KIJwfPELHuFHOVnsHi7Nv0FrYT+yob4ARxBYv2ue44n/qz2YrIcCqFjtRiBJ86lyTji7Omn33oG6VHjeu9YW7sMZD6jBiF0dQg7SEidjy7xyvmdnvJrE7nSD7/VL6MsKy1STfcv5sg5QStsm03bzutMFvEX9Tecay/nXqiUuDaRb8UbejHC8pfFUjNR7I4rBWn9FoHDGiTslLgz1SwXZNEMId8CM30RHJV+neLp8l8H5XLMxqCq73sjxr4X1VgJEGKR0kjPmaRqoGKUpontdqkG0ZjxN9yAQ0Q4VGxzwjFXeZb/DhFWldWj0SHSsjRCkn0lYd//1hFmlwYELRupEnmnnh1fYwFiaO0LubfzQX19sw0hxRN3imnOQWBUKp2oAAmC+d/IaVQcNg4HnITi0oQ8pMbVHwsPzk84bVOE3aRUTVfs8jzd02lEm01QyPIUig24y5Rgxg1fLzR7vPwLwat30OpjMkb7fpkNcKNV7m5tfPf5bM/OPhhZA36p5/jQ1JVGE4LqdUmY=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjE4ODUzOCwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzMGUwMzVkOTk2ZTVlOTU2OWFhMmY1MTI3YmE5ZTUyZmFmNWMxMTVkZGQwODViYzdiNDg1NTgwMjQ4Y2RkMjgiCiAgICB9CiAgfQp9"
@@ -111704,6 +111820,7 @@
       "material": "COOKED_FISH",
       "museum": true,
       "name": "Swamp the Fish",
+      "npc_sell_price": 50000,
       "tier": "SPECIAL"
     },
     {
@@ -111712,6 +111829,7 @@
       "material": "SKULL_ITEM",
       "museum": true,
       "name": "Berry the Fish",
+      "npc_sell_price": 50000,
       "skin": {
         "signature": "mC1FVax33x0yFBkWleypPhLcTqbDmCHHZL8hkN/VpQDs5zr6dW3d2LTr77M2VaAP8F/FTyI+wJpNOud4bfM8KbWpgEBbvyKyLADZHjA/KCwssxXbGM0ZxKFO0rzhzrRkatkvaGAenlPnjdmFXQUxMmxZ5nTwT+o8RsNhJvD4lN/u38jFqwLX2Gl1tz1L8ZKx55tjWEwDIO9Pr91qG5kqzIMpuuAE6KWuzQB0/CvmCuzh9BqtYmIXASErgYw3riE2S9PjEiEyrTNfjoJq9MIGcyfVMJK4gWhpMDDTLdnG44sYtckX/Tu829d/+rMCwSnhlWjnYb2R1zSObqAukYbQU/6PiTphaZOME2LOM9MWrS7EZMRnldVCj/A3d10Dzfg/YgBSdgZipTYPW86Hsu/e4YTAle4Gfbm6Qza3XeWEBvsKl0dGP4/Pgl4hiwykSfhr9TGErzBX7cpZGo6j0851fEUMcq7NLZYCrvzF4s1FUQArjan510e/J8F27JaoEtuEkhbH/UI7dUoYUH6sqtp8ZlWasyvh2b8dq6HjuiW0sNTpeNBdgCh5catBWFFEde9oAEbslrYqQyQWyt3rM+FGoToZE9V7M2D03f0XysLA8XM2Xk7L4PyXJY5h/2zTyjCqTC1WPqWjLQQOnnk+RXz8WAY9UD8gBxh2jSY51Ogi078=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMDk1NjI0NCwKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXR0c0FybW9yU3RhbmRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q5YTUyNjczYzc3YWMwNzllZDM0NzJiNjlmZTRlOTFiZDI4MDE5ZjI4ZjNlOWQ4NWJmOTRkZmFkNmUzOThjNGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
@@ -111724,6 +111842,7 @@
       "material": "SKULL_ITEM",
       "museum": true,
       "name": "Tree the Fish",
+      "npc_sell_price": 50000,
       "skin": {
         "signature": "sBpjABqZ7+lh8g3jsqiCk4WwOJLlWH/hgFhn1zfpGcsPHP06dZqXXIiiUi+NsiilLOLKxs1g3mc7Rjnf9EJqGk9Rg8/0+eeTGY8/jTpLpEeLQhAf949oXedyIY0OYzdI9KfO0ZaGvvYtU2vrcPzU2RFgLXU4viqjin0MsdeYmueRxJXKj7RI/LDmiQxf/iPCW3UoWcoDVRG5+/gmzVD+8+N9zaZwIqjabOxcVae25uTB1Dv0tGz4q7hGVMf3d3INajZgKfYR9GGsayc5kn13XRiYJ0iaCJR9wt3McoaNfs0Bgr1w4aqADgh/zm0XDGtnhGJ3W6PBEWAkk+nB+ZH4Udit636nEob4mVBgILcaiwe4dI/aEtLgQT4VsFFJM11Jw0AD/WS+6m/CLGB+pQ6p+wUNFZV7AE1ixhfINb0h6Roz5A/6BGZBb68slcPPJQeCiDMetqwGB1RevH1GrGoWxxzBEWnGSFtZL9hKiP7p+8nDXoQmPNTK5bslwr+zUrYgV3nyuQgKQzXT5ANiixufxXnhT2zr59P02oyVO+OT+LjAghuqrpXPk6BqTsJNE2CseMRftH0X1RhfGU3Dkemycxfsq99q1uW5G/tzoXRofBPJ+hh0PwovovSezcLIATOD/owvpN/z3nN73B82tI8J37uQ6QoBUrWr+k4ZuUc6/MQ=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTY2MTk2NzAxMywKICAicHJvZmlsZUlkIiA6ICI1MTAxNWY4ODQ1OTA0ZDA0ODg2MzUzZDhjOTYzZGQzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZGliMjM3MDQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNlOTNlNTEwMWIyY2YwNTdiY2VhNjQ2NTBjMWVkODk4NTRiZmIwZjQ3OThhMTgzY2FmMGUwNDE5NzVmY2Y5YSIKICAgIH0KICB9Cn0="
@@ -111736,6 +111855,7 @@
       "material": "SKULL_ITEM",
       "museum": true,
       "name": "Mob the Fish",
+      "npc_sell_price": 50000,
       "skin": {
         "signature": "yORGQEbMLgxYlk/GRPCjpW7wUaQUzaMF+8XrA69hFdEjlEUGoGRGzytYm623EVCDq4Y8Cx68Ybf+P12zbu3SYy2/FmpZRtP99d/VjUScSfu18kmTUeopgtqpslf3x9T8ReD3ITgvNiaF/CaPKJ7RfceTkQ04W0Vj8jZ4hntGyz8fw5Vnn3cynyHP4a7XohGkLahzM0PJLH6rXok0RXH8BMB+TfdmJUHIIIe0mHRdwkZTIHUKJR9wEyPn5OUBDGVk1Cq1Z/ru4z3W5Y9bu98cYgdVPIkcqzHzfnUfLd83Jk7J2eL6o+sYoDo2XzEqVEECBp9z6lkEfdhH+KXid1SePehmEz5UpREIG1jusxT3w8+eC5VH/FNOm6INXEZ0sKhrQqHN125OKEXIMDDhIeM6vVgQ3ZfRbzzPtTj7VgBVwYLIHQiK9fB0e54Ezwc7ElT3e3DmQI8Ry5GhwVeEvbwJ8ndtXuBbrhMQpPV4cwa6ccJCWLAcTscZiiPThwE0KMjomc9D6sA8OYlU1vVqyQYIuqzdsbpUtMIJJaNWQlGwCaAg5Q3m07I6+7Ws++sICcvLVO4g8h9qJ4l3cVt2D3VGKkFNxBQf80yN1xaH9Ts3s9QFIoxasMnDJLiVAftU4041IsLQvAxBfPp7W96gWyD54ptWzD02g+uA9N0FV6cHWoQ=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5NTM5MDA0MzIyMiwKICAicHJvZmlsZUlkIiA6ICI2ODAwNzFmZTIxOWE0OWNmYmM3MDIxMjc1NTI0NDIwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphYm95ODAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmVkMDM2ZWIyOTZmMzA2OTZkMzExNTU2YjczNTI2MDQ2ZGRkZWE0ZDhhNjk5NzdjYjI4MzRjZWQ0NmQ2YmU5ZCIKICAgIH0KICB9Cn0="
@@ -111748,6 +111868,7 @@
       "material": "SKULL_ITEM",
       "museum": true,
       "name": "Fish the Fish",
+      "npc_sell_price": 50000,
       "skin": {
         "signature": "Or27lQvMkY+jTtHhsJJ1eSvBxO0VOs+qa4cgp7Hq7tgcl4H63SJM1gWO45VUCSSokKW7vc2mxpeAaluJxf+M4P2mCMEDBeLVs+2+ra7plwDL3TYFQMWaFlSNxgDLiW4wCSfrz4n9oaJAjA/bCK7o8s6c/XAiRFy/x/cySYVigQKx5ahTdtLa7Kuxb3bsdP3y+8wd6nxSJVzwb/STEwxd2ZQG7x6BtZalB1mzHsgMRowQX72Bj/al/GYG4dqzBrBs9jKKFS+TCN1M9OHGNhvy0kMCQeRwvO3ubfhSeMdDNH2TqiKgaxUhlonmRrUoBAUnE3c5u4cu1deM548tKr0SZgtZV4YA7Ky9uZ6IDTwR8rpiteFH3xIYak1eX8MYVqs/pcDPWtkC9NB/4MblIcuach75XGIJ7u1oWpWYI2RVPK/mRmVb5Fhj1ZA0ogi93zb6ad9JuRJAtss/mSCBfa7BSNRKRTgwtx25IIxghKF/1HaJ9zKPMiKFmJwMQkAkRlILdG3qp+6mobx5My58hAXPTFGN0xo1HWXd5L20cuKBrgk3Agz7mKCT3EosOJyogPR5UFWbaIKbUE0LpUCxFjEJ2lLlpz4e7bUD4inrkf9NUb8TPolg12NrxCFIaKY/b+H88+H11vw6qYJiXZg1kIC+Me7xLTLfEVTSuY0oIPGzmTo=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMDU1NDk5MSwKICAicHJvZmlsZUlkIiA6ICIyNDY1ODI2NWVjMjg0NTY4YTg3MDJkOTVlYzdlYTc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmdvc1oxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iOGM1NzRlZjY4MmU2YzljNGY1NjhlZDFiNzA4ZDBmZTI4MGEzODk5MDU0Mjk5MWM1ZDNlYjdhYmEzMTI4YjdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
@@ -111803,6 +111924,21 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNzA0MzMzMCwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMzI2MWRiYzFkMTFhYWEzY2NmNGM3ZmFlYTcxYWQ4NmJkNWY2Mzk4M2E5MzZjMzk0OTNkNzBiYWUwYjJjNTYzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "tier": "RARE"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%Coral flourishes under the immense pressure of the Murkwater Loch. It is believed to be the favorite food of Nessie.",
+      "durability": 3,
+      "has_uuid": true,
+      "id": "VIBRANT_CORAL",
+      "item_model": "minecraft:tube_coral",
+      "material": "SKULL_ITEM",
+      "name": "Vibrant Coral",
+      "npc_sell_price": 1000000,
+      "skin": {
+        "signature": "wFlFTD9oFgZCp+qvD7tpcUEt5cLI7pyXQ4j4mF2cPHrIdxzOQNlx8Nkdg9j8SnaAvqu4FGRX/t3SRrOj2kNkgCe8cJ1lh0lRzAPshdw/ghYv7O32Uw3tzz8rSwldUlTV+hrXIuJaXzao//vE+Igs8i5YYNrnC8J2f83kuTQKHkkvRChxYyKSPNv7CL4a+5+Gxgg+fzJ6ncJ3iUMcHhKCOuVvgexZazW98nxoDAShMHy2TiVrhgqS6POwaVY/AGNOCN3Xtl/66imCT+3U5wb1vsub5MF6xCViKX7aHg6ox7NpuymRWcDfwxsfsuJcCQJtHMWv6r6SbnFFe6RarmXgWogK+9LwVd0qJ5/CS/hFFEp+xYSGytD0/+irB5HvEtetn4oZFZ1XfbculGkgg9LsDlREtvC6x2lMpB26SShUy8sBTh9hzdRwXDfLv7VNHuxYLfpiUimRGraSYnB8r2LUlfNhjJ/AxIEvJ6gIILZ6o7/2nCunaP8juXpP3qbHZikpr9jVHGXxxbeEoESlLSAjV40damZrfTBBUfJqGHxLolt5zi/ED2uYDgkQi3HbKrFgwT6Uyeb84JjKEkoCjA3S72gycQD0uggsp6rTCq3SAD3ZeK7IblCH0Crwl6vzQQAdPMM6z//5/Vr7Q9wEzoV6HgvA9Uy8bNFty2Ou/Z4QqEY=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MDIwODQwMzI1MCwKICAicHJvZmlsZUlkIiA6ICJiNjM2OWQ0MzMwNTU0NGIzOWE5OTBhODYyNWY5MmEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2JpbmhvXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTNkZDZjNmFkZDA5YzExZmYxOWY1ZmU3NTM3MGI2Y2VjMTczMjQ5NDVjYWMwNWMwZTJjNDYzMWZmNDE4NjcyIgogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY"
     },
     {
       "category": "TRAP",
@@ -111933,6 +112069,20 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMyODM2NjA0NywKICAicHJvZmlsZUlkIiA6ICI1ZTdmY2RjYTU5YzI0NjkwODAwNjg4OTNkODU1ODM3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYWVsbGFyaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzQyMzExNmJiMmU1MDAzM2QwM2U4MzViMGMyZWYzZjNhOGE2NmMyMjgwOGYzNjQ0Zjk0OGQ4NDI1NmZjMTE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "tier": "LEGENDARY"
+    },
+    {
+      "durability": 3,
+      "has_uuid": true,
+      "id": "MOUND_OF_SEAGRASS",
+      "item_model": "minecraft:seagrass",
+      "material": "SKULL_ITEM",
+      "name": "Mound of Seagrass",
+      "npc_sell_price": 250000,
+      "skin": {
+        "signature": "BkR8IgoZvJeopIdkj+O6VqE8N76iz6Ofuq/7ToInQEQZgZFTSTYvhXuq0sMPGJ0bvWqHOwz9ML4kOmaP66wavE4TzP1Yf8m799FetKmxuGsz/t/ffY84oXsc3sLQlxsfxKLZ5KsmpMTRoZ7Z1Ke1ybgBOxDC01q7aE81gTAFX+aVEyjEfvy27FiwjgGGAEiRB6Nb/sO97wYoJOqGLAcDAmjlPHowkscmHxyWy2EqMd3iqFw/65TYl3h7NnCtVTwzsNItURCK0+NrhZZXdIUQ+3qShU2jPKe/D3TNQaNAPj7QWN2P3Cl09o06Ah3yhDVBjLq8JuW2SHgd544vLNGJEFBSYSPldkhSaisxbcwoRjTUVqzBtFWgloK8z+VsZ5DGa8rGPxpQ4iLUis4guWvERYTgovocCD+jAgWrx4zByq4trQQwD81IDxwkpJAYpMkrmQVNkwILcP7hvn9VQ26Eam4rY7FjWuNEkqrDJUbKbSZuo7fBGzNF73Vv5tDo64nlP5k+j3d8lZkIns4qVEXO8mzDXOYWa2M/9vHsVLugsN48cn0fHMr4w1txFwAc5KXJapmwU0adt9x170tmZuDuay/6SHyqXDo+A6mepKzLt6U2M97uk1il8fmo8Mm2klMNZoMElX7FaBrFl82iU6PDz7CDvMGgIels3wPUbuYsA1U=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjc2Nzg5NzQ4MywKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MDJmMWM1NTgzODEyMWE4MzczNjFkMzVlM2MwNTRhOTc1ZWU2MDZlMTk3YzI0MTVmOTFiZWZmODg4ZmFkMWMiCiAgICB9CiAgfQp9"
+      },
+      "tier": "EPIC"
     },
     {
       "description": "%%gray%%Its vibrant green glow perfectly matches the scales of the Jade Dragon. A symbol of new beginnings and unimaginable power.",
@@ -117751,6 +117901,14 @@
       "durability": 3,
       "id": "THUNDERBOLT_NECKLACE",
       "material": "SKULL_ITEM",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "THUNDER": 15
+        },
+        "category": "FISHING",
+        "game_stage": "PROFESSIONAL",
+        "parent": {}
+      },
       "name": "Thunderbolt Necklace",
       "npc_sell_price": 75000,
       "requirements": [
@@ -140391,6 +140549,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1774536809907,
+  "lastUpdated": 1774963498046,
   "success": true
 }
