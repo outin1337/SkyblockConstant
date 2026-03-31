@@ -467,6 +467,12 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A notably large wasp carcass, drowned in the web and drained of blood. Its stinger remains intact.",
       "durability": 3,
       "id": "SHRIVELED_WASP",
       "material": "SKULL_ITEM",
@@ -547,6 +553,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 6.",
       "durability": 3,
       "id": "TARANTULA_CATALYST",
       "material": "SKULL_ITEM",
@@ -559,6 +571,12 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A single, all-seeing eye, forcefully removed from the Primordial Broodfather. Though expressionless, you can sense the rage that permeates throughout.",
       "durability": 3,
       "id": "PRIMORDIAL_EYE",
       "material": "SKULL_ITEM",
@@ -903,6 +921,12 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Straight from the spider's mouth.",
       "durability": 3,
       "id": "ARACHNE_FANG",
       "material": "SKULL_ITEM",
@@ -915,6 +939,12 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped from %%green%%Slimes%%gray%%, but only the especially toxic ones!",
       "durability": 3,
       "id": "POISON_SAMPLE",
       "material": "SKULL_ITEM",
@@ -1084,6 +1114,11 @@
     {
       "can_auction": false,
       "category": "AXE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -1168,6 +1203,11 @@
     {
       "can_auction": false,
       "category": "AXE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -1241,6 +1281,7 @@
     },
     {
       "category": "HOE",
+      "description": "An ancient blueprint.",
       "id": "THEORETICAL_HOE",
       "material": "WOOD_HOE",
       "name": "Mathematical Hoe Blueprint"
@@ -1279,6 +1320,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -1469,6 +1515,11 @@
     {
       "can_auction": false,
       "category": "AXE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -1693,6 +1744,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -1802,6 +1858,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -1898,6 +1959,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -2140,6 +2206,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -2236,6 +2307,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -2309,6 +2385,11 @@
     },
     {
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -2404,6 +2485,11 @@
     },
     {
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -2478,6 +2564,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -2552,6 +2643,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -2764,6 +2860,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -3092,6 +3193,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -3512,6 +3618,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -3608,6 +3719,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -3682,6 +3798,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -3755,6 +3876,11 @@
     },
     {
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -3829,6 +3955,11 @@
     {
       "can_auction": false,
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -3924,6 +4055,11 @@
     },
     {
       "category": "HOE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -4030,6 +4166,11 @@
     {
       "can_auction": false,
       "category": "AXE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "gemstone_slots": [
         {
           "costs": [
@@ -13901,6 +14042,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "GENERATOR_UPGRADE_STONE_FISHING_12",
       "material": "SKULL_ITEM",
@@ -13913,6 +14059,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "GENERATOR_UPGRADE_STONE_REVENANT_12",
       "material": "SKULL_ITEM",
@@ -13925,6 +14076,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "GENERATOR_UPGRADE_STONE_TARANTULA_12",
       "material": "SKULL_ITEM",
@@ -13937,6 +14093,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "GENERATOR_UPGRADE_STONE_CLAY_12",
       "material": "SKULL_ITEM",
@@ -21027,6 +21188,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Before she mastered this ingredient, the %%dark_purple%%Fireproof Witch %%gray%%was but a mere witch.",
       "durability": 3,
       "id": "SINGED_POWDER",
@@ -21053,6 +21219,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A broken old bowl. Maybe you can use it to upgrade your %%gold%%Ship%%gray%%?",
       "durability": 3,
       "id": "BRONZE_BOWL",
@@ -21079,6 +21250,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Snapping Turtles will bite into just about anything, radars included. Maybe you can fix it?",
       "durability": 3,
       "id": "BROKEN_RADAR",
@@ -21183,6 +21359,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%A massive set of discarded snake skin. There's so much of it that it's hard to lift.",
       "durability": 3,
       "id": "TITANOBOA_SHED",
@@ -21196,6 +21377,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Sometimes, well-done just isn't enough.",
       "durability": 3,
       "id": "SCORCHED_CRAB_STICK",
@@ -21222,6 +21408,11 @@
     },
     {
       "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%A splendid handle belonging to a feared foe. In exchange for granting them immense power, it saps the life force from its wielder.",
       "glowing": true,
       "has_uuid": true,
@@ -21245,6 +21436,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%A greasy feather, somehow still in one piece despite having been doused in boiling-hot lava.",
       "id": "FRIED_FEATHER",
       "material": "FEATHER",
@@ -21270,6 +21466,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%A torn article of men's clothing, waterlogged and mossy. Probably too late to ask for a refund.",
       "durability": 3,
       "id": "TORN_CLOTH",
@@ -21309,6 +21510,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Harsh, jagged skin that is rough to the touch.",
       "durability": 2,
       "id": "ALLIGATOR_SKIN",
@@ -21357,6 +21563,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%As the Octopus makes its great escape, it accidentally leaves something behind...",
       "durability": 3,
       "id": "BLUE_RING",
@@ -22227,6 +22438,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "glowing": true,
       "id": "TOKEN_OF_THE_CENTURY",
@@ -24392,6 +24608,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Imbued with the pure essence of terror, this shard pulsates with an unsettling energy.",
       "durability": 15,
       "id": "SCARE_FRAGMENT",
@@ -24600,6 +24821,12 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Craft with a %%blue%%Titanic Experience Bottle %%gray%%to %%aqua%%double %%gray%%the experience it contains.",
       "durability": 3,
       "glowing": true,
       "has_uuid": true,
@@ -24622,6 +24849,11 @@
       "tier": "SPECIAL"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "glowing": true,
       "has_uuid": true,
@@ -24635,6 +24867,12 @@
       "tier": "SPECIAL"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Craft with %%dark_purple%%Enchanted Lava Buckets %%gray%%to upgrade the minion speed bonus to %%green%%30% %%gray%%and %%green%%35%%%gray%%.",
       "durability": 3,
       "glowing": true,
       "has_uuid": true,
@@ -24710,6 +24948,12 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Craft with a %%dark_purple%%Greater Backpack %%gray%%to upgrade it to %%green%%45 %%gray%%slots.",
       "durability": 3,
       "glowing": true,
       "has_uuid": true,
@@ -24751,6 +24995,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Craft with minion %%blue%%Large Storage %%gray%%chests to upgrade their size to %%green%%21 %%gray%%and %%green%%27 %%gray%%slots.",
       "durability": 3,
       "glowing": true,
       "has_uuid": true,
@@ -24980,6 +25230,12 @@
       "tier": "SPECIAL"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Combine with %%blue%%Catalysts%%gray%%, buffing the fuel to %%green%%x4 %%gray%%for 6 hours duration.",
       "durability": 3,
       "glowing": true,
       "has_uuid": true,
@@ -25044,6 +25300,12 @@
       "unstackable": false
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A material so pure it comes pre-refined from its place of origin.",
       "durability": 12,
       "id": "REFINED_MINERAL",
       "material": "INK_SACK",
@@ -25067,6 +25329,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%italic%%You can see thousands of glittering reflections as you stare into its intricate patterns. Maybe you should stop gazing and keep mining...",
       "durability": 5,
       "id": "GLOSSY_GEMSTONE",
       "material": "INK_SACK",
@@ -25338,6 +25606,11 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%When you pay through the nose, you'll end up with a nosebleed.",
       "durability": 3,
       "id": "BLOOD_SOAKED_COINS",
@@ -25352,6 +25625,11 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Nothing beats the smell of fresh %%gold%%Coins%%gray%%. Except for lots of things.",
       "durability": 3,
       "id": "FRESHLY_MINTED_COINS",
@@ -25366,6 +25644,11 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gold%%Gold%%gray%%, but broken into fragments. This makes it important somehow.",
       "durability": 3,
       "id": "GOLDEN_FRAGMENT",
@@ -25433,6 +25716,11 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Said to make any drink inside it taste like %%gold%%gold%%gray%%.",
       "durability": 3,
       "id": "AVARICIOUS_CHALICE",
@@ -25447,6 +25735,11 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%This is probably not what they meant by \"%%red%%blood money%%gray%%\".",
       "durability": 3,
       "id": "BLOOD_STAINED_COINS",
@@ -25664,6 +25957,11 @@
     },
     {
       "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "The feather of a mythical creature that was buried for centuries. It still retains its pleasant scent and fluffiness despite the damage.",
       "force_wipe_recomb": true,
       "id": "GRIFFIN_FEATHER",
@@ -26004,6 +26302,12 @@
       "tier": "SPECIAL"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops rarely off of Minotaurs from Diana's Mythological Ritual.",
       "glowing": true,
       "has_uuid": true,
       "id": "DAEDALUS_STICK",
@@ -26039,6 +26343,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A splendid wool found nowhere else; it caresses your fingers and exudes a unique warmth the likes of which you have never experienced before, and likely never will again.",
       "durability": 4,
       "glowing": true,
       "id": "SHIMMERING_WOOL",
@@ -26087,6 +26397,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "ZOG_ANVIL",
       "material": "SKULL_ITEM",
@@ -26378,6 +26693,12 @@
       "tier": "MYTHIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "An array of cells from different creatures mashed together in some crude, unnatural arrangement.",
       "durability": 3,
       "id": "MANTI_CORE",
       "material": "SKULL_ITEM",
@@ -26405,6 +26726,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A rusted hilt, dropped by the Minos Hunter.",
       "has_uuid": true,
       "id": "HILT_OF_REVELATIONS",
       "material": "STICK",
@@ -26425,6 +26752,14 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "ANCESTRAL_SPADE"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "The refined claw of an ancient beast, enchanted with bygone magic and honed through countless wars.",
       "glowing": true,
       "id": "ENCHANTED_ANCIENT_CLAW",
@@ -26515,6 +26850,14 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "ANCESTRAL_SPADE"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "The claw of an ancient beast, hardened by time and countless battles.",
       "id": "ANCIENT_CLAW",
       "material": "FLINT",
@@ -26632,6 +26975,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "JERRY_TALISMAN_BLUE",
       "material": "SKULL_ITEM",
@@ -26647,6 +26995,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "JERRY_TALISMAN_GREEN",
       "material": "SKULL_ITEM",
@@ -26677,6 +27030,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "JERRY_TALISMAN_PURPLE",
       "material": "SKULL_ITEM",
@@ -26911,6 +27269,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Combine with an %%dark_purple%%Overflux Power Orb %%gray%%to increase its strength and create a %%gold%%Plasmaflux Power Orb%%gray%%.",
       "durability": 5,
       "id": "PLASMA_NUCLEUS",
       "material": "INK_SACK",
@@ -26994,6 +27358,15 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "SHARP_SHARK_TOOTH_NECKLACE"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped by a Shark during Fishing Festival.",
       "glowing": true,
       "id": "TIGER_SHARK_TOOTH",
       "material": "GHAST_TEAR",
@@ -27002,6 +27375,15 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped by a Shark during Fishing Festival.",
       "glowing": true,
       "id": "GREAT_WHITE_SHARK_TOOTH",
       "material": "GHAST_TEAR",
@@ -27306,6 +27688,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped by a Shark during Fishing Festival.",
       "glowing": true,
       "id": "NURSE_SHARK_TOOTH",
       "material": "GHAST_TEAR",
@@ -27314,6 +27702,12 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped by a Shark during Fishing Festival.",
       "id": "SHARK_FIN",
       "material": "PRISMARINE_SHARD",
       "name": "Shark Fin",
@@ -27395,6 +27789,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped by a Shark during Fishing Festival.",
       "glowing": true,
       "id": "BLUE_SHARK_TOOTH",
       "material": "GHAST_TEAR",
@@ -30192,6 +30592,12 @@
       "npc_sell_price": 5
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Spooky, yet practical.",
       "glowing": true,
       "id": "ECTOPLASM",
       "material": "PRISMARINE_CRYSTALS",
@@ -30263,6 +30669,11 @@
       "npc_sell_price": 2
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "WISE_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -30317,6 +30728,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MIMIC_FRAGMENT",
@@ -30366,6 +30782,12 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The hottest shade of pink ever worn by a Giant.",
       "dungeon_item": true,
       "id": "GIANT_FRAGMENT_BOULDER",
       "material": "FIREWORK_CHARGE",
@@ -30596,6 +31018,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "HILT_OF_TRUE_ICE",
       "material": "ICE",
@@ -31663,6 +32090,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "YOUNG_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -32054,6 +32486,11 @@
       "tier": "UNOBTAINABLE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "BLUE_ICE_HUNK",
       "material": "SKULL_ITEM",
@@ -33079,6 +33516,12 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%%%italic%%A research on how to preserve and enhance class abilities in death.",
       "dungeon_item": true,
       "durability": 3,
       "id": "SCARF_THESIS",
@@ -36144,6 +36587,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Stable magnetic field, but handle with caution.",
       "durability": 3,
       "id": "PLASMA",
@@ -36583,6 +37031,12 @@
       "npc_sell_price": 2
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%dark_gray%%%%italic%%An ancient plant imbued with the unyielding power of truth.",
       "dungeon_item": true,
       "id": "GOLEM_POPPY",
       "material": "RED_ROSE",
@@ -38096,6 +38550,12 @@
       "npc_sell_price": 10
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Hard to throw, even harder to catch.",
       "dungeon_item": true,
       "glowing": true,
       "id": "GIANT_FRAGMENT_BIGFOOT",
@@ -38330,6 +38790,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MASTER_SKULL_TIER_4",
@@ -39354,6 +39819,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%A famous Wizard used a wand made out of these.",
       "durability": 3,
       "id": "SPECTRE_DUST",
@@ -39481,6 +39951,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "PROTECTOR_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -39807,6 +40282,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune.",
       "durability": 3,
       "id": "BLAZE_ASHES",
@@ -41262,6 +41742,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 1,
       "id": "FEL_ROSE",
@@ -41692,6 +42177,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Incredibly heavy. Put one on each side of a stick and you just crafted yourself very stylish dumbbells.",
       "durability": 3,
       "id": "HALLOWED_SKULL",
@@ -41738,6 +42228,11 @@
       "npc_sell_price": 10
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "id": "FEL_PEARL",
       "material": "ENDER_PEARL",
@@ -42342,6 +42837,11 @@
       "npc_sell_price": 32
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Spreads fast.",
       "durability": 3,
       "id": "CORRUPTED_FRAGMENT",
@@ -42491,6 +42991,12 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped by Werewolf sea creatures during the Spooky Festival.",
       "id": "WEREWOLF_SKIN",
       "material": "LEATHER",
       "name": "Werewolf Skin",
@@ -43488,6 +43994,12 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A portion of Arachne's Soul that can be used to craft items.",
       "id": "DARK_QUEENS_SOUL_DROP",
       "material": "CLAY_BALL",
       "name": "Dark Queen's Soul",
@@ -43686,6 +44198,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%%%italic%%\"If Magma Cream is the cement, Magma Chunks are the bricks.\" - Magma Cube local expert.",
       "durability": 3,
       "id": "MAGMA_CHUNK",
@@ -44421,6 +44938,11 @@
       "npc_sell_price": 0.75
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "glowing": true,
       "id": "SCARF_FRAGMENT",
@@ -44491,6 +45013,11 @@
       "npc_sell_price": 3
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%A poignant reminder of the day you almost caught Bigfoot’s younger, lesser-known brother. Even collectors don’t want it, so it’s yours to keep.",
       "durability": 7,
       "id": "LITTLEFOOT_FLUFF",
@@ -45095,6 +45622,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Used to craft the Lucky Clover pet item.",
       "durability": 10,
       "id": "PET_ITEM_LUCKY_CLOVER_DROP",
       "material": "INK_SACK",
@@ -48189,6 +48722,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "DIVER_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -52737,6 +53275,14 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "MAGMA_LORD_GAUNTLET"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "MAGMA_LORD_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -53161,6 +53707,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "BAIT_RING",
       "material": "SKULL_ITEM",
@@ -53707,6 +54258,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MASTER_SKULL_TIER_1",
@@ -53785,6 +54341,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MASTER_SKULL_TIER_5",
@@ -54274,6 +54835,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "GIANT_FLESH",
@@ -55258,6 +55824,12 @@
       "npc_sell_price": 0.5
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Material extracted from the heart of giant Magma Cubes. It can be used to craft powerful items.",
       "durability": 3,
       "id": "EMBER_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -55411,6 +55983,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "UNSTABLE_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -56077,6 +56654,12 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%%%italic%%The collection of his studies, beautiful handwriting!",
       "dungeon_item": true,
       "durability": 3,
       "id": "SCARF_STUDIES",
@@ -56153,6 +56736,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 1,
       "glowing": true,
@@ -56503,6 +57091,11 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "CRYOPOWDER_SHARD",
       "material": "SKULL_ITEM",
@@ -56786,6 +57379,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "GOLDEN_POWDER",
       "material": "GLOWSTONE_DUST",
@@ -57965,6 +58563,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%To become a ghost, one must go through unimaginable distress.",
       "glowing": true,
       "id": "SORROW",
@@ -59529,6 +60132,11 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Changes color based on the angle you look at it.",
       "glowing": true,
       "id": "LUMINO_FIBER",
@@ -60307,6 +60915,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "REKINDLED_EMBER_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -60472,6 +61085,12 @@
       "npc_sell_price": 2
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Spirits of bats often take refuge in their own wings. They sometimes grow in power and gain tremendous magical properties.",
       "dungeon_item": true,
       "durability": 3,
       "id": "SPIRIT_WING",
@@ -60485,6 +61104,12 @@
     },
     {
       "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Base component to upgrade your Griffin's rarity.",
       "durability": 3,
       "force_wipe_recomb": true,
       "id": "BASE_GRIFFIN_UPGRADE_STONE",
@@ -61813,6 +62438,11 @@
       "npc_sell_price": 0.5
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Can be used instead of a lamp, if you enjoy living on the edge.",
       "durability": 3,
       "id": "GAZING_PEARL",
@@ -62499,6 +63129,12 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%%%italic%%A fragment of the core of Kuudra.",
       "durability": 3,
       "id": "FIERY_KUUDRA_CORE",
       "material": "SKULL_ITEM",
@@ -63737,6 +64373,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Sometimes digested multiple times.",
       "durability": 3,
       "id": "DIGESTED_MUSHROOMS",
@@ -64326,6 +64967,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune.",
       "durability": 3,
       "id": "MUTATED_BLAZE_ASHES",
@@ -64395,6 +65041,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "id": "HEALING_TISSUE",
       "material": "ROTTEN_FLESH",
@@ -64700,6 +65351,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MASTER_SKULL_TIER_7",
@@ -64843,6 +65499,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Three Dimensional",
       "durability": 3,
       "id": "Z",
@@ -65614,6 +66275,11 @@
       "npc_sell_price": 1
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "glowing": true,
       "id": "THORN_FRAGMENT",
@@ -65911,6 +66577,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "TREASURE_RING",
@@ -66058,6 +66729,12 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Used to craft more advanced pets.",
       "glowing": true,
       "id": "SUPER_EGG",
       "material": "MONSTER_EGG",
@@ -66293,6 +66970,12 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%%%italic%%A remnant of the core of Kuudra!",
       "durability": 3,
       "id": "BURNING_KUUDRA_CORE",
       "material": "SKULL_ITEM",
@@ -66969,6 +67652,12 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The hilt of the largest sword known to humankind.",
       "dungeon_item": true,
       "id": "GIANT_FRAGMENT_DIAMOND",
       "material": "DIAMOND_BARDING",
@@ -67868,6 +68557,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "glowing": true,
       "has_uuid": true,
@@ -67877,6 +68571,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "CRYSTAL_FRAGMENT",
       "material": "QUARTZ",
@@ -68192,6 +68891,11 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "SUPERIOR_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -68505,6 +69209,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%The surface is strangely cool and smooth. Often used as a ball in many sports due to its bouncy nature.",
       "durability": 3,
       "id": "BEZOS",
@@ -69603,6 +70312,12 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The eye is mightier than the sword.",
       "dungeon_item": true,
       "id": "GIANT_FRAGMENT_LASER",
       "material": "EYE_OF_ENDER",
@@ -70105,6 +70820,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 2,
       "id": "SILKY_LICHEN",
       "material": "INK_SACK",
@@ -70436,6 +71156,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Two Dimensional",
       "durability": 3,
       "id": "Y",
@@ -70677,6 +71402,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "has_uuid": true,
       "id": "POTATO_TALISMAN",
@@ -71222,6 +71952,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "HOLY_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -72650,6 +73385,11 @@
       "npc_sell_price": 0.5
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Piglins sometimes chew on them, they can even blow bubbles out of them.",
       "durability": 3,
       "id": "COMPACT_OOZE",
@@ -73158,6 +73898,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Looks like Sulphur, smells like Sulphur... Suspicious.",
       "glowing": true,
       "id": "SPELL_POWDER",
@@ -74748,6 +75493,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "FEL_SKULL",
@@ -76373,6 +77123,13 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "sort_by_category": true,
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Harvested from the core of Yogs. Used to upgrade Magma equipment.",
       "durability": 3,
       "id": "YOGGIE",
       "material": "SKULL_ITEM",
@@ -77386,6 +78143,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "LAVA_SHELL",
       "material": "SKULL_ITEM",
@@ -77714,6 +78476,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MASTER_SKULL_TIER_2",
@@ -78176,6 +78943,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "OLD_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -78636,6 +79408,12 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Dropped by Grim Reaper sea creatures during the Spooky Festival.",
       "durability": 3,
       "id": "SOUL_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -78776,6 +79554,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "ICE_HUNK",
       "material": "SKULL_ITEM",
@@ -78977,6 +79760,7 @@
     },
     {
       "category": "ACCESSORY",
+      "description": "%%gray%%%%italic%%Dark and powerful spells, includes his favorite \"Barrier\" that his Professor taught him.",
       "dungeon_item": true,
       "durability": 3,
       "id": "SCARF_GRIMOIRE",
@@ -80036,6 +80820,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "glowing": true,
       "id": "LIVID_FRAGMENT",
@@ -80890,6 +81679,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "TREASURE_TALISMAN",
@@ -82096,6 +82890,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Used to craft the Exp Share pet item.",
       "durability": 11,
       "id": "PET_ITEM_EXP_SHARE_DROP",
       "material": "INK_SACK",
@@ -83057,6 +83857,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Probably the single most regrettable effect of Sulphur on the island's fauna. You can't kill a spider with fire if it's already burning.",
       "durability": 3,
       "id": "BURNING_EYE",
@@ -83961,6 +84766,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MASTER_SKULL_TIER_3",
@@ -84250,6 +85060,11 @@
       "unstackable": false
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "STRONG_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -85196,6 +86011,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "durability": 3,
       "id": "MASTER_SKULL_TIER_6",
@@ -85359,6 +86179,11 @@
       "npc_sell_price": 3
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%One Dimensional",
       "durability": 3,
       "id": "X",
@@ -85372,6 +86197,12 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A Wolf Spirit is attached to this bone. Wolf Spirits always come back to their masters.",
       "dungeon_item": true,
       "durability": 3,
       "id": "SPIRIT_BONE",
@@ -85435,6 +86266,12 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Used to craft the Tier Boost pet item.",
       "durability": 1,
       "id": "PET_ITEM_TIER_BOOST_DROP",
       "material": "INK_SACK",
@@ -85526,6 +86363,11 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "WEAK_WOLF_CATALYST",
       "material": "BONE",
@@ -85972,6 +86814,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Popular among Piglins, often used as a war charm.",
       "durability": 3,
       "id": "HORN_OF_TAURUS",
@@ -86163,6 +87010,14 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "THUNDERBOLT_NECKLACE"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Wear gloves when handling, and be cautious around water pools.",
       "durability": 3,
       "id": "THUNDER_SHARDS",
@@ -86210,6 +87065,11 @@
       "npc_sell_price": 1
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Cinderbats are much cuter though.",
       "glowing": true,
       "id": "FLAMES",
@@ -86220,6 +87080,12 @@
     },
     {
       "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Rare string that can be used to craft weapons that are infused with the power of Arachne.",
       "force_wipe_recomb": true,
       "id": "SOUL_STRING",
       "material": "STRING",
@@ -86809,6 +87675,7 @@
     },
     {
       "category": "ACCESSORY",
+      "description": "%%gray%%%%italic%%The dark core of Kuudra!",
       "durability": 3,
       "id": "INFERNAL_KUUDRA_CORE",
       "material": "SKULL_ITEM",
@@ -87138,6 +88005,12 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Why does Halloween have to be so gross?",
       "glowing": true,
       "id": "PUMPKIN_GUTS",
       "material": "PUMPKIN_SEEDS",
@@ -87350,6 +88223,11 @@
       "npc_sell_price": 2
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "id": "CORRUPTED_NETHER_STAR",
       "material": "NETHER_STAR",
       "museum": true,
@@ -87359,6 +88237,12 @@
       "unstackable": false
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A razor-sharp shark fin designed to craft powerful items.",
       "glowing": true,
       "id": "ENCHANTED_SHARK_FIN",
       "material": "PRISMARINE_SHARD",
@@ -88093,6 +88977,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%The origin of that leather is a well kept secret.",
       "glowing": true,
       "id": "LEATHER_CLOTH",
@@ -91096,6 +91985,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "TENTACLE_MEAT",
       "material": "SKULL_ITEM",
@@ -91351,6 +92245,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%According to Professor Selta they are 9V batteries and can supply about 50mA of current. Professor Selta is currently in a mental asylum.",
       "durability": 3,
       "id": "ORB_OF_ENERGY",
@@ -91647,6 +92546,14 @@
     {
       "can_interact": false,
       "can_interact_entity": false,
+      "components": [
+        {
+          "show_items_first": [
+            "SMALL_NETHER_SACK"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%The lead has to be exceedingly soft due to the nature of the mount. The chicken needs to be comfy.",
       "glowing": true,
       "id": "KADA_LEAD",
@@ -91937,6 +92844,11 @@
       "npc_sell_price": 2
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "SPOOKY_SHARD",
       "material": "SKULL_ITEM",
@@ -92093,6 +93005,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "You can still hear their cries from the other side.",
       "durability": 3,
       "id": "WITHER_SOUL",
@@ -92184,6 +93101,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "BLOOD_GOD_CREST",
       "material": "SKULL_ITEM",
@@ -93838,6 +94760,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Despite being ephemeral creatures, blaze ashes are eternal.",
       "durability": 3,
       "id": "MILLENIA_OLD_BLAZE_ASHES",
@@ -93935,6 +94862,12 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Used to craft the strangest of pets.",
       "durability": 67,
       "glowing": true,
       "id": "OMEGA_EGG",
@@ -94062,6 +94995,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Created once in a while by Inferno minions using Hypergolic-grade fuel.",
       "durability": 3,
       "id": "INFERNO_VERTEX",
       "material": "SKULL_ITEM",
@@ -94084,6 +95023,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "CRUDE_GABAGOOL_DISTILLATE",
       "material": "SKULL_ITEM",
@@ -94096,6 +95040,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "NETHER_STALK_DISTILLATE",
       "material": "SKULL_ITEM",
@@ -94108,6 +95057,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "BLAZE_ROD_DISTILLATE",
       "material": "SKULL_ITEM",
@@ -94120,6 +95074,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "MAGMA_CREAM_DISTILLATE",
       "material": "SKULL_ITEM",
@@ -94132,6 +95091,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "GLOWSTONE_DUST_DISTILLATE",
       "material": "SKULL_ITEM",
@@ -94144,6 +95108,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Reacts with gabagool in the crafting of Inferno minion fuels.",
       "durability": 3,
       "id": "INFERNO_FUEL_BLOCK",
       "material": "SKULL_ITEM",
@@ -94155,6 +95125,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Compacted Crude Gabagool, use to feed Wisp pets or tier up into Fuel Gabagool.",
       "durability": 3,
       "id": "VERY_CRUDE_GABAGOOL",
       "material": "SKULL_ITEM",
@@ -94167,6 +95143,15 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "HYPERGOLIC_GABAGOOL"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Feed Wisp pets, tier up into Hypergolic Gabagool or craft Inferno minion fuel.",
       "durability": 3,
       "id": "HEAVY_GABAGOOL",
       "material": "SKULL_ITEM",
@@ -94179,6 +95164,12 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Feed Wisp pets or craft into strong Inferno minion fuel.\n\n%%red%%Hypergolic-grade fuels create extra unique items!",
       "durability": 3,
       "id": "HYPERGOLIC_GABAGOOL",
       "material": "SKULL_ITEM",
@@ -94191,6 +95182,15 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "FUEL_GABAGOOL"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Created by Inferno minions, use to feed Wisp pets or tier up into Fuel Gabagool.",
       "durability": 3,
       "id": "CRUDE_GABAGOOL",
       "material": "SKULL_ITEM",
@@ -94203,6 +95203,15 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "HEAVY_GABAGOOL"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Feed Wisp pets, tier up into Heavy Gabagool or craft Inferno minion fuel.",
       "durability": 3,
       "id": "FUEL_GABAGOOL",
       "material": "SKULL_ITEM",
@@ -94370,6 +95379,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Created very rarely by Inferno minions using Hypergolic-grade fuel.",
       "durability": 3,
       "id": "INFERNO_APEX",
       "material": "SKULL_ITEM",
@@ -94416,6 +95431,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Obtained from expired hypergolic fuel.\n\n%%dark_gray%%First the gabagool fuel is vitrified through calcination, then stabilized using a phosphate-based crystalline ceramic host through an ion exchange, or something...",
       "durability": 3,
       "id": "HYPERGOLIC_IONIZED_CERAMICS",
@@ -94812,6 +95832,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "MOLTEN_POWDER",
       "material": "BLAZE_POWDER",
@@ -94819,6 +95844,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "DERELICT_ASHE",
       "material": "SULPHUR",
@@ -94826,6 +95856,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 52,
       "glowing": true,
       "id": "AMALGAMATED_CRIMSONITE_NEW",
@@ -94834,6 +95869,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 52,
       "glowing": true,
       "id": "AMALGAMATED_CRIMSONITE",
@@ -94914,6 +95954,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops extremely rarely from the Inferno Demonlord.",
       "durability": 3,
       "id": "SUBZERO_INVERTER",
       "material": "SKULL_ITEM",
@@ -94925,6 +95971,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops rarely from the Inferno Demonlord.",
       "durability": 3,
       "id": "KELVIN_INVERTER",
       "material": "SKULL_ITEM",
@@ -95166,6 +96218,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops very rarely from the Inferno Demonlord.",
       "glowing": true,
       "id": "WILSON_ENGINEERING_PLANS",
       "material": "PAPER",
@@ -95301,6 +96359,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Never before has an item name been so creative, yet so fitting.",
       "durability": 3,
       "id": "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER",
       "material": "SKULL_ITEM",
@@ -95312,6 +96376,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%dark_gray%%Snake eyes!",
       "durability": 3,
       "id": "SINFUL_DICE",
       "material": "SKULL_ITEM",
@@ -95324,6 +96394,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "JUDGEMENT_CORE",
       "material": "SKULL_ITEM",
@@ -95350,6 +96425,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 58,
       "glowing": true,
       "id": "NULL_OVOID",
@@ -95510,6 +96590,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "NULL_ATOM",
       "material": "WOOD_BUTTON",
@@ -95518,6 +96603,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "NULL_BLADE",
       "material": "SHEARS",
@@ -95525,6 +96615,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "NULL_EDGE",
       "material": "STICK",
@@ -95551,6 +96646,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "NULL_SPHERE",
       "material": "FIREWORK_CHARGE",
@@ -95558,6 +96658,12 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Crafted by the Etherchemist and dropped by the Voidgloom Seraph.",
       "durability": 3,
       "id": "ETHERWARP_MERGER",
       "material": "SKULL_ITEM",
@@ -96453,6 +97559,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "TARANTULA_WEB",
       "material": "STRING",
@@ -96461,12 +97572,22 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "id": "DIGESTED_MOSQUITO",
       "material": "ROTTEN_FLESH",
       "name": "Digested Mosquito",
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "TARANTULA_SILK",
       "material": "WEB",
@@ -96488,6 +97609,12 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 2.",
       "durability": 3,
       "id": "SPIDER_CATALYST",
       "material": "SKULL_ITEM",
@@ -96522,6 +97649,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "has_uuid": true,
       "id": "FLY_SWATTER",
@@ -97821,6 +98953,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "REVENANT_FLESH",
       "material": "ROTTEN_FLESH",
@@ -97829,6 +98966,12 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The core of a powerful weapon, dropped by the Atoned Horror.",
       "durability": 3,
       "id": "SHARD_OF_THE_SHREDDED",
       "material": "SKULL_ITEM",
@@ -97847,6 +98990,12 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The heart of a powerful creature, dropped by the Atoned Horror.",
       "durability": 3,
       "id": "WARDEN_HEART",
       "material": "SKULL_ITEM",
@@ -97865,6 +99014,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "SCYTHE_BLADE",
       "material": "DIAMOND",
@@ -97873,6 +99027,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "BEHEADED_HORROR",
       "material": "SKULL_ITEM",
@@ -97991,6 +99150,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "REVENANT_VISCERA",
       "material": "GRILLED_PORK",
@@ -98462,6 +99626,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops rarely from Revenant Horror when you are at least Zombie Slayer LVL 3.",
       "durability": 3,
       "id": "UNDEAD_CATALYST",
       "material": "SKULL_ITEM",
@@ -98474,6 +99644,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops rarely from Revenant Horror when you are at least Zombie Slayer LVL 6.",
       "durability": 3,
       "id": "REVENANT_CATALYST",
       "material": "SKULL_ITEM",
@@ -99332,6 +100508,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 1,
       "id": "GRIZZLY_BAIT",
       "material": "RAW_FISH",
@@ -99340,6 +100521,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Drops very rarely from Sven Packmaster. No one knows what's in the egg.",
       "durability": 96,
       "id": "RED_CLAW_EGG",
       "material": "MONSTER_EGG",
@@ -99348,6 +100535,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "has_uuid": true,
       "id": "OVERFLUX_CAPACITOR",
@@ -99364,6 +100556,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "GOLDEN_TOOTH",
       "material": "GOLD_NUGGET",
@@ -99729,6 +100926,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "WOLF_TOOTH",
       "material": "GHAST_TEAR",
@@ -101664,6 +102866,11 @@
     {
       "can_auction": false,
       "category": "AXE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%Someone once said, II is always better than I!",
       "gemstone_slots": [
         {
@@ -101759,6 +102966,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "sort_by_category": true,
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "SQUASH",
       "material": "SKULL_ITEM",
@@ -101771,6 +102984,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The Crème de la Crop",
       "durability": 3,
       "has_uuid": false,
       "id": "HELIANTHUS",
@@ -101905,6 +103124,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "COMPOST",
       "material": "SKULL_ITEM",
@@ -104052,6 +105276,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Hope you hit it big!",
       "id": "ALL_IN_ALOE_FRAGMENT",
       "material": "GOLD_NUGGET",
@@ -105265,6 +106494,11 @@
     {
       "can_auction": false,
       "category": "AXE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%Same as the Melon Dicer Mk. I, just better!",
       "gemstone_slots": [
         {
@@ -105389,6 +106623,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "sort_by_category": true,
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "has_uuid": true,
       "id": "CONDENSED_FERMENTO",
@@ -105409,6 +106649,12 @@
       "tier": "COMMON"
     },
     {
+      "components": [
+        {
+          "sort_by_category": true,
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "CROPIE",
       "material": "SKULL_ITEM",
@@ -105445,6 +106691,13 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "sort_by_category": true,
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The Crème de la Crop",
       "durability": 3,
       "id": "CONDENSED_HELIANTHUS",
       "material": "SKULL_ITEM",
@@ -105538,6 +106791,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "FERMENTO",
       "material": "SKULL_ITEM",
@@ -105902,6 +107160,11 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A magical shard capturing the warmth and joy of winter festivities.",
       "durability": 3,
       "id": "WINTER_FRAGMENT",
@@ -106336,6 +107599,14 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "show_items_first": [
+            "GLACIAL_RING"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A small piece of a giant glacier. Doesn't ever melt.",
       "durability": 3,
       "id": "GLACIAL_FRAGMENT",
@@ -106350,6 +107621,11 @@
     },
     {
       "category": "NONE",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "WALNUT",
       "material": "SKULL_ITEM",
@@ -108033,6 +109309,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "The obvious result of mixing cat food, spacetime bending and mystical mythology.",
       "glowing": true,
       "id": "PRE_DIGESTION_FISH",
@@ -108353,6 +109634,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "IQ_POINT",
       "material": "SKULL_ITEM",
@@ -108517,6 +109803,17 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "RIFT_TROPHY_LAZY_LIVING"
+          ],
+          "show_items_last": [
+            "LIVING_METAL_ANVIL"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "It snakes around your blocky hand as you hold it.",
       "durability": 11,
       "id": "LIVING_METAL",
@@ -108542,6 +109839,14 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "HOLY_ICE"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "One could say it's... ice cold.",
       "id": "FROZEN_WATER",
       "material": "ICE",
@@ -108560,6 +109865,12 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Something about DNA...",
       "durability": 3,
       "id": "METAL_HEART",
       "material": "SKULL_ITEM",
@@ -108629,6 +109940,17 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "CRUXMOTION"
+          ],
+          "show_items_first": [
+            "RIFT_TROPHY_LAZY_LIVING"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "The illest of the chillest.",
       "durability": 3,
       "id": "FROSTY_CRUX",
@@ -108643,6 +109965,15 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "allow_duplicates": true,
+          "excluded_items": [
+            "FROZEN_WATER_PUNGI"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 11,
       "id": "NULLIFIED_METAL",
       "material": "CARPET",
@@ -108782,6 +110113,11 @@
       "tier": "COMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A wonderful enchanted plant!",
       "durability": 3,
       "glowing": true,
@@ -108838,6 +110174,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A wonderful plant!",
       "durability": 3,
       "id": "LUSH_BERBERIS",
@@ -108898,6 +110239,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "AGARICUS_CHUM_CAP",
       "material": "SKULL_ITEM",
@@ -108959,6 +110305,12 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "sort_by_accessory_tier": true,
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Agarimoos have five stomachs and 3 tongues. For this specific Agarimoo, past tense is more accurate.",
       "glowing": true,
       "id": "AGARIMOO_TONGUE",
@@ -109033,6 +110385,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A ticking time bomb to new life. Acquired using Berberis Blowgun.",
       "id": "METAPHORIC_EGG",
       "material": "EGG",
@@ -109041,6 +110398,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "The animal which came right before the first chicken.",
       "durability": 3,
       "id": "PROTOCHICKEN",
@@ -109062,6 +110424,18 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "BLOODBADGE",
+            "GARLIC_FLAVORED_GUMMY_BEAR"
+          ],
+          "show_items_first": [
+            "RIFT_TROPHY_SLIME"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "BACTE_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -109106,6 +110480,11 @@
       "tier": "MYTHIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 2,
       "id": "GUNTHESIZER_LICHEN",
       "material": "INK_SACK",
@@ -109125,6 +110504,18 @@
       "tier": "SPECIAL"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "CRUXMOTION",
+            "FEMURGROWTH_LEGGINGS"
+          ],
+          "show_items_first": [
+            "CRUX_TALISMAN_2"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Trust no one.\nNot even your own shadow.\nIt's always acting shady.",
       "durability": 3,
       "id": "SHADOW_CRUX",
@@ -109224,6 +110615,17 @@
       "tier": "COMMON"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "CRUXMOTION"
+          ],
+          "show_items_first": [
+            "CRUX_TALISMAN_4"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "What dinosaur is a scribe's best friend?\nThesaurus.",
       "durability": 3,
       "id": "SCRIBE_CRUX",
@@ -109250,6 +110652,17 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "CRUXMOTION"
+          ],
+          "show_items_first": [
+            "CRUX_TALISMAN_3"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Watt is this?",
       "durability": 3,
       "id": "VOLT_CRUX",
@@ -109264,6 +110677,15 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "LEECH_SWORD",
+            "RIFT_TROPHY_WYLDLY_SUPREME"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Contrary to popular belief, Deadgehogs aren't rodents.\n\nThey are in fact mangled wraith remnants of warriors who couldn't find true love.",
       "id": "DEADGEHOG_SPINE",
       "material": "ARROW",
@@ -109282,6 +110704,17 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "BLOODBADGE"
+          ],
+          "show_items_first": [
+            "RIFT_TROPHY_WYLDLY_SUPREME"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "LEECH_SUPREME_FRAGMENT",
       "material": "SKULL_ITEM",
@@ -109338,6 +110771,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%This is what happens when time does a victory lap.",
       "durability": 3,
       "id": "HIGHLITE",
@@ -109416,6 +110854,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%All sparkle and no substance.",
       "durability": 3,
       "id": "YOUNGITE",
@@ -109430,6 +110873,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Practically a fossil.",
       "durability": 3,
       "id": "OBSOLITE",
@@ -109444,6 +110892,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Older, wiser, but refusing to admit it's just a phase.",
       "durability": 3,
       "id": "TIMITE",
@@ -109458,6 +110911,17 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "CRUXMOTION"
+          ],
+          "show_items_first": [
+            "CRUX_TALISMAN_7"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Pure CO².",
       "durability": 3,
       "id": "PUFF_CRUX",
@@ -109484,6 +110948,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%%%italic%%Use these in your armor to truly embrace the art of not caring.",
       "durability": 3,
       "id": "UGLY_BOOTS_FRAGMENT",
@@ -109526,6 +110995,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%%%italic%%True power lies in cutting off your own circulation.",
       "durability": 3,
       "id": "TIGHT_PANTS_FRAGMENT",
@@ -109560,6 +111034,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%%%italic%%Even wizards can have branding failures.",
       "durability": 3,
       "id": "S_LOGO_FRAGMENT",
@@ -109619,6 +111098,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%Can be combined with an %%blue%%Aspect of the Leech %%gray%%in a Crafting Table to increase its range from %%green%%4 blocks %%gray%%to %%green%%5 blocks %%gray%%and decrease its %%aqua%%Mana Cost %%gray%%from %%aqua%%60 %%gray%%to %%aqua%%50%%gray%%.",
       "id": "SUPER_LEECH_MODIFIER",
       "material": "SLIME_BLOCK",
@@ -109842,6 +111326,18 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "CRUXMOTION",
+            "RIFT_TROPHY_SLIME"
+          ],
+          "show_items_first": [
+            "CRUX_TALISMAN_1"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Rumors are that Argofays and other creatures really like this.",
       "durability": 3,
       "id": "SHAME_CRUX",
@@ -110165,6 +111661,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "UNFANGED_VAMPIRE_PART",
       "lose_motes_value_on_transfer": true,
@@ -110429,6 +111930,17 @@
       "tier": "UNOBTAINABLE"
     },
     {
+      "components": [
+        {
+          "excluded_items": [
+            "CRUXMOTION"
+          ],
+          "show_items_first": [
+            "CRUX_TALISMAN_6"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "How many vampires does it take to change a light bulb?\n\nNone... why would they need it?",
       "durability": 3,
       "id": "SPLATTER_CRUX",
@@ -110469,6 +111981,14 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "HEALING_MELON"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Perfect ingredient for a healing melon.",
       "id": "VAMPIRIC_MELON",
       "material": "MELON_BLOCK",
@@ -111374,7 +112894,12 @@
       "tier": "EPIC"
     },
     {
-      "description": "%%dark_gray%%%%italic%%An extremely sharp blade formed by dragon nuclei",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%dark_gray%%%%italic%%An extremely sharp blade formed by dragon nuclei.",
       "id": "DRACONIC_BLADE",
       "material": "BLAZE_ROD",
       "name": "Draconic Blade",
@@ -111521,6 +113046,14 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "MIXED_MITE_GEL"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%dark_gray%%%%italic%%Sticky goo scraped off an Endermite.",
       "durability": 5,
       "id": "MITE_GEL",
@@ -111610,6 +113143,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%dark_gray%%%%italic%%It's all that's left from a draconic sacrifice.",
       "durability": 3,
       "id": "RITUAL_RESIDUE",
@@ -112117,6 +113655,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%The wettest kind of water you'll ever find.",
       "durability": 3,
       "id": "WET_WATER",
@@ -112130,6 +113673,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "glowing": true,
       "id": "ENCHANTED_MANGROVE_LOG",
@@ -112184,6 +113732,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%Each ring tells tales of sun-kissed days. Hold it close, and you might hear its stories.",
       "durability": 3,
       "id": "FIG_LOG",
@@ -112197,6 +113750,11 @@
       }
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%Sturdy yet flexible, a dance of survival.",
       "durability": 3,
       "id": "MANGROVE_LOG",
@@ -113104,6 +114662,11 @@
       "tier": "COMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "ENCHANTED_VINESAP",
       "material": "SKULL_ITEM",
@@ -113300,6 +114863,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%dark_gray%%%%italic%%These softened bones have absorbed moss over time, offering a flexible material.",
       "id": "FLEXBONE",
       "material": "BONE",
@@ -113421,6 +114989,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%A fusion of vine resilience and sap vitality.",
       "durability": 3,
       "id": "VINESAP",
@@ -113787,6 +115360,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Ideal for fine woodworking, this fig-derived wood is fully impervious, and can even be used to craft see-through items.",
       "durability": 3,
       "id": "TENDER_WOOD",
@@ -113800,6 +115378,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%These slender sticks have a natural flexibility, making them ideal for crafting and building.",
       "id": "STRETCHING_STICKS",
       "material": "STICK",
@@ -113998,6 +115581,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "RUNEBLADE_RING",
       "material": "SKULL_ITEM",
@@ -114010,6 +115598,11 @@
     },
     {
       "category": "ACCESSORY",
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "RUNEBLADE_TALISMAN",
       "material": "SKULL_ITEM",
@@ -114485,6 +116078,17 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "PRESSURE_TALISMAN"
+          ],
+          "show_items_last": [
+            "PRESSURE_ARTIFACT"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%These roots delve deep into the earth, drawing nutrients from below the waterline to nourish the mighty mangrove.",
       "durability": 3,
       "id": "DEEP_ROOT",
@@ -114512,6 +116116,11 @@
       "tier": "COMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%gray%%It really stinks, but...yeah it mostly stinks.",
       "durability": 3,
       "id": "GILL_MEMBRANE",
@@ -114800,6 +116409,14 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "show_items_first": [
+            "MEDIUM_FISHING_NET"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "%%italic%%This bone is as hard as stone and twice as eerie. It bears the mark of countless battles fought beneath the waves.",
       "durability": 3,
       "id": "STURDY_BONE",
@@ -114879,6 +116496,18 @@
     },
     {
       "category": "SALT",
+      "components": [
+        {
+          "show_items_first": [
+            "LUSHLILAC_BONBON",
+            "PRIME_LUSHLILAC_BONBON"
+          ],
+          "show_items_last": [
+            "OCEANDY"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "LUSHLILAC",
       "material": "SKULL_ITEM",
@@ -114891,6 +116520,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "ENCHANTED_TENDER_WOOD",
       "material": "SKULL_ITEM",
@@ -115524,6 +117158,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "dungeon_item": true,
       "glowing": true,
       "id": "BONZO_FRAGMENT",
@@ -116837,6 +118476,11 @@
       ]
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A collection of frozen substances, potentially including ice cream.",
       "durability": 3,
       "id": "WINTER_WATER_ORB",
@@ -116850,6 +118494,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A terrifying sphere of extreme spookiness.",
       "durability": 3,
       "id": "SPOOKY_WATER_ORB",
@@ -116863,6 +118512,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Extremely hot to the touch.\n\n%%dark_gray%%Shouldn't this be steam..?",
       "durability": 3,
       "id": "LAVA_WATER_ORB",
@@ -116876,6 +118530,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A perfectly smooth, highly condensed orb of pure fish matter.\n\nUsed as a core ingredient in high level fishing crafts.\n\n%%dark_gray%%Smells like fish...",
       "durability": 3,
       "id": "WATER_ORB",
@@ -116889,6 +118548,11 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "Radiating some weird energy.\n\n%%dark_gray%%Probably safe to hold?",
       "durability": 3,
       "id": "HOTSPOT_WATER_ORB",
@@ -116901,6 +118565,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "The sacred ways of bobbin', written by a long-forgotten worshipper of Kuudra.",
       "durability": 3,
       "id": "BOBBIN_SCRIPTURES",
@@ -116915,6 +118584,11 @@
       "unstackable": true
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A disgusting ball of mushed shark matter.\n\n%%dark_gray%%Are those teeth sticking out?",
       "durability": 3,
       "id": "SHARK_WATER_ORB",
@@ -116928,6 +118602,11 @@
       "tier": "LEGENDARY"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "description": "A green mass of coagulated swamp.",
       "durability": 3,
       "id": "BAYOU_WATER_ORB",
@@ -138581,6 +140260,11 @@
       "tier": "RARE"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "durability": 3,
       "id": "KUUDRA_TENTACLE",
       "material": "SKULL_ITEM",
@@ -140549,6 +142233,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1774963498046,
+  "lastUpdated": 1774976336248,
   "success": true
 }
