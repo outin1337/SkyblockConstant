@@ -112137,7 +112137,7 @@
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG_RED",
       "item_model": "minecraft:mooshroom_spawn_egg",
-      "material": "EGG",
+      "material": "PAPER",
       "name": "§cRed Goblin Egg",
       "npc_sell_price": 25000,
       "tier": "RARE"
@@ -112146,7 +112146,7 @@
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG",
       "item_model": "minecraft:blue_egg",
-      "material": "EGG",
+      "material": "PAPER",
       "name": "Goblin Egg",
       "npc_sell_price": 421,
       "tier": "RARE"
@@ -112155,7 +112155,7 @@
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG_BLUE",
       "item_model": "minecraft:glow_squid_spawn_egg",
-      "material": "EGG",
+      "material": "PAPER",
       "name": "§3Blue Goblin Egg",
       "npc_sell_price": 100000,
       "tier": "RARE"
@@ -112164,7 +112164,7 @@
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG_YELLOW",
       "item_model": "minecraft:blaze_spawn_egg",
-      "material": "EGG",
+      "material": "PAPER",
       "name": "§eYellow Goblin Egg",
       "npc_sell_price": 10000,
       "tier": "RARE"
@@ -112173,7 +112173,7 @@
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG_GREEN",
       "item_model": "minecraft:slime_spawn_egg",
-      "material": "EGG",
+      "material": "PAPER",
       "name": "§aGreen Goblin Egg",
       "npc_sell_price": 1000,
       "tier": "UNCOMMON"
@@ -142215,6 +142215,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1776278684851,
+  "lastUpdated": 1776283854324,
   "success": true
 }
