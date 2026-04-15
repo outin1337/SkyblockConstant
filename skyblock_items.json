@@ -44301,6 +44301,7 @@
     {
       "dungeon_item": true,
       "id": "DUNGEON_DECOY",
+      "item_model": "minecraft:goat_spawn_egg",
       "material": "MONSTER_EGG",
       "name": "Decoy",
       "npc_sell_price": 500,
@@ -65987,6 +65988,7 @@
     {
       "has_uuid": true,
       "id": "TRAINING_DUMMY",
+      "item_model": "minecraft:iron_golem_spawn_egg",
       "material": "MONSTER_EGG",
       "name": "Training Dummy",
       "tier": "UNCOMMON"
@@ -66737,7 +66739,8 @@
       "description": "Used to craft more advanced pets.",
       "glowing": true,
       "id": "SUPER_EGG",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:turtle_egg",
+      "material": "PAPER",
       "name": "Super Enchanted Egg",
       "tier": "RARE"
     },
@@ -71620,6 +71623,7 @@
     {
       "has_uuid": true,
       "id": "ISLAND_NPC",
+      "item_model": "minecraft:wandering_trader_spawn_egg",
       "material": "MONSTER_EGG",
       "name": "Island NPC",
       "requirements": [
@@ -85883,8 +85887,8 @@
     },
     {
       "can_auction": false,
-      "durability": 120,
       "id": "ASSISTANT",
+      "item_model": "minecraft:villager_spawn_egg",
       "material": "MONSTER_EGG",
       "name": "Move Jerry"
     },
@@ -89027,8 +89031,8 @@
     },
     {
       "dungeon_item": true,
-      "durability": 120,
       "id": "INFLATABLE_JERRY",
+      "item_model": "minecraft:villager_spawn_egg",
       "material": "MONSTER_EGG",
       "name": "Inflatable Jerry",
       "npc_sell_price": 500
@@ -94868,10 +94872,10 @@
         }
       ],
       "description": "Used to craft the strangest of pets.",
-      "durability": 67,
       "glowing": true,
       "id": "OMEGA_EGG",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:ghast_spawn_egg",
+      "material": "PAPER",
       "name": "Omega Enchanted Egg",
       "tier": "EPIC",
       "unstackable": true
@@ -95861,10 +95865,10 @@
           "type": "RECIPE_INGREDIENT"
         }
       ],
-      "durability": 52,
       "glowing": true,
       "id": "AMALGAMATED_CRIMSONITE_NEW",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:pitcher_pod",
+      "material": "PAPER",
       "name": "Amalgamated Crimsonite",
       "tier": "RARE"
     },
@@ -95874,10 +95878,10 @@
           "type": "RECIPE_INGREDIENT"
         }
       ],
-      "durability": 52,
       "glowing": true,
       "id": "AMALGAMATED_CRIMSONITE",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:pitcher_pod",
+      "material": "PAPER",
       "name": "Amalgamated Crimsonite (Old)",
       "tier": "RARE"
     },
@@ -96430,10 +96434,10 @@
           "type": "RECIPE_INGREDIENT"
         }
       ],
-      "durability": 58,
       "glowing": true,
       "id": "NULL_OVOID",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:enderman_spawn_egg",
+      "material": "PAPER",
       "name": "Null Ovoid",
       "tier": "RARE"
     },
@@ -100527,9 +100531,9 @@
         }
       ],
       "description": "Drops very rarely from Sven Packmaster. No one knows what's in the egg.",
-      "durability": 96,
       "id": "RED_CLAW_EGG",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:mooshroom_spawn_egg",
+      "material": "PAPER",
       "name": "Red Claw Egg",
       "tier": "EPIC",
       "unstackable": true
@@ -102966,12 +102970,6 @@
       "tier": "RARE"
     },
     {
-      "components": [
-        {
-          "sort_by_category": true,
-          "type": "RECIPE_INGREDIENT"
-        }
-      ],
       "durability": 3,
       "id": "SQUASH",
       "material": "SKULL_ITEM",
@@ -102984,11 +102982,6 @@
       "tier": "RARE"
     },
     {
-      "components": [
-        {
-          "type": "RECIPE_INGREDIENT"
-        }
-      ],
       "description": "The Crème de la Crop",
       "durability": 3,
       "has_uuid": false,
@@ -106649,12 +106642,6 @@
       "tier": "COMMON"
     },
     {
-      "components": [
-        {
-          "sort_by_category": true,
-          "type": "RECIPE_INGREDIENT"
-        }
-      ],
       "durability": 3,
       "id": "CROPIE",
       "material": "SKULL_ITEM",
@@ -106791,11 +106778,6 @@
       "tier": "RARE"
     },
     {
-      "components": [
-        {
-          "type": "RECIPE_INGREDIENT"
-        }
-      ],
       "durability": 3,
       "id": "FERMENTO",
       "material": "SKULL_ITEM",
@@ -109983,8 +109965,8 @@
       "tier": "UNCOMMON"
     },
     {
-      "durability": 54,
       "id": "LM_EGG_LEGS",
+      "item_model": "minecraft:cave_spider_spawn_egg",
       "material": "MONSTER_EGG",
       "motes_sell_price": 100,
       "name": "Living Metal Pantspawn",
@@ -109992,8 +109974,8 @@
       "tier": "RARE"
     },
     {
-      "durability": 67,
       "id": "LM_EGG_CHEST",
+      "item_model": "minecraft:warden_spawn_egg",
       "material": "MONSTER_EGG",
       "motes_sell_price": 100,
       "name": "Living Metal Chestspawn",
@@ -110001,8 +109983,8 @@
       "tier": "RARE"
     },
     {
-      "durability": 58,
       "id": "LM_EGG_BOOTS",
+      "item_model": "minecraft:frog_spawn_egg",
       "material": "MONSTER_EGG",
       "motes_sell_price": 100,
       "name": "Living Metal Bootspawn",
@@ -110010,8 +109992,8 @@
       "tier": "RARE"
     },
     {
-      "durability": 94,
       "id": "LM_EGG_CAP",
+      "item_model": "minecraft:witch_spawn_egg",
       "material": "MONSTER_EGG",
       "motes_sell_price": 100,
       "name": "Living Metal Capspawn",
@@ -112153,45 +112135,45 @@
     },
     {
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
-      "durability": 96,
       "id": "GOBLIN_EGG_RED",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:mooshroom_spawn_egg",
+      "material": "EGG",
       "name": "§cRed Goblin Egg",
       "npc_sell_price": 25000,
       "tier": "RARE"
     },
     {
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
-      "durability": 4,
       "id": "GOBLIN_EGG",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:blue_egg",
+      "material": "EGG",
       "name": "Goblin Egg",
       "npc_sell_price": 421,
       "tier": "RARE"
     },
     {
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
-      "durability": 94,
       "id": "GOBLIN_EGG_BLUE",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:glow_squid_spawn_egg",
+      "material": "EGG",
       "name": "§3Blue Goblin Egg",
       "npc_sell_price": 100000,
       "tier": "RARE"
     },
     {
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
-      "durability": 61,
       "id": "GOBLIN_EGG_YELLOW",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:blaze_spawn_egg",
+      "material": "EGG",
       "name": "§eYellow Goblin Egg",
       "npc_sell_price": 10000,
       "tier": "RARE"
     },
     {
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
-      "durability": 55,
       "id": "GOBLIN_EGG_GREEN",
-      "material": "MONSTER_EGG",
+      "item_model": "minecraft:slime_spawn_egg",
+      "material": "EGG",
       "name": "§aGreen Goblin Egg",
       "npc_sell_price": 1000,
       "tier": "UNCOMMON"
@@ -112533,8 +112515,8 @@
     },
     {
       "can_auction": false,
-      "durability": 101,
       "id": "SAM_ASSISTANT",
+      "item_model": "minecraft:rabbit_spawn_egg",
       "material": "MONSTER_EGG",
       "name": "Move Sam"
     },
@@ -142233,6 +142215,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1774976336248,
+  "lastUpdated": 1776278684851,
   "success": true
 }
