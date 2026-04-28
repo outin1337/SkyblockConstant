@@ -210,6 +210,13 @@
       "material": "SKULL_ITEM",
       "name": "Glacite Chunk",
       "npc_sell_price": 1,
+      "salvages": [
+        {
+          "amount": 25,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "IubcIP+3D0cp7BabB9BevdjSd0jx3t1OpO71QADpURW3idI0zIN9HUa9gqeG0+Qs6k1IAvAVyPBgCkAIv+1ynfolPRpIELUYBwtb0lK84dfmT05MT7oqVBNRdf28Zf6p9JE/yXwEVCSAVKHoWZzPv1HW7C8ApYmpsmWopZ6jaV0b8rdHPqpzVmVjKfCaKl8NDKnfI03KmhWvrbYzs8qYvuvCMyqa2oT6C+h+CyYtO8uzJQH42WMiZOlMMV8AVq/euifuiyCd+o1qXAPRVHHi1B1cPi6WTEDFrb4lAwgPv0rwBt/yyChHt4TYouHX1Udq90gKdzjqMSfx0quw9UVpe2ykSgqwfjV1GEXHXXHg6wAfSi+Z9nNCb67llVey3AvhHV9lPwdEq1YJ+FZg06Z6wxpNq0XD4HeC+PVeU6tUUcjoPvKX+PGuck+n+ceJkSwd+xRPE+qtTqqfmH4FlMrs6bbJq/bYbJLe6y8rRbKPJG91Ak24JukKOZdGuxTpdW989mKVeYLYtDj5E84RwNGvB4R/TFJ6SToFOEqdg6aJH1UTEMrhCNjuJmjSEDDMWbHfCAL6kwuuPGJUQudCI8bzHNbZKIMMFuxRa56LolbxfBwu+gaAdlhU2MFrElCOZaKJoj3g2+Ey49lXnPAh7HW1bTbEetRR7sCyVOnO4aPC6Xw=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzk0NjY0NDczOSwKICAicHJvZmlsZUlkIiA6ICI1ZTEwYjc5MTY2ZTA0MTNkYjI2MThkMzE3MTc2M2Y4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPTUZfQmxvY2tCdXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTEzZjkxNTY5OThiODdiNGViMDIyYzIyOWE4MDA3YjdiOTAxMmY4YTVjYTdiOTE4MGU4MDk4YjZhODZmZTg1MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
@@ -982,7 +989,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -1113,7 +1120,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -1202,7 +1209,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -1280,7 +1287,6 @@
       "tier": "UNCOMMON"
     },
     {
-      "category": "HOE",
       "description": "An ancient blueprint.",
       "id": "THEORETICAL_HOE",
       "material": "WOOD_HOE",
@@ -1319,7 +1325,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -1398,7 +1404,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -1514,7 +1520,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -1627,7 +1633,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -1743,7 +1749,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -1857,7 +1863,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -1958,7 +1964,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2066,7 +2072,6 @@
       "tier": "EPIC"
     },
     {
-      "category": "HOE",
       "id": "HOE_OF_GREAT_TILLING",
       "material": "STONE_HOE",
       "museum_data": {
@@ -2089,7 +2094,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -2205,7 +2210,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2306,7 +2311,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2384,7 +2389,7 @@
       "tier": "UNCOMMON"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2484,7 +2489,7 @@
       "tier": "RARE"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2563,7 +2568,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2642,7 +2647,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2743,7 +2748,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -2859,7 +2864,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -2960,7 +2965,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -3076,7 +3081,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -3192,7 +3197,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -3271,7 +3276,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -3386,7 +3391,7 @@
       "tier": "EPIC"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -3501,7 +3506,7 @@
       "tier": "EPIC"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "gemstone_slots": [
         {
           "costs": [
@@ -3617,7 +3622,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -3718,7 +3723,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -3797,7 +3802,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -3875,7 +3880,7 @@
       "tier": "UNCOMMON"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -3954,7 +3959,7 @@
     },
     {
       "can_auction": false,
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -4054,7 +4059,7 @@
       "tier": "RARE"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -4165,7 +4170,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -4243,7 +4248,6 @@
       "tier": "UNCOMMON"
     },
     {
-      "category": "HOE",
       "id": "HOE_OF_GREATER_TILLING",
       "material": "DIAMOND_HOE",
       "museum_data": {
@@ -19473,6 +19477,7 @@
       "unstackable": true
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "SCUTTLER_SHELL",
       "material": "SKULL_ITEM",
@@ -22823,6 +22828,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "PET_ITEM_CHOCOLATE_SYRINGE",
       "material": "SKULL_ITEM",
@@ -24750,6 +24756,7 @@
       "tier": "RARE"
     },
     {
+      "can_recombobulate": false,
       "durability": 15,
       "hide_from_viewrecipe_command": true,
       "id": "BLACK_WOOLEN_YARN",
@@ -25553,6 +25560,402 @@
       "tier": "LEGENDARY"
     },
     {
+      "can_place": false,
+      "durability": 3,
+      "has_uuid": true,
+      "id": "BREAD_BOWL",
+      "material": "SKULL_ITEM",
+      "museum": true,
+      "name": "Bread Bowl",
+      "skin": {
+        "signature": "hOdMR9RKI0kltq6HgOb3nX5HYWRTPxnX+TWY1S/E4Eq5CExMY8rweUtDwl/k4imp3KylPEQAfeTbecCBstcUFX6Qs0Ipt5C2daAg59Pw8Ikid2swywJ56qyuUYgix+vT6BHvmgK7J7pSTK7EiFMZGNuWQIhKkWC31/zGfvMC/1mVJUA+5DxES8qQbrC8xZRxRWJDbWQVURFLJzAiRk9+64QYp71j2Ft7zX0wDCdFlNlJie6NOFMgqUETeRztPybtTNgqYhgjql248aYbdhDPeL1jcCuYJId1bGDIQeMWTlHRYHth9q90BZqGFl/dBU8Mq9aswW4ukIjlMbq3UwOFzvGR6ZfQc5ROQ5dJveX2e7arHBQ/MNg/XiiOI0VBT2lsPcaHOMuJuSOzKoxx1nkF5pBNSMIsbEpcgPMl/BpaHm2N399w2MCL5P4lJMixsCbAVhveAFQ1OnkhHAR8d/CXs2N/2RiyABPMWXq20sfkz7AQThPkahK6LnAaEr3ziIstgxJ318p4xtvruqb2637JX1BmPmSJeIkWzkkRarQO/289BpX6EYi/k2lGy/1LATamoE2NijMmNAtsBH0IOG8NdzW6xxvP/r7HoFrLZfNqIJ5fTINTp93/p+p7F5A62hYOcaVsw4NsIOxtEuEsz/vOAsYi6Mb+wUETcgK3FcmFptU=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE3NjQ3OSwKICAicHJvZmlsZUlkIiA6ICJjYmNkNDQzZGE1NTI0OGU3ODM3NWNmZjYwMmQzZWI0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPX1JlaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzY0ZDQ4NTMyYmQzOWJmNDFhNThkOThiMWVkNmE3NjRkYzE2Yzk1YWFhODYzOWM0NWM4OGFjYmJmYzA4NDgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "soulbound": "COOP",
+      "tier": "SPECIAL",
+      "unstackable": true
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "CRYSTALIZED_MOONLIGHT",
+      "item_model": "minecraft:dragon_breath",
+      "material": "PAPER",
+      "name": "Crystalized Moonlight",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "FRESHLY_BAKED_HEIRLOOM",
+      "material": "SKULL_ITEM",
+      "name": "Freshly Baked Heirloom",
+      "skin": {
+        "signature": "qFRvVxZM2GhlCRn7hEAlvIIHLfinsWhY12o4l3kjBU5xvB7nqEWYFakDB1Oilg3WlervOQyRX92lb9fm41IAGkry1nRKGLc49RBh4lsvCZXS8ciIv8jsx7gNX8Y/s/vMafS/py181e/pwRTk9A7tRwjlZ2PEeZt4pKmZrrazbuI0tWXs311KfNMCJfe1mx088aXl/jt2RKEuIlK6c8yUfUVpHdQRVllLCnKyKGbtr2ijUt/xG1bMl9NNpE8anlsE6nk+mgHm/8/La+8KifLllZYNRNISDqCd3dXigHJfKAGtpt+c+5Qc/k+srNH6OAFyyoXEJtqIqaqQX6v1BHq1YYgJniN7AopsvTUjn1+p0AVcP3HcM3WfVY3j1DECSNvsIwNDan3EPieA3yCys8OfsAS/YgOUqVntsmmgkqKQXBrkb+ABdIGLeBPupQ4Fr2oCibonw48uTEzOhOxVEs+9CTeKMjl+JIOjqo7Of+0Mx/nLEJs+CHXYfuiimD7FJE+fBN+lAJR0eQTUA6WHh+xtd3Isf+CNqNAz87MYlD1Yi/hfN23Pmiz02pqolS43PorL759znZlCIRhc5ohrvuJC6YG4MC4db64OcZLLQw8PNmaK832lrHqX63+0P5wloXhYjKDexuegzIJ1Uh8iRPnSbJ0SQ0Uz5vpJ2+XTO7E+bN0=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyNzI2MCwKICAicHJvZmlsZUlkIiA6ICI1MDMyYTA2NWQ5MWQ0NTgyYjZmODM0MDRlMGYyOTA4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWNCb29rUHJvTTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUyMmVlMzljZTg5ODliNGMzNzc3YTIzNTE0ZTBlOTdiMzE0NDE3MTdjNzc5ZTljMmVlZDM2NDIwNmQyYjU2ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "glowing": true,
+      "id": "VERY_MOLDY_BREAD",
+      "material": "BREAD",
+      "name": "Very Moldy Bread",
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "POTTED_CACTUS",
+      "item_specific": {
+        "permanent_cactus_fortune": 12,
+        "permanent_health": 5
+      },
+      "material": "SKULL_ITEM",
+      "name": "Potted Cactus",
+      "skin": {
+        "signature": "digkSb7+Os5ZUxeUUy/cBDCqruYGd5XHPXDgY3FRIBK/t6XwcCFjmIuGMXhWG/uq/PVvKOdwkvg4rJrDb33dSr5SQNz7ng92f4HDfi20ByUp1Bs+Z7pLE15Syh8l0mnFdzKnzr92CXagExYOMw5nO2UY7wUoXn9oA/J56SM5noPmrhN9I52x1HHLbya6NPwlAWzAqriPziiJfWKL2UUb7gUerlestLp10wT9myduLnU8gPdT91sc4gUTZh97JrPJvZaf+Xc47+7DMSRtzYFTjYvOvs6fG9yJ7cFmh9RJVI1TQgcoXEI534RbGywSxCjP42ck+5PM6TRD4fn60uJzwv/ZqCDWoyllECkRZKWg/J9aIo/mKuBR0kb3ulKPVHWcXZZu9rANTH34xwW+HQaWuNt72oqYzxoaCukqYlja/LNDLSWqO+BSmoIgYTRSQz+fvMcsciVDrzBVXjqZuwcaD5hycBBDQtXNyCEOmtPRc9uGQJ9S1jgamiPrj9sUnMh1CGea4XBIFLkgWIQ/DFD9eSRtj+GCtXo+P3TR5RiYo1nfOiKvNG5O5brIe4/0gsM1Q+ntQB907WihL54el8jrswIP6W4ADOKHSgtw+r3OxESqlXNoncPrQgDE1zKK5Qw2Io7hF3dDGPKWwJt7CUvK9zDSONm9q439iZrGVa4Eq/w=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMjQ0OTQ5ODMxOCwKICAicHJvZmlsZUlkIiA6ICJmMGIzYmRkMjEwNDg0Y2VlYjZhNTQyYmZiOGEyNTdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbm9uaW1ZVFQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYwMjAwODQwYmI0MDY2OGQ3N2EzOGNkYzBkZGNkMzkxYjI1MjY2NGViYTJlMzY3ZDhjMTM3NGM4ZjVhYTFkNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "GRATITUDE_ARTIFACT",
+      "material": "SKULL_ITEM",
+      "name": "Gratitude Artifact",
+      "skin": {
+        "signature": "J5SAPZC4taleCe4toYY7gMSMDEWYm+YJKAnKy+upyLcxQShUuTG+VA3zwBCj5+DFtRFBDFKDhHLX63H721N132wROnJQTDnWXxUEHHrpOBO5t9vn47ElSgakLbuSd1XWK7tgXZbQEWQH5NvxcRRcZmwWedsbLfVEu2psN7IcMRS+CrOOodsKAEjv5fIK/405Kh4am4Uf6Inv/ZkCyiNm60zgbwcpZmaWCpmb9EVwWhl6aDha8i6uQBQorx11n9mUrDX1Nw8GL72yT9Mpw5Bd7lERAFCYclx6oqxI2duHCpE6RJ7Tf+L/KCIhnwqCtZ+Wxg073r3pBefB+YibuE8jFvHneY7CwtONJEzjzh8bILH1BJKTWY1VkX5q1b93YgYbEI+WFz8vgwv42cyJUKU98Fo+Izfi0FkL1hRaMlnlHYvZSXvj+841x9yrxXdnaSjHr4lKP32PN7rUWg1nJ/BfOjlN/1kQ0bRG9QX5f7WvlA5stgt5Jf5FUb0tOwBH3b+/Z2Az7v8MNmxqDSgzsyViarZKKKuYdx4uJeJVLeK2ZBHoTBaFQmawVnzfTyZxvAJb44HQLAW5/8+lWPtV63iiaoJ66EAqce4tnu6/y3Fa8COiRqAAmwJ6DMTp8NzjkL1U/JKyellkX19/i+8TJAPzngn6hs5kBNatODbPzhdr4So=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzMjg2MiwKICAicHJvZmlsZUlkIiA6ICI0NDYwMjU3Y2U3MTE0MzQ1YTA2MzBkMjgzNWY3MzcxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWxlZGljdF9ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZmJhODQ0ZmY2OTJmMWRlNDZkNjY2NGE5YzZjNGQyOWJiZmI4NjJjNjdkZjc0NTVmNDdkZWUyMTUyZWE0YzgwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "RARE"
+    },
+    {
+      "category": "REFORGE_STONE",
+      "durability": 3,
+      "id": "SUNFLOWER_BUTTER",
+      "material": "SKULL_ITEM",
+      "name": "Sunflower Butter",
+      "skin": {
+        "signature": "kKF2TpiGIjqxk4cCUqtYqP95xPaxazlqtv/TogQ6FmEiFKhREO0RXLfzIgj93KyKQmEl41eFeGC8OsaOoUaLvt5QotDA4v7QzDhcnZmCdsRwnKq6pU0Mo2glLV6r2RbVzXkjiXBm88wTAAKhTUwNpC5074yY1IR4UaZ7kQPrUk9Mrur660seD25LuB0yZ6GnzSpi1XGEcVqih9cRvfvEzSyOEyYKQCYzAknevNf1HR2MPRAAz6FENPx5vacViDUUfH1MK+Mwz9K4cxl4/TXWNEHKtNTI1gAuPKWmv4kJxRAd7msSMpRcn/SGCTsGhuYMhpPCF/ilEfwMJ/oUS2rO5+IZxlQIp4cac/ZAfuN9u4bRtOx3AmLEKIi/LI42Ul0IekBgODHi0DcGdhhT0oG+GTll1Ur7TIO87htFEOvv73myALATmKwAPjnxrmVRdR0G3kD4KD/iur3wcRugjMiTkMsW0gR7Dy6hjCT5gWDBEdShHIBQMY5YPfH/FQXuMmiyWez+lHLdg5T3AmyDXByTFAoxtktAvVNCKc/oH0tbvvcDob2M47RxVdllAAW6bnQ39/w5Pyfudo1XYWtaD2EfEd94uY1wt0nJjkMvxwauqEiWw3AI3M7ql2Ny/zeDaFoXDK/5w7SOBJYWRa8wz5i0NBOR5FrkX80cgEtdv/a8IQ0=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTIwMTI3MSwKICAicHJvZmlsZUlkIiA6ICJiNzAwZDM2YjRkYmE0NDQzOTUzNjc4NDVlNWViZTA5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleGVjdXRvcnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ5ZjcxMzVjNzdhYzVhZTMzNTU3OGY2MjVkYzFmZGI4OGJkNGQ2N2IwMmE1MTc2ZWFmYTVmZTJlODg2OTQ0ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "RARE"
+    },
+    {
+      "id": "NOT_VERY_MOLDY_BREAD",
+      "material": "BREAD",
+      "name": "Not Very Moldy Bread",
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "has_uuid": true,
+      "id": "TEDS_CONTACT_BAKED_IN_BREAD",
+      "material": "NAME_TAG",
+      "name": "Ted's Contact Baked In Bread",
+      "tier": "EPIC"
+    },
+    {
+      "id": "JACOBS_PARTICIPATION_MEDAL",
+      "item_model": "minecraft:mangrove_hanging_sign",
+      "material": "PAPER",
+      "name": "Jacob's Participation Medal",
+      "tier": "EPIC"
+    },
+    {
+      "durability": 3,
+      "id": "CELESTIAL_MASON_JAR",
+      "material": "SKULL_ITEM",
+      "name": "Celestial Mason Jar",
+      "skin": {
+        "signature": "xTFpvuE6azKnsW5NlcIEv/6IOI7ROlkKnP+FSrsQX6xmPrAXSj5p+QhT6ZUmry+JyR5isrx2fuPdIXbq880YWfVus2z8mtEyhaK8whlLCUmeJwa9zl5jDU22axgFn2xlBEfN0V8YPCLfU/4bmC9wrGHYmb0thlZPsUfWlT1vELpRlLXWwa7bgqZG/Z+a2A/EFWZIrnq88erXOu2nhF2QWlg+7mEmljwLN4bg4tcrZIbzVS6SOiRCXzLgsu5pyE9UOC5i3lONVPx7XwXViku89+1GoAFdKvQ4R8h5yLEvk8+lbiYKcoI4PWB7JOA057KumrhwrURKgLnmWVXoJIZyCt1zotRrTPJFCw28XJ33N3Zu+zY11b3U7Ko23DO5jUrtYXkqXG8bfvYHRIhTqCyBYU/IJZqOe3M3roSq3iyEOzFzwVrudTmjwH9vyMCDd9Vf+Ks07WhWMzoGmC7PEu5nRrLZ7/3Vtut/zs5N34Q5V2PyzOhJFxjfE6GmL6icNSpoAU5MUxm7KO+pHW7USp0QPTQhUj67JTB+0RiHbCOgvYnZQbwB93E8vmKyybFDvWbD/y8wQz9ZQEj/knNR7bLt7yqFmrb1F3P32aqazJfTlKUGO9+FU5e0YMK8OoVo/dvj1njdYm4BlSZR54lZ1D9Sek2WfEEepslakXFacyCPAmU=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4NjcwNywKICAicHJvZmlsZUlkIiA6ICJhODc1ZTI3NjZjOTc0N2Y5OTM3YzBmMzNhMWQ3N2JmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhMTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWUzODY0Nzk1Y2MwYzk0N2Q0M2E1Y2ZkMTlkZjI0YzA4YTA3ZWQ3ZmRhZTFhOWY5YWRhOTlkMmY4NjQ1NGEwOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "CARROT_ZEST",
+      "item_model": "minecraft:fire_coral",
+      "material": "PAPER",
+      "name": "Carrot Zest",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "REFORGE_STONE",
+      "durability": 3,
+      "id": "OVERPRICED_DRINK",
+      "material": "SKULL_ITEM",
+      "name": "Overpriced Drink",
+      "skin": {
+        "signature": "oPVWr4ysnpPwIIl1nRW3UVmHP/OG4gWoNgHV04cldD889g2EdGtMWcK57xZGgTuHlarIkLui8Qt6x7kNzWgFCsvpVTzKgcq0jlm317jLNZQg2zw9V48dGIBsLsVEQ35dW6Z9KcO2JUl0Zlij0D9bgzFqxfdGtDMB6X7xbtUDK8iosglPK4rmjO+P886fINt2FzMTeUgloaVT5Sr/Scma64j2Z2bS2WQl8lWh7moAwiiAMvFVf5bHo+g3JJqx0158kDimIfpIH3lhpwXzQUoeucxreOUMtpqQMB25RwBFDokw7EXdlYlOqRC4OKE4NUf93xwstLJk3px2glCLMtGhEWEnyalVGjmxoNn/ZL4mvavzOZmtXylSE8lStlkv5Erjn4wjKSYK3AG8kKixscrB5Gf/ZRq/H5kyt06HJRbhFnXKy8vSb8/rux+hNJPWeLC43bI5ykycydjD+Y4HS5ghVJFvQanlZJzdqBQc2jO9uRQbj/uxBLFXXldPuxS16WIAxOO1qdmRDLb2mbObqafKtsVM9KbCna9jO2axVWEsp9SB//mcqbx6iTkDUBHlb5myWglXOJno0xYwx1VFzMPITPMipRnmUxX5ahmpWTa2pte90N/DNbm5JISCmn52b+G4Sd/Bh5wQiF1NuLcKxqipxq9oKsRPEWQGZWq0F5GZeuc=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNjE4NDI4OTM3OSwKICAicHJvZmlsZUlkIiA6ICJmNmEwYzA0ZTIwOWM0MzU0ODI5OGYxYTk0YjdlNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLb1RUSmwzVEthIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0ZTFjZWQxZDU0YTUzZjdkYjEzYjdjYzEwYmY4NTBlMzJlZjE4YWFlYTQyZmUyMjE5NTFmNjFiMGM3NjY4YmIiCiAgICB9CiAgfQp9"
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "REFORGE_STONE",
+      "durability": 3,
+      "id": "HASHBROWN",
+      "material": "SKULL_ITEM",
+      "name": "Hashbrown",
+      "skin": {
+        "signature": "r6o2dRM46rFUZigAgqE+noTyoPk7aXbGhug8aYPXAnq3pQ+/dgENVVwJOM53dZkoQaYV0i2tNjZuInlWkjrcnEA1Biix3T+pAdnLSMeKxNz0sL011EdlSw2NysmTH29nNudw+7hsHxwzflCykxE7IOpkdvBunkuUtSCEjb9oyQUn8Cx/Yt29fqf9wTqhwLipasjeTXaCJxdJGNnIXP1OVwa0JsHsi3xgan+ywyUcwG2I3ZlzP8q+MFwsznJaeFaxBl+3Ruaey+SR1syUOmVGYfaptH5+0Flzuq0CpmMWL7B7xrjpFwFf4OxcUfYkjOlZvV780e1eFua9MxJFi0Z/R8Zs2Orau3v5EFI9NDtWYVpAtXJdIo0xi1CViXZ7dFbAxdTRdBwa2O5u2F+Xl5HX1o0Tcm4+i1JWUCtn+6dfbGDZcnZHiBGDQFlmTYUP2H+DGyzzfO7ZxJFkldYIrwELyqs4oTQMMaeBFp04OVLqYaHYRFgFvA0DYnIjjMj2HJbVCcmpV4zfL79WceEecnKNU9Wep6o/wFmIXzb/x09Vao4fo9VbH8eVUmfkdS4Zwwcpw3n79iEB9dIUSBu31lwxkSSEUrqqO1eB+AnoWrj2Q1Xvk8Cnf3qhujgF7XX06qWHZUTLFxy5QFErOh3O14QfO9pYd7Mb35mPlF+At+hHsyM=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0Nzc3ODk3NjU2NywKICAicHJvZmlsZUlkIiA6ICI2NDg4Y2VjMjc4OGQ0MTI2OTk5NWMyMmY4OTdmMzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBc3BlbjA1MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTI2OTE4Zjg1MTJlOTk2NzkxMWIxOWM1ZWFmNmQ5ODliMmM4OGU5ZTIwNmRlZGM1MmVjZmFkMGI3ZWI0YTgyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "EPIC"
+    },
+    {
+      "durability": 3,
+      "id": "INFESTED_DJ_SET",
+      "material": "SKULL_ITEM",
+      "name": "Infested DJ set",
+      "skin": {
+        "signature": "r6o2dRM46rFUZigAgqE+noTyoPk7aXbGhug8aYPXAnq3pQ+/dgENVVwJOM53dZkoQaYV0i2tNjZuInlWkjrcnEA1Biix3T+pAdnLSMeKxNz0sL011EdlSw2NysmTH29nNudw+7hsHxwzflCykxE7IOpkdvBunkuUtSCEjb9oyQUn8Cx/Yt29fqf9wTqhwLipasjeTXaCJxdJGNnIXP1OVwa0JsHsi3xgan+ywyUcwG2I3ZlzP8q+MFwsznJaeFaxBl+3Ruaey+SR1syUOmVGYfaptH5+0Flzuq0CpmMWL7B7xrjpFwFf4OxcUfYkjOlZvV780e1eFua9MxJFi0Z/R8Zs2Orau3v5EFI9NDtWYVpAtXJdIo0xi1CViXZ7dFbAxdTRdBwa2O5u2F+Xl5HX1o0Tcm4+i1JWUCtn+6dfbGDZcnZHiBGDQFlmTYUP2H+DGyzzfO7ZxJFkldYIrwELyqs4oTQMMaeBFp04OVLqYaHYRFgFvA0DYnIjjMj2HJbVCcmpV4zfL79WceEecnKNU9Wep6o/wFmIXzb/x09Vao4fo9VbH8eVUmfkdS4Zwwcpw3n79iEB9dIUSBu31lwxkSSEUrqqO1eB+AnoWrj2Q1Xvk8Cnf3qhujgF7XX06qWHZUTLFxy5QFErOh3O14QfO9pYd7Mb35mPlF+At+hHsyM=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0Nzc3ODk3NjU2NywKICAicHJvZmlsZUlkIiA6ICI2NDg4Y2VjMjc4OGQ0MTI2OTk5NWMyMmY4OTdmMzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBc3BlbjA1MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTI2OTE4Zjg1MTJlOTk2NzkxMWIxOWM1ZWFmNmQ5ODliMmM4OGU5ZTIwNmRlZGM1MmVjZmFkMGI3ZWI0YTgyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "EPIC"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "SALTED_SUNFLOWER_SEEDS",
+      "item_model": "minecraft:yellow_bundle",
+      "material": "PAPER",
+      "name": "Salted Sunflower Seeds",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "CORNUCOPIA",
+      "item_model": "minecraft:nautilus_shell",
+      "material": "PAPER",
+      "name": "Cornucopia",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "id": "FINNS_FOCACCIA",
+      "material": "BREAD",
+      "name": "Finn's Focaccia",
+      "tier": "UNCOMMON"
+    },
+    {
+      "can_recombobulate": false,
+      "durability": 3,
+      "id": "TRUNK_POLISH",
+      "material": "SKULL_ITEM",
+      "name": "Trunk Polish",
+      "skin": {
+        "signature": "kcIBjANsYJ2kZBo1JCh8MyaKkxe6Twtq0ibecUjnm0oM05BdtwSka3OdryPaRq8SkRdH1W5T6dIqumr3GmsLNo/SqhJbtH9YXOWCOU3X42+kkbAFNm4kKOVd+4GAzod140O7uhAF3jJv+MvCHVqGqxmCAFkb2nAMmwnzWsGC7Btj8iw8nrIfXcF/5tu4QiAqG17z6LZt4tg6wJLScG01HrpI6CZeo1WLjFJcoawCGUQmWbW4AfARS2dHqpX9PaAI1kwPf35f0ZvrGfI6IC0PDAHFVdnDzlxvh966fVZAsq581Huxu+SzlhgIubVCVgnvj7Oqso/FO++2JlwB7n20yvNPyOsS7f3kjSNZcaahXNS7/ej49Tp5E13+Gn/ppnfTSazZSa8E/tgMZwB81HCO3xyneRAWySk34nfDai7m5UGzSWF8CYpp+XPQvQNveaEb9Y4Qd8rrSs6JK9B1SgVoTFVOIU2BwfQ32uukhFtfkVblqwhzMMTb/FpNc0e8S7TyxcIQn6frlefNAOYJ3/GbOxVMYaiXKw4Pm5y1nKMViyhEPubwLhvILkCrYADqJCr3T7OG5JKY8YzANrEfxjt97S0J33NPOw3J3nb1jWDZiCpZyVz2IC4plNzLMuuOfQ/QfzXs9TRm+frJGa80BRKHS6iOjIIwPHqhsURu8I4PiRs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0Nzg2NTA5Nzg2MCwKICAicHJvZmlsZUlkIiA6ICI3YTVkYmRlNDk0NWU0YTE4Yjg2OWY1MGY1NTJjNjlkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdWtraXRBUEkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ZmN2RkMmJkZjQxOGI0MDMzNmRhMWVjYmQ5MzE1YjU4YjIwNjI3YTk0YWVlNjlhZGFmMDFmNWQ0ZWFjODBkOSIKICAgIH0KICB9Cn0="
+      },
+      "tier": "MYTHIC"
+    },
+    {
+      "durability": 3,
+      "id": "LOCUST_LARVA",
+      "material": "SKULL_ITEM",
+      "name": "Locust Larva",
+      "skin": {
+        "signature": "Lgw28uHq2/WZR3Sdl1pgXetsn3KfGvVH6Lo8rvrlcv8bBjV/ltYPQYep78efsyQxt0K6X4UH9YohJP28GexFzKdkCR5ly7O0QMHwbQg9OXWR7ZdIHH8gwNGhH+Ndal9AT4mRvFBVBLVK9z2CIZV+FQm72qiSu1UkcNTrgGSisam9p44wX5GYs+vYmPA8WMyUChQS6Np1VKTSOUQENEdO62VoNWqu3m2/R3QF8J6rYcoCpvh5Y39erxxGIeMlpIs2bgjNttgohD3SmGynk5cIUP+N4HoeqqXGHR3kXnAYt4cGSZN5wr5Kqfl10VinsMtXUie/3Ov1CB6jBrdFWobnP8bDAMwBu8Q/T/sH6QO2zBR7pxfsZUs5Dq4JArTqPb5sRt2ZcZI4L98fs8oe5Pjd82eTFap96IslkB6J/Ml4nzpfRjrJ3awdx/HBMnibAUnEu9JO5Kmgu9fFdD+Kr3tpIV7GpNxrpGUGdf8G0ebaXTTqRnb3VMKpvnuyOadFLit+V/eIwahVy6/nZ7OaJeaivsjxlIQwEICdnaNy94xJQ7K5a/+55hTeoDmxfI/f1VzQoN/uyBeEgECyJ8ismZ86BwUlWU048kJgDvzM/0Cj/QUC23mskPosOEysJTTqUl4kf0s0cRwTSF9TkfYodEi9jRy7hGPpHGxfnfoGiCHFIBQ=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3Mjc0OTczODU0MCwKICAicHJvZmlsZUlkIiA6ICI3MzFiOTdlYTI1MWM0ZjNmYTk0OTEwY2RkMmQwOTU4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbU5vdEFDYXQ2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkZTI3MDk0NjRmZmJmZDFjOTRjMDc5Y2VjOGU0MjQ1YjkwMzJlMDM5YmViODBjMmE5NTJlOWQxNDY5MmNjNDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "UNCOMMON"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%Visually unappealing, mildly explosive.",
+      "durability": 3,
+      "id": "PRICKLY_CREEPER",
+      "material": "SKULL_ITEM",
+      "name": "Prickly Creeper",
+      "npc_sell_price": 1000000,
+      "skin": {
+        "signature": "cT0ykkntsc0NR1An37+akkJF7xubgWljaCw6TS1sLg2Iq2PpJ0m9ac2q9oQDnntV3R5qPcbSd8oEOFzHn+xxhiFZKY52IH4PV0OGLDibg2AzJ7yxDjh40ASCcVmcTErtuUNkyIE36aeXtH24BauAPlZ92gRwxgM9ElRjQ4ZuT2U32833MMYKdsdIubl8jUh1B1qq5HrG86LVitsZsAj76GfkVjwPthwXLT23MupGcHKRCn1vj19UCKcQL6RQtxcqnSCl0uuy8fcC2CzeP+NH7bT5OxcEqD6Zr00qWLHu9rax2UtjU0133pLx9ORpyRszDYDzQzKDnBT2J+FlvoE9+oZHDfnTLhDIRTxVFjMRZ8q9HGb2nAX8NHd+caeGk3lnBWpxRdfdij7ec630H+xIo6rRTQdjPNQFQfYgYcVQYYqPu6JBW55RACh9IbC3nSZ2cGJTpDZoiCzTVWNdp26df8knQftwO2KcwYOJ1NPzRcRsueteKrCoQF5Ep/VzplV26auJDCfK8HSYutDDWtTiaAP5L1jVGEyrGvqhIs9EfZ3RmRHpWatapfDxdY/M/iF1U9KBkhkt+xQnel4mDQlzRLAKrH9aFlhrImAk2J5TlcY4wG9xS+7fvur4xxAHIczKTaMed6yWf81jcYyB9ED0CcAoTryfVzjaeP3+0Uo1LZc=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MjIzNzA1NjgyOCwKICAicHJvZmlsZUlkIiA6ICI4YzExNzIxYWM5ZjE0Mjc4OWEwZDgyMmRmYzNhMWE5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb2d5Q1pTS18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM5NGIzOTIxM2RlMmY1MmZmZjU1YjAxZWJkNTk4MDNkNjU4ZWRjOThiZTVjMGJhNGE5MDk3YzBkNWM2MmQ1ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%A cup of soup from the %%yellow%%Communal Stew%%gray%%.",
+      "durability": 3,
+      "id": "FEAST_FLASK",
+      "material": "SKULL_ITEM",
+      "name": "Feast Flask",
+      "skin": {
+        "signature": "QjK09D4PXJT5SZWcLaeiDlQT8KvNlkMaTfHXii+f0v4JOEnP+oZW2dpY9nhAREvzbgufI8tWq6CyjwLjNxpHgrsIsll5Oc7WbOweTLeUke2y0VgVPuHhMzogiNQuX5hVqXog8yQnveWRA4VBYX0h0o4szbMLBX11GMbOSd+C7piBJx0Pq4eMxGqE9c42K+a1Uq/HA5xqbN9CEASK15sbUZUNer3se8SKYveKc00yX6sWNJbC7jpFjlWThfqN8ca53x542onrjbung9o4VWywQa+ztx9JGu8fZGu16xmEtbSPnJ1hlrMXu3Eu50EcK9ulcPGnjhTZcRsBz7nAxhTeo1wXEJ/eebzj4e/q2w87r2X7Kyia37wOQ6LYz7i8zQGiCc9mOoO+CFV+qIsUAUOAu8jHtASadCwjr3fd5j3Wxm/WLz4WkQivTlE5aVTFHwgYETDqTPUUrs5c8+7EJk6579/1v5V5FYRnv7terc7hfaS8cMDtU7amAhgfkxdsufBYBEoA600QujStxnhqbJFpTW0LtcuPT0wRlPmVsrPSriNNm7IuDKj08ZKNOeD7sW5nggTKhzrKDEUjf4Pd27ZjXVBiexFnwSdyE3wh4bTGpCNYdMJbAvX72A2OhOZ7BKhnyrHqPoYAsgIUAzhJHXaQdwg8thkYBpbQKVUuImvYrto=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzU4NzUxNDUyNywKICAicHJvZmlsZUlkIiA6ICJiZTFkOTJiYTkwY2E0NzMwYTIyMzQ2MTIxZWM2MTNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZW5zb3JCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5ODAxZjk3MTkyNjEwN2Y3NjExN2JiNzE2YWQ5MTkwMjJhMDU5ZTI1YWU5NzFiYzU3ZjczNGM4YmM5OWMwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "EPIC"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A bundle of Sugar Cane so tied up that it questions our understanding of friction and thermodynamics.",
+      "id": "CANE_KNOT",
+      "item_model": "minecraft:kelp",
+      "material": "PAPER",
+      "name": "Cane Knot",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "MELON_JUICE",
+      "item_model": "minecraft:beetroot_soup",
+      "material": "PAPER",
+      "name": "Melon Juice",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "id": "MINIATURE_GREENHOUSE_SKIN",
+      "material": "DIRT",
+      "name": "??? Greenhouse Skin",
+      "tier": "COMMON"
+    },
+    {
+      "category": "CHESTPLATE",
+      "color": "255,112,10",
+      "id": "THERMODYNAMIC_CHESTPLATE",
+      "material": "LEATHER_CHESTPLATE",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "THERMODYNAMIC": 10
+        },
+        "category": "COMBAT",
+        "game_stage": "EXPERT"
+      },
+      "name": "Thermodynamic Chestplate",
+      "requirements": [
+        {
+          "level": 30,
+          "skill": "COMBAT",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "ATTACK_SPEED": 5,
+        "DEFENSE": 240,
+        "WALK_SPEED": 25
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "AGGOURDIAN",
+      "item_model": "minecraft:goat_horn",
+      "material": "PAPER",
+      "name": "Aggourdian",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "FRESHLY_BAKED_ARTIFACT",
+      "material": "SKULL_ITEM",
+      "name": "Freshly Baked Artifact",
+      "skin": {
+        "signature": "fNHk8TCCAXBZn5FiCObuiJ+WXxuG5GkMmPamY5MGqkO2it9qdi5u4/RTr8zR7RJgOIxzQdBZyFw8vL5u3qdLdy4/BROBhz06qCjqqV63dIQaX7czzDd2jXbVoCajrqsIYLH8sL9t5IGs15ijoQptZ063CwhqPEOcAwAcUbTCGRNQ7HKsSrVLAyQYg6lY0uoRbfbcA2h2UzBte7p/aZPlejfVuu/WiyOf70DSMUXaR1BuzPNCy4RJj0klF0p+ONZTzGCdtRXYf1nOS6jL3s6IZsrdx+JMFo3Gq+tkcU2XFhRxj6hvfjOl7TYJMuUO37bVo29BECXtFnYj+ZQXRXTGAt0k2SY9KGCU1Dv74j+pzSXcQtwHjon+4l9B0wUjegpFEhKiwEigSqaJ9Xstoxcl/WIzvMbm7hKJxLY9SwXqhC+r9bMNuEFD6WxY+XCIUomrHy/JGwfnR/dn54l8OjGUMFosJkUQmiJWUiG2UT++hRzZW0cIufbM2EMAY7Pnc4TJmi3y9QdKABv34yO7zhimZqalfP3/BnUfCcSoKaIPvNwyXK0xBz0LE7k+/22qw2vzdA4O+qsy7lxi0MqSC/1aeEExaZs2kWNODwDARCeClZlSq2c5Av8Yb7PyYTcRtQj+nhvkVcCG1OnA+NGDworP2Fij3yTJQJWpR1DaDkpXWbI=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyNjAxNywKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRlMzMwZTQxYmFkNjNmN2M2NWM4NjY0ZWZiNmVjNzJiMDcxZTk0ODMxYTAxZjFiYjUwZmMxMGEyMmNkNjIzZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "CACTUS_FLOWER",
+      "item_model": "minecraft:cactus_flower",
+      "material": "PAPER",
+      "name": "Cactus Flower",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "can_place": false,
+      "category": "CONSUMABLE",
+      "has_uuid": true,
+      "id": "FUNGAL_TIP_JAR",
+      "material": "FLOWER_POT_ITEM",
+      "name": "Fungal Tip Jar",
+      "tier": "RARE"
+    },
+    {
+      "category": "PET_ITEM",
+      "glowing": true,
+      "id": "POIGNANT_LUCKY_CLOVER",
+      "item_model": "minecraft:big_dripleaf",
+      "material": "PAPER",
+      "name": "Poignant Lucky Clover",
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "BOOTS",
+      "color": "255,112,10",
+      "id": "THERMODYNAMIC_BOOTS",
+      "material": "LEATHER_BOOTS",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "THERMODYNAMIC": 10
+        },
+        "category": "COMBAT",
+        "game_stage": "EXPERT"
+      },
+      "name": "Thermodynamic Boots",
+      "requirements": [
+        {
+          "level": 30,
+          "skill": "COMBAT",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "ATTACK_SPEED": 5,
+        "DEFENSE": 125,
+        "WALK_SPEED": 25
+      },
+      "tier": "LEGENDARY"
+    },
+    {
       "durability": 3,
       "id": "FINE_FLOUR",
       "item_specific": {
@@ -25582,6 +25985,146 @@
       "tier": "EPIC"
     },
     {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "FRESHLY_BAKED_RELIC",
+      "material": "SKULL_ITEM",
+      "name": "Freshly Baked Relic",
+      "skin": {
+        "signature": "FRh7L38OA2n8jxb5oPrjaPuY4XXIfpS6AxHYjJkOY3vgT6p/FqibcE+d/KFySmXBkoVfifIDuJW6TWIuVNNCy8areYqt25GoNls4Bp3uVCpWhkdJpR02N6H+khjZIPLBb8wAu2ff159LEIF0OCVVJhApXlAEW/G5E+q9ZDh47I98MrB3nuS0B19RglcZJ6J6FgQsM5TDqUPEahQh/R5aS7Wux/ucG8xIesK0v4y9UZ+2TT2hz2royEj6+H0AgRSj9zUZbkDbxcbc6zvtvxTV5JzsrmAEkyPpkZLw5JuZUZRffl6L5bJd0jIOXbhFsMhszyKnfisYN0IyCwF03wy8Oaqd/MwpHEJ2FxJCK8rsTwfMmjabhvxzIR8ICQNDZvrsAtVbtsURExR3N5Juan4vHpYD/rPjIFoq7lZmE57nSjssDX9NVOx2bGevR1IIkR8eoQMPjq1CJ9dhwqEkoHlpipIw5t929u7ee03sg7Vanfx4bopbO+rQdNKILzxXFKjB0omzlixgQB4mXUQWjyNCCdwzoIICeFP+vtpX8MBO+pKriJDQcJ3tNnfC5n8PE8XEOSpww5iShj3/wEWAfQjyTrzNxq7rMDQVaBK+1nOjcR8YqCP8dt+FgYv8RSqlX2IE9PQAc+4wlzbIzg+GMv7CxPAln/lFiakcYKB71nCuXLg=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyODY1OSwKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZDBiNzliNzNiYjljYTAzM2YzMGFhY2EzZGNhMjk2NTgwZWM2ZTk4NTA0ZTc1YjNkNWY3MjJhZjFkZmM2NzZjIgogICAgfQogIH0KfQ=="
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "GRATITUDE_TALISMAN",
+      "material": "SKULL_ITEM",
+      "name": "Gratitude Talisman",
+      "skin": {
+        "signature": "fJ31aXX9A6JgtTHhKHKP24TCQQNBVHj24eSNELjlF59TjefD2fbB6eWyas2hBtaav8l1MPVidhy/oIdAKt2UAiul7VqKtlOYP421o6l22+tFgxtHresdjbTWuaF7c0dMRefsp8Dm/E+yVeef7jB8Hrc8Jk0HMM67uTDsLWFT2ErqR0O7lV3SmnEbdj8a5Ifv/A8F5omuTu8z3+oC+ToV360F1JUbaWn4k3bwxvG0iUjMyx4wwBGkkC8Tb9L82IBdynTbdz+orm5+5DeW45KGNcrAvONug24CwbJYQRHMGBS4gIH8h+F3+ObgjzexUmvbPtVXlX6eQ+Q6HiTaahWQlRKIyU69KZ3UpkXngshCmqDgVAbTHNyF/9xm7a8F3oH2prMJqMGYjZARpPGMjYPYimtuPlNd+q96RHt/78tyYiaBOyXw50JWaMLso3hQtrfAc30Ur/w/jZCEcqVpmasdQLn75RfemT+GhziVd0V+y8x887czcHfADlvK/yFGZK7LRImlsyT2EgqoNqrJ1zRJR/7FL/hgvYfekgU+81fZJR14C672LqzG1ZUnJZVvum+DfNu8est2nhALFjbrj9+8oIZznt5SpzmnsAw6UK/91WUGE/7DR2JZAZ94y+/y4IzBl8ZGDE4YFI7brvG2NDR/MYbLFZPMJfG5FMcZuwniT18=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE2MDkzMjc2OSwKICAicHJvZmlsZUlkIiA6ICJlZmI1ZWQ2YjVjOTU0ODBlYWFmMjAyZDIxOWVmNjBjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWtlSHdhazAwMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MGUxMmVjODU0N2E1NDUwMzMyNjU3YjVkMmU4NTUwNGM4NDEzODZjY2UyYTZhMjQzNGNjYTNkMzEwZDE0YTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "COMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "DESIGNER_COFFEE_BEANS",
+      "item_model": "minecraft:beetroot_seeds",
+      "material": "PAPER",
+      "name": "Designer Coffee Beans",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "durability": 7,
+      "id": "MOONDEW",
+      "material": "INK_SACK",
+      "name": "Moondew",
+      "tier": "EPIC"
+    },
+    {
+      "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "durability": 3,
+      "has_uuid": true,
+      "id": "TURBO_GOURD",
+      "material": "SKULL_ITEM",
+      "name": "Turbo Gourd",
+      "skin": {
+        "signature": "Yn2+iHEhoO5BM08cNFsfcxfZyIk4PzxmgG13nNTvuvWFzK/GWm8jrU6Tld9q5gOFXvpCZw3xM5GrgyXH1ilq6FiAstdi36m9kODpnG4F38XgSlbSKxT25231QYt72xWB5pOUMyKRwtauIOEFbHXutEufbpf6NQL4r+WgjzRW2EnSUqnTSoFUY14BCtnJwjZTcjOWWnra75FjK8k+AfWsCFnJoNBadNS0sTHbiyIrl9sbQsqtKdua8j0YBIeXubUnbPXByB0tgGi0YKLr4rt7JpslgOXdnLONwB0jq8cE8Uyn4kp6j2ZYfYco8cCRh/bA+4cQU3rRWh1fF5vC9qnrhb2bWq//rB2w/KgQkv5j3w6AhRAQykE9LqUVXa0Nnxc66g4XJvxxdYx6mDK9HMRI2kd/aIR0kVKOIO7MValOk0TfdxMNTq8jka407zjLvAaKw0i4Ndg0jYmHdf7VLWF5K/w8x/XPoFUAIcs8Rjf5uydA9y7/X5Gp3utA+6u1Ah72BPXTChrPTgV+r6sDQJKRqz8Uk0qZYTO3jZI0rCLG/UiAaC8QSP/UnI9j9X0jwpJo+ipCORuTd5TusGCUIsCIGPRPD27KRUQKFidZu253THnDRyhyW/aPzeOKghb70LKM8LlEbAFukp8an0HBDKQ8uKdt6ksZ77hxUYfni0PEumM=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTIwNjcwNywKICAicHJvZmlsZUlkIiA6ICI0YzZhZTVkNzc0ZDE0MjBkYmJiNThjNDMzZGM3NjNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0VHJhbnNHaXJsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q5NGE1OWRjYzM1OWNiNjkyYTdhODY3MjYyZThkZDcyNWEzNWRlMzg1YTA2YmU0ODNiNDU1MmI1NjZmNTE3MmYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "FEASTFUNGUS",
+      "item_model": "minecraft:crimson_fungus",
+      "material": "PAPER",
+      "name": "Feastfungus",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "BOTROOT",
+      "item_model": "minecraft:weeping_vines",
+      "material": "PAPER",
+      "name": "Botroot",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "You made someone smile today! %%light_purple%%❤",
+      "id": "VISITORS_GRATITUDE",
+      "item_model": "minecraft:cake",
+      "material": "PAPER",
+      "name": "Visitors' Gratitude",
+      "tier": "COMMON"
+    },
+    {
+      "category": "LEGGINGS",
+      "color": "255,112,10",
+      "id": "THERMODYNAMIC_LEGGINGS",
+      "material": "LEATHER_LEGGINGS",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "THERMODYNAMIC": 10
+        },
+        "category": "COMBAT",
+        "game_stage": "EXPERT"
+      },
+      "name": "Thermodynamic Leggings",
+      "requirements": [
+        {
+          "level": 30,
+          "skill": "COMBAT",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "ATTACK_SPEED": 5,
+        "DEFENSE": 200,
+        "WALK_SPEED": 25
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "FRESHLY_BAKED_RING",
+      "material": "SKULL_ITEM",
+      "name": "Freshly Baked Ring",
+      "skin": {
+        "signature": "tnEKo1l1fumkoyPkV2V9tIkrEStFCxWOJGwFEb/Jz9dx0WJ3/fmvclD/0zmRGd8fZ/t04A2dpF7H2+UoiJWEwLUGgLxfCGQlNzVsArBFimOfAc82V9ZAsdgzhJQIYD+HdNH0g386tpnx2JqVqQjnw0WkTCSNsyPaHCifau4j0jdSXzuLcuPL/2P6x4AgFygWWpvZCeEdqBxjWSSSp6Sqta6H95ukXsitQZM6tFysUP12VXU4LDvQ+Wu9n6Y7rpAb+BBjF64dZJtWz6hS+dkERcXuBMycvv9BZgwVs7rqt+TtTwBK0651PZhzqFmNhOto1abtJuimfCK7hcaGD8P/DPUTvq63kfdN0B44GEfnaQMJ0M0ootElMbfju5JPrCk0NnCMwUKqCdeIcNNwclEZCXR6fcLpn5lPFri7K6fy3q9okGw48r3KZt8fj5mlpZiTs97dP6JfqdKYmVhVqH7bH5JK+Q+RU7UFFqsFE0/0xs5iJHswf/TEIXQZ+464dMX9cr4w79SvXOBBgi8kl18GJz5f354x40P4ur/g6eCzhYew4AhvD0I6U78VJVupc6tkwu3FbnrKlbePNi8Y+Fvz9/bBXCMTojTql5O1Lm7mcIuRarDlutw0oM7+UiBeAhLZGPg2ue3JZkki6MJ7esVrLpceRh5D9zdetE9iHr0jOb8=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyOTk2OSwKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiOTRkMjdhYjc2MDMxNWU2NGRjNzNiODgxNDU4YmU4NjQzZDdiNzNjZmE1YmM4YzIzZDM1NjI4Y2NkNTEzYWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "UNCOMMON"
+    },
+    {
       "category": "CLOAK",
       "durability": 3,
       "id": "PEST_VEST",
@@ -25603,6 +26146,186 @@
         "bonus_pest_chance": 10
       },
       "tier": "EPIC"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "GRATITUDE_RING",
+      "material": "SKULL_ITEM",
+      "name": "Gratitude Ring",
+      "skin": {
+        "signature": "meu6FrnMOwcGN9VZXRqZu7T4PfbKtK3W3Y4IBifTTuBtHhB/FytKUbmc87qwErvNXsaHlRpIGpt8aVRKQlXZT8LM52HmjmMvarOt9nHp7dT9xAoGtkpDJJQxRDWCCOQYM6skqYae0N86X4xah9LDH/8rzusyAcITS1sarl//MGja0unnFg/aUeAu8FQKeemsCDHAo5XLuL6+6bATsH/z4NsT8jUsQ49RnhKFVNEg1yQIQvnJ+sW36XnGKyFnQHIan/44AO8bt5g5ly25kbztoGdhcq5mjFqQzjDMfYQRxk39VKIE7mTncBc9K6wVH2IsJRUmdUY/B7EyYxg8Rj2JCDHbg+uvVSw3Pmi+GrLQR4bqHw3nokahkDOjHw5xIkOD36PtNwAjZGbMqIBrV/BOQeqvgyawb6aZjz4C3KjzgpAtjSQoomMuKUTC5VKFUcAiMWD6VI8h5UeGTy0Su7/RyCeaM6khePLps0jGCK8uxyUdTU4O2JpjjCGsx+PG+ww/sImZFtMeTiWVKl5iZXssl3GTWblRaojVHwt7XD1JqsT/N92NBovHSRkuB4y2CDNKx32NBjgjqje5l6bcV5p2EAWdXcurEkvm5UrkXU7RzfztHj1VVuN9CsW9ClZklL+zfoH40JhP3K1tnOMFwxr3x1dtQd9rJRcuIxcW/sCncM4=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzNTk1NCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjAwM2M1MjNkZmE2YWQ1MTQxMWNlZGFhMWMxYjI4N2ExZDMzMWUzZWMxZTdjZWRhZmYxMzVlMGEwMTY3YTYxOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "PET_ITEM",
+      "durability": 3,
+      "id": "UNALLOYED_SPEED",
+      "material": "SKULL_ITEM",
+      "name": "Unalloyed Speed",
+      "npc_sell_price": 150000,
+      "skin": {
+        "signature": "PuTrvtxqhRALYhIydbhIHbBInMkrqKuNoIbpbnIz0JatflGzGQoJmRwPgpqXkKRvpBu49qd35I/Y68jIpAxkN7BeCRU2vRzoJRnwMhvgCiJyk9c2w/qmQh8UdRfhccwoZXwCgOnvEghOxpczQ1cV6/witkQbsmNZtujbLC1/yIdvYUZ8cBW9x3agpF25Dxk/auRiihN4/dSnSZE64XAjpranOS0oQYnCT0uNVjVl9cdQG90ZOH9LxEWjtRj6i/cjXVd4MxIEvhmumD2sbcwkWk75lKnLoA7ly8xmRWaSILqbqfFvYooJsR0hlDrEox0P4/WVhtUVvX4XfD07omgoG2WBAgsa9I7P9eOtYtAwgFXlhf6VR0tugvnBvWYrQZEu8JiPUcFPYpqoTYSeTewraTUFiDSNNN2O4jFhej/00fV1ARFUUtyxFz0OK/Sk0lj6equVvWhXv8bR4NDsdMcPvWeNXTDUO6nQOHa5NdVpM+SPdoT9LH4W7SOEImJYQEn/hm53Rhu8KfmuOOrgqlnvFw2YKRub0o+pL70vooJ6qWwHHW5pcoUA9zTNUDYxaA9Zqlhkj14qVSoXXQ1kpIRG/xnMa9iDRxB0r7pmG8ahkEud5h0pJxHbW6fV/Dm5IA4PAbrlbIhZG3eoUX6UTHbv5Td/QKookcJ5F47X2Znyq7U=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0OTE2NTE0NDc2MCwKICAicHJvZmlsZUlkIiA6ICI2YWVmMjM3Y2RhNDY0Y2QzYTdiZDcxYjg3YzFlMDEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWlqdW5va2kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWFiYjFmYTQ3ZmUzZGM3NmVjODg2MTRiNGViNzY0NWU4ZTg4ZmNmMzZiYjYyYmMyYmZkZDE3ZWRlNzUwMmRkMSIKICAgIH0KICB9Cn0="
+      },
+      "tier": "EPIC"
+    },
+    {
+      "has_uuid": true,
+      "id": "CARROT_COLORED_VINYL_SET",
+      "material": "STORAGE_MINECART",
+      "name": "Empty Carrot-Colored Vinyl Set",
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "has_uuid": true,
+      "id": "COMMEMORATIVE_MASON_JAR",
+      "material": "SKULL_ITEM",
+      "name": "Commemorative Mason Jar",
+      "skin": {
+        "signature": "WzIuUZHStLLP0gOMmLM0xelJFBdqo90ty97B+AjfaJFILCm3gsE2zOi8JfMAsVw4tBaGZ152TkZT+NLZaNuHhAD0Py+INYHDXcnj4vSd1KK2+E4e6e9U+TRne8++uum03fwOAwXhRHCdR8wsboLGej/FU6Hi2D0tY6cd7LVLAgc+zKZ1av8H+IaoqMXqzjQQqynfpKfXL+RwCOC48cUgMXM1q1keEr28OjV8bIS+pzZGTZa9NpdJn9NLVBn0/CQrBviKd3UMFr9W0vhgIfSDWU4FWbqkucQVeKl885iEiXt/E6jrnP7qPhqHx/6lyqAjdeNF7dJunHnNrw9RZvTbddzDwV7iAZr9nNjBpixRrujD97qkuApLbVaM/PmidKXI89ftYkv1EuickDoev3fOHI0wyMupcsk6jz6A1Mboyvry3+dYbUa3c++S6BOppFX3+G7DwKXRQPLJdKOEB/DtB4MRdZU8flMrhzjFCZ3p2VvZBSMSfLYUvk++g0y5PTJgW5fyfWmud9/QwGsRa42UQtqIeudHgjrAP/II9sQYYPUudh0LD37DmUXSm2u4Eyzc6Lu5TrAKgknRpx048fpdx6qRTdZF4R1GBbH3bZFFGL2SB+JfxMSrfkydOv76xg5Hxqy6+9lQQMnMzeDBUfLioqlBuFtb9wIteYyUMgKhFYQ=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4OTcyMywKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhZDEwNTkyYjIxMWNkNjI1NDAzZTg5YjBhMjQ0YzY3M2U3ZDQ0MjllNWRmODc4Y2NiNzJhNTA4MGE2ZTQ2OGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "soulbound": "SOLO",
+      "tier": "SPECIAL"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "FLORAL_GELATIN",
+      "item_model": "minecraft:honey_bottle",
+      "material": "PAPER",
+      "name": "Floral Gelatin",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "FRESHLY_BAKED_TALISMAN",
+      "material": "SKULL_ITEM",
+      "name": "Freshly Baked Talisman",
+      "skin": {
+        "signature": "PMbP782lL/PAAzY2DL+LBtcdJu8RRNF84FQD2Kj99hLjFrctUGeiyMxHDZDMfEEJLufcb5yKqymgWSYVT+ECMykQQYM5dQ7CVnbF9K7HK5B5/REk+o1JsORNkMjGtJV32AG/Smhjbojjc+wgJ7uKEaCAftgC6nFU70NAA93dixLia0v0pD6mJMN6LO+RqvbzK87JWqoyh8b3Zu+48hX5MaAWhJXZRzPUg5QbtuzkpkZoZy+F6cvcXNgORDutVyZfQrXyX97sTd1Lyd8w0fNO5Ooza0dTKnSf+whycaegYCDqfEMlJkbD/e9BL0cbF8wLXT/sVoTQ3cP+T4FUVy+0SZEok7DG2tPxuC2yQTqLrFvAbOmH6Dy0ov7HII7dKFpWJMQ2giDABu8svaiNPPdFsOp1Xca/5kSI5zHywFKsXulpNEetpl/tTM7CeHHacWmTkbN1WWfUqtd2osEORObWRafnmZOQIGzHMftW5Y81kwtP9LCP0Ye3MKRjqyrincrjQK+un4fIcnlU/IBPfCl0YNdQrDDKgQEzwR9WMcRqZKbu6bYkA8Oa8xkcJYidqxkkq+QJZ1Ny7ZDAGQtNRvnSimVfafZw1skX6R/wZ7uPKO+e26K588E2XXBxGZEKa4UbFvt6ydo/ngUsTUa+WqhMOk3YlQCCETysfIZrfEyDZoQ=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzMTAwMiwKICAicHJvZmlsZUlkIiA6ICJhZTQyMTU2N2QzODg0YWUxOTJhNmNiNTY4ZmZkNGZhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aW1vdGh5ZGVvZG9yYW50IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhYWViZmQ1ODZjZWMwMGUzNmE0YTJlNzJkOGE0ZWJhNTg2ZWM5ZWQ1OGU5YzhlZWVlNjcyNWZlOTBlZWI1ODQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "COMMON"
+    },
+    {
+      "can_recombobulate": false,
+      "durability": 3,
+      "id": "ROYAL_JELLY",
+      "material": "SKULL_ITEM",
+      "name": "Royal Jelly",
+      "skin": {
+        "signature": "fDX7/RYOtvf225SLjDoMeLtRjVRbzXMb9lvJZ+Xak2BBbkOfUav3bZaq9d22PC/BYCrEbXy1F2udZqf20UxN12wOmpznYc8hN0wLa0VU4MIFRxxYLUZ8mcA7FCzWacibtPG8tA2h/D15BLAnF4Wwpd0Q1bydpE/uZSkksAm1/7KHeGq9f/oL41ZjnIoHpfs/NJ5E65SMja/RCfAT+hbREcCS8bF3RC8aDmZMtlwkOd5rc58j+MtN12w6uO3JywqTdc5SOOd6ITFql66bDnpbOTBxftJF/UpPI1TQj8jjHZiZbljwsIHT2HdF9TORNk9pWxxbWvu2Hvfd2ZaYuOmSKjhUerry41iw1Ck9/xPQGAW9cz+OV1bPBukMF8KiA9bAeQd3Gtmmu1lofs/fFb5iz6IdyGAyTfYd60GEVnDhxYsXhxutVp36B3rPWFO0rFz4tU0nOO9UiQ2GrpPKjQ4/A1bsvVDDPrBURr0xLE9CkjiY0ykpJcBDS6tcQInh5RWqE26Lab6B8sXVkXw2govR78MDdcJCrx/7JYyZDCxxz1uVWqKe/pwmQj5mz7oZyENRAaaHl8C4RhEWG/PyWnYQQB43EsBuT0pCRXZpKCMLunO49x1xg4qfHRi6rhT40tWeddDK4L9lo265NcLrKPfY07Ri38jdqRnmHCzHx6G12Tg=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE5ODg3OCwKICAicHJvZmlsZUlkIiA6ICJmODY0ZjY3ZGJlN2Y0OTBlYTZlODQzMjg2M2NkZWMxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3lmcmllbmQ1MDY1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5YzgwZTMyYzU2YTA0MTM5ZDA1MDc1MjQxNGNjYmY1YjA5MmYzODExYTZjZGZkNjZmOTVlNDI2M2MxY2IzZmQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "MYTHIC"
+    },
+    {
+      "category": "HELMET",
+      "durability": 3,
+      "id": "THERMODYNAMIC_HELMET",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "THERMODYNAMIC": 10
+        },
+        "category": "COMBAT",
+        "game_stage": "EXPERT"
+      },
+      "name": "Thermodynamic Helmet",
+      "requirements": [
+        {
+          "level": 30,
+          "skill": "COMBAT",
+          "type": "SKILL"
+        }
+      ],
+      "skin": {
+        "signature": "erdSAba2Gk9jBaa6fd87ZzBdUbuKFtDuo4m2+H9s3WISKq+i+VMi/IUa5WvN2dy7i2sFXA8jqtXh5LG87+I3bTSZKfvxlEgQfwBg0aG7HEsqn1OAAsT/4ZFWE7Flt79D22G8kZZe5IGkFj5T8pZpEC6NBKWX+k666Bd+G68TmGFcaSzKgKs/AGRtR6iwJKMp1U9CD9+jr7WAC5j/jDtwHLzYTv+zxEt8ufNv5ewSrGtnXelBkAQmAo8dhvrfik0G/rpB5RhM8FZOfhV+fqjLvtcBd0vOVrDMLHaZJ+2TpjDnjScA+GIS30EEwnx8TpsoJM5PLJUL7b9xNZEECQAklnZt59gSg2e0PF6rI2Q2Fb9HIVDETPKoNK/9X7MfWC9uWr/GEA4G61tLYq5NnMEAqj3+AT6YTWb3Vy5xDauTHftbAogQEWa/2S5GyHUVQ0zh850aOy9AQMCbUaN5hTk/x6AFJIY9bvFEGVJ3Wr8HZPIh/WAqgRqgnLRx6RxSqymBsh/I2SYLaWtM027hkUlcAfj3HbYMkBdD8UXx3AzPvXAwhDojUPMWwK74La9MwiDRDO+fxFdhOIhrbh4ib1MaH7dqrcnDX6OjdQfZ0QR3lNRYet8wKlxVL3xy3ppRfLys8Wrvhdi3kBplKJxW5CyoI4fEJLtyvC2NM3olt9ZvVbM=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTIwMzEzMywKICAicHJvZmlsZUlkIiA6ICJkZGRhNjc4ZmYyN2M0NjFhOWUyMjRiMTU1NjI4NDZmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeWxlZTc1NDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2FkNjdjZjMzMTg4YTU0YjZmNTVkMmVmNTI0OGNkM2I3MjE3Njk5NGUxZDIwMzczMWU4NmIzNjVhODU4MTcyNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "stats": {
+        "ATTACK_SPEED": 5,
+        "DEFENSE": 135,
+        "WALK_SPEED": 25
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "id": "DEEPFRIES",
+      "item_model": "minecraft:tall_dry_grass",
+      "material": "PAPER",
+      "name": "Deepfries",
+      "npc_sell_price": 5000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A tool only large enough to be used by a minion. Its scent is known to attract Pests.",
+      "id": "COCOA_NET",
+      "material": "WOOD_AXE",
+      "name": "Cocoa Net",
+      "tier": "COMMON"
+    },
+    {
+      "category": "NONE",
+      "id": "POIGNANT_CARROT_BAIT",
+      "item_model": "minecraft:orange_candle",
+      "material": "PAPER",
+      "name": "Poignant Carrot Bait",
+      "tier": "LEGENDARY"
+    },
+    {
+      "can_recombobulate": false,
+      "durability": 3,
+      "has_uuid": true,
+      "id": "ENCHANTED_TURBO_GOURD",
+      "material": "SKULL_ITEM",
+      "name": "Enchanted Turbo Gourd",
+      "skin": {
+        "signature": "munQLmvpP29lC9JbbmkLtBW16OXpbXOxG7+f32lpT7ljhL11M1ZRAanS3Ji14f5J9Gj5rJ9nUXrmhb8FFtmxVUyNNgqzWK4m02dKQKb9ASvCoxZt8tw9Y9zDqWME/2S7FGX7YfyQBbVIbDfQH4AZmP9UIcPwMVJAQ2gbBG4d7CnhjIfF0xTrdHQu4Eu2H9wjuE3RyYcgYJJlAtaFSLfrQXmbsGOuD43zCq/4e+WcLVoHc2en9pEQWpwPY6lg72S8LLz7lnbqKiEwZabAavjGA6YyyeUuOrckFQL7wwj6jv/YBq3kEaJPAQu5NFZ2iGlydSmzxE8NsftY76P60NHu/PbbXKbxF+mWmi3BEd/JyMLFj1h9ZbV78eE/6fuVEcXPvFTJMk19S1iMWdcT0eju9TF8UDdt/x969TePPRAxZZSEhmDIbLlCmiYS5L9mbg19xEY43nysvU4o66ytr/188QwTtq+81v86npsxrmYObw9pObHZvYS+uce08KBWJ+DYGE/21XdPwBGHqDJ26EQeCOkmjbPh5D6fBnxoWLMZ5PhGcVlzsnsMxYKUi+VCS7bq9D4i+OPDi7Qlr8Dj3utm60inE7QtQbUfLc76fiUBc1+XTcneRQoDRXNdn5gIeTiKu5mwEQ0YVTuHVoTdLG/xZRHi3TJuCdd71ZQIWgWxlFY=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE2MDYxOTIzMiwKICAicHJvZmlsZUlkIiA6ICI5ZjJiY2M1M2U4YzM0OTY4YTc5Yzc0NTExYWQ2NmQyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWJveWlvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmNjA3MWJhMmJmZWJhNzBhYTEyNDA3MWQ3NDhmZjdjZDZhYjhmYmY2NGUwMzI3MzUzZjhlYjEzZjZjODcxZjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "MYTHIC"
+    },
+    {
+      "has_uuid": true,
+      "id": "SCOTTS_CONTACT_BAKED_IN_BREAD",
+      "material": "NAME_TAG",
+      "name": "Scott's Contact Baked In Bread",
+      "tier": "EPIC"
+    },
+    {
+      "id": "FRAGRANCED_BROWN_MUSHROOM_PASTE",
+      "item_model": "minecraft:brown_dye",
+      "material": "PAPER",
+      "name": "\"Fragranced\" Brown Mushroom Paste",
+      "tier": "RARE"
+    },
+    {
+      "has_uuid": true,
+      "id": "BUZZYBEES_FANTABULOUS_DISCO_DESTINATION",
+      "material": "MOB_SPAWNER",
+      "name": "Buzzybee's Fantabulous Disco Destination",
+      "tier": "UNCOMMON"
     },
     {
       "category": "NONE",
@@ -29214,7 +29937,7 @@
       "category": "COSMETIC",
       "description": "%%gray%%Show off your collection progress!",
       "id": "COLLECTION_DISPLAY",
-      "material": "HAY_BLOCK",
+      "material": "DIAMOND_BLOCK",
       "museum": true,
       "name": "Collection Display",
       "tier": "UNCOMMON",
@@ -31874,7 +32597,7 @@
       "unstackable": true
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "ROOKIE_HOE",
       "material": "STONE_HOE",
       "museum": true,
@@ -32425,6 +33148,7 @@
       }
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "PET_ITEM_PURE_MITHRIL_GEM",
       "material": "SKULL_ITEM",
@@ -36225,15 +36949,17 @@
         },
         "category": "FARMING",
         "game_stage": "INTERMEDIATE",
-        "parent": {}
+        "parent": {
+          "SPEEDSTER": "THERMODYNAMIC"
+        }
       },
       "name": "Speedster Leggings",
-      "npc_sell_price": 179200,
+      "npc_sell_price": 4480,
       "stats": {
-        "DEFENSE": 95,
+        "DEFENSE": 60,
         "WALK_SPEED": 15
       },
-      "tier": "EPIC"
+      "tier": "UNCOMMON"
     },
     {
       "category": "ACCESSORY",
@@ -36581,10 +37307,10 @@
       "material": "SKULL_ITEM",
       "name": "Fishing Crystal",
       "skin": {
-        "signature": "oxqFU+gNo81/wCHdMrkAuva6SbqU7PybhibhekZnXO8HrzV42uJXbCOdoa81OTkh6IZ9GjxU3eivcdv7NjL5iFrEC1926Zm1UdGyRow1TLt3RFRlKKOPAd+gFnq+eF08kVY1zBbMD5VUa5hR/8FamZgHDT4yGRs47iy4GbS26e1oV+B3ZA9CblwY95MtIS8zQHxFwiF4u31LD+onnCcimVWuT+doW/v18uNLvlt5xOhqz6x188qq+U9OYWPNjWm2DC8ZPw+Vb0Luyb8HITVyqxUf2yAPCuzcX9pNtvD30pcFcA2Lf8nsdmWLh84UZX0n8qblwwgzL/n35lmL1Io3LC2iiNTqNHWSKnKt3vrWKGoTYL9pslsNmunCc3fiAXAnFXLmPkdsXDI/ACem4Ji7R61Pe7nP2I06PrUugtXNRfHL3OGZoWu5oXeCakuuW9h4qIbpSwarWjd2befwQoCiQHKpJQvXZzMtZBswR4yfcM6sLJD820Ez+vs8VsoAJ0zYogi8wb7dqzuU8qMUk7JWSdHS5CKdLQ/yrtNLAaTfGVfzTT/0uHsdOOK7M6pYP1PZc/tdipioudvi6vsp+gZAdmNrYq5wb3nKO3R7LHbMXNVkO5CTorlEhaxaGyzyGwhb/eUKNB+Qprsmn7Kz5H76gPUIdi1mHd0KvRg3ZFIRFZQ=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMzYxNDY2NDI5MywKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA3NDU0YmYwMTJhZmZkNDNlZDhlN2ZjZTFhMzI2M2Y3NTZiMzkxYmY2MTM5ZWNhOGY2MDk2NTAwNDZlNjMxMyIKICAgIH0KICB9Cn0="
+        "signature": "bQ7L7M2k0ovkOJCzGYk+EdjTGc9gxlvbuLX1c14spcHw+heXcmjNLLgvswDEuBAjbbPdf339NridFsCSuD2Tz3I2PwC8QaabkwSb5/bzskKGMuyxQH5VsNrHzMd3f2zkYwSQ0npV7NZGYiWAnODchYclX6V54QZagdQ50xErG5YuY69+nUWbNMKX+8GmrokVti+lkcpY0AiUlANo7DyVt5C5Vqz023fAJs/vawagbns+W/o1QyFYnQR6qrjzeScMZLT3TcOcsri4wtfVCzSo92Ja4AAgRbBdI3rNoR7IY47NCpmhnJqRdT2dENQmldoD0c4D0c/4SQ0nP4j4ucfWQDu91irDmFrdM9hRY5+auNkOavXgftfUTCwZ7ZZoFmviSv4Rr6DYhHcxLIJoz7D3PUsVI8zFm9gLR7aHvDuMpfK2wRGX0//todjANpJP9YcID6xoUwJqhYy5wxiVQ57VuAvXBxdfXNCwqlUxN0vTekhM8vk7g5vDgWKT6LkaTCkfPsr5GRwwkLkhB2wCferftuFP6OL5afc/4sczs+G2r0aNZql7m30I6mCEETegu1F0sy/ed3KlXo0/xxelcU0j5oW9W4PSTumwEphFz3NZb0qyRyqcZWHPAViuTtrl0gwxo8Seuzvo2cAGnJijNfD+WN2oiu9ehyoytj4mVHgLthw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4Mzc0MywKICAicHJvZmlsZUlkIiA6ICIxN2I5ZDBmOWYxYzE0OTE5ODRkY2Y5ZGM2YzczZDYzYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJuYWJlNDk3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MWM0NGE4ZjY4YTAxMzNjOWE5NGJmMjk0NzMzYWIzZmY3YjUwZDczMzUwZGM1OTAyZjBiYmE1YTM4NzZjOWZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
-      "tier": "RARE"
+      "tier": "UNCOMMON"
     },
     {
       "components": [
@@ -37367,6 +38093,7 @@
       "npc_sell_price": 400
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "ENDERMAN_CORTEX_REWRITER",
       "material": "SKULL_ITEM",
@@ -37799,6 +38526,18 @@
           }
         ]
       ]
+    },
+    {
+      "crystal": "CORNUCOPIA",
+      "durability": 3,
+      "id": "CORNUCOPIA_CRYSTAL",
+      "material": "SKULL_ITEM",
+      "name": "Cornucopia Crystal",
+      "skin": {
+        "signature": "ZfDNvs6ujzcT2O/5TPasxtlNzuIReMSVrGauilti0kMM6m7joJ9jpopkyZ/m+5dq13jmVvz31FljwDUgjgus6PedImcy8SBA8MUfR/vl/ve9dxgQxJri1m9/WdOFeW3Pu6biR4syRddxLRz5cVqmkuF0b8lkdyIuZif7obUKY/lfExWBDt0wGjK8FZFGv3TXrQKF160yUseJ1X5hiGk0p5behv1lK1v+AQz3/xwdTYYUAqnj4qvEMvw2ylSbTEY2v4YIbtiEePDMm2hCYCHHh/0PzBs7FkqOj+CHbmc+13RwVc5okBfwZADuEyrw7m0zGFHN1GW/YKjCF4P/lYsrfteA3uKMi1b9H37GaTq3uBJ0aCiGv3EHS7Tr0d7chdQSu4gwWv0cBlIXPdaGBq9+zb1p9PEZgr7hTInoaCXadj26NoVitLNdotldWaQ9cqSV2TpIJ5ektCUQdbpGe4vCkUS5yAVpyXflJQnV0BOH2gQOPBxPmOsW5UDLhkyZUo71RQ0noAj1kwAteMOQRvA4QdrXZZf08EdN1p72zp1PuC9zYAdCHZ4LwxT2DXzEgU1B4Tjom6ITYxVr6JyJUocaea+2CxXUDWfcA0oc7L/AoGQQMWNlpkU1g7QoL30rfRsxYsT6fB3uSnm8F8tpbgAHGGElQ9hEU0JyrdblTi+0ch4=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4MjExNSwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmU4YTQxZGVkOWU5ZDI2OTNlMThiZDJjYzFhNzA5MzE5MTU2MjM0YzM3NmMzN2VjZTEyNDIzNGJiZGFkZjM3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "EPIC"
     },
     {
       "glowing": true,
@@ -39929,8 +40668,8 @@
       "name": "Roofed Forest Island",
       "private_island": "MINING_FOREST",
       "skin": {
-        "signature": "bVZeJn/TY76GZLkzBpPh9O8CQRC+qxaV7nwNc9rQPaV7QZf2VEmNSeVuiZWh+k/yfHeFIJELVlGAmDm+c4U3lLIp4cHtPdKeOVwE+ulWTpfWKl80FIkkFiYUzXaBjuwa2SCQ5YqsweGhywupL5a9w35ple9C6IkodeJwD9G3ZHgUVDu4Hd7OS+rO6kg4POa4wi66uIgiEPtjTqdKZudmTDQ1KplmHGtUrtBt8/JfYgRkOktwCQ/nfVJPUUGtK7stgGdoxkP3TENhojlMEFlb8+MqnY1zURJ8Z62krzZcUVFeeg7BYWL9G01XU3ioNHgWI7Q5RfrEN0uM/SBSUJmeMveL8fAoYigCyARrdYrfaSJ4hIGv6wTt/frDO5Ozi4uPeHsWKQV0sin8AAAxv/ZUcFuMyRXsZI+zmu1/EEKjAIcpUOH9CI4QwIY8jKevnL/AJRdLLzgMUSB6F8lc7ldUx5aONuWmt04AxkiGg6iOOdjB5qfqWixAseIpxzLH3lIg/ngGttnFnoFh0ZYBbWHqhFlHtZrBiFlYImEhW3c6TB5MNmkaLtB6ZVtQn3S02KqNTIuZ1a4sEA0Q6pSdmzyyeaIFaFTRpfbOg4SFvWdjlXbkah3eyFv6fYEiYTD3UY3m6fqvV0f+4pF7z2dFx/Vls9t0FeEdvXlCBT/0xIQgxV4=",
-        "value": "eyJ0aW1lc3RhbXAiOjE1MTc5ODAwNTQ5ODMsInByb2ZpbGVJZCI6IjIzZDE4YjNhN2E1NjQyM2E4NDZmZGJlNGVjYjJmNzJmIiwicHJvZmlsZU5hbWUiOiJHZW1pbml4UGxheXMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkZTlkNGU0YzM0M2FmZGIzZWQ2ODAzODQ1MGZjNmE2N2NkMjA4YjJlZmM5OWZiNjIyYzcxOGQyNGFhYyJ9fX0="
+        "signature": "YhrDkyZcPXH3Znon7kCmyW67sdzt2SovhDF2Vl9pIT+VRaqltsh1AhQbX84HpfeMYhD4ZYAO0NS3kybqaQ9ioZ2MnUK6SUCfUdFsrMNQq9hv8c1OKulc8CqU8z0X35d5+15+7aJdeuD8jHce55/UEtBTxaB1VAY/XWk+rrlx+9pshVzJgtfhylm3HmlnO3q5vlwtIo/nzzBJ18PEEfPZyqxjADIp/Jb2b7if5YsCxmDruS56u40y0L4sRxSzoCztmmDMjny+ihtaa7WtYCQerBt/Bx6kYTbpaVcjZQK4TjC8AzW6205/IlrrgONYpm52JaEZzAwaxZESSUsZBmV0CjGwSkaZOP7YbV6D2xazEmNKbSnRJTiSxgyRXX09+m4f1mk7AF6l0zHl86/nfYyOo5uJmX8Hwu18lRCVtxI+iihopRMV6NKu1Zhm15/t0WRmxwZGHK9so3c4XRzwN2nrT3okRLGPVhLWPBdTR0NRomOxDX+Qu8K/CbEBhL/EOtPMockExGoNsTsuH5ULxkXcRSiHuwXraWH+/vRF/LKrsjScodi66ebhU+MgPAXd8X5OrgfxKjg41SpVyA1qhkm7GBy2Zd7FVttci18vLNorIZhysdckL/qQqBSJcNfBNRcAcSn/1X1k1mnTpa3ldSsCswtuzLR0OOTfXaVAGj+b0Pk=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4MjczMCwKICAicHJvZmlsZUlkIiA6ICI2M2VkZjY1ZDcxNmE0NGZmYmUzOWU5MWVkMmNiMjM3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2aWxlX3NsYXZlbWFzdGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyYmMzYzNhODljYWJlN2VlNzQ2NWE5NTg0YzY1NmRjYTBhMTc3ODAyMDJkYWZiZjMyY2VmM2IxMTNhZWQ3YzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       }
     },
     {
@@ -39985,6 +40724,7 @@
       "tier": "MYTHIC"
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "FROZEN_SCUTE",
       "material": "SKULL_ITEM",
@@ -39992,8 +40732,8 @@
       "npc_sell_price": 5000000,
       "salvages": [
         {
-          "amount": 100,
-          "essence_type": "ICE",
+          "amount": 500,
+          "essence_type": "FOSSIL",
           "type": "ESSENCE"
         }
       ],
@@ -40001,7 +40741,7 @@
         "signature": "bHKiLLRoJcabPKE0hB12lLdQQXz196HfGDkbSWUZbR0cseUWaCpjzBGDUapsF4HsNAYvg3xVUIMHFjAi4BvUY+JzJ54heWAPSbEZS7Hxhv1z2HnlqNxMMNwZAq2oivvXB/9PFSnteE9DBSxz+d/G0qf2Bx48w8xn8J6pAGJgQUuLnBUSikfU+E1fSkxarvaHjuzk0pu0QLdgWiIrIe0khUSX4NIAl+NE4b6SAl9w/QXW43qINaR/8U1GvMHC/Xesx8OUDbizPM9SHr4AAC35oIz645FHOyv+zVeX1ZqaHHr38T/qT6bzqgelVzMFmgEwgctVXaBJMA/pJ6CTEArg3zFZTNjI1BJTMEenHozm5JhFpuwwqC/nGbjaW4nj8X1zDgVCeTNR7QiTHEn/cJb2tksDXUoZigjsMf3WeS7iux1QOUVaJMimF6vnO65NKTxwqx0hS1fh3Q/kKCsjI3pAg4mnZZEzWivO85FMl3r8FVEYeAq2pfbcgAXSKsUzUIdmZuKP17o6xYgPha5cdl+Fwk1GhWpY3JBOYl3Xk3kPDvIjprww4WbHyomz8xCsi+P1adJPRFZaxo4dUqDusjaPQSQxDNRGBKJiLS4fGxl0Hov5dgN2aqyzKtpiY95zcTKVSGd8lheYzZ0iRjbKCDrC2u/hStqWoJ3WT8LqPgPUWho=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NzM2MzQ3NzQ1MiwKICAicHJvZmlsZUlkIiA6ICIxN2Q0ODA1ZDRmMTA0YTA5OWRiYzJmNzYzMDNjYmRkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnaWZ0bWV0b25uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkMTYzZmIxMjdiYzJmZDAyY2I2ZjYwYzJiYTAzYTVkYzVhYzhjNzY1NWY5MTY2YWZiZmYxMGE1MzIxNzA2NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
-      "tier": "LEGENDARY"
+      "tier": "MYTHIC"
     },
     {
       "category": "CHESTPLATE",
@@ -43622,6 +44362,13 @@
       "material": "COOKED_FISH",
       "museum": true,
       "name": "Fossil the Fish",
+      "salvages": [
+        {
+          "amount": 25,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "tier": "SPECIAL",
       "unstackable": true
     },
@@ -46777,6 +47524,7 @@
       "tier": "EPIC"
     },
     {
+      "can_recombobulate": false,
       "glowing": true,
       "id": "PET_ITEM_VAMPIRE_FANG",
       "material": "GHAST_TEAR",
@@ -48511,7 +49259,6 @@
       "npc_sell_price": 5
     },
     {
-      "category": "HOE",
       "glowing": true,
       "id": "SPORE_HARVESTER",
       "material": "IRON_AXE",
@@ -48756,15 +49503,17 @@
         },
         "category": "FARMING",
         "game_stage": "INTERMEDIATE",
-        "parent": {}
+        "parent": {
+          "SPEEDSTER": "THERMODYNAMIC"
+        }
       },
       "name": "Speedster Boots",
-      "npc_sell_price": 102400,
+      "npc_sell_price": 2560,
       "stats": {
-        "DEFENSE": 65,
+        "DEFENSE": 35,
         "WALK_SPEED": 15
       },
-      "tier": "EPIC"
+      "tier": "UNCOMMON"
     },
     {
       "category": "CHESTPLATE",
@@ -51356,10 +52105,10 @@
       "material": "SKULL_ITEM",
       "name": "Winter Crystal",
       "skin": {
-        "signature": "muopRgtom7RxK7kV0AtXWiKvCryZl6QdVgcyta++szArfijMvkQ9FXM6cvgiMdAkEXIeinZEGHHyBI1oEoEaE/3k3sACa/fO99Njq36WgTjsLaPnUN/4hNzf4hHZXO4X6tljxWgJEkwIl90fK1O60r0Qh7VC/17qUPWPPN/GAX7NRo2DBgLIfvSOdzLfHVNdX/zwskzgOcW1eZ3dv0RWhWLuVufeHpxhgzjS25aRliwYpvJUd/QUzXM2PYNIMABiPBImeCWs7AlW+aiRUpalrIg+6kxBXlveX20RuB60FGg67QJPW1Z2UwnjFFzeUz+XGCYftCG1EnczD8ZmSF1Bg2k8Y0xgRUR29IV9RT/DFzpH7RJkGZW1CSlPz5bQr71EVx+gtfdhaN1OboXX8dEyAxl0qnyEcoJFotacTmesFL19iAHMGYNIxvJ3ICuw4VEesd+jrXdQn8/tKzTEJenLO+u7ICgLpdIqJ3dhAl5/aamJ6Ef7IJPpXCOD1T0L8YPSK8xV4QOPDwpSypZ8UAw3kQOqUey2myU2/fftmjuMrknIVzJ4g/UeNO/IYSq1PsQjb28z1fPq6srUjOJvzzcSKHC5t3IzFT3PE1l9omc/HU0VBjK0jaXzSFvXhiBgvOOGNjdnJOaH43cTMJFcBd3f8MTdKa8AF90aKRWICMECnH0=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NjkzMDQ4NzQ5OCwKICAicHJvZmlsZUlkIiA6ICIwNmE4NjAyZDAwODk0YWQxOTcyMGQ3NGE1OGU1MDZjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfMW5kcmFfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0ZDJjODEwMGMwZTZkMzg5MTBlMjRlZmE1MDQzOGNkZjdiZjBhYWViYzQ3MWQ0ZmExNjNhZjJkMjE4YTMzOTUiCiAgICB9CiAgfQp9"
+        "signature": "nrkbzdbMd1WsQnmSYAz8AYVYqoox/+sUKGvAlFHMlsdqXWkXqMOa//NcLTRFx/d86R7kxSp1AN80NrVgKqIFsuVnC1wvq98Y2tCW/1gX3mMK3MxrmNjXdbJegKlt1HgkvGJRpAT9XSMZS2IbUFajSohHBRZuJ0mnrOEbzUa/8kTBxgrfQP1W0XfqOtpQYH8HfaNanEmGRDZNjMpz4HUf8Z7yvfZ/fT1o2zkBSn9nnMQ1xL2cTjzkq5FwL0GtqYcT91FECvLk1lkjizJJN1u137keskv3F1dEyL1i8IM2TonS5uXHbXxhwj6SjzrDtlBOsfUquyvgZBqN2qZQahkaEAoy9OrxpylB8TwPqUMPHGzvYkVm64q80WYh2hjFvtbNzDdb7cnmT2QotdtCivwtxP6oU6gWbhFfZR72spaalIxJirFMYdUjfW0vxqixU+VWkgMbdLkMBW6KjZcfYcVbZH9tiZO16ola+Ny2OfVlOhJKwRd7wKi0rZzG7pvnAIXB8sl02hl0K5wkXlkdoc0DQuPh5403lRjP7Xgd2qWDJVOMFJH4N/i/r4O3EF5GNz4cWYdctW25CFYk+6H5apN5ZMFXlaF9WSbqsdVLkfytkwg01X8ypezQ80SpAbdRlqmmC0G5ReC5IB9yKvFS2A+s+x57GXZut5qMzvTIhFxFx0o=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4NTA4NywKICAicHJvZmlsZUlkIiA6ICIzMjA3MWFlYjYzZjI0NmY0YTVlMGZhMWY3ODg3ZGRhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcl9HZW5lcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMDBjZjEwZjRmYWUxMWIwZTA1N2MxMDE5N2Y3MGVkMmU0NWRhMWZmMWYxMTFjZmM5OWJiMzRkMWU0MGFmMWI2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
-      "tier": "RARE"
+      "tier": "EPIC"
     },
     {
       "category": "COSMETIC",
@@ -51572,6 +52321,7 @@
       "glowing": true,
       "has_uuid": true,
       "id": "FUMING_POTATO_BOOK",
+      "item_model": "minecraft:written_book",
       "material": "BOOK",
       "name": "Fuming Potato Book",
       "tier": "EPIC"
@@ -55605,6 +56355,7 @@
       "npc_sell_price": 4
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "PET_ITEM_TOY_JERRY",
       "material": "SKULL_ITEM",
@@ -55622,8 +56373,8 @@
       "material": "SKULL_ITEM",
       "name": "Farm Crystal",
       "skin": {
-        "signature": "ciYYdydJBrGkKW9477bVNZbydUvEzKKJljU6V/bGOcvouY90PhIv9FacP9Mu9OHUsLW8DII2uTpGwMgJJbhp6K5i1sNMxdRAwaCTg0nMIY/Sp3T7HVL2DXtbWwJSJAk+sixcob/9ZEl2z1Gv4GpPfTLzbFvk4wCTmFG+XXLb4vwiuCc8+6xEl+kja8l+UaYWihdhP6e+d8BoGX1TueQF6f7cd0B3f7b/TruhIY8lYG5VCXv80zrcTtHuk+ODcK43SqB0NT6rnDu+Ua/TQN293jfmShtycH/vk37IAUor14Qkjp1Y5Ax0K4NOE/rPee241WjmPZECO1w48whgqHco1XVjPtAXi1VZtIlSPx1z6Vp/3gh91TPNMj8FMFnbo663pYVouS39poAE9z0iz9zQny4wBpGw0aAYOVVayiiRcf6SdqJKF79ysAfB5H7IJRDVnA9N2UYSsK5xP2e761Pht75pwz6FLLpOoDbD9bWotyM1+iWV8aYNsIRHQ2ei10/4f3BqiV916IDbRQIkRn6qhUf7QzazVbNL/jylsKq3dnNooRZo5HD2lV4jpirS10HgNXajC+t2+2SBORWXUN+vt1X3HJih7Irw09UVdEH1Z/R1OBJDQZiFO8CS0JJYtNxY9IQNOvCSjZiZy/ZFZU2YoLFHef0aZa9zkocj29OX3oo=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQyMjU2NTE0MywKICAicHJvZmlsZUlkIiA6ICI1ODc5MjNlNDkxMzM0ZDMzYWE4ZjQ3ZWJkZTljOTc3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGV2ZW5mb3VyMTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2MwMWNmOWI2NWQ0NTE4ZjU4MTU4MmEwYmE3MjA5NzNjNDg3ZjFkZTIxMDgwZmI2OTdjMWE1YzE1NDM5YzM3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+        "signature": "x+vUwbAi8WtYj+O88+mGKWvUsy/w4EhMxHKLSIDte+ZUSp0HF2cYQscPHECWzLlKn4rIYts9CgeSd37tyc2X+383KHisMI7Nd9wJIJrxcEXZCLudeBzd8ntA6kkxAJnUMHJZobRbVjRGT90DjMSrts7suBT3ynChokteDx6lWLOXxGwK/X7GjmM4o67z9q1hk92t5RzBkqnhVBKnW45CYHSarpWsfAL9emdenvK+x9oKskghfdIawbRjvDUbzSZ30hs1EFFHZ/5xeju44TVUNDz5hExcUGpdicVEq45QgNGn6i04kTIXhYI4KdFzJGlcbo8GTAyrb3Jz5fZC84yGsd+ddo1cPajWK5oUqJZ0Z8jGKxNsJ9Lf+EfnNQi5ks7uz0dHdEEeD9P6YBp0V5gmTSpOBBEiLi4LA8kKKL2ldIZ/07yUOIcWBizHMzA697UKLPaEwzMCK933IgrxuXlpzSGJejsL82ehQGVkoEx2k6njdsnH+liiEwumVaAdKlj/1wdLGAD3Pxt8dY4oUK4cZqvh4ErzXqdf6xS77VJc6Qm5I8E6wrXVCOXTr025IFx7aj6aPIjTDbENR180jhDlsZAzHZN7ifC1GE4W293OslFInnOpEAlyNggej14H+1S6rlK7O46nc64UGulbU3bNQLmQIyzYY+nTQqgDBBDMGc8=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4MjM1MywKICAicHJvZmlsZUlkIiA6ICI4NWI3ZDQ0ZDA4MjY0NWExYTg4ZDhlNTYyZTE5MDhhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtaWtlbHNvbmljY3IiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkxODBjMDVjY2I1YTVlNjQzNWFhNWMxOTg3NDIxNjZhYjk4MTkwNGM1NmJlODY5NDNmOGZhYzE1MzQ2OTBmNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "tier": "RARE"
     },
@@ -56311,15 +57062,17 @@
         },
         "category": "FARMING",
         "game_stage": "INTERMEDIATE",
-        "parent": {}
+        "parent": {
+          "SPEEDSTER": "THERMODYNAMIC"
+        }
       },
       "name": "Speedster Chestplate",
-      "npc_sell_price": 204800,
+      "npc_sell_price": 5120,
       "stats": {
-        "DEFENSE": 120,
+        "DEFENSE": 70,
         "WALK_SPEED": 15
       },
-      "tier": "EPIC"
+      "tier": "UNCOMMON"
     },
     {
       "dungeon_item": true,
@@ -56895,10 +57648,10 @@
       "material": "SKULL_ITEM",
       "name": "Wheat Crystal",
       "skin": {
-        "signature": "muopRgtom7RxK7kV0AtXWiKvCryZl6QdVgcyta++szArfijMvkQ9FXM6cvgiMdAkEXIeinZEGHHyBI1oEoEaE/3k3sACa/fO99Njq36WgTjsLaPnUN/4hNzf4hHZXO4X6tljxWgJEkwIl90fK1O60r0Qh7VC/17qUPWPPN/GAX7NRo2DBgLIfvSOdzLfHVNdX/zwskzgOcW1eZ3dv0RWhWLuVufeHpxhgzjS25aRliwYpvJUd/QUzXM2PYNIMABiPBImeCWs7AlW+aiRUpalrIg+6kxBXlveX20RuB60FGg67QJPW1Z2UwnjFFzeUz+XGCYftCG1EnczD8ZmSF1Bg2k8Y0xgRUR29IV9RT/DFzpH7RJkGZW1CSlPz5bQr71EVx+gtfdhaN1OboXX8dEyAxl0qnyEcoJFotacTmesFL19iAHMGYNIxvJ3ICuw4VEesd+jrXdQn8/tKzTEJenLO+u7ICgLpdIqJ3dhAl5/aamJ6Ef7IJPpXCOD1T0L8YPSK8xV4QOPDwpSypZ8UAw3kQOqUey2myU2/fftmjuMrknIVzJ4g/UeNO/IYSq1PsQjb28z1fPq6srUjOJvzzcSKHC5t3IzFT3PE1l9omc/HU0VBjK0jaXzSFvXhiBgvOOGNjdnJOaH43cTMJFcBd3f8MTdKa8AF90aKRWICMECnH0=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NjkzMDQ4NzQ5OCwKICAicHJvZmlsZUlkIiA6ICIwNmE4NjAyZDAwODk0YWQxOTcyMGQ3NGE1OGU1MDZjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfMW5kcmFfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0ZDJjODEwMGMwZTZkMzg5MTBlMjRlZmE1MDQzOGNkZjdiZjBhYWViYzQ3MWQ0ZmExNjNhZjJkMjE4YTMzOTUiCiAgICB9CiAgfQp9"
+        "signature": "G+kWT1WxYNu1qK29qpivW+jEl1RwQaOqx77snlk5zlwU4qE7FC1Wt17xQ530kHojdq+xFEwJu26++bXtSgL4+d7/51LC8QYZJA1Lsl4bWyAzBcYCv40+AXkRUx9eZJd+yFjvaZMXkYg/qQaPPBGSXquoBK4MERLqXrGWpClc0+r+Psk1uCQc6XLqo4Cwelv0AyLxs1u9u4YzPqAs1E/W1BU4RVEqSVlI3KMD5I6E4CWSyb5eO3sxqPYXexoAB3WAPQiL+7LL/BkAwqg9DGLeEecsVy8WOoYS30d7ncle0fkqF7mJG7yMIAaBQQNSTTpYTjR6v1IMmULvy3leyiG9QStjlB+xnGEt2hwI8euno+9SIOqbvsZEIT/B9FWT9fSM1g7TmBjzOTOcZotGO8/k0QlI89pram5vqGD7TH7N3KmgotgcL8+swbubrbod9rvTGAyEF3oC1KtF2N5zJ5EOZ9tcXq8zjDoJthYbMC7Rm0PQLJ+sghOaW/FqGmkkWXSi+2/z+AlHBWeueBi5lpZFd3sEQJF2jHa5h9W73zMOyd4MNVF1FvMSqXbHUW8QRvTPwAlDfPa3QfXCreWcpQXaYQLE8Vu4XNKbCi5rmT+t2BhknyfJ/yQJtSBEO6i+xxTLSSjU6Rt/bY+nPRqQ4VAr24rJqM0VzmTQZo3xGneJVMA=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4MzgxOSwKICAicHJvZmlsZUlkIiA6ICIxN2Q0ODA1ZDRmMTA0YTA5OWRiYzJmNzYzMDNjYmRkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnaWZ0bWV0b25uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZlZTMzY2M1ZjAyMmQ5Y2I4MDJiN2VlYjA1OTE3YWU3NWY4ZDk5ZmU2MDI0ZmFlMTA4NzQ0NGMxMGFkODYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
-      "tier": "RARE"
+      "tier": "UNCOMMON"
     },
     {
       "dungeon_item": true,
@@ -58925,7 +59678,7 @@
       "tier": "EPIC"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "IRON_HOE",
       "material": "IRON_HOE",
       "name": "Iron Hoe",
@@ -61207,7 +61960,7 @@
       ]
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "STONE_HOE",
       "material": "STONE_HOE",
       "name": "Stone Hoe",
@@ -66270,7 +67023,7 @@
       }
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "WOOD_HOE",
       "material": "WOOD_HOE",
       "name": "Wooden Hoe",
@@ -66889,7 +67642,7 @@
       "tier": "UNCOMMON"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "PROMISING_HOE",
       "material": "IRON_HOE",
       "museum": true,
@@ -67810,8 +68563,8 @@
       "material": "SKULL_ITEM",
       "name": "Woodcutting Crystal",
       "skin": {
-        "signature": "vF3xgW/FSVuhImUd5k7QTLXN+gVts5vfXzhvlGjjJ7jk1fzkPzo4mwtNsEGqJEmiWDw9jaMAOdMcsGBYLxDZNbCY8Rnsg8dnq1oE3uOLOFxwX5c79ZaHMKn1CEZzDsaJBhr+lCf3JqlM5doSHEtk7wT68NGDRtpiS01uDXLGccEKtELq5QnlJXXzJH99R3BisfpDrD+8HaDm+fvltSL/atwwkPkYp7VXlCH1/LIdyaPgLyFkRHqaJzSTvtUe4fMOlFZWJWFbSz4kRugvkBlKSUJzKjqnTaaGV2WVQqiNvCfKg7ykcfRP6M22+ERD4WE9utAWYpoX9rN1Z+t2brWTnhOosnSPLKhCflHOJiq81LOWUbSSBFaDh7cQ/2VlC3mNkaWunyEnPVwFfSE00VWnkJ2w6dq12mtuhs4gBFsGhxGakb/f2Xu54V2Q1BNVVilYXt3UIgxHw10+EyIsFatDdIbaf48ou3nMcqL+U4+JOPViBwSEm/+K8xhx+v0dyYCxVLR7Lhb5azt3K2YLG/Tl5CTaPXWJYF3++dAEHJH5aAWDydmsg3dyD8U8srFfDqF6ULp39eiOhoxowqhmPFXsF5PEDGlibfohSqGp4r1it+521K6cambLaUBD7rynZ1fXBlBAOX0CtHWjr8Cu6rUaAkjovO+5ZtBf6B4AdfRwMnA=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MjA4Mzk1NTQyNSwKICAicHJvZmlsZUlkIiA6ICI2MTI4MTA4MjU5M2Q0OGQ2OWIzMmI3YjlkMzIxMGUxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaWNyb25pYzcyMTk2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ4Njg4Y2NmNWNjYjRlMTVjODkxNWFiMWM5MTk4YzNkNTdkOWM0NjcxZjhjMGEwY2MwYzlmNWFlN2IyNzM5YjQiCiAgICB9CiAgfQp9"
+        "signature": "UQJ5Hp7kftE2oNAET6NA437pNhhfK0kD3vhX751J8GteQkmRmi2MMUTpJD2OWJZ53tF8RhNzBt4DvWZ+z/XsSsBFDh0rmicW5r1mJnwvOMjAeuDMKh4k9o2p0O0CetdYD8ObXxlI4jfsT5cge6FUjc1raBw5nzOT4Tss9wHUkTsODvPCGgIKwFTShSt+RCRIHdojtGwyz4deDlMpA7H71D+DecSGFp6muKLF6sIxafmE6L6yXPSB+rv4IUZyftoOsrqRSlHZpz5OAI+Ch+2LeCMfyPiKIicRQ4ktDgiFuem0Ud3mzHO5K2Lzv7Or/Ct84worV0T+4kDx1pLMXEbM6tX2ae7TRcdmyX1PelmneVI5fa3YcXlXB2577u8/t5AXdNtko9X1T/yCtm2F1OsB+LBChv0YE4YlRzvejQBu7syCRjCQi5BhQ7QZpDpmhjItXcOUVdGE6YaE1t8eKDB28SPpoG3cy47rudo37q4dIIccRlcjU7/4UbAiY2OHvlizXD02vNNg9SOcatszMeVrUQhEC4LEnGxjd97c+GxC/0xQe+mYP8Z/PPkdCgP5yVhxbGpM4pdJrv6K8mPhBvk0mkA3EBGZpW75FhpKy/9QeDnkcQFf7PegqGyba7Puq7c0qATpDVNmnks2Xj4VMyjsx4mK2uvwHI3obIL0sbugAJg=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4NDU4NiwKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRjM2I5YTRjNTkxY2Q3YmJlZDNlMTZiMzRhZDhkNTA3NjA4ZmJlNDRkYzcyOGE3ZWQxNDFmMmUxNzI5ZDgyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "tier": "RARE"
     },
@@ -68810,6 +69563,7 @@
       ]
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "RADIOACTIVE_VIAL",
       "material": "SKULL_ITEM",
@@ -72054,6 +72808,25 @@
       "tier": "EPIC"
     },
     {
+      "category": "ACCESSORY",
+      "durability": 3,
+      "id": "SPEED_RELIC",
+      "material": "SKULL_ITEM",
+      "name": "Speed Relic",
+      "npc_sell_price": 1400000,
+      "skin": {
+        "signature": "H8eqd5fmeCmq+M05HrvCDRpPk2FYBdbOkOhXlJy9cyr9jzdGUQpOeDqWdT6NTN9Jqd410/iZJqmHn1bTCSwtoUjLnSmaS6sPyCzABMXFgIdQNDYZGGid6LNTK6jzZct6p3uU0oqo64sY+P4TtMayCTgKZChWywbMpxpkOx++Kuw25K5UViCe7HNHVgcuV5FmGda4/NANQog0fhd9h5Yo3H6WvkH6FB6tatgbAE22daeGvGREESC5qCKnenXAx63yEimS/M6NwNU1/JPyhl0d+B58Uv5eLaEbSxsCammNDahrDLq9HeYq1zUdVRdS0q0XqB/fucjk5BFRkY9vO6Pk1+axKiHloddgjUh08+Hc49Kyia0zOxen79kJZwCRZxGgqwF2nBjB0ixOqc9p6wezARbjGS6UvcBBZTbXn0UGcD2zc/lszTpWZplY8o222tQNKq3UKfzeo8zeQVsb54qbIQ1NLVxStxh1Yx3dAmH/zYoSTb8F4/ma06Fnpnvuqf3Hj2nyvnpQ0VfifMhm5kjVXesZ4apvT6dXCJTsTDJtjz8lVp0PKwKdnM4CqfeoOpzhdM/dZTdfo4AR8DSPW/DToLRYkhU1PoheJj1/kulNmSUXVSh7FCY7WWJv7zdSmL3Nb3CtSsZrNSzSHZLN9P4SovOcJQpPEsQvxTVhi5SfhaI=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDYxNjE2OTAxNywKICAicHJvZmlsZUlkIiA6ICI3NWQ3OTQxMjI0OTM0OTI4YTE1Njc3NjYyODhjN2I1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWdpY01hamVzdGljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhMmM4N2FlNWZhMDMzNDVkZjQyYzEyZGZjOTU3MTc3YzY3YzY5ZTE0MDBlYmVmNzAwNWViMTNiNThiZTY3NTkiCiAgICB9CiAgfQp9"
+      },
+      "stats": {
+        "ATTACK_SPEED": 1,
+        "FISHING_SPEED": 1,
+        "MINING_SPEED": 1,
+        "WALK_SPEED": 7
+      },
+      "tier": "EPIC"
+    },
+    {
       "category": "BOW",
       "dungeon_item": true,
       "id": "ARCHER_DUNGEON_ABILITY_3",
@@ -74748,10 +75521,10 @@
       "material": "SKULL_ITEM",
       "name": "Desert Crystal",
       "skin": {
-        "signature": "muopRgtom7RxK7kV0AtXWiKvCryZl6QdVgcyta++szArfijMvkQ9FXM6cvgiMdAkEXIeinZEGHHyBI1oEoEaE/3k3sACa/fO99Njq36WgTjsLaPnUN/4hNzf4hHZXO4X6tljxWgJEkwIl90fK1O60r0Qh7VC/17qUPWPPN/GAX7NRo2DBgLIfvSOdzLfHVNdX/zwskzgOcW1eZ3dv0RWhWLuVufeHpxhgzjS25aRliwYpvJUd/QUzXM2PYNIMABiPBImeCWs7AlW+aiRUpalrIg+6kxBXlveX20RuB60FGg67QJPW1Z2UwnjFFzeUz+XGCYftCG1EnczD8ZmSF1Bg2k8Y0xgRUR29IV9RT/DFzpH7RJkGZW1CSlPz5bQr71EVx+gtfdhaN1OboXX8dEyAxl0qnyEcoJFotacTmesFL19iAHMGYNIxvJ3ICuw4VEesd+jrXdQn8/tKzTEJenLO+u7ICgLpdIqJ3dhAl5/aamJ6Ef7IJPpXCOD1T0L8YPSK8xV4QOPDwpSypZ8UAw3kQOqUey2myU2/fftmjuMrknIVzJ4g/UeNO/IYSq1PsQjb28z1fPq6srUjOJvzzcSKHC5t3IzFT3PE1l9omc/HU0VBjK0jaXzSFvXhiBgvOOGNjdnJOaH43cTMJFcBd3f8MTdKa8AF90aKRWICMECnH0=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NjkzMDQ4NzQ5OCwKICAicHJvZmlsZUlkIiA6ICIwNmE4NjAyZDAwODk0YWQxOTcyMGQ3NGE1OGU1MDZjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfMW5kcmFfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0ZDJjODEwMGMwZTZkMzg5MTBlMjRlZmE1MDQzOGNkZjdiZjBhYWViYzQ3MWQ0ZmExNjNhZjJkMjE4YTMzOTUiCiAgICB9CiAgfQp9"
+        "signature": "bg3r2rS3HDepg+yjxKzv5JnKNhpk9E9be0kaChfTenz1+orE7XxoYTAk4eVdBIH8Y5/b5Yhb5uWJyBn05USkrECMcbZhVTteOBRF8xKtyMcsK9QdrcNqJMrNjp/3UPSFjEkQRQYOH12UNhskJhweZyXc81ju8hMmx7s8vULBr5Mqvf+mdswtlWYZm4LbKmx26NWSTk5gdEZbjOALobQoRHGtZbo/4rNm73yj4885llunE818YUGv6SEkpJcuAKZelBbNvYkhH2Ob65Bo5SftttkHtDXB/HCK5g4nbLLYwlmenNVQ/NFVzn/8VDoM0lj238b53mS+id62UYCONTTgRjL5/8IOO8ul8KJtv9cDTb+l8yKToCxcMO8NBKcI8XBJEJOk913kBkpOgXqTDBt+fOsA8+TnEyWrXvzd8yYQ59OU4U6nFe1f26JSis91bOtH276Ff0XDdu0hqcil5P7J2q5o0Lh4LglOCc33wbX5xuErGdFZXf2JbhAcGRcY5Gia+QYdX7TheW8mleGaR4FjOlkFPIaegyT+tKZceHb3u74L0tuSP1DopczsrQUtEXOCrtvrQP4PCGkMfZGWeOz5irQvQe+ckZH6vSi/xyf+uvy0E8pY9LRBS1ruEt2OjMhaZG1MSunLxMnBBrfKSaYJjGGVaMU8A9V++pietkFo06M=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4MjA1OCwKICAicHJvZmlsZUlkIiA6ICIxMTM1Njg1ZTk3ZGE0ZjYyYTliNDQ3MzA0NGFiZjQ0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJpb1dsZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjM1YWU1NzY5NTM1M2UzMzVkZGVlMjRjY2JiNTgyMzI0ZGQwNjg5NjYwOWIzNGNiNzJlZjQxNmVjZWVjZmQwYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
-      "tier": "RARE"
+      "tier": "UNCOMMON"
     },
     {
       "category": "ACCESSORY",
@@ -76070,6 +76843,14 @@
       "material": "SKULL_ITEM",
       "name": "Prehistoric Egg",
       "npc_sell_price": 1000,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "amount": 25,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "UftbCsvc6UJpPAIvTCPyMpifnBM0ib9hNG1O/7y0HhORYoyvMpc4mjC0/cfdO93yNiywpQuziZwUpr+L33dBz52Qg63trK6ygrlHLZgQsWcZTahGykVZTIHCbwwxcaJSCl1Yge8eQ5ji8gDWzNlku/DA6R0QP/J+tha7f72AyqQcfVh/WswVxOWfkbviiZeJFERTJuhYb81bkTM8r6NtmkBtQ9Jqb7KE6e83iEe50lEereZVRey8J6sAowj/HSjNGIdmv17uI89J8A2Uwa/oBZCY3RT3CHjsB85PlBhaCVHBEI31mf4mPdTofnlAvoEY3XULx+Fd4bTk3Zd22fyrTK3xe8U/HmaZXacYQwP5MbpCHohRsG+Lg9X6Neypj7DIQNwnQGad7bMZ3WfnZJDKjIZwwaSY/MfzcpFH8KD18vEjbMovG0IL+B2gDXMqZjKg5vSVZf5fB+iceBuqW4jsYoX3qHejda8F8xRVxLqOnu43S9JgSf63l2sIIwM9rEp2UqtLfFtPifCn7VGr922l2zyS85mYCPM/VPU9/lrpuzZbT7+coDH0a5LkXV8jKXycxNO2JVXlbqTRwDjlvj69cifID42+kH//Yi96lYyYs16dlKEFf4IHw85HHBlFSwMq0CdJBgkCPxf7BAfldtvBk8taTceTAJ/UJV1sSqHaNVg=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI0ODMxMzQ5OSwKICAicHJvZmlsZUlkIiA6ICJjOTAzOGQzZjRiMTg0M2JiYjUwNTU5ZGE3MWFjMTk2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQk5SY29vbGNhdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzhiMTVlODVlZDIyNWMyMWMzMjM2N2RhN2JlMjQ0Nzc5ZTM2YWZlN2Y3NTYzYTZhNTcwYTcxN2NiNWJlMWIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
@@ -78850,7 +79631,7 @@
       "tier": "UNCOMMON"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "GOLD_HOE",
       "material": "GOLD_HOE",
       "name": "Golden Hoe",
@@ -80071,8 +80852,8 @@
       "material": "SKULL_ITEM",
       "name": "Mithril Crystal",
       "skin": {
-        "signature": "GAKTDKzbhpO5xVErIgGKpS8M5QVhoyMk0PyZOn4RMdLuOw8ACs2BkHsjmRlQdPI08J0T/1s42b3ccubxDXlOBuzsBnoRbTouo+SztfYoarb9l/YH7C5msFEY11v3uSq887bj7/xr98mpckMboyQSSrScqszYgm+HfahHXZkBwIf+by9M7bIdUIZqXjm+odK4UzUoR/Q0fHBUWH/qHtcuBMzcHZ+l0UTESX9IxJy3FiXJf+7Kjqf55gkRHfqiqMpDgwO44LYwkkWjjeCMcVII+YLpr4VrCm3e9omOF1dbyq7drQPW9n5bGrcgaYVpSR4NN7FOicNXor3KZ+1aG/WTGvo0I7xTlLrh8evfd2DDKlPmVEJlaa5G06c3gERBipK4HKjn8csGQYA+JXoz6XpsJt/aLiS/H24S9O4bF4BXOqpkLB8SaCYsCBKcaUMDOtqxPLz/c3hHR/B7kmQR1mjFsloLm2ZsSZ2eGjvIq8jbJ8Ed3SUSAWFi9N3SJJMo2o4+J2DHBUgUbT/KFzbVLh7gsNgS4mdluEcA4vIKkrd5rgxq/rpD1pzfkrRYgSI6qYqkrb3vtQMWxdXD9m/sqGg8UPZNQ5mcJ/mPWHU+oAhHB9gabnuOI5j10LcngX/Cl61aqhZycCylYXv+r/wHp0J5OF6NE5ee9YDD7sdtg0Nm0tg=",
-        "value": "eyJ0aW1lc3RhbXAiOjE1NTczMzMxMjcyNDQsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTVlOGI4OTk3ODQ4MTJlZTNlNjUwNjEzN2ZiOGRiNjkyOTY1NGVhOGEzNThmMzlmZDdkZWJjNzk4MzljYjMxZCJ9fX0="
+        "signature": "G+kWT1WxYNu1qK29qpivW+jEl1RwQaOqx77snlk5zlwU4qE7FC1Wt17xQ530kHojdq+xFEwJu26++bXtSgL4+d7/51LC8QYZJA1Lsl4bWyAzBcYCv40+AXkRUx9eZJd+yFjvaZMXkYg/qQaPPBGSXquoBK4MERLqXrGWpClc0+r+Psk1uCQc6XLqo4Cwelv0AyLxs1u9u4YzPqAs1E/W1BU4RVEqSVlI3KMD5I6E4CWSyb5eO3sxqPYXexoAB3WAPQiL+7LL/BkAwqg9DGLeEecsVy8WOoYS30d7ncle0fkqF7mJG7yMIAaBQQNSTTpYTjR6v1IMmULvy3leyiG9QStjlB+xnGEt2hwI8euno+9SIOqbvsZEIT/B9FWT9fSM1g7TmBjzOTOcZotGO8/k0QlI89pram5vqGD7TH7N3KmgotgcL8+swbubrbod9rvTGAyEF3oC1KtF2N5zJ5EOZ9tcXq8zjDoJthYbMC7Rm0PQLJ+sghOaW/FqGmkkWXSi+2/z+AlHBWeueBi5lpZFd3sEQJF2jHa5h9W73zMOyd4MNVF1FvMSqXbHUW8QRvTPwAlDfPa3QfXCreWcpQXaYQLE8Vu4XNKbCi5rmT+t2BhknyfJ/yQJtSBEO6i+xxTLSSjU6Rt/bY+nPRqQ4VAr24rJqM0VzmTQZo3xGneJVMA=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4MzgxOSwKICAicHJvZmlsZUlkIiA6ICIxN2Q0ODA1ZDRmMTA0YTA5OWRiYzJmNzYzMDNjYmRkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnaWZ0bWV0b25uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZlZTMzY2M1ZjAyMmQ5Y2I4MDJiN2VlYjA1OTE3YWU3NWY4ZDk5ZmU2MDI0ZmFlMTA4NzQ0NGMxMGFkODYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "tier": "RARE"
     },
@@ -82916,7 +83697,8 @@
       "npc_sell_price": 1,
       "stats": {
         "DAMAGE": 75
-      }
+      },
+      "tier": "UNOBTAINABLE"
     },
     {
       "id": "CLAY_BALL",
@@ -83441,7 +84223,7 @@
       "tier": "RARE"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "DIAMOND_HOE",
       "material": "DIAMOND_HOE",
       "name": "Diamond Hoe",
@@ -87752,10 +88534,10 @@
       "material": "SKULL_ITEM",
       "name": "Nether Wart Crystal",
       "skin": {
-        "signature": "muopRgtom7RxK7kV0AtXWiKvCryZl6QdVgcyta++szArfijMvkQ9FXM6cvgiMdAkEXIeinZEGHHyBI1oEoEaE/3k3sACa/fO99Njq36WgTjsLaPnUN/4hNzf4hHZXO4X6tljxWgJEkwIl90fK1O60r0Qh7VC/17qUPWPPN/GAX7NRo2DBgLIfvSOdzLfHVNdX/zwskzgOcW1eZ3dv0RWhWLuVufeHpxhgzjS25aRliwYpvJUd/QUzXM2PYNIMABiPBImeCWs7AlW+aiRUpalrIg+6kxBXlveX20RuB60FGg67QJPW1Z2UwnjFFzeUz+XGCYftCG1EnczD8ZmSF1Bg2k8Y0xgRUR29IV9RT/DFzpH7RJkGZW1CSlPz5bQr71EVx+gtfdhaN1OboXX8dEyAxl0qnyEcoJFotacTmesFL19iAHMGYNIxvJ3ICuw4VEesd+jrXdQn8/tKzTEJenLO+u7ICgLpdIqJ3dhAl5/aamJ6Ef7IJPpXCOD1T0L8YPSK8xV4QOPDwpSypZ8UAw3kQOqUey2myU2/fftmjuMrknIVzJ4g/UeNO/IYSq1PsQjb28z1fPq6srUjOJvzzcSKHC5t3IzFT3PE1l9omc/HU0VBjK0jaXzSFvXhiBgvOOGNjdnJOaH43cTMJFcBd3f8MTdKa8AF90aKRWICMECnH0=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NjkzMDQ4NzQ5OCwKICAicHJvZmlsZUlkIiA6ICIwNmE4NjAyZDAwODk0YWQxOTcyMGQ3NGE1OGU1MDZjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfMW5kcmFfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0ZDJjODEwMGMwZTZkMzg5MTBlMjRlZmE1MDQzOGNkZjdiZjBhYWViYzQ3MWQ0ZmExNjNhZjJkMjE4YTMzOTUiCiAgICB9CiAgfQp9"
+        "signature": "iDwNKdfazd87yj22jr/KAKb4cqvkLlVFGr0s3tLGwHY9itHNoghabhfPpNTHl+40E6ESTgoFR0ewdA+dsr1YTVPksVezyzMvI2S/YL92/MIKGv4A0vmePT+pvRSeMgwM6zYvJac5W7ldOsReKKWcR+N4QFIQCFO5UGo5CY0hb5lI9flJgzRegqCMI9PpL3tulxxXZ9+gy7gl3jGUeIL04vsEq9OmuB9xNz5txIk1PbY6xZjafd704xf2u4K9RWq19uWEzemhK2tZ+6aVjmS3vDabrgT9u97QvaAv6jlpP9j3JpGgHLC9BXFqH3eZrs9v52kMUcxyFLPvZ54wn6KwfDB8w4Ym59uQH914IUMmrC6ZQIYoA+NtN3xYyvYZxnv2+aRda6B8RDLksuoyGkBLuBgxMbdWlTvjW0AFUpevHpyzXwiU49QFwxtr9U/hTq5DXc6Ikk9wjhzKjkP6u7HQ+T0mMrmaGPa4PbY7lKM+5sHgoiK5KVX4UnAKk3ssCaRLriMngzOtbIvEN9laAdm16J4WbTKFo4afN+UQQ+9LNW1VLkczItJNMoXfWkJ79qbp2WrYjcFsOCYo2nQu7mZHqrINeo6vTUNqnZqJ310rzHK+a6xSh29y266Hp5YGMNMgPGCsFa8V7pCOYnrUEMEWvbtuhlI2tj4WToJHfS29950=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA2NjA4MzU0MiwKICAicHJvZmlsZUlkIiA6ICIzODY2ZTk1MmIxZWE0M2E4OGE3NGI1NzAxZDVjYTAwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWtlTWFybG93IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhZTZmYzA1MTkyYjZjNDFmNmE4ZDUxNmY0NGNjY2NjMDRkMjE5YzE1MDFlYThkMTI1ODU0MTIwOWUxMTljY2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
-      "tier": "RARE"
+      "tier": "UNCOMMON"
     },
     {
       "durability": 3,
@@ -88007,6 +88789,19 @@
       "name": "Saddle",
       "npc_sell_price": 5,
       "tier": "UNCOMMON"
+    },
+    {
+      "durability": 3,
+      "id": "MELON_JUICE_MIXIN",
+      "material": "SKULL_ITEM",
+      "name": "Melon Juice Mixin",
+      "npc_sell_price": 8000,
+      "skin": {
+        "signature": "IL8Zj8/dGWDYdDpuMqignZOi/7WQx8l8ra7H1g5uevwPoMPSe4+54fibtdgPG6JCdgCTtnAyfgNNMdAVTaSVqBNxO+MWWD3goblb3pK3JYz2pUB8qeg1u+49A3CejLV9XqASXwvCJeVCEreVez9BE0Kzr7jqP4Stuvj6ber+18282Cyf4f4uq8NYF6Ja+MtBLjLEPqtl+AVSp/EWQYn+Xw5VlEoGqmD6JgufI7A/xz8MHyuZZbVRGMZ45+RkGuC9Pk5n9k3Dv7WOuVEb7E0Z9EWHzevyDE5kj5aq+SVoydaYMudN4VYxvGM1lwXGajBlvAfXADnStUxXauZTuw3UESDuenC7OguuuK87OQR/Av6+iMUbg4EJR4gL+QSYD5AH4m8gyY1+bZ+b/7XRvmbtAjrVTZV5lrKeX3k//qMlkMs7z7fC4TGiEepEq0FeUV0tjVSJncG8EtcrKOZtBZveo/nj3SJsLqnrItuNkDpe1YqxkqcncBVARQLas6wM2AUv3lA2Cld6N7jamWspDESHzouVIsvWuj4G9NOL+b0Wec98wOrBQrus+IVmOlSPjkmv62bAlZx4P7iUS+lt46OlHmhgLcI5faiPsEslP8U6dQ5XBKT4WdfdfEpJG7UZyjDK9QAhgUsbG/ADr4BhKWud81GnULHD3+plyN5ISKhxBGo=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE5Mjc5NywKICAicHJvZmlsZUlkIiA6ICJhZTQyMTU2N2QzODg0YWUxOTJhNmNiNTY4ZmZkNGZhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aW1vdGh5ZGVvZG9yYW50IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JlZDkwZjJiMGRjNDJhM2QwMTI4MmExNjQ0Zjc1MGM0MDg1NmU0OTFhZGMwNjgxMDM3YTg3NTBlYjc3OTU2NDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE",
+      "unstackable": true
     },
     {
       "components": [
@@ -88786,7 +89581,7 @@
         "DAMAGE": 120,
         "STRENGTH": 50
       },
-      "tier": "RARE"
+      "tier": "UNOBTAINABLE"
     },
     {
       "category": "HELMET",
@@ -91975,7 +92770,6 @@
       "npc_sell_price": 2
     },
     {
-      "category": "HOE",
       "glowing": true,
       "id": "THORNLEAF_SCYTHE",
       "material": "IRON_HOE",
@@ -92651,7 +93445,6 @@
       "tier": "SPECIAL"
     },
     {
-      "category": "HOE",
       "glowing": true,
       "id": "FIRE_FLOWER_TOOL",
       "material": "WOOD_HOE",
@@ -92714,15 +93507,17 @@
         },
         "category": "FARMING",
         "game_stage": "INTERMEDIATE",
-        "parent": {}
+        "parent": {
+          "SPEEDSTER": "THERMODYNAMIC"
+        }
       },
       "name": "Speedster Helmet",
-      "npc_sell_price": 128000,
+      "npc_sell_price": 3200,
       "stats": {
-        "DEFENSE": 70,
+        "DEFENSE": 45,
         "WALK_SPEED": 15
       },
-      "tier": "EPIC"
+      "tier": "UNCOMMON"
     },
     {
       "id": "GLOWSTONE_DUST",
@@ -95795,6 +96590,7 @@
     {
       "glowing": true,
       "id": "JALAPENO_BOOK",
+      "item_model": "minecraft:knowledge_book",
       "material": "BOOK",
       "name": "Jalapeno Book",
       "npc_sell_price": 56000,
@@ -101015,6 +101811,14 @@
       "id": "SUSPICIOUS_SCRAP",
       "material": "SKULL_ITEM",
       "name": "Suspicious Scrap",
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "amount": 5,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "nj9VCIOd+FWmZ8Uf/GPf/DE1bzDE00Fx8/gvgIKbXDollHwd0lQO+mTa/ZaqwtLaee6W6d2osHFmChCf7khCQoV8yMwVK1U+GKkWa0FfhYtGT/Uu3cWLM4rqhtAiWXlyAAdw3QRMOb7DrreGPi+RRTSSYNHsXlWjccYqbnh6tQTlmLQ3Jorf6saSo8XoS9fSwAreMnzrgDi/MFkyk9gp3Tlgt3pJUrz8qV+XxMMPjujhlFLXuqyzGHbqMpJ/ZXqCIdj3NjTsRKmcaLUsNyJdrU+m0c2FXTXhtTpoKmA1iGDeLinbUcUUPL5YvS+RZlaiN/jPkua08CtvSpNuYd6Ly7cdk4JDQZmRVLJyoIHNfO+yf1p6uzkUutjdzXagKd3j3xJ1eU6c7NMJNuqJZcOWEx+Hy5OdlrRLJMYuDuDSi0prWnvpHZMSpgivf+Ep+SZ+IcgsCH/NPs51H7YP/77I2sYLJdp0I54jhznNqhOz0Do2BV19HOkmxKjmEHlX91o/0cNvvDyZbpm1LJhWTt6bfi1vvQiDF575sqIeizsiUmZYudTTljQOWSE26RyQj1s6cxjJVNdRgIEBh7PnWs0SYYID+Sp6jXB0LiEt0s9Knkxj8seImj8nu//QRyoWmIDYv/mvIX1mix6w/82h87vMc5JDB4Cl533aUltFw2iTAnU=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTI3NjQwNjQ2MywKICAicHJvZmlsZUlkIiA6ICI0MmIwOTMyZDUwMWI0MWQ1YTM4YjEwOTcxYTYwYmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJib2x0MDc4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyNDI3ZDAyNmVlOGU4M2Y3NDQyMjc3MmJhZDBhYWU0NGExNmVlY2U3MDg5MDFmYzIwNmE1MWY0NzIwZjcxZWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
@@ -101298,6 +102102,14 @@
       "material": "SKULL_ITEM",
       "name": "Shattered Locket",
       "npc_sell_price": 5000000,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "amount": 1000,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "FeRFAKs7QnoPwkhjpUwbZQE8S9ISgDm6eYnR1J6ZpD86J1FOPfNOXYpLDZK26VHLvkQ1nz0amv6Uy2f252LLE3R2wvRDqBnN3NnUnC4DVAOzRScoDDL0oi5fs1zDl9zTFafeJ601EIiechaXo4BQFCjotljM99lt9D8uxvVseggHEBtSHLtd3eadCU9mB8oX+gyLOAVtJpAiaB8stWSRrgPLP7GLPmZaFRIibXdYnvy2Tq0w2jUQ2BqMDx4wxUwIFH2H7Cd58Q5daJBJ2jXrwVnng6oUXmC1fnwRfiJ8qJpRCKbIcJilEJkFqOxptj3z/jYhfnGpFvR3Llm4X+4gT3V+lOxircGHFqsPmqDgO122bFPPq32VsJgi6zlTn9ofYO8cD9yBEWfZbnh48usa9RHUibK76rWbQ7Qe4pDhlNoNKXZt57ZyYcVLXlbs3WJf/JAvsQbNjIszMg/KCinmV97eyl4hActi8NMkN6q3FCQVKaXVjK7i0LdJJz48tBc0i4JYRfnfWSAWa0DmZlxY68CMA8Iywkb3il70Bmm8xO0LsvcX52I3AiivrVQeH8jCueCr3Lzwp+la14ub/NRh331PZH9nJFIEp99LzPziZaoJrArNUuiQi7aizQPCNvWolPfyRfc9BaIHTYU6nPCbkX6e4IFgh4kilhGfBUUNxAA=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTI0MjcyMDI4OSwKICAicHJvZmlsZUlkIiA6ICJlZjVjZjkzYWFhMTY0ZTMyODQ4NDYxYjIzNGQ1YWJhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE4NWEzZGRhZGUyY2RhZGY0MDRjOTE0NTczMzE3NjRmYWRjOTIwYTIxNDIxOTdmOTk1OTEwNjg2ZThiZDY4OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
@@ -102869,7 +103681,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -103135,7 +103947,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "description": "%%italic%%Almost identical to the Melon Dicer Mk. II, but it has Mk. III in the name!",
       "gemstone_slots": [
         {
@@ -104577,6 +105389,18 @@
     {
       "category": "COSMETIC",
       "durability": 3,
+      "id": "JELLY_GREENHOUSE_SKIN",
+      "material": "SKULL_ITEM",
+      "name": "Jelly Garden Greenhouse Skin",
+      "skin": {
+        "signature": "Ff47REkyEPegZixl7Lwzo6wPjQFd16M53SUBz4KmLnFSWNC6uudtZX9zvXmWidSke/Hus7rpr77vzLnrJ3LsEj/tIm/racKCspM9WrIEFYj5T7g6baUIk6uI3NmPzmcI04jsKxp0DKT5cOf5IH6ZInBcF+zINR4XXtHsRjfFI7xoSVQPNaqRPxvLIKJwPpzlIJVRaBQ0xbA4Vikr2QyHHIxm+0FRKJ7j6kADZ08K31zVejBN8vjjwwBrQPy9q/0/7MTUYEx4WA3jEIufRjwYEbJixZxhtXTEr39yA+1chopK0oJ3ntqQWiJ2rlM4N90MqCMJsqu7kd8+PotgsLlOENSeqNJGWkCPcgXiVLeZLmoflRctgvqUe4A4vtOqEXqEnlI7Bd/Wb9yH6HtwRBdVItmANPacskXnVjgVYAeQnh7J1iWa3m0h+Dsgt4S1fCN1fMTAb2DO/Euh5Y1paml8UQO5YhUyWs41nAET8bvIUOAB338bOyJhbXvRBP48e0VwTw86ep+RBY9R2J9kzX/oxgCMHjawX6QYJm9fkLgVfgw+g74wpDXYFXTSuj/duMOZJGsbswBDLo+qaEn8NKlJwTc9yQyM3UJfg/3+age5cOLSWHVFntOCGHHYdIoQkcIcN6nM2SD9SPCPuMg8Xav+mioDOJj2shaD71gvhLMw3g8=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4MjQ2OSwKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjNiZGM4YTc3ODE5ZDYxZjBmODMxODhmMjE2MzllMDhiMTFmYjRmZGNiMTFiYWNiN2ZhYjQxOGUwZGUyYTdiMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "COSMETIC",
+      "durability": 3,
       "id": "GLACITE_PALACE_GREENHOUSE_SKIN",
       "material": "SKULL_ITEM",
       "name": "Glacite Palace Greenhouse Skin",
@@ -104804,6 +105628,18 @@
       "material": "LEAVES",
       "name": "Autumn Hut Barn Skin",
       "tier": "UNCOMMON"
+    },
+    {
+      "category": "COSMETIC",
+      "durability": 3,
+      "id": "FAST_FOOD_BARN_SKIN",
+      "material": "SKULL_ITEM",
+      "name": "Fast Food Barn Skin",
+      "skin": {
+        "signature": "sQuGwhgTf67tw0UGW7jTqqFHIa+9Yggbom+HUn6UppZ1frDy4k/qR5hEKr1XuMJJjJoMrhDPp0SqI49pRm+w/poqhhGvoySKEa6XCUZYspd+KYtHzi4UuWnjIAa8waaIuDHxm7Dswvl7K/kptK42SJsGb2MaQuJdwe4JRygjzZUxUlEV/bZQq/Tu8OElopYbA+D9Dagae6tUcduvtRrxU73qMdsLz7pFN6kLwHeCwzHKj9PZSZzPM718L3FhcRSRsbEKIBHs8/FfWO1NJ+T5iDDNMn1avKnPwkWrRGCEFad/1DTTnJ0FrBPAVb9WqrAr2bJCxyoV7pTG8jrvDDX69pnIkWZNbWpTiXZ38+ot8Xd8jsaxQhRzwM3KsBPeORb2Y8iUC4o2zWvUfDHqBeSw1JBHvwa9lrY9vhYwrppiTg0T1mNSR37uDPESZs0dq5pbFMtrOopaY6Db3ei0Tf+QcbjpaUPQutBWnE2HPTWk8cOM42Ja6gB4XqPlOak0lVl8AIJ+qlzjOJhJJEROiQzqAsrvi7d2Le0LSZfwoGunF4aOpSG3NPnZQ3Ea3dhwJ5igjmMXyjLP0SIBRCzGT3HEiz+DZWvjJXDujvnltzgqdl1Ake3+U7EBjpPxHr8JtGig9IuemxG2cMB+kznw8IIqfnpEG3+vbEr+1Z3mN/3ITTE=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4MDE0OCwKICAicHJvZmlsZUlkIiA6ICJiOTc3ODUwYWMxMGE0Mjk4YmRiNWNhYjBhODA0NmM4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb3JheER1YmJlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTVhMTJhZmM1MWM1MzgwZmQwYTRkZTIyYmYzZTNhNTk4ZTJmYTZmOGY4MzMwNTE3MTljZDFlYTAwNzRmZGIzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "LEGENDARY"
     },
     {
       "category": "COSMETIC",
@@ -106121,6 +106957,7 @@
     {
       "has_uuid": true,
       "id": "VINYL_IMAGINE_DRAGONFLIES",
+      "item_model": "minecraft:music_disc_relic",
       "material": "GREEN_RECORD",
       "name": "Imagine Dragonflies Vinyl",
       "npc_sell_price": 50000,
@@ -106129,6 +106966,7 @@
     {
       "has_uuid": true,
       "id": "VINYL_PRAY_FOR_ME",
+      "item_model": "minecraft:music_disc_creator",
       "material": "RECORD_7",
       "name": "Pray For Me Vinyl",
       "npc_sell_price": 50000,
@@ -106199,6 +107037,7 @@
     {
       "has_uuid": true,
       "id": "VINYL_FIREFLY",
+      "item_model": "minecraft:music_disc_pigstep",
       "material": "RECORD_3",
       "name": "Firefly in the Hole Vinyl",
       "npc_sell_price": 50000,
@@ -106369,7 +107208,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "description": "%%italic%%\"III is better than the II version\" - CEO of PumpkinDicer LLC.",
       "gemstone_slots": [
         {
@@ -106486,7 +107325,7 @@
     },
     {
       "can_auction": false,
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -106587,7 +107426,6 @@
       "tier": "RARE"
     },
     {
-      "category": "HOE",
       "glowing": true,
       "id": "HOE_OF_GREATEST_TILLING",
       "material": "DIAMOND_HOE",
@@ -106798,7 +107636,7 @@
       "npc_sell_price": 1
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "id": "BASIC_GARDENING_HOE",
       "material": "IRON_HOE",
       "museum_data": {
@@ -106876,7 +107714,7 @@
       "tier": "RARE"
     },
     {
-      "category": "HOE",
+      "category": "FARMING_TOOL",
       "enchantments": {
         "replenish": 1
       },
@@ -106911,7 +107749,7 @@
       "tier": "RARE"
     },
     {
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "enchantments": {
         "replenish": 1
       },
@@ -106965,7 +107803,7 @@
       "tier": "UNCOMMON"
     },
     {
-      "category": "AXE",
+      "category": "FARMING_TOOL",
       "id": "BASIC_GARDENING_AXE",
       "material": "IRON_AXE",
       "museum_data": {
@@ -107063,6 +107901,26 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1OTI1MzY4MTU0NCwKICAicHJvZmlsZUlkIiA6ICJlNzM4MTYzZTYwM2M0MTFkOTg4MzNiYzkyZTI4Y2IyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW5va3JhdGVzUml0dmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTU3NjFlZWFlNTMwYWMzY2EwYmRkOWI2YjhkOTU0YTk4YzU1NjMwN2UyMWQzNDBiZjkyN2MwNTlhOTNkYWY5NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "tier": "LEGENDARY"
+    },
+    {
+      "category": "NONE",
+      "durability": 3,
+      "id": "FARMING_TOOLKIT",
+      "material": "SKULL_ITEM",
+      "name": "Farming Toolkit",
+      "requirements": [
+        {
+          "level": 5,
+          "skill": "FARMING",
+          "type": "SKILL"
+        }
+      ],
+      "skin": {
+        "signature": "LZfrdWYtGoXwnvh19/jaSzSsVaKvRHrRWHjkQAxiQT8rAebjMPABn/M1Xa7GypfboaW5XPqzmOdYqoDL+lMdE8bIjayfGLR1HAg69bC0VTX19chsaycNjR3XIepfI3DjjS0xBE6JWF83+10oiLsxz9bc2N5R2ppv/G4bn1rIOASE1aagVxOfcLUuhBQSPHUFBqOaRs0gwJvMQxhORR5czNlM2fL5+LAWZ/C1qNxhIm4UII4amclRfpeHFfeRo3lfUiRN3YpeJwRrm4MIhBShCpYuou7amyKHdKkzsM1xwJR0ktFED92WZdBJ3jvjBu0USSEsIkTz1xolTZBVoBpP7iq08GmTbfnzw3ll9sj2tzEW2AIIyCK6zNv/flOCh18X5LLeknO6U6E3s5TSN3peWXkZ+4Ut7sjXwrnvH3y2botPZLJffhtvKFROjmv2ow+MfGQrqqT4YWq7t2rQP450p8Jk5Yo4DAJM3Yoi6ROXpHso2qT3NXGfXeMRa+DHstT0XuYQM36EBQmX7OUcIrKbiYbXMWKcFlMoDV9cnB5NCAlB/nkpvIINDu/Giym5jsWPeaLyPFrBMC/fKiU9YoAUdUHnW9ZORTy5Ant5+O1S/q9f+NipQNuI1GisJez7Ucgckf4mNCmXBQZMiATKV9oAHipQHIm5YtBU+h49hurbNhA=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIxMTUwOTg3NiwKICAicHJvZmlsZUlkIiA6ICJhZTQyMTU2N2QzODg0YWUxOTJhNmNiNTY4ZmZkNGZhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aW1vdGh5ZGVvZG9yYW50IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0MThjNzRlMGQ3ZDU2YmRhZjVmYjUwMThhNzM4ZDQzMDBiOGIzM2EwZWE4ODc1ZmI4NzYxMjM5NDMwODlmNWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE",
+      "unstackable": true
     },
     {
       "category": "CLOAK",
@@ -107820,6 +108678,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_recombobulate": false,
       "description": "%%dark_gray%%%%italic%%A hat so charming, even rabbits wish to call it home.",
       "durability": 3,
       "id": "MAGIC_TOP_HAT",
@@ -111881,6 +112740,7 @@
       "tier": "LEGENDARY"
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "GUARDIAN_LUCKY_BLOCK",
       "lose_motes_value_on_transfer": true,
@@ -112197,6 +113057,14 @@
       "material": "SKULL_ITEM",
       "name": "Caged Wisp",
       "npc_sell_price": 5000000,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "amount": 500,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "xUC2knVQ+pdK+8Wg9U4umn73IkmMMzbMGIqvTKh9lZ56pRDnF3YwetFKU8Hi1canAm7qCOnjoDlvNVq3oS+RFRLDauk6jHHcXFy2EGBFAPcyoUDB4oBxfciWaseNE3Gc4ytpSD6PWEV4nJqRA9IfTwxCtpvYtKkxsPQIgsCYu90/DdHvkmr1LvpLBpYvjOOiv59AQvU/u9mFw5W9vmley4OnNW8HPMEbHh0jIJJT2lHGnTuuF7aGDrx6Ud42bAimteZ0D2TPa+SL9fMhfAgWmBzoyjEpmdkXtlRYAPCOCUKAxIUj1nMSXB7SxGUR5TidsRRU5CbcuynMq8K/ueQedyeamToKLKBbzP+8/g5PZuXX9e8Ejrx6PKu6ydnrTtUtCN2nujEouBtuxx2Eg66fY6OxPeOB10PIafba6DMrCvjEvUKGNL2bVzLv5iTjdRAppxWlFqpaJs6AMbW//9N8Ym2+lQ+SGHyu/F7IliFxCBM0SjDUT9fUGmi/6Bip6yw3vPlSddYqO8cYPkI54KlwKTa9TBmzHcNpE1/h7D9+A9BeDOgrfUboa4jgHF9nfEg50KMSHZFXiXSPk+nYYY1iKHO+N0lQMb036nc/YpEs6gof+fD/jbRWRqAfZq/+pT7DZFRVwXUNCwzUkSQsVKKwdNEsnAiQTgMxq7CL3K22qtU=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MDgxODk5NDY3OCwKICAicHJvZmlsZUlkIiA6ICI1MzgyNzM1OGIzOTc0ZmJiOTg0OTY5MWM5Yzg3NTA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdmVyQmlnYm95MTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhZjk4MTBhNzRlN2E4MmMwYzJjNDQ1NjZkMTNlMDUwNTE5YWMzNTIwZjBkYTU4YzA3NGFlMDdmMDM4NWI0NzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
@@ -112889,6 +113757,7 @@
       "tier": "LEGENDARY"
     },
     {
+      "can_recombobulate": false,
       "description": "%%dark_gray%%%%italic%%Powerful substance combined from the plasma membrane of many Endermites.",
       "durability": 14,
       "glowing": true,
@@ -114929,13 +115798,6 @@
       "durability": 3,
       "id": "HUNTING_TOOLKIT",
       "material": "SKULL_ITEM",
-      "museum_data": {
-        "category": "HUNTING",
-        "donation_xp": 2,
-        "game_stage": "STARTER",
-        "mapped_item_ids": [],
-        "parent": {}
-      },
       "name": "Hunting Toolkit",
       "skin": {
         "signature": "IhUwWci3mbWTXcIceF280EAqd3dSx/+Mj4WvtqDJoG6v1CLY7pw1Fe9bcWWgjEpVl1rEkaZzzD3ZtWG8yAMUdGt26TLwUeblLhjzC+Ow6YxRBdvV0Y/+l0QMvVLBXmejHOLpvonz9DHMt4ut4hqUfukvTudMLueK9dC/U85hTeX706QGOdjIizS2G/fI73r77cOT6VK7ri1PtuTHClF+MsJI3rMB0921VyateCYojG2f7RuL9kHwTrXKHdoJ19jF8ISy4lbZBJDo3+i0nA2cuvDeEjcbAP/0vofaPj13f9yuI9mvHkl1gvYnwm6kS04ROA10hLyU45pRcJ822vP0/m3W/90cmnZEinw6rlyv8h3XvEGHP/0oTwP7P50ka/hQ/I6v3YjE0WTK5rZEUGh+o/gkzcmYuIRa6bZkD7q7EBoAvtJwS4Ca0yLM4xA7lzybDL44SKdzF9+cxuyCt1Wi/smhVGXMHwD3X0vL7/3uBnXxNoXMkfA5FS93zLQDvoXJU2D//2sVI4LI6YqW9NA6th8Q4fTgfgWyzFMTsgNS4QgWyGHNwnhK5kru97fLM49pJ8AqywVK5Cj85SYA1x2+qTD24DuTI2f4ZHU1K/13fiKw0/GPOuPOwupYfsb3KOx3F/2WOezs6fAXPi11fPSiDfwx0BEXqqTVsT1HPU7PGGg=",
@@ -115023,7 +115885,7 @@
       "stats": {
         "sweep": 8
       },
-      "tier": "LEGENDARY"
+      "tier": "UNOBTAINABLE"
     },
     {
       "can_have_booster": true,
@@ -142215,6 +143077,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1776283854324,
+  "lastUpdated": 1777390518201,
   "success": true
 }
