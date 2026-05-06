@@ -39687,21 +39687,6 @@
       "npc_sell_price": 10
     },
     {
-      "description": "A well-preserved fossil featuring a coiled shell.",
-      "durability": 3,
-      "glowing": true,
-      "id": "HELIX",
-      "material": "SKULL_ITEM",
-      "museum": true,
-      "name": "Helix Fossil",
-      "npc_sell_price": 10000,
-      "skin": {
-        "signature": "qQtIEx4iDXye60EbIduRM/dOrvAdulJCvxFUew+zbNk7V02Ex7+Ekc1vNjhoKHbL1gMYnegsvE4Olx4wSAwpdHAFUmrwpiZjSV2pbhgI5ok/7O0uYg2bP/N6iKC1J1EoZ0+95sWXeQHRmIWp0AJ7IEP/9y4UodvQ1/GdPyp3/LN1DE+9zct3yx5HmCqduBiTC3HPj8N9zO3rY5Op5FEzbIS0z1TtTWtI+DfMvZvDQsVnRUpMr/T6hysl2kCiBazXwcdfvjfkZRarKw5VdB7dI/kITXlszZmFe+3TuhYaMv0Pxyuc7YNNbxw4hay5I7q1VJ7NCAu91maAKLqUTEye6bFGiWIAQsNw2gDZdWGVZq8yhmbfNYQqRb9RyhzeJOfOS25ZlTHj6qfVfH1y/KTngLBvTN65CVT7uf0iH7ZCKJQ18tG9HDWAaD9TrwbyQkpFD+YFUmjwygjNMz/8u04MJghF6MOqowDHu2V8qbincy14I0sa+bgVbUGLxd3gEAFArtzb6nbauOWFlGfuUST4c/hQls0aceVzxWlCFTWN5XPjZjEcXCQWZQrm1j4Jealzb5vZ5KhC7cHT3hQ0IMkkqJglCH9kbUTZuukHnbC7Q6IE0D2DoIlUdDiPK6eVzllYW8juz6QumGSn37vuR/30MECP+fKvpu9w32JUWQ9mcdw=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk4MjI5NDg2OSwKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE3NzYxN2Y1MWMxMmYyY2ExZjU2MWM1MGViMzdiOGJhNzUxZjJkNjIxOTkyY2UzZDNlYzhmMTc0MzkxM2RlMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-      },
-      "tier": "LEGENDARY"
-    },
-    {
       "durability": 10,
       "id": "MITHRIL_POWDER_TIER_1",
       "material": "INK_SACK",
@@ -89848,6 +89833,29 @@
       "enchantments": {
         "sharpness": 50
       },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT"
+        },
+        {
+          "slot_type": "COMBAT"
+        },
+        {
+          "slot_type": "COMBAT"
+        },
+        {
+          "slot_type": "COMBAT"
+        },
+        {
+          "slot_type": "COMBAT"
+        },
+        {
+          "slot_type": "COMBAT"
+        },
+        {
+          "slot_type": "COMBAT"
+        }
+      ],
       "id": "NOVA_SWORD",
       "material": "GOLD_SWORD",
       "name": "Sword of the Universe",
@@ -90861,7 +90869,7 @@
     },
     {
       "can_have_attributes": true,
-      "category": "GLOVES",
+      "category": "NECKLACE",
       "durability": 3,
       "id": "MAGMA_LORD_GAUNTLET",
       "material": "SKULL_ITEM",
@@ -90873,7 +90881,7 @@
         "game_stage": "MASTER",
         "parent": {}
       },
-      "name": "Magma Lord Gauntlet",
+      "name": "Magma Lord Necklace",
       "npc_sell_price": 93750,
       "requirements": [
         {
@@ -90888,13 +90896,12 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDM3OTExMjUxMywKICAicHJvZmlsZUlkIiA6ICJkOGNkMTNjZGRmNGU0Y2IzODJmYWZiYWIwOGIyNzQ4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYWNoeVphY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4YTJiZmU2ZTU2ZGRlYTEwM2RlOGNlYzAwMGVmYTgzZWJiOWE5NTljNjhkODI0MDI1NDNjMDFkNDEzN2QyNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "stats": {
-        "CRITICAL_DAMAGE": 30,
         "FEROCITY": 2,
-        "HEALTH": 35,
-        "SEA_CREATURE_CHANCE": 1.5,
+        "HEALTH": 45,
+        "SEA_CREATURE_CHANCE": 2.5,
         "STRENGTH": 10
       },
-      "tier": "EPIC",
+      "tier": "LEGENDARY",
       "unstackable": true
     },
     {
@@ -97492,7 +97499,7 @@
       "name": "Final Destination Helmet",
       "requirements": [
         {
-          "level": 4,
+          "level": 3,
           "slayer_boss_type": "enderman",
           "type": "SLAYER"
         }
@@ -97524,7 +97531,7 @@
       "name": "Final Destination Chestplate",
       "requirements": [
         {
-          "level": 4,
+          "level": 3,
           "slayer_boss_type": "enderman",
           "type": "SLAYER"
         }
@@ -97552,7 +97559,7 @@
       "name": "Final Destination Leggings",
       "requirements": [
         {
-          "level": 4,
+          "level": 3,
           "slayer_boss_type": "enderman",
           "type": "SLAYER"
         }
@@ -97580,7 +97587,7 @@
       "name": "Final Destination Boots",
       "requirements": [
         {
-          "level": 4,
+          "level": 3,
           "slayer_boss_type": "enderman",
           "type": "SLAYER"
         }
@@ -101942,12 +101949,41 @@
       "tier": "SPECIAL"
     },
     {
+      "description": "A well-preserved fossil featuring a coiled shell.",
+      "durability": 3,
+      "glowing": true,
+      "id": "HELIX",
+      "material": "SKULL_ITEM",
+      "museum": true,
+      "name": "Helix Fossil",
+      "npc_sell_price": 10000,
+      "salvages": [
+        {
+          "amount": 25,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
+      "skin": {
+        "signature": "qQtIEx4iDXye60EbIduRM/dOrvAdulJCvxFUew+zbNk7V02Ex7+Ekc1vNjhoKHbL1gMYnegsvE4Olx4wSAwpdHAFUmrwpiZjSV2pbhgI5ok/7O0uYg2bP/N6iKC1J1EoZ0+95sWXeQHRmIWp0AJ7IEP/9y4UodvQ1/GdPyp3/LN1DE+9zct3yx5HmCqduBiTC3HPj8N9zO3rY5Op5FEzbIS0z1TtTWtI+DfMvZvDQsVnRUpMr/T6hysl2kCiBazXwcdfvjfkZRarKw5VdB7dI/kITXlszZmFe+3TuhYaMv0Pxyuc7YNNbxw4hay5I7q1VJ7NCAu91maAKLqUTEye6bFGiWIAQsNw2gDZdWGVZq8yhmbfNYQqRb9RyhzeJOfOS25ZlTHj6qfVfH1y/KTngLBvTN65CVT7uf0iH7ZCKJQ18tG9HDWAaD9TrwbyQkpFD+YFUmjwygjNMz/8u04MJghF6MOqowDHu2V8qbincy14I0sa+bgVbUGLxd3gEAFArtzb6nbauOWFlGfuUST4c/hQls0aceVzxWlCFTWN5XPjZjEcXCQWZQrm1j4Jealzb5vZ5KhC7cHT3hQ0IMkkqJglCH9kbUTZuukHnbC7Q6IE0D2DoIlUdDiPK6eVzllYW8juz6QumGSn37vuR/30MECP+fKvpu9w32JUWQ9mcdw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk4MjI5NDg2OSwKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE3NzYxN2Y1MWMxMmYyY2ExZjU2MWM1MGViMzdiOGJhNzUxZjJkNjIxOTkyY2UzZDNlYzhmMTc0MzkxM2RlMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "LEGENDARY"
+    },
+    {
       "description": "The ugliest fossil to ever exist. It has a face only a mother could love.",
       "durability": 3,
       "id": "UGLY_FOSSIL",
       "material": "SKULL_ITEM",
       "name": "Ugly Fossil",
       "npc_sell_price": 50000,
+      "salvages": [
+        {
+          "amount": 50,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "ASQbULyemu59MoxygynCAxufwv0eNnHjEfsM8yHIrztKeYSw6TUCRwb+UgzJ4myCvGKV0aSZaDw5B3MPypqFoQnvTbBGo21yGaGE/vErC9OesgEvAIN47QMhfri9O9qYdUb7X1FtH+JO6msKS0GvFcsh4hkmF1TeY/pkyMG3cGQSOHnvou4Tap+bOz2Fi8+4FjnEv1q+1g7sekAbqkY88YaWefXDMrbcp7tnZDyFND0A3JRAVw6a305fC2tMVo4rBONUrGQbEkyslMxi22fudk+vFKIsrkid0GVhOM+Pwnpxr2kK3L/Rh5yBKSJgQp/VInvyy97mhy13JsL38PuXi+x0gcyV2rFI5Jks6A+MHop915dDv37Aj4xlvHj5m/YXaCUbgLTXfXF7BT2IJVMKpVNIq4k7aLfmJGcUf7HEqGKlz9LbVSI0emIns/L1jg2hG3hMrrYlgBm+22Y61ZYXf++3WGcZmi54vSOXE2hUyDTiJPWngcAcnPwM5v8Dxu4i/Onc/gosA3xqMkc3IUUlOPXY7X3BxEvNPCRVwZoPtYjj/6b4OT2U0KuPP9rN+x5FhSwjolD/2J0DdLYP2OPmwFbnHfGnQ7AvS5OfDVLIUCto+xc2ajUi8AfTh8Fxefzm10dyGCgtlkaOaHFJhSS7N3kmgn0CZMotSaVQpm6oySA=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY0MzQ1MDczNCwKICAicHJvZmlsZUlkIiA6ICJiMmM5ZTUyZjNhODU0YzQ4YmJjMmMwM2JjM2U0NzdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJU05FRVpFREFUWU9VIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZkYmIyODYzODFkOGE1YTJkOTllMTI5ZmViMjc3NjUzMGU0YzMxMzM1ZjcwOWZjZDNlNGJhYTZhZWI1Y2JlZGEiCiAgICB9CiAgfQp9"
@@ -101961,6 +101997,13 @@
       "material": "SKULL_ITEM",
       "name": "Spine Fossil",
       "npc_sell_price": 50000,
+      "salvages": [
+        {
+          "amount": 50,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "bWYFHhvYdo85SpB6DxwvvIL6ETzM2p6gveMwwKVJfmv8HoJBLCYIhJEwpz8KlWF4GBjzPzIfG4NkzbPOvzCFddo8JFofJBR1H8a4qxuiciwyTtU4iOg+GyQRjHWiKofSQlpmneupVJ6LfNp9Y7QB4GfozosqDnhq+pMjq9hIuJu62eU1oJQSuzLWCpFX0y5gmyReGAiteSVFP4rcRLlmCRif736ZQY/8OMKJ8AE14JJTstO7SMqG3fNPbpf8Ax0xSCfRHEzr2KtD5oKf8jH2CoqP0IzVlLFJ5Vg0+MFCyMaM8MN9CElpbgLsckutfd0MphhkIJQQi5puCLoK/WY/3v9c8dKfAMJfvhuO20aScjCoOa3UG8bhiSj7r3pFc4XUBZ4YBbUKthOxT8oLQDraB/OLKxqoWQ3/+JhjQ6Ic/qnQx5Z5RYkJiEBlu4NyGkUq8KuuoWUGe4Qt9uOWDSeJUGFhvKbDvSyt9YCIcx2jYrJaSR3SYvYykbcf5+3rHn7igVL5aRJqcTADmz79bIZo1dIZvfa6OEnXyn76n628WjR31ALwmZvG8BjhnTl6JWRUXnfmz4hi6oZi0FhXlSZrpWDU9SVUudTU4bs1wp2gDC/fSjMJ2qQ3mJBwk1UP/IHUEcALINXpm9RAQkFQydIaY98GEwLORgQwWQ+CEPkkwP4=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY0MzQyOTQxNiwKICAicHJvZmlsZUlkIiA6ICJiZWNlZGU1YmRkODY0YTkwOTc3MTRmODk0ZWUxNmE3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1hQ29tcG9zZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA4YWMxODAwMGQ3YTNkMWI3NmNlODkyNmE0OGMyMmYyNTI4OWZmMDRhYjc5YmY3Y2ZhMTQyZjNmMDcxM2NhYiIKICAgIH0KICB9Cn0="
@@ -101974,6 +102017,13 @@
       "material": "SKULL_ITEM",
       "name": "Clubbed Fossil",
       "npc_sell_price": 50000,
+      "salvages": [
+        {
+          "amount": 50,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "M6R1xhjTYXBDeCkclmG220oD78aSvVvf1zMJcWtMxJyntbVX96hER9ISfKSaANGVaz4tfZqtxiNLPXCSeX2C31JzaToRQ/FMGVVNpaE3lfhcpK2fXGlFBiHRAyPUKvsZaxZCrAx3DCKFgyDxDPt3BOqo5z9v+uhlPVCE0zyZrS1RAsNzAY6y2tXIexdX1/vhiT8/3rwz53Ywc5lv7H93UE8gO1kMRNWuElTPT0sJnaklTpQIFkM6aIEgw8LfFRw10/aM8HZ03Dqx173l65qfSQsY0cGERLs+Sr2eutSzNSRxDK23ZHs93IR44NO13ILWJxebCx2WaD5ki6jN5Zjn5jcn6/I8ErmJe/N/pI09DIY6/7gdg3nwYnL7VByafvW0i5Ts7+BubKw/XuJZsk68y/YxZycvaxFMZydaFYzltzJgXAALnLUFUfutR9slKgUA4yVZqeB/1dvO596HZE6BNkbHB2qUm9nSjz/mrkceEtsuHMD/ZhtmJ4PJaxFVxNRVzhIQRdRCgKqaiMZX92NcM1eRi4kHh5RCO2cN/NQ4lTRFn9dpr9cBticrlopSpHlpUNQnSQMVOQZf6wtaH+6BDBJnAuZiuEYxF93NR5M/I8pWs4h+S6R9bnYbPCq/JvLtkDDnZSVmx4yyvUJrG/+tUY0B6Q7BCRwDkferE9nIsMI=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY0MzQ4NjA4OSwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTkwMzlkMjIzNDVkZTMxYmExMjU5YjllZjgwZmIxNDVhYzZhZTY0OTJhYWFlMmRkNWE4Y2E0YjlmYjE4NGM1MyIKICAgIH0KICB9Cn0="
@@ -101987,6 +102037,13 @@
       "material": "SKULL_ITEM",
       "name": "Tusk Fossil",
       "npc_sell_price": 50000,
+      "salvages": [
+        {
+          "amount": 50,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "QvdKz1h6sGUmGZ0jySDdgXmeZk7qdXhdYNjU3ZqzEYnZGmYlLOfiSWrR+V0x6zJys1O+4wNHZyXv201PKoNxJyznppwHDvzyOPsGK01B5IRLRh0Owpj1vBWcgDRdrb9o4KvKfgm8cnNWIwSPejBD8UCZ0lr42VYKS+qRTR6EvSK9om2FRo4OnslPC6MKQiHGpkLMUnqgg2lRL29aLxHMkJHq39Q4nFX1iC+ksjeiupoV9qV+Iwa+IeEfl7cvWEW8Q0RjSxx3YsJIwbfjEnrVawQ3taklskHooia/s3RmRDVwjjTN17VPF89LUxckSiWWjZpG/ygtNZ1cGUcTeUq0aq8C+jCgEskEt1df9dCl92mV4EX7DA3O5xEJ1D22YLEki3IVkl2linD9bNrgAxs/CWGJPHN5bo8eyKLeAmKrOYWD7I3VMp7VGR62ACbPvs7Yr0haOOMHx6+IXTxM9lm/vCeGk1VB2ctMq3r4so3VMHnjjJ+MMw1jH6IMeL4f2/zYvYQI2gRVFHwY2BLrTxeaOfOiqRDj86yAVyTbtzMrVrP8bBBE3wL93Gx92P64njlJ63Mkq+WNS6fJzwHY4kYNLBqPej1Mzq5ljIk446y9+syOZ0VXvXxbE9gRkGyP3cMflrN2RJerdcSEGooojS2kuUuAYAvmBOliqb0hQmaLDjQ=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY0MzQxMDQyNCwKICAicHJvZmlsZUlkIiA6ICJiNzQ4YWExODk3ZGU0Y2RiYjFhNTI1YjVjMjM3ZDc2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaXhpOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTFiOGQ1NGQ5NDQ0MDY3ZjczYWE2YWJmNmZjZTk3ZTkyY2MyOWVmZjRhNjdlY2Q1MTY4YWQxN2JlMjQwNzY0IgogICAgfQogIH0KfQ=="
@@ -102000,6 +102057,13 @@
       "material": "SKULL_ITEM",
       "name": "Footprint Fossil",
       "npc_sell_price": 50000,
+      "salvages": [
+        {
+          "amount": 50,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "u30t5gYKHRLUtaVVUEZ+PEIZV42F3vt5eHHHJjQNcJMy4aY3gsG8QixPhCFrLRdbTyUyHtWf2LDzOTnMsava2d9mEVTfJxr4yxY5dL4lv+vPrYVCuqj8THAJHCp5WtIkYU3lAyFE2/fLqHY/FXuJf/W7QACWpgBkDz+CPFiveNxMvzaHgLCyMe4eXbPJQRFh3WHdgHeGLBpONMSA2z7xfglrfJUNnHzwFbNQjME1JDLFPJFLbKxtHkU6CAsPUdjW3zVDLuITtcYrUAyjLeheSwfdvj6LL6OpCBPD/n/ObIvGgU0VG5mElHBMbsuMljTEpHOchbtnXAJsADnHMi2UF+G3tdJsd+5++qOFaCgmmf7tng2N7HKJlTd9xjuRLX/UYlgYaFcmL8Q2hNrj77oWSvvlyKDwwcQ9NwX7HCYyqS1xxPKXTzPsxJmMdtbz5MmoM+tPpoBbbcqldiLNCAKkuSQJ2uHXvx8NNgMhOPGz5+4/2l5OrhcnOALdEenou/7f8WJcDbmFxxX4nptKv/Ni/QpaEK5IAFA30P6dsmUqrsqd3mspBZLBSbuuP/yrQ1EaZmKqUbU5R/Lz7o8uzv4k7VqsXAjt2FPt3T1uG/wvp5QI2eoSfxzMNVUP+U6sQ1o+GQRgCRq2UBzMCwPkFPznN2ozK29BoE0dNDSTN4afJBU=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY0MzQ2NzgxMiwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjJhZTM0YzQ5MjdjMDJiZmNjMDUzNDIwZWZmMTY4OTAxNmYxMTg5MGNlNTVmYTZkZDhhZjMzYzJhNzEyZGM4NCIKICAgIH0KICB9Cn0="
@@ -102013,6 +102077,13 @@
       "material": "SKULL_ITEM",
       "name": "Claw Fossil",
       "npc_sell_price": 10000,
+      "salvages": [
+        {
+          "amount": 25,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "aJc5HH8SBFj6vJqFtdONhIzVTDuECHtEcV9QPncZNkdPFU4u6h4F5dF1AilvKmnO9fcZfITsc0Nwk0AAiMWU7CqxO9Q4h0sSdugcOgOJyIibw2uUkQ1Faz2HKMqArtpO0tCZ8+xZ5+KzmuYE2PsFKhQ19Plw1ptQf9vpPHFSB8xfADcIrhyOceHX+2seSMvThl5E0sUitvBNy4pJPKdnjhAkLoE63f3Ma4FgTyMuE8GWSCPt3ik341I8Zf591dvBRALA/B174A5CoZfgB75OdndJULJvCyO5/cisfS3sBQzDRrE/1M8ffjY4cXtmD7qEN4EFCduo58piYTLWp1qVOrLoj685z4AZyNNU6unZyvSCiPernVLV3vrI12pYEwtMgQNAXX21/D5BpJ8yKhzQLcUNCg7mqfOlxjtCQuKa1ZEXk0mgY5ZWrh2WV1NnTmHiAUqKw4d+EBlvbfyod3jw8KaLhlFefKicguS9oU1sFM52z3LjR8w3XKM9t8bp3DDh70Kq3RKuFzyZ4tbWrK5BfXiFHMQpavt2pWjhVurDou/6hRC9v6QjLRFxocMdWkUCraHTpse+Hqlep0gtYY/M2r0pzzwyoCyzc2oa9eLQ11yYkujaTpPes2PIk+yRG4IQci1EkNKZFfvSyATtSeoPSBJZsDUCI8kGHQfQsljs0Fg=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY0MzUwNzkyNywKICAicHJvZmlsZUlkIiA6ICI0MmIwOTMyZDUwMWI0MWQ1YTM4YjEwOTcxYTYwYmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJib2x0MDc4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjOTVjMDdiZDAxMDBmMmQwNWNkNmU5YThjOGE4MzUxODdlMzEzOTMxNmJlZmI0ZjM3NDhjM2U2ODU5MTQxZmMiCiAgICB9CiAgfQp9"
@@ -102026,6 +102097,13 @@
       "material": "SKULL_ITEM",
       "name": "Webbed Fossil",
       "npc_sell_price": 50000,
+      "salvages": [
+        {
+          "amount": 50,
+          "essence_type": "FOSSIL",
+          "type": "ESSENCE"
+        }
+      ],
       "skin": {
         "signature": "KuSQRaS2UrBs4vQSOJu2s70NeFNi/VH4I0yNsGeRe88/yM2H7hJ4i8akHDwz9NofL5mFLwFgx/hKw7jHbm+AQ0KZ/7FMOg4Il7vKYMSGmhuv8g7l1wpuSKPv52NCWRm1f45I2xn6IWyI3YKPoVHY6Cjr7WkfoLMwFTFYnka3pTR/AN4kuut3P4kRxx0/+kBr5aAW9oWH3dXvTh0ItOwrwA8Topje89HjZufBqwJ5u/tTq9oEfL9KYglNO7UJDIWkMx6MVBf3fa/wTSYYHWH03iKM1uHtrJnzIAnr/kewSuHXlLzpPCNJnJroh/4kYNepFaTjyneUsdWZGXJvrZDeTNKu8ltgP0foFUgg2h/SIcHwyXH/iaDJS01pvTfSVa1LY97Re/Q/hAlWIQ9joF9MjmnNys+ls+9+h/m2zR8eyXJM7UMkzsUvEzmnubfkK18J+Zasj9Dac+qxhynvqqph5JmKAtAChQ+6516VZMsAP30VZ013jcoqxIcaC4RXHHQexqksu8zMNVTt4fMSvshC/kUW4OZjHKDTrkIj+FDIY/MwT3GqUYXFy9MIE0z1WDv0RJ60NhrsI1/iuJZoJ5m28tV0IBts4O4yLn6OTM+jWMeaXHjoZ4xAJF9AphVpJz0io+y/7DvOzJMa2JZdhLCfpmseU2K1Kop5Q5ZhcKxCEoc=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY0MzUyNzczMywKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UyYzBmYTMwZDdmNGFjZDEyYTVmMDcwYTZmN2Y5NWE3N2Y4NjA2OGMyMjQ1ODc4Zjk5YTJmNmIzZjhmYmY2MyIKICAgIH0KICB9Cn0="
@@ -110086,7 +110164,6 @@
         "signature": "s7On6eMut+CwtyFYu5ydSQJFBNSaP9H9QWoSSiFMOPlfo/Re9M5ORZanq/PI3jYJ8ug0j2uK0UOi9qCnbv5up+e5I1bWKtCLsxUdYjPLKrp1oF/GDBQIqPCI5kWYuA7uSuhTRhO7BNL4+1QyH42g408DrCQqXqm4JgceprWq+yYmQliTdseJDyaBzYcixBaZXBM2SWNftzAw7b88RQ9uvget/MvFtDi3ejW8gfB89IgImZdmnJJD7Ua1Wj9vYlT73/mC1HRbgoHyrR20Rtt0yHDhTQ2MOhnelyrroWe09l1enLxqXt7bmi4Oqrh00JsSNyJMJJMJKtW4GCyuV4BbuhRpQ25Dv/lSk86ppkc0NQnqxT126ku1Fd/+IA+CBIX2hbyWHzkvCaKA/zvNrNeLGZ6aqEAV7XQIyaemzv3Jy/TDsxwJkcE4oAjvlt+BlZQfTZAti1AktFsSSa2Ip2NQP9JEJIRTdFan1OMWV3FAyfrqXilj7/pl3zlxsBQd6W3wHsmv3mqNVrQibIAQzhGKFi7JnYTzTto0YAhjFIBoSNiI6jcypku8qemVbvHvD5suELqgu0hFEBiZkTGqz+5FKBPl+TxiIb0CLVXC46Xep8NHTN0jYg7RBW2hsfZd748+9dkeEojFe/jpSusewoCUEeijiViveNXxIAQtACBVeX4=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDIyMjM4ODEyOSwKICAicHJvZmlsZUlkIiA6ICJiMTM1MDRmMjMxOGI0OWNjYWFkZDcyYWVhYmMyNTQ1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeXBrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFlOTU0MGM1NjkwZDU0NTQzNGQ2NmFjOWEyMGIxMmFkMDIwZDVlM2YwZmI1MjcyYjIzOTdiYmFlZDY5NjFlMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
-      "soulbound": "SOLO",
       "stats": {
         "rift_time": 21,
         "tracking": 0.5
@@ -110160,7 +110237,6 @@
       "id": "PRE_DIGESTION_FISH",
       "material": "RAW_FISH",
       "name": "Pre-Digestion Fish",
-      "soulbound": "COOP",
       "tier": "EPIC"
     },
     {
@@ -119144,7 +119220,62 @@
       "category": "SWORD",
       "gemstone_slots": [
         {
-          "slot_type": "SAPPHIRE"
+          "costs": [
+            {
+              "amount": 40,
+              "item_id": "FINE_RUBY_GEM",
+              "type": "ITEM"
+            },
+            {
+              "amount": 40,
+              "item_id": "FINE_AMETHYST_GEM",
+              "type": "ITEM"
+            },
+            {
+              "amount": 40,
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "amount": 40,
+              "item_id": "FINE_JASPER_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 100000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "COMBAT"
+        },
+        {
+          "costs": [
+            {
+              "amount": 40,
+              "item_id": "FINE_RUBY_GEM",
+              "type": "ITEM"
+            },
+            {
+              "amount": 40,
+              "item_id": "FINE_AMETHYST_GEM",
+              "type": "ITEM"
+            },
+            {
+              "amount": 40,
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "amount": 40,
+              "item_id": "FINE_JASPER_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 100000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "COMBAT"
         }
       ],
       "id": "TORMENTOR",
@@ -119178,7 +119309,8 @@
       ],
       "stats": {
         "CRITICAL_DAMAGE": 100,
-        "DAMAGE": 525
+        "DAMAGE": 525,
+        "STRENGTH": 30
       },
       "tier": "LEGENDARY",
       "upgrade_costs": [
@@ -143077,6 +143209,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1777390518201,
+  "lastUpdated": 1778086646327,
   "success": true
 }
