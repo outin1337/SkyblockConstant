@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1778679506673,
+  "lastUpdated": 1778778693370,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy XP!",
@@ -3357,7 +3357,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Magma Slug Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXVII   Grants +2.6➜2.7 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+275,000 Coins",
@@ -3368,8 +3368,8 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Nutcracker Sea Creature",
-            "Moogma Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXVIII   Grants +2.7➜2.8 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+300,000 Coins",
@@ -6152,5 +6152,5 @@
     }
   },
   "success": true,
-  "version": "0.24.5.4"
+  "version": "0.24.5.6"
 }
