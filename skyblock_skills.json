@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1779206272944,
+  "lastUpdated": 1779213472984,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy XP!",
@@ -3368,8 +3368,8 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Nutcracker Sea Creature",
+            "Moogma Sea Creature",
             "Treasure Hunter XXVIII   Grants +2.7➜2.8 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+300,000 Coins",
@@ -3390,8 +3390,8 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Lava Leech Sea Creature",
+            "Titanoboa Sea Creature",
             "Treasure Hunter XXX   Grants +2.9➜3 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+350,000 Coins",
@@ -6152,5 +6152,5 @@
     }
   },
   "success": true,
-  "version": "0.24.5.12"
+  "version": "0.24.5.13"
 }
