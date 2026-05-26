@@ -4547,12 +4547,73 @@
     },
     {
       "durability": 3,
+      "id": "SILVER_TROPHY_FROG_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Silver Trophy Frog Sack",
+      "requirements": [
+        {
+          "reward": "SILVER",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "AB0Hi4RUS13/2UZ+CeLpmue5cTdXsQiQrseyLiLYF7l5/92nAIr/bd5jsNZEcf0G0pBagDSuBrdpq1fI/9ocCR82hUfAOcVeott0Pd8tUayzo0FMk1zME5N4LujtOsoxww5uYz26mkS6DL+BKou7OMOP4vbTQdPVgGZ33imyRwyFm1B4+VKEEz1yRztwtnLg7gZVVIvJ89QdTwCwxTkF25f9iSxXzM1+p+IDx7pS9/qNUJAcx66tYuksqxIpXptAcu6ETp45+YB2evhjhYaQE0zknOytzr5gpmJvsD6qU2OH1hBtsPzDr+mRcBvyFuuhrB5GieppTeWlM5Lj2vfVOhUoNaYpgK5PFV3I8hzTccBXIpFE25iD+9qD2TxP3J85Kufwc4UA7/gxX7oRmJXgNt+T6UPDoqxMhYsalyv9dAPidkCRujfM1TeBBlaNyD7zVOyxbMxVRVMmOoGmS+n7sOPjB2rtkfKLCzri2eIwxM8AZ1lft2G+4jyTmk8HVZYwrTsRe2pB5s4oaToE+Z8SLMt+ax/oC5tTAcGqahnOVDClHRsTo7Iajh2h7tesYcxzzGA7ygEUDPp4/YOGwDTd1n0qgJhum8bPbmFRnBuflneh2ntCEA3NvzhWFLK/FUdrLAIrYt2t4j6CRR7Rp/M/SEFNZlad91ZQxGooLAxlN20=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDI5NDU1OSwKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2Zjk0ZDk1NjhjMDBhYmRiYTA4NmJlNjgyZDVlNGYyMmNiNDUxZjVjYWJhNGZkZDIxZWFlYTAxN2U0NDFlYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "soulbound": "SOLO",
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "DIAMOND_TROPHY_FISHING_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Diamond Trophy Sack",
+      "requirements": [
+        {
+          "reward": "DIAMOND",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "eX2GdqTWPO2NyY2hTPX+/Zp9ljRlhYN53zqEVpMHSGckE86mQqWSmPMAxA2iqdcoYmtw03uoUsGY6qWVdWQF4dAFL5vqVNhlLHmkIBJAMRaxSuWsBKir4qYOijxISZuf90zr124sXZx8ow8ce/zYpBRC/cadk5SkoaXmC5c6NfvhJaEQcjnBScH6RFGRX70il6yIxvJsbREDqqsxcQdlFgboXjmRCSvHEoMHz1tQHvJJ8bIs0ZfZD5h55oH3zgAQ1ot952Xv8ywz6tZnW22U0+a5g011uXO4GdSFDBQQceCxuqSkrJVtAFm8f+UnVpbOD+8qUt/XBvSfeaEgt9lUx3aP+IbiMeg7LMX1u//pavIxg28jC0z2PS7Jg0s2VQqujPktMbzHH89Ych6i0ARdiujVqsv6mygzzwd4n9CrT6QTXbolEoXzf4dlvYabB+UIzuwS9sNqJCA8VYHw1VR20w8J36n0w+tfndiyHNUcYdlzBMm60q565AF93PTyXoO8NkELS6oAdm1T8IguNK+vR2IwvLClmXkex9hcq5b382BiU3s/Jkjl072jKo6hi2M3P7FSXKJUwTvoSZJoFc6O7ZadUgOKqM5wfDM5Tijedsgsc16HTCHffA3sMpNO1i0p0uRv4cPTEQGtEIE9NHP7eDWQtKtuPU5j30N+qLODZOg=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODU4MjQ0OSwKICAicHJvZmlsZUlkIiA6ICJhYTA3ZjM2Mjk0NTM0YzYwODQzMjI4NzAzZTBlMjE3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfU2FrdXlhX0l6YXlvaV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdjZDM2ZTA5ZDdjNDhmNzFiOWM4ODA5Y2RlNWM5YmI2MGEzNmIzMTkzZjMyYjQ5MzEyNWUzNTk1ZmQ3NTdkYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "soulbound": "SOLO",
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "GOLD_TROPHY_FISHING_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Gold Trophy Sack",
+      "requirements": [
+        {
+          "reward": "GOLD",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "eX2GdqTWPO2NyY2hTPX+/Zp9ljRlhYN53zqEVpMHSGckE86mQqWSmPMAxA2iqdcoYmtw03uoUsGY6qWVdWQF4dAFL5vqVNhlLHmkIBJAMRaxSuWsBKir4qYOijxISZuf90zr124sXZx8ow8ce/zYpBRC/cadk5SkoaXmC5c6NfvhJaEQcjnBScH6RFGRX70il6yIxvJsbREDqqsxcQdlFgboXjmRCSvHEoMHz1tQHvJJ8bIs0ZfZD5h55oH3zgAQ1ot952Xv8ywz6tZnW22U0+a5g011uXO4GdSFDBQQceCxuqSkrJVtAFm8f+UnVpbOD+8qUt/XBvSfeaEgt9lUx3aP+IbiMeg7LMX1u//pavIxg28jC0z2PS7Jg0s2VQqujPktMbzHH89Ych6i0ARdiujVqsv6mygzzwd4n9CrT6QTXbolEoXzf4dlvYabB+UIzuwS9sNqJCA8VYHw1VR20w8J36n0w+tfndiyHNUcYdlzBMm60q565AF93PTyXoO8NkELS6oAdm1T8IguNK+vR2IwvLClmXkex9hcq5b382BiU3s/Jkjl072jKo6hi2M3P7FSXKJUwTvoSZJoFc6O7ZadUgOKqM5wfDM5Tijedsgsc16HTCHffA3sMpNO1i0p0uRv4cPTEQGtEIE9NHP7eDWQtKtuPU5j30N+qLODZOg=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODU4MjQ0OSwKICAicHJvZmlsZUlkIiA6ICJhYTA3ZjM2Mjk0NTM0YzYwODQzMjI4NzAzZTBlMjE3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfU2FrdXlhX0l6YXlvaV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdjZDM2ZTA5ZDdjNDhmNzFiOWM4ODA5Y2RlNWM5YmI2MGEzNmIzMTkzZjMyYjQ5MzEyNWUzNTk1ZmQ3NTdkYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "soulbound": "SOLO",
+      "tier": "EPIC",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
       "id": "SILVER_TROPHY_FISHING_SACK",
       "material": "SKULL_ITEM",
       "name": "Silver Trophy Fishing Sack",
       "requirements": [
         {
           "reward": "SILVER",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -4560,7 +4621,28 @@
         "signature": "A56ZJbsHxEhyvPhgxxf1kWvo+BbMBl6HWvAgAAm/7dFwSytmv+7G/hsshr8Z+ai2onFCjzLfzmJzcxA3Ln7S+5ZZHw5LFaj3HU6CS0jrbNmOA/zh8kdZH6QTTH6LsXmST39+TaAGVYUhtpTJn4JpGLzHcxyUIsxLU651UyJP1+hI/JP+uGqSEHiex0/I3Ez46SSyQRf5L+lrRAaVOiu2KrAcYEK/7wUJy0FxH5jLmCqqc0xFt6IuO3HYEus4719MogfLD03EvM3+7dPT4IX7ZC7JYM38RubTqFvOO9iXhxm4oVvtySZxJz2Ib3l47G6tYtRuqfKPdIeg9wZl/UnxllAZTIYw66m1BNyd74k9QqRmaNWsBxyDUl2bP7DZd1ES4IgQPDkXkGdOnHd7iqsA7nIODrUoT59q7aknaWgf74ShR1RG1J1/3hLibwJj8FfyixMk/Vo6Yrgvnr3NV5VHKIMzl5Gk+pPhhKlkBroXCr1eFSFErqK9t8LfVtrcr6+AVBAk9Pi2fifxAegTVfqOBaJ3L/vHqqf7f54TIg4hXHLtCJDhIWUQhjp+vXYfS6KJ7Wvu3vHzUV/vui64fMs2mbF2THVcAwChTx0MCkS6TPrI3Y2yfsbUkLa3KRiixwLJNYJr9jrNQ4P+Sc2Tx0Ha+VYEKqsYsdVC9RNCBBhGI+Q=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODYwNTM5NSwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyNWYwMjdhNGEyYmMyZGY1MzE1NGUwYmFmOTE3NDcwMjA3YjgxMzljODBmNDg3ZWQ5ZGFkYTcwMzNjNTkyZDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
+      "soulbound": "SOLO",
       "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "BRONZE_TROPHY_FROG_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Bronze Trophy Frog Sack",
+      "requirements": [
+        {
+          "reward": "BRONZE",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "I26LhQrhaCkBewpQjpK2FhCYGQ18xxtpNoQBYpmvunGM+GWYYJcU/wIZ402WkZzQEGNfIFufSv4xCcfOtWBeacH0B5j+zsxtcgfonjDu3ejylVXNDQ6UrgpHEE70umT4x3zGcRu3o3PW9RnUnnGYk4qm2WmNCV/vF1+GwO71UayXZUfqML272MBWxytlqO2TsglCCP/QnKhw/B+TDngHohq00f0RAeMFVjizo+2m4Lo3kx6+0ftvgxBRw6aE/cx0pt39A4WZ9WyfGQ4v+ctHloCdwz97MaQkN7vZ1WMEMu3J1YMemwTrn0fvdJlN2McjofnzvAypXmG7LSS4hZxYQxm4FngaMN8FM0epj5L7UETQnUEYom8Dpe2adR+76A2FVmuvP3MTZXWXRo+5SxGZAsaiY+K51osOImEX0Jyf21fq/Vi2GEvDi6x+O8KGGQnx1mglVRqFoFg+uzcnLYECsUOe3ERtf/bLU0jMvpvOhrVY1MWkzbVHB1jW0qlmmO9pi/0lpOA2ag2Xb4uv2X0IJML/ChAKpnPLdN9c2046Ifv0pf3isTyBa963vvV1dJBw2LK6Vhp+eSyVBCILKz2SMiMH495T8G+yPmnRsBs2eLQfxPruyJ0q6tyxykSpm460GvRemCG7upci012rnNimoWq2plK9tTQlcuaNXVaRUJ4=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDI5Mjk3NSwKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIwNzMyZTdmYjQ2OTRjNjc3Nzk0OGQzYmZhM2QwMmIzZDVjMTVjY2IxY2EyZWFjZTlkYmMyZDYyODNiNDFiZjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "soulbound": "SOLO",
+      "tier": "UNCOMMON",
       "unstackable": true
     },
     {
@@ -4571,6 +4653,7 @@
       "requirements": [
         {
           "reward": "BRONZE",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -4578,6 +4661,7 @@
         "signature": "eX2GdqTWPO2NyY2hTPX+/Zp9ljRlhYN53zqEVpMHSGckE86mQqWSmPMAxA2iqdcoYmtw03uoUsGY6qWVdWQF4dAFL5vqVNhlLHmkIBJAMRaxSuWsBKir4qYOijxISZuf90zr124sXZx8ow8ce/zYpBRC/cadk5SkoaXmC5c6NfvhJaEQcjnBScH6RFGRX70il6yIxvJsbREDqqsxcQdlFgboXjmRCSvHEoMHz1tQHvJJ8bIs0ZfZD5h55oH3zgAQ1ot952Xv8ywz6tZnW22U0+a5g011uXO4GdSFDBQQceCxuqSkrJVtAFm8f+UnVpbOD+8qUt/XBvSfeaEgt9lUx3aP+IbiMeg7LMX1u//pavIxg28jC0z2PS7Jg0s2VQqujPktMbzHH89Ych6i0ARdiujVqsv6mygzzwd4n9CrT6QTXbolEoXzf4dlvYabB+UIzuwS9sNqJCA8VYHw1VR20w8J36n0w+tfndiyHNUcYdlzBMm60q565AF93PTyXoO8NkELS6oAdm1T8IguNK+vR2IwvLClmXkex9hcq5b382BiU3s/Jkjl072jKo6hi2M3P7FSXKJUwTvoSZJoFc6O7ZadUgOKqM5wfDM5Tijedsgsc16HTCHffA3sMpNO1i0p0uRv4cPTEQGtEIE9NHP7eDWQtKtuPU5j30N+qLODZOg=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODU4MjQ0OSwKICAicHJvZmlsZUlkIiA6ICJhYTA3ZjM2Mjk0NTM0YzYwODQzMjI4NzAzZTBlMjE3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfU2FrdXlhX0l6YXlvaV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdjZDM2ZTA5ZDdjNDhmNzFiOWM4ODA5Y2RlNWM5YmI2MGEzNmIzMTkzZjMyYjQ5MzEyNWUzNTk1ZmQ3NTdkYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
+      "soulbound": "SOLO",
       "tier": "UNCOMMON",
       "unstackable": true
     },
@@ -10885,6 +10969,162 @@
       "skin": {
         "signature": "vN3eMLtKwYy3wqeeiEomnM/BVjzuHXHYNw0EM6/wdk5azPSDu+LgZPkQDadeaRkszoSI4SwJMIf7s1aak/1lKQ3n5AyTRUTbl9w6KSsXTC0/HsnnfSsRD5n0ZglsMEVrN+BtCqQSZVF8cwafmpnSGmU0mi9Z/Dcf/ktuT+X+3ClcgDIUBGIZius1hau4x7CXO9rmimB0e/29CsjfLLUgVWbjI21SHHKONqgLot2w6ZIbciubxHAgXJI0N4nSFTfIOnBJL67JUMnc9rXDOSDX3rFKLZk+4EnbXEevTNGHHsvFN0ssic/9v7jyBX60EroO6bq+Cm13vWJggeCg+SL3HH6whXqZ7l94yUsYrJOmtbL8jd55IOw3H6Hs5gasymIX1P4OATGW6YBakdETMjyP3zbUbHbO/BPqTbfqbKV/d2CJGkrDmgVvTt6KLst6pa94ajJ+1VdNj/42huG+35VPnYboHLn/jEomrY3YZf/eAZZyHz490FpStfKx2qnXfYv+MreC+htv79jgpMTOt9Xl/2GNNu4eenGyJnyQCqZOycHbCYBF4dpoussPfZgUkxTLPWY+riOthcnIotuS2bxPdGnGN0Dxso31O9HcTOU0QC7g5z0g2Fc0PQ2Se+2RelRAcS9729oZujsduNF3NaYJ8AS3V+alWz8Md4hPP9hB50U=",
         "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzUyNjI1NDIsInByb2ZpbGVJZCI6ImNiZGViZGRjODNhNTQ0OWFiZDFiOThhNzBjY2E0ZDhlIiwicHJvZmlsZU5hbWUiOiJDaGVja2lkb2lzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOTliMmQ4YzYyYjE3MTA4MDIzYzU3ZTJiYzQwODczNDQ2ZTFiOTZmMTE2NzRhMmJiMmEyN2Y5MTVjZjlkNTE5In19fQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 2,
+      "id": "LILY_PAD_GENERATOR_2",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion II",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 12,
+      "id": "LILY_PAD_GENERATOR_12",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion XII",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 11,
+      "id": "LILY_PAD_GENERATOR_11",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion XI",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 9,
+      "id": "LILY_PAD_GENERATOR_9",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion IX",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 5,
+      "id": "LILY_PAD_GENERATOR_5",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion V",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 4,
+      "id": "LILY_PAD_GENERATOR_4",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion IV",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 8,
+      "id": "LILY_PAD_GENERATOR_8",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion VIII",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 10,
+      "id": "LILY_PAD_GENERATOR_10",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion X",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 3,
+      "id": "LILY_PAD_GENERATOR_3",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion III",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 1,
+      "id": "LILY_PAD_GENERATOR_1",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion I",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 7,
+      "id": "LILY_PAD_GENERATOR_7",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion VII",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "LILY_PAD",
+      "generator_tier": 6,
+      "id": "LILY_PAD_GENERATOR_6",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion VI",
+      "skin": {
+        "signature": "HcDaPscIeuqG/K6xLmXnJyYSc+I+Pn95FAA+MW+giM9YJOehbfyWd8ZOPrhvZTN1IemZNoCAWpjQnyqOnijMr/NRl79cneNcxZho6qIflbhMk+cNWklSdF2oWE6b6UC0lPBtCFO/UzTSkz8+5j+gp3sI65yn8cz+trTzOQ2i2pL4ZSGGcKjD8bRu75ETr27PNxavEyfygyyyznBcHjyiYVGbV8Jbzq6n6Dwm6BR8cbUqV7VLwSJXrD0laXYHuNsMEMwSSoFSJDMVmoBmyXKxJwxYOdO2hxBJfea7WnlxBQxZrbZF4Jmj+7zfHGL1qv0fTKu1N0tNFXtcl3ftDujwoeL+7lGyy/fqLdy9m0WPKlM4Ue2bqSOuMJ6G0hIr0TTX3OFB86zzHr/E5ttaSZWPKTzI9qT6nP0Ye9LAAALqo3/67GnqILrpP3u2MN7Kj7yQd1Jv/p/SyUKjkfXfybbDlFF1CbxjRTcB0Rl+jOLHqGUB8/xr5oNdr+Sg71QEBUTdkFGuVlj+RgIl7gtBHRb/TuXwgw9X1iV7KCQq9Cb0RearcmgKcT6GdQwA20o0300v7gz6hzMNKuz/E/fBrbblshP37/A6MXunqW7j+YMxZ32FKcakNSu80l9amJmXG/a1TrAjR38Jsl5VDQmpbX2WqV1BFYvkxZw62ArYM8HfYQs=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUwNzUyOTYzNCwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxM2NjYTUyNTIzNDk5MTc0ZTUzZDc3MTlkMTE2ZjJhODVlNTk1M2UwNjNlNDI2ZjcxYjFiZDllNjZkYzM5NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "tier": "RARE"
     },
@@ -19302,6 +19542,37 @@
     {
       "category": "FISHING_ROD_PART",
       "durability": 3,
+      "id": "LOTUS_SINKER",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 4,
+        "game_stage": "INTERMEDIATE"
+      },
+      "name": "Lotus Sinker",
+      "npc_sell_price": 10000,
+      "requirements": [
+        {
+          "level": 15,
+          "skill": "FISHING",
+          "type": "SKILL"
+        },
+        {
+          "collection": "LOTUS",
+          "tier": 5,
+          "type": "COLLECTION"
+        }
+      ],
+      "skin": {
+        "signature": "nrjzrO1ZMapsbr9VW3YsnjIY0KTXxr18In5ZbnP42rEYpG/TzoyS5bRrDfsJV6iNGqk5lkXi8CNd/vOIyPOT0pAVQxGmOOAlodeh9zYszXXJLMBcTCXc/Vq3I7XSZTLYoefYs8iiEVR6+UtRmo5b7n7pxr48BlFqlAqeYOPllj2bQgpc0199KK7FWG+GJRxM+a6Buyu6KHCZYMFuqjBklGJw48WhoKvXJ2AnzNOVKhDJS8ycc2SrYCdztYPCWiqzGB4jhuKj0qKDI9UD/jCRgGIAaoJivAT12jtaS7xHh7VpM03KicojAkGEZ2Ha+gqLdZNZeYo3QHBFp9RpfpbQh0j13dcTXXrv2QEwhh20ojHPskjPaoKy+OhOOl4CrQm4+9hFdA/+Tv3BnGRptmUKNhlHXnbIT7fLTjmH5IGjyKqgxbrkpSamUyH/dCKJc6Fvdlmj6hFwyi7VENJI9RK6+Vm41DYwNFxStJHTpJSABu+76Gr9CmslyQCngbLbrbW6yy89bRkQmEKEYEeb0vHOKG+sz3FpFWd18xW7sA6/ZNwJTMWtFyFwBl0lgI6QZTYbvAvEiPfOYWvKBxI/rrnyqswbx9Oml1hCOd6LHQ/wb+Me6lDaYfrV2eyYjqWZsdzIUIP6MpnO1KP2Y0XaNx7tEVGqLUpkbnR0axIFNR9yCX0=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NzQxMDE2MjU1NCwKICAicHJvZmlsZUlkIiA6ICJlZmI1ZWQ2YjVjOTU0ODBlYWFmMjAyZDIxOWVmNjBjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWtlSHdhazAwMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NzgzMTY3OWVjYTgwMzQ4NzliODJkOGQ0ZDMzZGY1NTI5NDk3ZmRmOTQ4OWJjZjE0MzJmMjlkMDM0NzE2ODFhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "category": "FISHING_ROD_PART",
+      "durability": 3,
       "id": "COMMON_HOOK",
       "material": "SKULL_ITEM",
       "museum_data": {
@@ -19352,6 +19623,36 @@
     {
       "category": "FISHING_ROD_PART",
       "durability": 3,
+      "id": "PUDDLE_JUMPER_HOOK",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 6,
+        "game_stage": "EXPERT"
+      },
+      "name": "Puddle Jumper Hook",
+      "requirements": [
+        {
+          "level": 25,
+          "skill": "FISHING",
+          "type": "SKILL"
+        },
+        {
+          "collection": "LOTUS",
+          "tier": 8,
+          "type": "COLLECTION"
+        }
+      ],
+      "skin": {
+        "signature": "WbsMC9hRPmHfQHPlStaILTNHMATCNAvpNHU6deuDXOEsMAQNepzUZ8yfo/0Q6XtOoMwGpfFACfA23fRqLGRpDaK4F3PFQ9ZM9zLaOYx1edkNStfxX3BZK+crYDH3IxpJpj689ZzRDH9qkN/LXrYD0XV9QEU8KgqsxJ0AglNm4stZ9qMrBUxfxtE8b/Mrfbt0JgapForCilg7BFRpW6VCeRsqiQtP/O3CCS9tahmrpCse7v29msFuQiW2KXk8HKv6sfm5gJBVYeIC9MTMNTNmyZxQxG5cSXYZbpu4LWyne+fIT62yM9zAriM5T4fg/FZq89w8JrOaO3lu4Wfts5pZFNgFW12SI7B5KUbFb+Eeoh8OVdkrvZO09sX3KSJDuC0RR+io/3QQaafvar7qOm0WilYeZWY+3hSIuy5v/Fgu/OcV3Ml//K9XgiEjvo48Fb3mJQ2gxkp53Fk15B+LXy5oM3SH/akPxuunKc/un81QrWYOqVkHghl1Jn/auuzQMNjwokrOi513SW2ptS7Ur+Ru4ps2zKOXRmQ+28zxUdcMBd3qcgwRk65WbTRygFvzVnEFvNe2ExJW4uKS46Y3rmyO4Df4Ws1RX5FyRbZFG8emGX5rUF5NSL/lJLxOpwrFbrUex8+pSAaC6lGgEtYgaGc6CYwyRAe0lYD6eX+cJroy8t8=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTE0Nzk3MDcyNiwKICAicHJvZmlsZUlkIiA6ICIzOWEzOTMzZWE4MjU0OGU3ODQwNzQ1YzBjNGY3MjU2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZW1pbmVjcmFmdGVybG9sIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E0ZGMyZTQ3MGRiNDE2ODUyMWY4ZmU5YjNhNTk4N2VkMzIyYmMxMzNkODdhMGE3ODc4Mjc0ZWE2OWI3OTM2OWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "category": "FISHING_ROD_PART",
+      "durability": 3,
       "id": "PHANTOM_HOOK",
       "material": "SKULL_ITEM",
       "museum_data": {
@@ -19359,7 +19660,7 @@
         "donation_xp": 5,
         "game_stage": "SKILLED"
       },
-      "name": "Phantom Hook",
+      "name": "Spooky Hook",
       "npc_sell_price": 250000,
       "requirements": [
         {
@@ -19422,6 +19723,36 @@
       "skin": {
         "signature": "VRvlstH/Fwp7v2r6FLCj3YTVOaniCnObCr+brzLiid0lBgVBy4lMtRLVN7kSQRVXz4qIDkiUFryOZSXJlh83yRqP0ekt4v146woespm65rHYo634UWXEhRvBYc8wT8y73/oz+O/UrAfM/Nm7LAh4eYePBKTFHX/u1uY8q5CclnFsXSyqMUEkCfgfmM9Jj2YzToOhVmMIKYoaTp+2ScRiBujeP5mVBHXlOhun1drLaGbVFM0ttOR5s0m2QSYDNX4xrRlZH5K3lgJNop8kOS2q65zUu9J5/q7YuP9ISHAbQy3PRKQ91AMkU4XHmnwhbCgJLORSawqkgAE5ebKKnaEYi3CTFTmK6mrtKCFaRX5GZtuCRFCaiUU1WXoXFhkgpZ1Il5HFSVervQtar63Zo+lnHxZ3VrjyR3L+jT5kJ3iLe/p/fFNm7KI1a4V6514I/gXVjPXs+usU5afcR7G24LDWwh6Wnyy63jvg2AgPfuP3ayXW/HtMJom7eOaAw686VpmI5fHqSag+sK4lJUbq0NZocoz0O6ugzzjcuNEuZfKhjrnxFk7v5ie5l3gXjRKz5dCLiy5kfrL7MibucJJJ1pvZmlzZ7Y5L1fpGSlx4nWU8MCRqKjoK9J8PcN4ftWzV0RA9AVu091uNcvMdlDZPozXZljXT4/zw1a/p6bEWuBldRP8=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTk4ODE2Njc3MCwKICAicHJvZmlsZUlkIiA6ICI0ZGZkYjk4NDc5OTQ0NGMyYWRmOWMyM2M3Y2JiNDVlNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJvdmVyc2F3b2xmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1NDI0MjkxODY4YmU2YWUxNjUxMjY0MTY2NmM1Mjg2YTc0MGY5MzZlNDJmOTZlMzQ5ODdmYjZmNDNkMTZlNmUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "category": "FISHING_ROD_PART",
+      "durability": 3,
+      "id": "TROPHY_LINE",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 6,
+        "game_stage": "EXPERT"
+      },
+      "name": "Trophy Line",
+      "requirements": [
+        {
+          "level": 20,
+          "skill": "FISHING",
+          "type": "SKILL"
+        },
+        {
+          "collection": "LOTUS",
+          "tier": 9,
+          "type": "COLLECTION"
+        }
+      ],
+      "skin": {
+        "signature": "Ro+N05KkHXjJPPz3mXoG1DDXpKMrR0TV1R9DZY/oYeaBiEg0ip+2vmKrxaMw6slQZTWTAQGtjdbh676xBh4azmGV5vRa3YFYcvCUISMn7qr18yidQuf/EtXSK29vkXFeXaHiFCPJsofgU/TzdIMcPG2agWVHRv/RyDhZiwqHaSV8vwKbPX6/wMhWEq7C0F5Z1RmteHVqjhDqbs+Tf8Fub8rTGEqkgsXY7oo2sHKtMr3vakfTNIdAFDCmx/1fMQ48nokiZsRMSEbrcK+aTKoFFGolxBBi94h+VE9Jx+h9xfkQXvi4hC1o+sxqcdc7nwmKSJgPr0yw8YbbhFcRvX0tOnFwwPivq/JXcD4sAvdOQgJaFg0bTj2aAFq44/ddWpHPAM/7xvNhzRBtithPo/wuHoleeZX0bnAcpGK+4sxgW3K1exmnPo38pCcOpvtgFS0JANUtTd56UCNK7XscrkhDb50Bu2Q/2VXrQiIM55PQ54s98ysssYCXLvaWvXw3qxlZ9M57hR756KLBWg+epz8i3WIiPU24hKcGrVQtonll6JP8TSzUQcu6/jTHlDSnx2cWr/PwBVuSD46jTbIHruZnK2/P4wdLTx7pkivLXhMACcmvTK7be7ooODp39SXwtw0JyMzBvAIlgj9ZQyc/TqCvHrkr4BZqkfkjnJLcBXPbMKI=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjIxNzkxNzc4NywKICAicHJvZmlsZUlkIiA6ICIwNTAzNzZmZjAxY2I0OGVjOTUwM2NhMjhjMWU2MzlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb25haDU1OTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE4NGE5MmU4MmYyMTRhNTA2N2ZiMjRjZDllN2Y5YjY4NTM1ODIyZDI2NTM4MTgzYjQwZjkyMmVhYzgyY2Q5ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "tier": "RARE",
       "unstackable": true
@@ -19492,6 +19823,19 @@
     {
       "category": "PET_ITEM",
       "durability": 3,
+      "id": "SNAKE_EYES",
+      "material": "SKULL_ITEM",
+      "name": "Snake Eyes",
+      "npc_sell_price": 1000000,
+      "skin": {
+        "signature": "jQeeLgIXCi/E+Vl191jKNzqUnSY8/M3j9yOLUTGbbzW9TFMcJese9TBtv2bOJxg/SF6JikssSXoEftVTx/eQ/mjD/61455j9KGIt5dnIrp9e/5AhX9yWOz9pBlEfkSKa5IPalGcs5jfYQyprMt4WzY9egGLv1cxOFy6FeC0OHS82+9C39flPSPtvd7ggZlWGygEr8sAWyvZk6BYZhRUNMSk5qhnU0EeAVlwWN/y7mChSvhKLIYiQ6VDpxedol5QkS8aymsMQGUIt7apt5w18l8SMNz0zqSG0di5U7Gu2RkRmgYYQniwSFqYG6BVm6eefJzaz7Q2ig1uP25wIq9/PywzoxjXzoaaZeCYVnGbU9NT0k8ucwSCDw28Ze2JlO9bD1lPQ3ERB1Bu+R+75dt97rmRQI3hlF12owL+68Fnxttr80JgLicygvI50tDWjRMmbQkJZBbt3Nux802YJt3CBgQrYeR+jiBmhlLZ4dKAvmA6A1awc5ZN32gumGHa1yFLQQuJ1sZsD/cAefkG381x+o9tus6DvOdlrSdS+WKsgIdrx5YSuUFoD2J3C7wUWokaZ5K/EXSlRHBy04Z17yUELHpR/hfVtM8pHDcgQV5d2NIRsLHgrjrBRRTVtcOLZa/5foUuEXCaV/Xl//LIghmuSRD6Y7xrExcsRmjaFrQR79Ss=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzMyOTEwMjEzOCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84N2Y2NTg1MGMzN2JkZmY3ODAyYTdkZDFjZDRkYzY3OTgzMDgzMThlNTNkMTU4OGRmMGZiYTEwOGM5ZTRkNmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "PET_ITEM",
+      "durability": 3,
       "id": "BURNT_TEXTS",
       "material": "SKULL_ITEM",
       "name": "Burnt Texts",
@@ -19514,6 +19858,124 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDMyMTg4NzE4NCwKICAicHJvZmlsZUlkIiA6ICIyZDUxZmI0ZmJjM2Y0MjJjOTMyYzIzMDg5NGU2YmM1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGR0ZTX3N0dWRpbyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZjc3MzQ2ZjU4OTRjZjBmNWVmZjJhNGMwNmNiOWI2ZWFiMGJmMzlkNzg5MTkxYjcwY2Y3YzA4ZDM2ZmRhMjQ4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "tier": "RARE"
+    },
+    {
+      "category": "PET_ITEM",
+      "description": "%%dark_gray%%%%italic%%A splendid, yet tiny crown; just about the right size for your pet!",
+      "durability": 3,
+      "id": "LOTUS_CROWN",
+      "material": "SKULL_ITEM",
+      "name": "Lotus Crown",
+      "skin": {
+        "signature": "n/QUb92orWHYSoptydiybYpX6cvfa1lctCzFKReS2M3TFDqexHBF2/SC7P3F4Jp3rA8sPE5uIapgqpLD3/1uzd/upxBKhFdxpWpdCODmylAn6FKdvnaeEqGvGXq2HLbj+W6iKsmgjDvo+3hIs7+u7SErUv/zSxy1vWciCATpPKEHdWGDdM5VlkzN74zd/BvDw0IuuEIE9OUjb7e5i4JPw7OfWTWJUqFrEfoZSAMMNMKo43MD1vfwvlfNQzD2kM6r+wEK1Swkqb+NGUeEWnRMJScNdPb0tq9RDsWbSyqp8JBJIPyqQ/nOfzMIZv871uEKYoO8YAmgru+OaUsBLeZHzpfPUaIdT4etiTn4dK8cPSKbYra3qVodHcrs0WmkQrjp3KAfXFbNcD4AkwSAfo3lq2GTGWLhLapl9GQwDUZEUEHNbcEDkBm3Sa8pJNG4hdMajeAXwDjxkFDqd6XWNvEQWaccWtjyU5dmibhOHbNiDYQ14fuAbnknESN6zTgFbSO+B3Q+pxG1n2ADXy+v8xEg648bj5Oi5AILdZyx4+q7DbUSGSiJep6OYHCX6o8s0w6xUzu4BaMoK7adWk2Bk60dpdlgeGIs2kaNJDy/Fe4tbH4Z6OwYAGj14JY8NPlWnAOxwWxY7nCpD8g/eK/1neb1SccNUUl4AYdPYfsDIwsg7Fc=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTE0Nzk2OTI4MSwKICAicHJvZmlsZUlkIiA6ICI5ZjJiY2M1M2U4YzM0OTY4YTc5Yzc0NTExYWQ2NmQyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWJveWlvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyMTBjOGZiOGJkZmNkNTkyNmE3YWNiMDA2MzA1OTIyZmU4NjJjZDFlMjQ1MDVlNmVjZTliN2YxNzRkNWUzZDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The prized possession of an ill-fated captain. It was thought by his crew to bring him good luck.",
+      "durability": 3,
+      "id": "UNLUCKY_DOUBLOON",
+      "material": "SKULL_ITEM",
+      "name": "Unlucky Doubloon",
+      "npc_sell_price": 100000,
+      "skin": {
+        "signature": "amq4ix9248ywlA5VUSkmBSEHWx0RgOSMwx8d0CcM7JpjNIcA4t20A899/SkRhZ+p0N7TYMOjoTBNMuDTpuqgONpckBbZe132M+WIq8YWssaQa7QN7mm9bwW0vMoa3m0J7BnntSV7N+0S7ZWd53OnThJwdeu41BXJ+0en38DSs9bUdEnxrKQd7yde/18iWGKNgfaX7Bc15+R8pCQxgk3zBFbL2R5mps/fNaP/ZD1O1vA1Ug/+COyjwG1fwPKt69RpjdahcE4yKjiN8sLyB+b3kQEpmhorhNinG818j2XK09WuMkp8MxKgXYWV8IAZ4qk25c9p960wjiIxn4QbhSLx+JEBJY1A3YX8oOdOURAfbysHOYgMMqUZhZWgeCXkpQZf+c4u28UB+ADn2RxTFApljXFFOQnCUAeG0bHo76gDBeAn/Qnx4GZv2DyMPsrziwfPMJBfDLiX7HrZWwy5rvNlNBvnE14eRTHV75xi8jOxjSp3H/h6DT7Mcu7kfboaR9JBfvhHt5XffpjC6mdX2/4hiB5F7SV4S5V7lOZoii5RJCC+dDgbgi0LVQEpfYYzkNPPNTb7MwBUrY6+qRPuHidvrCp9uMSkn7wk3EVbRVeuw/iLUAKyTPm14PQ7Yjt1ygk9SDiJfNv6diNJB0sLjNsWsZC8t94Mliy5nGiRAmow5wQ=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTE0Nzk3Njg0MSwKICAicHJvZmlsZUlkIiA6ICIzNDMzNmRmNjI4MmU0ZTJkYjI2YWQ2NjE5N2U5NjA5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcm9zc3lOaWMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTU4YjZkYzhkMDQ5Mzg3YWJiZTY5OGQ0ODBlNjExNzcyN2NmZjRhYTQyOGEyYTQyMzY1NWE5OTI5ZTkwMmRiOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "TRAVEL_SCROLL",
+      "id": "LOTUS_ATOLL_TRAVEL_SCROLL",
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Lotus Atoll",
+      "requirements": [
+        {
+          "level": 10,
+          "skill": "FISHING",
+          "type": "SKILL"
+        },
+        {
+          "reward": "SILVER",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "soulbound": "SOLO",
+      "tier": "RARE"
+    },
+    {
+      "category": "PET_ITEM",
+      "description": "%%dark_gray%%%%italic%%A wooden barrel, stuffed to the brim with riches of all sorts. The lid won't even fit on it!",
+      "durability": 3,
+      "id": "BARREL_OF_RICHES",
+      "material": "SKULL_ITEM",
+      "name": "Barrel of Riches",
+      "skin": {
+        "signature": "aV7vQu/I51n+P1i2IVbokxkkScsjbT/brfcEDP2voKxzElbOb345Q2Ybk1pCZakL18EdcYIlFbYpH3a+tH4ya0S5Dzu+qjoMZbZI+mIHaTmmCDdg8AbkvqslueJAMYUexpW1OY9fGHqLGGHjHD/YdifAZqMox6SZcRWoliwWQmUppdYezmhYiDHdAzRfjDS7XEDESb2pf70HO8pTK7IlOV0sTqJjHbwdyA6MehdEoz3B5ByngynFZnytiO/P+z/kEY1vXCSrhWmoMjKILf5mi+cOgdtyXZoF/VVQUCRbGzjS+/0kqODlU9A9E/h5e0OoXG5pMa5AwdOsOGnSHlTI277+vt1pZabVuh3KXV906rLWk1tAcUK6he9Od0UkQxkheFMuREF6kp7o7irEG13uJKSjfadWrMtJi5K1QQ0I/J+inHWO/FAqi9tebOZQ3s8SLfpF0SpOubOHrvT6/W1O3Fimf4vVRrUGLZBYZxIjQJ939+ZAiguAdvKpoPhgJnEP5kCHgJEcJ9p5cSK8P4MgdJ2iApzd2MMZ/lBmGkmcevOnRwOhlUIXcOckhI8LF95V3OCw0JOtTy4MDuBiD5anwugj+unVcZ1H9Q/pUQTKGajtIiWJltSE2JOcm06TZJglJ3bj1cL9mwPCOq68dw8+V61JSFqkqLGruMCFgrVd4j8=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzM2NzEzNDk5OSwKICAicHJvZmlsZUlkIiA6ICIwM2FlZmNjYWE2NzE0ZDFhOThhY2Q2N2QxNjA0NzQyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYXpyaXh4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4YzMzMmQ2YTAwMzJjYjM3ZTNkMmRlN2JkN2ZhNjcyZDFmYmYwZDY3YmViMDIzODgxNzRhMDFlZDQ0ZGU3MmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "EPIC"
+    },
+    {
+      "can_recombobulate": false,
+      "description": "⸮morf emoc ti did erehw dna ,gniht siht si htrae no tahW",
+      "id": "REVERSE_REFORGE_STONE_CORE",
+      "item_model": "minecraft:popped_chorus_fruit",
+      "material": "CLAY_BALL",
+      "name": "eroC enotS egrofeR",
+      "npc_sell_price": 25000,
+      "tier": "RARE"
+    },
+    {
+      "category": "REFORGE_STONE",
+      "durability": 3,
+      "id": "GEOMETRIC_ODDITY",
+      "material": "SKULL_ITEM",
+      "name": "Geometric Oddity",
+      "npc_sell_price": 1,
+      "skin": {
+        "signature": "KD/xEznLJhnCEVAqOmpzTUMz6dh96Q+LqyYIgGnKaRvGDDelZYKBJdS5EGa8Ci8tdhI1TPOR5WZ7sAOS5P/UShybyrozLwgBU4yFAgAaN1ZmeC+1NZvKrj8fI3KO9f4i87ezHD40tujwK7PPUdIDJjFuwQ8LS3JIIX9k8suZN8pv/iNKGzMYKued9LjoIT4N58ugwKw9ardmz3CSfpb1ffULjMa02z3JlFXPX+03f4NeqstHqTA0sr0RRVUbxboxyaX0th1/lAOrYVPWx6xnLM7QY8OiewPPpaLmUT5Hb8PZQs/xkJTnXN1ySu6dfp/qohaySLZRHlTy1l1m9N+wQ28ladCxfPm8k8KGJhwL0i323aG3hFIl6EBWAvY3HvEptDovpD6QAd1D9CeTArvZ0d8wH5U1EEZvFPBOk5TALBvlpG6pgORiD41FGbcJ+0UK4ZIFudRMU4cN55jAcO7ghUYoiI1gmQA7GgIQ43+w86SX40C9aOrDPA9gM2WzgQ/etil4FpBc8hIjI4G+9kZ8UX7UW160RZc4IiI1HfEB6oi5OPqXgl/absdT3+kg2fBL2YYQI0P3FfrvvxQ/oj2+2ZAWmJ/NCWUg1w92rPj7usLOEcH5lxsPRaSGQklYodIGssOWlHx8DDZLVHf6tJp7fYIBUT2RbTHLOGN023nKZlk=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTE0Nzk3MjgzOCwKICAicHJvZmlsZUlkIiA6ICI3NjFjOTZhOTgzNzc0ODUwODc4ZjgwYWY4MzIyMzgxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NWE2ZWFkYWI5ZmIxMDRkMWUxODIxYzFkNDk3MTFiM2E3ZGNlMmI0Y2NmMmNkMDQ3M2EyM2Q1ZjNiY2RmMGIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A splendid jewel, once thrown into the Lotus Eater's pond as tribute. It now serves as the centerpiece of the Frog Prince's makeshift crown.",
+      "glowing": true,
+      "id": "PRINCE_CROWN_JEWEL",
+      "material": "GOLD_NUGGET",
+      "name": "Prince's Crown Jewel",
+      "npc_sell_price": 1000000,
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Smells of rust and Lotus... what an interesting mix.",
+      "durability": 3,
+      "id": "LOTUS_WATER_ORB",
+      "material": "SKULL_ITEM",
+      "name": "Lotus Water Orb",
+      "skin": {
+        "signature": "eUz7jMu9woosZT0ynnyrsWa2rJ9EIRob2LwLvzQ+HNZ8yZQHm+Gl/fTH1eqaWuvKi9Pf5wmIuTX5lkVaUgxdz3y3CTg8rpiJD64iwRx/yWcPBXTD3ewERMfe8YXXqt94Fbe1kGftOgqhPcZTy1nn4PMN0mNNvG9NiG/LWJGyVoSxK4jBedqVJ7abZOAzlQkykUacPzMv784cQ8dQtJuA9H8iM2BAONX7ISzr2hM3my6tuu7Q4/emOOnIdRmknRo471TlEW1bOD5zfy4PQ5TCeeq+gCm98h4Ca/lQzGP7kAYo0OBi8TxlucJUu6o77itXB688W7n8+G0cnOP9WpVg8ytv/gcMDX4Ci3izcyYVjM1b7vpylDfgh7wPb8okD/Auh3C/kuapsko+rcemXCz9oxC1jZiEH0lf2RlfHyOj73DeefiLQ/pxubJ01wcH17uEMc6+Fe1De/iJXtg3UbPAmyVy71x0Cn/fJ84hjnFJxX+ua0HHz8mOf0PuQDSesdoZne7yPCUIElJrOZQcENHg4vonQ9OmnsfpScbfkH7CJeN6wqdIjxlbAJ1QUOX3LdM0RKsxQtzIayKMUQ0dZIraNjUJ0T8DDyr3TDHTcBw2NmRFIyyQgc0+Lp1knwhp0U6gSnF0oW2ZRn4SzyuXHYOW9GwpeOunU7W7csr0JQlrCtY=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NzkxNTI4OTM4NSwKICAicHJvZmlsZUlkIiA6ICJkYjZiYWRlN2NjMzI0MjM4YjU3OTQ4NzMxNTBkNjA1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJRdWFudHVtQmxvY2tlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZWRiZTk1NzdlMzU0ODBhMTI5NmJkMWMxOTdiZjFhMzU3NTdkMGIzNWZlNTNhNmRlYjkwYzRmNzYyNmJkNDdjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "LEGENDARY"
     },
     {
       "category": "BAIT",
@@ -19737,6 +20199,102 @@
     },
     {
       "category": "ACCESSORY",
+      "description": "%%dark_gray%%%%italic%%A hastily-written infodump explaining the key differences between various frog species. It uses the wrong citation style and is thus deemed worthless, regardless of the information contained within.",
+      "durability": 3,
+      "id": "STUDENT_STUDIES",
+      "material": "SKULL_ITEM",
+      "name": "Student's Studies",
+      "requirements": [
+        {
+          "reward": "SILVER",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "WdkmkbmyeWQOUDCTphjM1DGy1tG0u2bkE+YR+A5evRNjsctk94IHckIdTitSQuJbNRESVIZgR/VcBBaLNHrrZ068Snr/HuiO9S41fw5OASb1BXt0k43Zxrwct7iaKEr9OXfLcxatzRggAQjUmyS7FVvOUQq1hOxwE7Az3KNtJ9dO0ImHFOYy3C5ldNapLCj8N1H/4ymc2bb8qWmh0gA1u4LTcAk9wG5YB6RUP7QSguSFysFWLXKtylH+C+53y9SPvSomKTsDetgJrPsO/vMv3Gyevs6ob0a5eQpYX2JLnhoUWAd4wuqt6zLldFfvo3uxY5D6s5IQGK0le6hVda4yHWnp+Xwkux7ddIOWxuYxj58OC4mfbcxU9xmEn9QrZtXPomJDHO9SPuVy8W+BHfDifQ0ttkqz5NpVRgBGrt5cIGt1xMVIshZRirJQmwTSxfI2LXpCkADqPn4bYRHHMgfZIc5HsSiOlypK2VjhCghuX5DSLzzyRjdr/q4fnnHS/xNoQ+JnXisVN/2+8nfL9d4tn5lfTMXCUNDaUk/Ui9Kd16V17KsLtze1/kNzhWUh9kqgw0KTrnxZkAEHiBG/6tA9VTV3oW9YD2fgpMEUxKWexml/KUpIEMjjj9OMWcBJAQJ3338jr6JF2bZH0A29fm4VKRebU6xzSwhS0dJBxwau2/g=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwMjk1NiwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY0NTI4OWM4YjEzNDZmYjI2NDRlMDhjMGM1NmYwOTZmMDExMjkxZjE5MDRkZDJlNTI2MTA5ZGNmMDlmMWM1MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "soulbound": "SOLO",
+      "stats": {
+        "trophy_fish_chance": 2
+      },
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "description": "%%dark_gray%%%%italic%%A brilliant treatise documenting the physiognomy of various frog species, their impact on surrounding wildlife, and...tears in the fabric of reality beyond our conception? What?",
+      "durability": 3,
+      "id": "PHD_GRIMOIRE",
+      "material": "SKULL_ITEM",
+      "name": "PhD's Grimoire",
+      "requirements": [
+        {
+          "reward": "DIAMOND",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "sRtxHDf/aIy0oUEQL3zllpaANBoRlV2KKWDEC86K98HkQ7xThd5Gg3w1akKGZHyf41hOfXxcjyucl78zJDzNBSEK5ZAit6u3h0yMF2+caQ4vpuMWU1WgDe/KkHX0mqlGfiFWIFyjgIL7jXdIoiTHqLu9p4XPcSll8s6Lnohb4QW0VxYVW6GcKdReJxqEiU77HNtrRT+b3jlfmq6riAp2yDKrcmNUhq3jy58zxSl/zie7lqhf6Dy7EHahKu+VheA8Zz0ew0BGRS5XK/i8Z5fYJKqIg50iKcZUpsdsoz00D1Bio6OAIUMSH79MVe7c7EBlTuVFUucCn2A4FAYoIa0kgYLmrsf6fixuvvbltz7z/h319vQY4IYe1ydnBCnxCbo6oiZNxszq4yd3tpugIYx4+lk0ID0HwcB+2QEexc4tYoC8Ps9LVsyf5ykIPka8aLuLycoUvIc1KDHvlFekrir3cx/iw5oc9VZzMAA7mONjtBUtf+0fXhyMMUlsJxW1inhd4FVb23cqWIlZYkVZLqFJj2nKhK4bkhIJUlxdM//Fjo288/lzKSV94nRBYG0LQSx9yd6+7dkdaX/GgE4hFwfuS7XA2RtpMKOeQnCrI+xt/75IYu2IhuIrHKkhdhzAzyPtDXp65Cjl8BQZHzZKW7VA+IhqmrM6j0rLHHPgd1p2qvE=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwNTU0MiwKICAicHJvZmlsZUlkIiA6ICJmZDFhYjdjNTYwMTM0YzQ1YTA2YWZjZWY1OGViZDVkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbGF1MTA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0NDJjZTc4MDk1ZTgwNDc2ZDE1ZWUzYzdjMGI2MzFmN2Y3MzRmYTJkMDU5MmNhMWU2YmY4ZWRiODkzMDE0M2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "soulbound": "SOLO",
+      "stats": {
+        "trophy_fish_chance": 4
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "ACCESSORY",
+      "description": "%%dark_gray%%%%italic%%A single-page printout outlining why the candidate's application should be accepted. Why are these a thing? Just read the application itself...",
+      "durability": 3,
+      "id": "APPLICANT_STATEMENT",
+      "material": "SKULL_ITEM",
+      "name": "Applicant's Statement",
+      "requirements": [
+        {
+          "reward": "BRONZE",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "sS3/A5SVK00QqE/CvN2OCOxpFXFW1b1LRkqyA4Pih8h1qNeZoQ7+tPtMHdNbrG24QmZGiDyzoiS09xl2CSOi3UnAtAafpgCzXOVyOTZWw3nBs39FxxGGjQ2VTkdQBgEhBPnd1n+wlYoh9u/wLS8WPgzw3L/ygdaIKhQFKzdbrw2O1QsmH4IAbdCkZSwY52WtvLhZcIIBVVTFMKT1ZOkfJDYiPajO63xZV0TgOqCMA04g7MnUwe2Z3SL3lATeWFwDhtC1HvxrefpG/s7M8Gv845Wfv8XfUJFk+BZ12CP5Fk1bWScoACBMZ9o6p7bJP5DmRmZJk/r0QWWgfZivGNRDqP+XtRcavPBf7zSL7TUH1x1FL0Z7Td52IzK79sI60wEEpIoNFKi1PSNVzBixxYeIbJA82MfyNdNSVeySvBLyVf1ab1sb4vLW8VsNK3XaiI6KsBhWXbV19GF33NlWYO3xwvHgEx6v8KdKk2do9n+d1gVQNs5G5jDYUpmFrbPPuXuKNwZUZauGPH5c/CBBpaDrQQ0uuknRG2Vdfv7DNmt78/waBt1t17xJcj5zJ43m1wiYTZsMrm7aUm2oEEfztkylj4MoetXWpOPAGoTH7R+sHWZ17iTK01KomPowt1YZgvJgwYeX3zl3n2zgFUSak4IqYP4DkC7K+0UXfZpjIE0dgDE=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwMTE3NiwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0N2FlMjA5ZThhNTI1OTFjYzIwYWMwYzllYzZhNWNiM2RjMDRmMjM4YWMyZDc0M2IxZDU0ZjExZTljNWM4NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "soulbound": "SOLO",
+      "stats": {
+        "trophy_fish_chance": 1
+      },
+      "tier": "COMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "description": "%%dark_gray%%%%italic%%A well-written paper, complete with labeled diagrams. It explores frog biodiversity and details key efforts made in the name of conservation.",
+      "durability": 3,
+      "id": "MASTER_THESIS",
+      "material": "SKULL_ITEM",
+      "name": "Master's Thesis",
+      "requirements": [
+        {
+          "reward": "GOLD",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "skin": {
+        "signature": "PUkUwPVuVGujzVPYsCerUJ5MH/76I7n2l7lHXDg2kIW7+OHidw63gz5IuIUz6rF+2IWSpiLjz7go5wrENzUEi93/RGBgOXWpixXwrsbqVMqA/s66SlQrwxAhbjatfN5GlrsY0YB8s74SQmy9vjDVmhmEx9ynBQ5e325CQAZgCGCBoJjnD0QfRxg9p+RpJu0N9qGfnwBrgcnPHu/eRF2PA6iJYqIPta2F5B6St/U2A9D4o5BkLK8Q0u9Kbu8rYzUcPyrtWO1czJvMGuiddljP5FmkXAoIOK8EbMQbFRnbhQkl9Javhd8XJj5YcxzihsNuKpg6qS3bTkQdTKEuOPxBKgVo21DH3q88vMGYxNhk2yZ33HMuE8v2FZhjlP10rmL2tdMUa/PglAKuI/zKcgQnYA1+vmlbGVfOvi1YZhrceCJ2nw18aW3KeBCw9v+eT27rdO33Ad/yH3+qye9z4/GImIkUh2eN6/VWp/V+S3vGLCJfHLUsMYtnWBUQQMKPFvsfLN5oMPlzBr7/qT0yzsK6xAJd6tSOZaXYS+44SFX6PQPydnyzXjz4NiAMRKtKyOi7p8Gk+vrawARwON+y68vD6J2KLu+EG6JC+Oz0wUg1LKDYzNkrsUhhU9Re7z8sPP5V+9tr5URI4Umt1QAjLWkKPwM8VnXKBHfrbMK2XY+5IAU=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwNDQ0OSwKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlMDgyNDc1MjIwZmRhODNkYmExMWIzOWQzZmNjMWMzZmNiOWI2ZjFmYjhhMGZlM2FlN2Q2ODM1OWYzOGFkNGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "soulbound": "SOLO",
+      "stats": {
+        "trophy_fish_chance": 3
+      },
+      "tier": "RARE"
+    },
+    {
+      "category": "ACCESSORY",
       "description": "%%dark_gray%%%%italic%%Fried Frozen?! There is no such thing!",
       "durability": 3,
       "id": "FRIED_FROZEN_CHICKEN",
@@ -19755,6 +20313,123 @@
       "tier": "EPIC"
     },
     {
+      "category": "HELMET",
+      "durability": 3,
+      "id": "FROGGLES_DIAMOND",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 10,
+        "game_stage": "EXPERT"
+      },
+      "name": "Diamond Froggles",
+      "requirements": [
+        {
+          "level": 25,
+          "skill": "FISHING",
+          "type": "SKILL"
+        }
+      ],
+      "skin": {
+        "signature": "gdVeode/kgmBG8BTl0G5bpUM4xCa4WRDQRjmV8xK95By5wrBziaqG014KXl3oAH04OuZDtUFVpxr1b/VCnneisHUYeEiNG4nrMVJN9axVjvrYJNxHHll8HMWuGK3HAQJA7jw/T2edQJugAvVsN0RaIrnwNJmKbMSbchEo5LBR49MVMHuVGPaft4TWlHzEKz8swqM2182GWiTukGpQ9XAQbegGDcUdzMQdI0zgVnXkmBNq0u9dpm9H990VZG78GDjfpLRWkWZJd2g8/OtDWhFASl1SXOcG85zbsyFNxRQETn3Lzs/UJfqF6nO8Bl7kksnDElZ4cIVBJ25CmHVAQxMtjjJ1JOQn5DxraUhSsHGbcL27tnEkg0CHBIQGe/yxNUkvrrAm/eKpsyLy86STUXJGlyZhoIy/Uecn0m/C+1u7UfJxkvbrNe32HH4Bm5uGeu5Iu5kr2sTIvngEzCGue5hel4ZJHQj3QVmRCKWnIR/mYgjUUlWYA/MAnZOQEwTmWpIWloIKRP5VwuZ6EGWMCOVPLe7tkLR4XGDXev6eYGKMTy2cNshcAPxzyU698XlQsixTsdMaQyi5rwdUzMWOpLsa6MIPidpxx046vHhNSvFFPwhkI7IVJwJeAv80QyCleJTtZquAHG8LyGZ3FJh/nsSMsUweK8H5NTZrLkPg0qBh2Y=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTk0MjMwNjg2MywKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY1MTNkNzFiY2QyOWM1ZThmYWMzOTYzNzg2MDlhMGYyOTU0MDQ0M2FhYWFlNjUyZjdlNjE4ZGNiOThlZjJhZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "stats": {
+        "fishing_speed": 4
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "HELMET",
+      "durability": 3,
+      "id": "FROGGLES_SILVER",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 4,
+        "game_stage": "SKILLED",
+        "parent": {
+          "FROGGLES_SILVER": "FROGGLES_GOLD"
+        }
+      },
+      "name": "Silver Froggles",
+      "requirements": [
+        {
+          "level": 10,
+          "skill": "FISHING",
+          "type": "SKILL"
+        }
+      ],
+      "skin": {
+        "signature": "KECjBZ9a7Xa9VPPe3dmc6HI4nHuLHCeJ0ev+EIJM3+mPMAYAGoS4ue4usqeCopr+cffbg1wOjxX1iIU1LrO9jBjKYqXgz+iUYEgj8P+PWyLhb5S/OgHha1jH6JcEmrZv0JUJ4UK5Ux/VlAoMz+3TbStwC5oajZWKUv3quMKyCIAzKlzYZaIVxCDIHxleCgEXOtjRxoaqFq+qTXhIrP1gDPIPoUl/CqvbrmQoxFbjV39DdTCePcAgtMQ5jD5BG6OcrafJAvuz6D6RW6iMSGZESkjg9WMnUJQi0bx4L27Gg1nK0rV3mzAi5617+htV0dX1JgUaPHunxwehN2FS/DrGZEOSefpL5F/+d2HDqwO5Im2cc4OXImKNrpDOvZQeCl0FN5G/Pk4yY7Wu/rLMp7FMEgGFe0Hzur8A6UoeoIZivqaWZoWkFBV3oQo76PfaOBFVuFUc/zIXWzDcg+zaG41aReofre2s2WU4GFJ0yQcLYshlEOe1Q4Iob4HD6YF5iGg+kV/idQpAZrRwNVl9xlxleIgOHznt456XtHUpVKX/bSkecvP5C4LtpooSvpLybtuHF9sKQM0y5JybHPmeTTcMGuqQk0uSqnw+smlupsVVRgRUS8dnSp2fK6nd6YRxH2I9RiHHvHK99AZ3eAAdw9oUvaJXmzlIxuCF9sCXW2K+A38=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTk0MjMxMDA0NCwKICAicHJvZmlsZUlkIiA6ICIwNDg0N2ZjNWM5YjY0NTQ1YjI1ZWJkYmJiNzdjNjg2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJuYXFsdWEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGE4ZDBkZTY4OGFkNTc0MWRkYTk2YTkzN2ZkYzE3ZjlkNmQzMWI5NTkyZTM4YTUxN2ZkODJmNzg2MDJiMDhhMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "stats": {
+        "fishing_speed": 2
+      },
+      "tier": "RARE"
+    },
+    {
+      "category": "HELMET",
+      "durability": 3,
+      "id": "FROGGLES_GOLD",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 6,
+        "game_stage": "SKILLED",
+        "parent": {
+          "FROGGLES_GOLD": "FROGGLES_DIAMOND"
+        }
+      },
+      "name": "Golden Froggles",
+      "requirements": [
+        {
+          "level": 15,
+          "skill": "FISHING",
+          "type": "SKILL"
+        }
+      ],
+      "skin": {
+        "signature": "UzYxlZqaE/0FAt9SMaa/AIIuwjjJwtl0b5jqC3cuTqrTms53iHSpL0vRZ1/2/G1NUpQi4kS9PP3/7e1SAzMfDwicbx5lKQH0danFJeDJF80lQ0Nrtw/efKMPely2EtzByjfIhovROrKbXgQkhlu4gc87wxuBxYGfOR4uZJgDco1fxRyvMz5/9L30M0wXEbjag6cEawLL6vr8GIHir110g+ZhPWNnekxpWmukqmA/4r1RdJgz0PNn4KbqH45H/lOL4Da5y6HzaAsTptEEXa54M45o72kUOOec8Vnvon65wQEMjhyH0ePQv2f+nkfUsNH/fv2frcYq5Naiws4z6mF9B6qc9XnJOK0fwMC0by7NEv5hkSKmevgiTLGMF1wr6TA2aMCTtJiIz37dAyKD+fSDyDQ19mw4RkMtNDnBgH73N/DH743g6bA5tDGp2/z7q/Ua5kPS07LJSTVATJzOGrw9ZkXXjjKmm3+qOIpEhfagiKr4qfiy7UE6FUGBhCeLPNnNl45Phd/Q+mXEMEhUXy/fum3r9ksXvavmWSmJpo6tPvqzPoeJhWqeWoK6gkNGii1w/GUrGGw5veg4jUrIlT4chCKEKK/Ix51foe+oe5C3s9AkKYgTpvajpOjqxd6jnMyV0LYjc1U/Q7d4txtOqKarZ/zFzvxbtXvCQyADSNo0TV0=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTk0MjMwODg0NiwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTgwOTBmZjYwZDE2OTI0NTVmMTYyZDg3MTJkY2EzMmY0NDlkYWUzZDMwOWY2NzE0OGIxYTM0NmY5MjY3MjJlNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "stats": {
+        "fishing_speed": 3
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "HELMET",
+      "durability": 3,
+      "id": "FROGGLES",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 2,
+        "game_stage": "INTERMEDIATE",
+        "parent": {
+          "FROGGLES": "FROGGLES_SILVER"
+        }
+      },
+      "name": "Froggles",
+      "requirements": [
+        {
+          "level": 5,
+          "skill": "FISHING",
+          "type": "SKILL"
+        }
+      ],
+      "skin": {
+        "signature": "ht6B38rhalfGRX52IbyK9RnrLUGw2n/9YZ9hXBd8R1foWf0bbww+Qz3uHqvjjhpJ+YQz6mgJ1ngY7s+TzIPPobhMQ+5MtfDxBKhxjr/ulrEBj5yIz4sgUb/Fd95Cim3v6/8sD8KmT/kEkAHejMt6qXxIX95ZRMUtBD0IBez+mV0S2m3/26fhTonb1fJa5C6YLpgs/Y6yrkhE8Gr+u7vGs4kqDR/BNpEpyRt5ibU5ter2h9m4FGwlwsRrNv6GMlQctJGi8iEjfi4GDcbo9VnLa3MQRsuaCs30VUgal1+cNOj0X08NvpWAdDkvbC9lydy0k/BWQUzvdB1+PsO6Gby0hH1JYE4wnblmHrw0xwrmkEk6kcFgkFrubfEeXtLeLaCj7XhoIiHd6LER4g6iDPufzNPBvJYMXERxVBMuhyFJGnQDpPmBpl5GP/xGmMnbbQOpz4Ud7BGtvKrb2fvc6S4l1NkWCz3xAdLByMkGnsn03GkgBqiWkPuKgi7XbW8ddB46F+CikdEaZHPzXISXvc5/UQkIXlm3mhBjdsCUlnKKbOzMSoLKJrG5E2Qc55KKKX+5Y81fW88MGEeRTkqw15pRLtIa2AlBjfQIXGTxWUMdAqc9IwJfSnoBQFj4j7P63wl8nzTcKkFmO/JFHdEsMBWmkGJWgfuwWW8oYhbkwSxxSxk=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTk0MjMwNTIyOCwKICAicHJvZmlsZUlkIiA6ICJiMTM1MDRmMjMxOGI0OWNjYWFkZDcyYWVhYmMyNTQ1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeXBrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJlNDJhNDgxY2U0NDE5NjA0OTEwNTMxYWFjYTlkNWJmZjJmN2I0MzA1ODUxMDMxODlkNDc2ZjU1OGM4NWU3ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "stats": {
+        "fishing_speed": 1
+      },
+      "tier": "UNCOMMON"
+    },
+    {
       "durability": 3,
       "id": "RUSTY_SHIP_ENGINE",
       "material": "SKULL_ITEM",
@@ -19768,6 +20443,7 @@
       "unstackable": true
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "BRONZE_SHIP_ENGINE",
       "material": "SKULL_ITEM",
@@ -19777,10 +20453,11 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM1NDMxMSwKICAicHJvZmlsZUlkIiA6ICIxNzRjZmRiNGEzY2I0M2I1YmZjZGU0MjRjM2JiMmM2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJhZWwxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MTcyYzFlNzI5ZTBjYTAwMTkzYWI1ZDQzZTg5M2ZhYmVkZjVhODBmYzY0NzI1ODE3NmU4NTAyNDMyODg1OTI1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "soulbound": "SOLO",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "BRONZE_SHIP_HELM",
       "material": "SKULL_ITEM",
@@ -19790,10 +20467,11 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDE1NjgzODc1NCwKICAicHJvZmlsZUlkIiA6ICIzMzU3MWJiY2UyMDE0MTRiYmNkMDYyMjEyZTI4MjBlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFkb21JbmF0b3I0NzgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ2YzUzOTNjM2M1Nzc0MmM5OTJjNTZhN2I3YThiOThkMjY3NTM4ZGU5NDdjMTA5NmZlNzYzNDE0MzEwMDhmMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "soulbound": "SOLO",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true
     },
     {
+      "can_recombobulate": false,
       "durability": 3,
       "id": "BRONZE_SHIP_HULL",
       "material": "SKULL_ITEM",
@@ -19803,7 +20481,7 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDE1Njg0MDMzMCwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E0YTcyNTRmMWFkODQ0ODA5N2Q4M2RkZmM3OTBjOWYwMmJjODg5YWNiZDMwNGI0MTRjZWU1YTEzY2VhZGMxZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "soulbound": "SOLO",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true
     },
     {
@@ -20811,7 +21489,8 @@
         "damage": 75,
         "fishing_speed": 35,
         "sea_creature_chance": 2,
-        "strength": 75
+        "strength": 75,
+        "treasure_chance": 0.5
       },
       "tier": "UNCOMMON"
     },
@@ -21224,6 +21903,18 @@
       "tier": "LEGENDARY"
     },
     {
+      "description": "%%dark_gray%%%%italic%%A small coin depicting a wrinkly, bearded frog. Coins of this nature are said to bring good luck when thrown into small fountains or ponds.",
+      "durability": 3,
+      "id": "FROGCOIN",
+      "material": "SKULL_ITEM",
+      "name": "Frogcoin",
+      "skin": {
+        "signature": "sPfcAkfQPQU7FnNmDy81BJZtOCEzrH7TubRxZWWEp76wL/usJcZf/rBUxb7pT5jL6b/UB8P/ZIO2NEYk+NnooBg5lJh/zZhHjvkIvp+VFiklKSS2uYQaWoYdXdrkJ/bpNG1wdVwjqA15+dAKriF1W6zduq7LIlm4FJVqGp4DPKkCcP0gQcFIVn6YLVlPL1H7zPF2e068jbcnzb8g+0SY+pZw+qKkOrKJrDEQ1CBXOnRFjcfxMb4ascRV/ScGxEIR25G7eFcOJkF51SNj9mYPVsAVxwSEIfwzJzbBFOurRwy/gCXADH/GVnLUhbr2MEQA73d9Y+fwve/c0fLZwPpR+QEYwYVaEhaG85tR62Sz+VW03KCyJSY/13kiO/SKgL1v+rdgi4m1xXCtiFoXUyndas7qwgmpmW8qh3pnVplACl5inJsYKrNVYUFhY4Capvz2fp5cyz9lv8b+wpqKgZtFncT5DCkn8bz5Gv1kzyGKgiTunwbvRbsg+Ax4TeRpc9LyccKtPT7j89zC6zVXrZZDXSJzE9IcoAcTYtecaNey9rCRtuJ1EfK72SseNox8GZD3DJzDVII18pIftERKd0TE5fy6KvPjpUaHPBhi/j6CJMioVgLOcv0tWvOP37lk51jLbo74BYPsBqcOidOViTUtFfrB9eeoYtB9hhPf4rAcoa4=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjEyODYzMjUyNSwKICAicHJvZmlsZUlkIiA6ICIyZmI1ZGJhYTY2NTA0OGEyYjZhYzU5YWE2Nzk5MDYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFnbG9uZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGYwZjU4YjAxYTIwMGI2ZTc4MzQ2Y2MwN2RkYjg5ZWMwNTU4MjU5ODA2YWIyZTQ5MWI0MWFjZGNhNDBiODIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "UNCOMMON"
+    },
+    {
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -21400,6 +22091,22 @@
       "tier": "RARE"
     },
     {
+      "glowing": true,
+      "id": "RIBBIT_THE_FISH",
+      "material": "COOKED_FISH",
+      "museum": true,
+      "name": "Ribbit the Fish",
+      "requirements": [
+        {
+          "reward": "DIAMOND",
+          "trophy_type": "FROG",
+          "type": "TROPHY_FISHING"
+        }
+      ],
+      "soulbound": "SOLO",
+      "tier": "SPECIAL"
+    },
+    {
       "durability": 3,
       "id": "CAN_OF_WORMS",
       "material": "SKULL_ITEM",
@@ -21410,6 +22117,18 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM1Njk3MSwKICAicHJvZmlsZUlkIiA6ICI3OThlZWM3OGYzNGU0MGJhYjlmNjk0ODIwYzM3ZTcxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbENoYW5vbk1DIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlOGQ5ZTEwZjhjNGMxN2U0ZmM2MTY1OTkzNzRkMTU2MTUzZDgzN2Y2ZWYxYWY0ZWFkZTAxNTA4YzczMzVjNjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "tier": "UNCOMMON"
+    },
+    {
+      "durability": 3,
+      "id": "HOTSPOT_TONIC_MIXIN",
+      "material": "SKULL_ITEM",
+      "name": "Hotspot Tonic Mixin",
+      "skin": {
+        "signature": "KyiUuJ1dSbdMR0jophW0YU1nenKBz8zvHxB59uAzI3zycyprqRnRAll842ugnnZKWE7HgczNq2ORl7W6/9yW9Vo9GtLeCBUS+bIIfFkTBVyt+hB/uMXwE6bJwL+57zHYnk1bwHIjlfMuPBdPQ/fmVDV/7ixTJRa+/xJ5o8I3eOVD94SezBrUnn/llCouDs2WUfoEahiqK0XETPXjZf3cgqjOs8+NkoLizUiDdoCNaegl7PXXMOiPNnQH8MkgU+NeCJEBuELF5Q8o+dphyc5QEKWiAwVpoTDHxoNwwPFWJTv7NqoKzyNeoqR6co+c9rxwRCmDY0/VR03MQT5dZdUqXJKj6ACkZASuo4o11jEZqB4TQxbqRt3XmyWFA8rEzIs51tXYG9vaWydHGCNEJzYD8SMX6jZyTeDK/JpjZ/HAnDS1mp78VmhIoVl89oc+q4NGzkFYerQx7/QusbcI7F5oUclQp7B4K/oXC4xfIFxAr28XiasUtcuy6TDi0Fr25MufqrK/Z9W9FQj+tTdtzEunF/VWLHtJhaPT7QUoAbElx911haW2Qg5GSo9IJx1pz0Q+BMf81R1EtAQjTDNTsHlzfZ0WnEnJcHPjLmLyNugLp+Zy6uGPsSm38OTK3hNob1T3Xi40nznJPr80r954R5w2WOEEfhl0vKHxDo84VNGrIoQ=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzMyOTEwMzM4NSwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA5NjUxZDVjMjVmODZkYjNkYjExYTZkYzg3OTQ5N2I0ZTExM2E0OGQzY2RjZGY5NmVmMTM0MTk2NzFkOTZmZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "RARE",
+      "unstackable": true
     },
     {
       "can_recombobulate": false,
@@ -21469,6 +22188,23 @@
       },
       "tier": "RARE",
       "unstackable": true
+    },
+    {
+      "category": "CHESTPLATE",
+      "color": "255,0,0",
+      "description": "%%gray%%Seems to attract %%green%%Bullfrogs %%gray%%due to its red hue.",
+      "id": "RED_SWEATER",
+      "material": "LEATHER_CHESTPLATE",
+      "museum_data": {
+        "category": "FISHING",
+        "donation_xp": 3,
+        "game_stage": "INTERMEDIATE"
+      },
+      "name": "Red Sweater",
+      "stats": {
+        "trophy_fish_chance": 4
+      },
+      "tier": "RARE"
     },
     {
       "components": [
@@ -21566,6 +22302,42 @@
       },
       "tier": "RARE",
       "unstackable": true
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Avoid getting in eyes. It’ll hurt!",
+      "durability": 3,
+      "id": "INK_SPLAT",
+      "material": "SKULL_ITEM",
+      "name": "Ink Splat",
+      "npc_sell_price": 25000,
+      "skin": {
+        "signature": "lUyaBdmwhnWEitWSuDQZM1c8TJUZ6GpCq+Hy+bkhG+RBtw+jXevXek/WTwr1TGZG3cBA2OippsueprPXRp1FvZANtjVKyCxDXOC79Z7ivMFhXBHO+IeGqsqDGS8cp58SMDyflYQ1iMCokNsqWLdvxJWhEZzZdCH6FKcH4qqML5wHBCsQHTChHjFgPFEaVhScSzwVTY2sxcsLd0aisLrWpNr+ARh6cxBsHOo4ujn2Dc7kBKKwm/cBbzWQ+qUx3VpqXzRtWF4Zm9uUT475WEr6ZQu6XnQabL1zD8cb3e7cbQsIvtrzm8X0SNDL0xE1sZeM4aVGFscuF6eQ/hZjdPOe2HguNyxtcoA46LCipUYk1t26upGSO4qies7OXwrEiVFgnJcymPwYZdE+5aiMcf+VGndXlZ8Z+tupNEborbHmHeCUOq+JAUA9tKL8c5P3usauPE0SjDXrhJJUlfNBwpsSo8TEUoeK0qdMoB05fC7/L1+GI3antvLG7tYqHct9DxyvDKn2guD1Az5lIn/Zm0O2GmR44L9t71W8RPkFXqNhnEh/lQ9SG1FOTsaH/s/gwRkCMwsUbl6s9sYwmLgRMgRpjqIh7LsZX7sbxM97MmDpuShOvMlvDgcev16O/ulK0/BUV3WYD1mY/6aXQ+e2WQUZnbwmOahMXvlGt/Qfct5AnzI=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzMyOTA5ODk4MCwKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3Ryb19DbGllbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA1MmRlYmNmNzc4MmMyZDMzMjVhODQ3MjljOWZiOGEyNWNmYmRjNjkzYWZiNDk0Y2ZjMjAwMWEzMTIwZmQ4ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "All that remains of an especially adventurous snail that ventured too deep into the fiery depths.",
+      "durability": 3,
+      "id": "SEARED_ESCARGOT",
+      "material": "SKULL_ITEM",
+      "name": "Seared Escargot",
+      "npc_sell_price": 25000,
+      "skin": {
+        "signature": "RhHde8O+bQLpBAYqoFFyTi0YAWl2uFsAvRc7u1p64wiW5t2Z3CjfGka6JDqe0dhw95cDtlIHrmN1vIOBHVNwOuCezMVWNkVNkgiqIVzmK1xLVWZUT+swXi/i6dL023RxZR5cRZqWYMk6LaekjqSV2SOy8X3CW3GvkzYYY8Sf8ZmvLQA1vQGWmEn0uI6ruggI+1gikKz7pKksVv7FLhOYT2p/+xo+Kd1hTrUME2Z26Hm2GHF3xYedrIJTvoFXeQsVhneLmfgPKCoAY/KkOoRadoNihv+FNpNKlfHpxQnuiIfw0WeGFoJi2nsV7hAtaBcTKi0SbRuz/Qo9tsD43G9D3MTzfoUbxaELbW80d++b1NHAto01MdPngz5w3b7vwtcNlsb5ayFd7+ze6EcsUzah4RVLO9No1YH7V5t0LCBdMBHwSq9kxbvSBdTTMUimgBjhcbBJeKchQujRDnyjlK7htISOPJWr4nq43705eo6WQNrBHbrUX1ZsFT2z2Xt3/O19gqDrhPksqsBQh8gzYUDgdObjz64uaAsj6grduCNf8T8fCC9UQEnvvPpAyCNPFCIcOgmgGfv3FvAg45Mp4D/LckimVTpo+PKLZuksbbQRetWeq4akUw18Vz1OJEQCt22oRrSRqzzuRPvYBrz+yHD++Duabh2IwDjXc0CxjkAol4w=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzMyOTEwMTE4NCwKICAicHJvZmlsZUlkIiA6ICJjMWU1NzlmZjc0NjI0OTkzYTI5NTdlNjNjZGU5NDY1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl8xNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODA0MmJhMDQ5ZGNlYTRjM2RjZTA1MWIwYzViYTliNDJjYjZkYjVlZGE2MDdlZTRhYzBmYjFmZDczMjRlYjM4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "RARE"
     },
     {
       "components": [
@@ -22970,10 +23742,9 @@
       },
       "stats": {
         "fishing_speed": 2,
-        "health": 7,
-        "sea_creature_chance": 0.5
+        "trophy_fish_chance": 1
       },
-      "tier": "UNCOMMON"
+      "tier": "RARE"
     },
     {
       "category": "BELT",
@@ -22996,10 +23767,9 @@
       },
       "stats": {
         "fishing_speed": 2,
-        "health": 5,
-        "sea_creature_chance": 0.5
+        "trophy_fish_chance": 1
       },
-      "tier": "UNCOMMON"
+      "tier": "RARE"
     },
     {
       "durability": 3,
@@ -24448,6 +25218,50 @@
       "tier": "EPIC"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "durability": 3,
+      "id": "GENERATOR_UPGRADE_STONE_LILY_PAD_12",
+      "material": "SKULL_ITEM",
+      "name": "Lily Pad Minion XII Upgrade Stone",
+      "skin": {
+        "signature": "xupBVVDUBZWgHxPxUYBVJZu4bEi3v1HUg2wTvww0swcOpQa7sQoa7iB4I+k5G3PzNRfz0xH4ftCEmRMEJSXFvTOjy2rN6kS/eZfUgAlBiEwSbmk11Q984zlyHTLQNztvlA5C1tfWTKjXXNTObt3yger5EQxtwuYPPlD1gPuFIQ3E0ofD+jGdZMkeb+FTr9O+rA+qCPUz7UNSMkDjkqnuegKotO1j+1yXiD/bD71V00Lr6pzbwnN1ywZfCOr45lBvWSyQdk34TOBL9bqCR7YDzgH8B1f3WCUEahnWYLRQc4i32ajkyuTQuAxwLbEuAnOBiMRuwm3l5xCg0UvLqZXJRT+e5rM+tdgGE7BSP3rHPTwyXlEuzTtp4Hcx/nnNn1WfAodFKu5oifbh9m9s0xeV38xYteKnIUE64G/dXhaoxyAn+sbn9cef+WS4QgwAASMhcttagcC3tjlNm+dhMdSg9I94yrQBdFLrfNvhV0oe9H9ixgcc4rgmV8TQXMKBkRCwUEOAiYKBmQfldxfli/bz06CgsWzeEtfU5hQgmVHnC1l7g+lR9wdVHxGb2EaxMFLjgRzdiIlhaDcLkTfbkFWuwlBAl6bL43lVGgh3QgSb9b7SH603CRA7B1shpdAt4U0GZdz1sFLoG+31a5pUAN9A4zxuE0pSUC7Df9qa8mOdoII=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTUxMTA4NjM0MywKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4NzVkYjFhZmY2NTRhNmE2ZTk1MWM4NmUzODM2YzMyMzJhYWVlMjQ4YTM5NTY3NGViNzI3ODU4MTVkMzE1ZmQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%A truly massive amount of Lily Pads mashed into a large ball.",
+      "durability": 3,
+      "id": "CONDENSED_WATER_LILY",
+      "material": "SKULL_ITEM",
+      "name": "Condensed Lily Pad",
+      "npc_sell_price": 256000,
+      "skin": {
+        "signature": "iph3R0oaDbUE+FJHnOtioMszHRHjAFl2ICTCFU7813Tcl7KVED9e/FS4IdUut8PF67EQmKCf4sPKaVUwOiMP9lpJtDY6lx7zVA99MT99aAFX8QC/TPPCU1clMMiYn40WJwMYzUqDadIDlMmD5QTNcYthztGQ0d9yfeTsTJf/dxXTLdfhSGKbsdzeKBqvV/4Afw9Rs4UpdhFoeuXcstodNjgFuVlQcVIvFrh477rio5uTmejC5DEruGumhU7wivYkZjwxZGNIvMP9hbNqqA9HyCsyqbLN8mWHvZRdQld4GpvmLw+ERyJNX/6zOsoI4e6P9wFTMeKxzZhtR04MTDwsywNAuK2BqPBw4WPZRqjWFYlfFeXfKqk7tpESobsHBxoj9xp/N7YevMadyTp2SL0gFyawmVXNa1EIhInZ2+XpaeGSRoyaPFxbPviWF4Gi0TBpTb2A1I7P8K1LruJeGhXiyTxdp1gmaQkoVrfGyNgtoaT43epMSSmTFt7hIt3wVkz2214g01KMvO8TVy40HDe2LH3L2w+TUi4OlClXh3vd6hHrXLEwp8PQ3+SYi38Y2n1VfIeedh9iVzMVxfheFli2kNnrrGBm4VFWBdwzh1W5YsoKNAnL51lsLH2gsfVcOqJLwiwuOqN1QCPo2RyuwOw8lkqYhvXgpf6vZ45udlIcKu8=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjIyNDUwODA0MSwKICAicHJvZmlsZUlkIiA6ICIwMzBlMDA1OWQwY2M0YTZhODY3N2RkZWU3MjEzMjg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbXVnRm9vZGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZTgxMGVlMjAyZDZjZDUxM2I0MDUyYzM5Yzk3YWIzNWFkNDZmM2IxOTkyMjRiOGMxZTJmZWNhMjdmY2Y4OGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "can_recombobulate": false,
+      "description": "%%dark_gray%%%%italic%%Who cares about massive frogs when you can have lots of tiny ones?",
+      "id": "BUCKET_OF_FROGSPAWN",
+      "item_model": "minecraft:tadpole_bucket",
+      "material": "PAPER",
+      "name": "Frogspawn Bucket",
+      "tier": "MYTHIC"
+    },
+    {
       "category": "CLOAK",
       "durability": 3,
       "id": "CLOWNFISH_CLOAK",
@@ -24468,7 +25282,80 @@
       },
       "stats": {
         "fishing_speed": 2,
-        "sea_creature_chance": 0.5
+        "trophy_fish_chance": 1
+      },
+      "tier": "RARE"
+    },
+    {
+      "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "durability": 3,
+      "id": "LOTUS_SILVER",
+      "material": "SKULL_ITEM",
+      "name": "Silver Lotus",
+      "npc_sell_price": 1200,
+      "skin": {
+        "signature": "U1aBObJ3ZRCk4EJG4+Y9TFcp5j7yFoMsFfWieBwjAgjWeAK8s1Ykp50eugio0qasLTrPKDxJZbuiTQL+Juy0K7/yaoRv6WxEaClyMQHaq3v8kTK9XGhKfbzrMlW99l5GcLsWrOu+olHoZYGZU0lCxXheYecL6y2rECx/dvkIDT57x/WKhB7IKZwoIE29KByGBk6kLnDm1/sMxlhg6d6vFJD1SgyhThacdw0gw7hL+qzv/V25SPep2errClPTOns7GduZbNO6ZOIyHPGnqmr457CYJypeA4x9fOytZkFr2BgVqsyV8CCrmNUzqy2QB9YNvpmbOhkE7/uuIR8Ih079/dyLmdHFahpsxgFlOyl7BzbabkVkng1iaE2/MtQJJ7Y4OrHYtK3Nh0CnsKMj/7siT1I5RWqo1OlCHjo2GLOYjCPIIVyY+k58NlxtBwUzbPrBekHJZ27uLPhjzKBEJ2AlOF2S302h+x1veFsjLT0WStulJp7le/kRjmgMhPdqGyKMfZ15mqH3bKeuzJ/4TwGHMnOx3LHienh9hctr0/aDY/TEfKAO+b0ZlSOiNLYQSem066IbsfS/ooY9AVmuljsxTEzaKtslujW/1BGOcVyuSMmSGKauotU9iLMoV44BDAUWniAkTIi8UB65mg4gfRbAxG5tw6Az653ChrjJQDk6CZc=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTI1NjY2MTc1MywKICAicHJvZmlsZUlkIiA6ICJkNzU2OTc4MWUyYjY0OWIyYjVlMjVlYTJhNDZkOGQxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEckthcGRvciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNGFjZTI2OTY3MmU2Y2I1NGZmN2Q0ODBjYmRhZDdmZWZkZTEwNzE5NGQ2M2M0NzY3OGY4MDc3OWNjNGU3MmU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "RARE"
+    },
+    {
+      "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "durability": 3,
+      "id": "LOTUS_GOLD",
+      "material": "SKULL_ITEM",
+      "name": "Gold Lotus",
+      "npc_sell_price": 96000,
+      "skin": {
+        "signature": "wA2d8XHqyOjdadxcYFmXXM2FzG/n1zY4WwoBUCED+yo+m0xneuLqB/ZnNJIDyyy88r9lDq+pEU+JbhXmFh4Zcmg2r7mzEtFA0IOl1njG3ijrEfaTYwiq66eAOBeEZLlS9CzGl/xdHM/twmDmsvKL8/yNvwAgdLgSVaRC0jIBOFwRsnd1lkpmD5DYQ5AjZxSfEds4TxOr/1r0gOcwIQVb/eBEzOweiKe5BSo+7Pg1H+HGtIwsFq3MuzQrzYISm2xIoyd4BHAlSmPo7QqY9cYHTEoJ7jSHvD3W5nGJpD7WK+790/WTf+YR7NgRP/HiO+UBw9gihKLxlVkp1KTkdkCEiS/ZQryQzYjNoCw5tHwm+CZMmcEVpUw8C7GnSRTx0xJIezgSW3951TF58jcxqkM3q9tnkrFLlYQvGtD4TE/b8Agu55JQVFOhCaA3WDZ+cT9N6GB5mr9kmOpvjIb0EGkIyOEYhhp/SpwlrHSBRJkQgwYHxe6I8pppgVkTgg4oDAogr1PJia8z/YapO3bUj0W49S5TKQrDlCW5NXWiCNh9wevDKA3T65tPDzmwdpdc73Dm7SMn/K4ORFHvUSUaLH+VEkrl3CDyfy9ZF2kivD1CyEtGVJZK5b/EbIy5Y1eW0gatU7G2w9XG8ItYn/vxTR47KLMK0t74yIaAOvpqYBAsdYI=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTI1NjY2NjE3OCwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NlZGE3ZWM5YWFlZmJiN2Y2YzY2YjcyNWU1M2ExZDU2NTExNTFhNGFmNmUxMWUyMDY5ZDQ3NjViN2E3MTYzYmQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "EPIC",
+      "unstackable": false
+    },
+    {
+      "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "durability": 3,
+      "id": "LOTUS_DIAMOND",
+      "material": "SKULL_ITEM",
+      "name": "Diamond Lotus",
+      "skin": {
+        "signature": "XToerAutFWbykFbkoipgw72Xots4lTRdFPpSQaEBS5GTWtMKhSNbWkCpCKyI6T3aRVU42+vBLRPifKo+0XLIaWGIZJ35cgul0FbBFLwMqJimFT7hMmO+SfphHgohp5DwTwIQs8CzBuh0Kn4y89OFxc14s3o0ywYrqVYnOqN47DJBEPQjYuPgbE2PJzUtNeUGAU4V3+IsqtYMPAjBqCcD65fttrbxbN/k3n4wSs5F7FHpPtAELgH6SvMNPE3Y6jr5Pb0IchXUq8mUoL2DMX2lG/WoKW5V/lDZKXpJ+MQgFhT0j4GAqllx+o9S2ZNLDdIZuuGXqHE7+hBCZhsCUE2pSJ53YjOMXbg7dvm0yj5QfErcTWe9fEHLDCqb3j0GFVc+c2Rc2pRBS57pNFwPIqA1euI75m+maNTj+3PbXpInF+kkxy28/yUgTqvBUWQ5Oc4uiiErj8JL0R+LxOdcYtp20+bpmOp/3mUdHJ63IVZOPF/eIpgAxoVKcHF00VjpReNfnHTqW2BH1OTbEvPjrNOuVoWnRHHO6cy1hEJLP8XpIGUFDTAseyiEoFbXCeDS6AbM0+pE+kG9CTkigkcTUQZ4ApE2LIVUFPce+tc2WyiLtRxJM6Ml4ObXhnoLqJHXS1deX4jPysQ116h8cY1uENBiauzJ47xuTasx3bXIV1u8B4w=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTI1NjY2NDA4MSwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlZWNlYmI1NmJmNGUyZjAyYTk4ZjA3MDUwMjZjODJkY2YxNmEzZjkxZTVmOThjYWEwOTM5ZDI1NDhiNTBmMDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "can_recombobulate": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "durability": 3,
+      "id": "LOTUS",
+      "material": "SKULL_ITEM",
+      "name": "Lotus",
+      "npc_sell_price": 15,
+      "skin": {
+        "signature": "wtD5ah6m0ggLfmQuYGx3JTGViAOBde0xw/hZ5+kk7XP7dtEIHrai2dO0GMB9wZ+MgGNDCs8iRHdTQK7M9SKOd2uIo0psc4+dOu2WxoD3q5W0MnQiEjH7Ha++uLkCso/vsD67FplOaKLgrlzWdWxTvcZKz15T6l5MB3hgoMAlhPLNtsG3Q7oMmKBlal5gH+5bSs/e/kAd7hL8HciIG46t2KIn104C3BGJfrU9EBRgnpDCQRBlJ0xiq8DQLTVOkL5LwFqiQtLg6lZz4jCH8+v8aUL375QI1BVVzlOymRcMUz5mFgYTM1yQpSPPp40Kpy7ZfZ9A9FGhz3DZnEdRFRevbJlvxTv7/oIaLyi0Nq00wk7tAqLfCh6SIt7pHwphWnoaIJM3/zzeUfLE8K/tBBhm7YtoDHxNiMRisxa8T6ljgjxpFUTxnJmzULBMvGmJs5EB8K7jhu2wVT7/S9QaQrf2TezMc0b+S6CHVgx0OVr7NMJRozVS4daRf+z9g6kuVxHakxgpcpXBakx4d0ZR5lxIt8Exjoy5W6Sm4DKju93Up8RhnmM+rGGBccsGXjUoQ10c2Fc4pgX1BhVHGiX5zR8/qU5ButJq9sFBvvx07pByBofActYPZd4mAZ68wnVg0jNl5+litLoULqG4hIal9hLVyeYaRD9bbMcgpiiSQ+4rj8w=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTI1NjY1OTQ3NiwKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYxYWU1YjQxM2IwOWRjYmU3YjRhYzc4OTlhNGI2ODA4NTg3ZGZhZDYyZDk1MjUwZmQ5NDQ5ZjZlZGU4NTg3MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "tier": "UNCOMMON"
     },
@@ -24493,10 +25380,9 @@
       },
       "stats": {
         "fishing_speed": 2,
-        "sea_creature_chance": 0.5,
-        "strength": 3
+        "trophy_fish_chance": 1
       },
-      "tier": "UNCOMMON"
+      "tier": "RARE"
     },
     {
       "category": "NECKLACE",
@@ -30909,6 +31795,33 @@
     {
       "category": "PORTAL",
       "durability": 3,
+      "id": "LOTUS_ATOLL_PORTAL",
+      "item_specific": {
+        "portal": {
+          "description_name": "%%gray%%the %%dark_aqua%%Lotus Atoll",
+          "destination_mode": "lotus_atoll",
+          "holo_name": "Lotus Atoll",
+          "offset": "NEW",
+          "requirements": [
+            {
+              "level": 10,
+              "skill": "FISHING",
+              "type": "SKILL"
+            }
+          ],
+          "schematic_file": "sb_portal_lotus"
+        }
+      },
+      "material": "SKULL_ITEM",
+      "name": "Portal to the Lotus Atoll",
+      "skin": {
+        "signature": "becI7TeunTs52+bn8T2iEF2i51J05AZG7z6dJ1qLzLJzbTLIEBz9EDEFaUDH9ZkhFMZFJuL6Fx3tX8tQoxZTKw/1jMNnFVj+kC5zvTtD9qGlzzBUHd1DeZW4JNIyNiHdGYR3ahI239RquLWqAaV8wMb43xFUVjU7qhutG7guhMRZMWKv0A6kpBrKEQ9oM4CdeelMpT5LrNaDphp7rRpg457Pb6uPGFMEbMuMBfB8ZFzgaWQIElkb50pOZ39z96a0T2knP1GgjgagifYoG68EwIlZw0O/heN7/ke8eyKQpLd1v9jXWJ+yq0XJ5Cte3VeYAijwjZf95gY8xJGuS2APYebzplAxKVTAyBtrUeCOMU/wYWCXargZux6CjHjylf6uBq0lcPmKtxfTT9BgvZuH2XCxr83BlrJUpUKDCM4iLB2+t+t6Tn/tku1nUiqtqgEuHxG+fk/kiXyCeNyojb8/W+1OeGK5XB+oOLDJUDRO83wguEhSaXvJobeDoDAcE3vG1DwOC1928zzkpMv+8cxrmKVaVj9jT1U/gqk7dviSuOCqyDwdX2oS8/HO5H0yTf1F9Eq26mtUZZk6yGyFrYusmVhIeLJVohZZw5fCPtb9nB+bDTIgjPTJTX5qzp10nwBpdZoCz+gXqCzqJQ2bJKLaBu9YmkAYAZlQ3ZVzBEImqnY=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NzQwODE4Njg5MywKICAicHJvZmlsZUlkIiA6ICI1ODM1MmNlODFmM2I0YjQxODFjOWNiYzM3MTY4NGYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUdm9JX1NlTVBhSV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjdiZmQ3ZjkwNDY4ZTVjNmFjMTRjYTE0YmZhZDk4MmY5MDc3MGQwYTllZmExZGY5ZjY2ZjkxYTA1YzgxZmVmNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      }
+    },
+    {
+      "category": "PORTAL",
+      "durability": 3,
       "id": "FARMING_1_PORTAL",
       "item_specific": {
         "portal": {
@@ -32430,6 +33343,7 @@
       "requirements": [
         {
           "reward": "BRONZE",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -34564,6 +35478,7 @@
       "requirements": [
         {
           "reward": "SILVER",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -35163,6 +36078,7 @@
       "requirements": [
         {
           "reward": "DIAMOND",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -35965,6 +36881,7 @@
       "requirements": [
         {
           "reward": "BRONZE",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -41910,6 +42827,7 @@
       "requirements": [
         {
           "reward": "GOLD",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -43381,6 +44299,7 @@
       "requirements": [
         {
           "reward": "DIAMOND",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -44071,6 +44990,7 @@
       "requirements": [
         {
           "reward": "GOLD",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -45955,6 +46875,7 @@
       "requirements": [
         {
           "reward": "GOLD",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -48040,6 +48961,7 @@
       "requirements": [
         {
           "reward": "GOLD",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -50251,6 +51173,7 @@
       "requirements": [
         {
           "reward": "DIAMOND",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -50389,6 +51312,7 @@
       "requirements": [
         {
           "reward": "DIAMOND",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -63238,6 +64162,7 @@
       "requirements": [
         {
           "reward": "SILVER",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -63509,7 +64434,7 @@
     },
     {
       "category": "NECKLACE",
-      "description": "You can no longer catch %%gold%%Trophy Fish %%gray%%while wearing this Necklace.\n\n%%dark_gray%%%%italic%%Telling Trophy Fish to pound sand somehow elicits their deepest, darkest fears.",
+      "description": "You can no longer catch %%gold%%Trophies %%gray%%while wearing this Necklace.\n\n%%dark_gray%%%%italic%%Telling Trophy Fish to pound sand somehow elicits their deepest, darkest fears.",
       "durability": 3,
       "id": "TERA_SHELL_NECKLACE",
       "material": "SKULL_ITEM",
@@ -66765,6 +67690,7 @@
       "requirements": [
         {
           "reward": "SILVER",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -67915,6 +68841,7 @@
       "requirements": [
         {
           "reward": "BRONZE",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -70957,6 +71884,7 @@
       "requirements": [
         {
           "reward": "SILVER",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -76621,6 +77549,7 @@
       "requirements": [
         {
           "reward": "DIAMOND",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -77878,6 +78807,7 @@
       "requirements": [
         {
           "reward": "SILVER",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -79358,6 +80288,19 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1Mjk3NjU0OCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNDI4NTM4MjE3OGY3YWJkOWVlODI5MTM0MGFhZmJlM2Y2MTY3ODVjZWUzOWRhYjY1NGUxMzVjOTUyNWYxYTg3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "tier": "EPIC"
+    },
+    {
+      "durability": 3,
+      "id": "GORF_THE_FISH",
+      "material": "SKULL_ITEM",
+      "museum": true,
+      "name": "hsiF ehT gorF",
+      "npc_sell_price": 50000,
+      "skin": {
+        "signature": "dvEq/T1PNaPF5e+uZqEkz0vqow2n9z/WOPTFx+AlZfv/rkxKzO+tu+qi775gMBT+2VUctB9fnQp6WipPpjks5Dh0xVutzvQMxWyy+JkGldKkLWDttB+P6Kd9Jz0kjHLzV8DigA+mwJkgaAX2qYVd2y4HJVV3DU8DqB3uDbOJm+TQoFHNIo24TkE00EvdN5w5i9tU/VI8EMbWN7ogbEsPbn/enoLkJ+OpJ5LUiIb7AisXycqwpMR3uj607nWhSLcQr2SwBzc2vyCo92+WP6a/XxgN5NyoKh5B2w5qDrES8MdWO55LC/gqwFuy12jHlWTA2SeD3ZumucCn3W/yLo14KVJiMT7WcMx/dQgO6Vqpon51zMm5nybtu8h+aEh9cJkg6SqTqWVuSJgurpbJCWylH1pi9+A+Mb4Tsr4Yas/8CqHrrl67OlM3kOCRyuD7eLgJHmhbX/tpNuDUqTOTrmmLJzLoaCxUN5VELtosrMvzpEaZtIWsN2XawUbzBRMjfaZBM4U2IzHUsNwQD6KL4t+tOZrDrNYcKfv+GzEaiQTdXmIYCMOV5TnT0+meTWdpUQG9h9oes84l+iX8Ih25XLr1IhOBq2YzbmR/g1W45270iMMsnNnFwXy4XcUfxCS2GSEFXCZsoic3kw83Yp9Lkryz3T+r3jeqXI/E3LO6YP1o/E4=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MDcwOTQ5OTU1MSwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODViMjhmODMyMDc5NTk5NTI2MWE2YjM4NGI4YjRiNDZmMWE5OWM4YmUwNjU0NDkyMTdiYTEyOGUzODY0NDYzMiIKICAgIH0KICB9Cn0="
+      },
+      "tier": "SPECIAL"
     },
     {
       "durability": 3,
@@ -89182,6 +90125,7 @@
       "requirements": [
         {
           "reward": "BRONZE",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -89990,6 +90934,7 @@
       "requirements": [
         {
           "reward": "BRONZE",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -93714,6 +94659,7 @@
       "requirements": [
         {
           "reward": "GOLD",
+          "trophy_type": "LAVA",
           "type": "TROPHY_FISHING"
         }
       ],
@@ -103187,7 +104133,7 @@
           "LOTUS": "BLOSSOM"
         }
       },
-      "name": "Lotus Bracelet",
+      "name": "Peony Bracelet",
       "npc_sell_price": 100,
       "requirements": [
         {
@@ -103226,7 +104172,7 @@
           "LOTUS": "BLOSSOM"
         }
       },
-      "name": "Lotus Belt",
+      "name": "Peony Belt",
       "npc_sell_price": 100,
       "requirements": [
         {
@@ -103265,7 +104211,7 @@
           "LOTUS": "BLOSSOM"
         }
       },
-      "name": "Lotus Necklace",
+      "name": "Peony Necklace",
       "npc_sell_price": 100,
       "requirements": [
         {
@@ -103304,7 +104250,7 @@
           "LOTUS": "BLOSSOM"
         }
       },
-      "name": "Lotus Cloak",
+      "name": "Peony Cloak",
       "npc_sell_price": 100,
       "requirements": [
         {
@@ -143209,6 +144155,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1778777927852,
+  "lastUpdated": 1779801133292,
   "success": true
 }
