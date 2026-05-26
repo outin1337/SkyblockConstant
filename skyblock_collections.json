@@ -1972,6 +1972,7 @@
               "amountRequired": 1000,
               "tier": 4,
               "unlocks": [
+                "Spooky Bait Recipe",
                 "Cubism Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
@@ -2668,6 +2669,100 @@
             }
           ]
         },
+        "LOTUS": {
+          "maxTiers": 11,
+          "name": "Lotus",
+          "tiers": [
+            {
+              "amountRequired": 25,
+              "tier": 1,
+              "unlocks": [
+                "Froggles Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 100,
+              "tier": 2,
+              "unlocks": [
+                "Red Sweater Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 250,
+              "tier": 3,
+              "unlocks": [
+                "Silver Lotus Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 1000,
+              "tier": 4,
+              "unlocks": [
+                "Silver Froggles Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 2500,
+              "tier": 5,
+              "unlocks": [
+                "Lotus Sinker Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 5000,
+              "tier": 6,
+              "unlocks": [
+                "Gold Lotus Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 10000,
+              "tier": 7,
+              "unlocks": [
+                "Golden Froggles Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 25000,
+              "tier": 8,
+              "unlocks": [
+                "Puddle Jumper Hook Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 50000,
+              "tier": 9,
+              "unlocks": [
+                "Trophy Line Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 100000,
+              "tier": 10,
+              "unlocks": [
+                "Diamond Lotus Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 250000,
+              "tier": 11,
+              "unlocks": [
+                "Diamond Froggles Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
         "MAGMA_FISH": {
           "maxTiers": 12,
           "name": "Magmafish",
@@ -3320,14 +3415,14 @@
           ]
         },
         "WATER_LILY": {
-          "maxTiers": 9,
+          "maxTiers": 11,
           "name": "Lily Pad",
           "tiers": [
             {
               "amountRequired": 10,
               "tier": 1,
               "unlocks": [
-                "Spooky Bait Recipe",
+                "Lily Pad Minion Recipes",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3392,6 +3487,22 @@
               "tier": 9,
               "unlocks": [
                 "Rod of Legends Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 25000,
+              "tier": 10,
+              "unlocks": [
+                "Condensed Lily Pad Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 50000,
+              "tier": 11,
+              "unlocks": [
+                "Frogspawn Bucket Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -6812,7 +6923,7 @@
       "name": "Rift"
     }
   },
-  "lastUpdated": 1778107200220,
+  "lastUpdated": 1779801772877,
   "success": true,
-  "version": "0.24.5.1"
+  "version": "0.25.0.0"
 }
