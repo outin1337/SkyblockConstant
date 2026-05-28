@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1779822172928,
+  "lastUpdated": 1779925672937,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy XP!",
@@ -3344,8 +3344,8 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Yeti Sea Creature",
-            "Nessie Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXV   Grants +2.4➜2.5 ⛃ Treasure Chance.",
             "+4 ❤ Health",
             "+225,000 Coins",
@@ -3356,7 +3356,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Grim Reaper Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXVI   Grants +2.5➜2.6 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+250,000 Coins",
@@ -3367,7 +3367,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Magma Slug Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXVII   Grants +2.6➜2.7 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+275,000 Coins",
@@ -3378,8 +3378,8 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Nutcracker Sea Creature",
-            "Moogma Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXVIII   Grants +2.7➜2.8 ⛃ Treasure Chance.",
             "+5 ❤ Health",
             "+300,000 Coins",
@@ -6164,5 +6164,5 @@
     }
   },
   "success": true,
-  "version": "0.25.0.1"
+  "version": "0.25.0.2"
 }
