@@ -31409,8 +31409,8 @@
           "offset": "NEW",
           "schematic_file": "sb_portal_farming_1",
           "skill_requirement": {
-            "level": 12,
-            "skill": "MINING"
+            "level": 5,
+            "skill": "FARMING"
           }
         }
       },
@@ -144155,6 +144155,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1779801133292,
+  "lastUpdated": 1780581341465,
   "success": true
 }
