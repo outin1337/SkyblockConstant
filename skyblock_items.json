@@ -45763,6 +45763,14 @@
       }
     },
     {
+      "can_place": false,
+      "id": "ENDER_PORTAL_FRAME",
+      "item_model": "minecraft:end_portal_frame",
+      "material": "PAPER",
+      "name": "End Portal Frame",
+      "soulbound": "COOP"
+    },
+    {
       "category": "COSMETIC",
       "durability": 3,
       "id": "EASTER_EGG_PERSONALITY",
@@ -49581,11 +49589,11 @@
       "tier": "RARE"
     },
     {
-      "durability": 14,
       "id": "BANNER:14",
-      "material": "BANNER",
+      "item_model": "minecraft:orange_banner",
+      "material": "PAPER",
       "name": "Orange Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "catacombs_requirements": [
@@ -50196,6 +50204,15 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzQ0MTk0MSwKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTU3YjM1NGNlOWJmOGRiMGE3ZWQyYWZjNzllMjdmMjhjM2NjYWFhZjJjNDYwYTUxOTkzY2FjMmIwNTY0ZWY2MCIKICAgIH0KICB9Cn0="
       },
       "tier": "UNCOMMON"
+    },
+    {
+      "durability": 5,
+      "id": "SKULL_ITEM:5",
+      "material": "SKULL_ITEM",
+      "name": "Dragon Head",
+      "npc_sell_price": 20,
+      "soulbound": "COOP",
+      "tier": "EPIC"
     },
     {
       "durability": 1,
@@ -50871,11 +50888,11 @@
       "tier": "RARE"
     },
     {
-      "durability": 11,
       "id": "BANNER:11",
-      "material": "BANNER",
+      "item_model": "minecraft:yellow_banner",
+      "material": "PAPER",
       "name": "Yellow Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "durability": 1,
@@ -57288,6 +57305,15 @@
       "tier": "RARE"
     },
     {
+      "can_place": false,
+      "id": "BARRIER",
+      "item_model": "minecraft:barrier",
+      "material": "PAPER",
+      "name": "Barrier",
+      "soulbound": "COOP",
+      "tier": "LEGENDARY"
+    },
+    {
       "category": "HELMET",
       "dungeon_item": true,
       "durability": 3,
@@ -61532,6 +61558,7 @@
       "material": "SKULL_ITEM",
       "name": "Creeper Skull",
       "npc_sell_price": 20,
+      "soulbound": "COOP",
       "tier": "RARE"
     },
     {
@@ -61987,11 +62014,11 @@
       "npc_sell_price": 12
     },
     {
-      "durability": 4,
       "id": "BANNER:4",
-      "material": "BANNER",
+      "item_model": "minecraft:blue_banner",
+      "material": "PAPER",
       "name": "Blue Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "LEGGINGS",
@@ -70018,11 +70045,11 @@
       ]
     },
     {
-      "durability": 5,
       "id": "BANNER:5",
-      "material": "BANNER",
+      "item_model": "minecraft:purple_banner",
+      "material": "PAPER",
       "name": "Purple Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "REFORGE_STONE",
@@ -70795,6 +70822,7 @@
       "material": "SKULL_ITEM",
       "name": "Wither Skeleton Skull",
       "npc_sell_price": 20,
+      "soulbound": "COOP",
       "tier": "RARE"
     },
     {
@@ -72249,11 +72277,11 @@
       ]
     },
     {
-      "durability": 7,
       "id": "BANNER:7",
-      "material": "BANNER",
+      "item_model": "minecraft:light_gray_banner",
+      "material": "PAPER",
       "name": "Light Gray Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "LEGGINGS",
@@ -74429,11 +74457,11 @@
       "unstackable": true
     },
     {
-      "durability": 2,
       "id": "BANNER:2",
-      "material": "BANNER",
+      "item_model": "minecraft:green_banner",
+      "material": "PAPER",
       "name": "Green Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "glowing": true,
@@ -75264,11 +75292,11 @@
       "unstackable": true
     },
     {
-      "durability": 12,
       "id": "BANNER:12",
-      "material": "BANNER",
+      "item_model": "minecraft:light_blue_banner",
+      "material": "PAPER",
       "name": "Light Blue Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "id": "NETHER_STALK",
@@ -76331,11 +76359,11 @@
       }
     },
     {
-      "durability": 13,
       "id": "BANNER:13",
-      "material": "BANNER",
+      "item_model": "minecraft:magenta_banner",
+      "material": "PAPER",
       "name": "Magenta Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "BOOTS",
@@ -77201,9 +77229,10 @@
     },
     {
       "id": "BANNER",
-      "material": "BANNER",
+      "item_model": "minecraft:black_banner",
+      "material": "PAPER",
       "name": "Black Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "COSMETIC",
@@ -77218,11 +77247,11 @@
       }
     },
     {
-      "durability": 9,
       "id": "BANNER:9",
-      "material": "BANNER",
+      "item_model": "minecraft:pink_banner",
+      "material": "PAPER",
       "name": "Pink Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "COSMETIC",
@@ -77714,6 +77743,15 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MzYxMTA5MzQ5MSwKICAicHJvZmlsZUlkIiA6ICJlNzkzYjJjYTdhMmY0MTI2YTA5ODA5MmQ3Yzk5NDE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfSG9zdGVyX01hbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Yjc0OTBiNzY5YzkwYjI5YzRkMDgzNzE1YTc1MmEwNTU4NzhjYzE5NTQzNDUxYWMzODdmODhmNzQ5MzQ1OTA2IgogICAgfQogIH0KfQ=="
       },
       "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "id": "SKULL_ITEM:3",
+      "material": "SKULL_ITEM",
+      "name": "Player Head",
+      "npc_sell_price": 20,
+      "soulbound": "COOP",
+      "tier": "COMMON"
     },
     {
       "category": "BOOTS",
@@ -80673,11 +80711,11 @@
       "tier": "EPIC"
     },
     {
-      "durability": 8,
       "id": "BANNER:8",
-      "material": "BANNER",
+      "item_model": "minecraft:gray_banner",
+      "material": "PAPER",
       "name": "Gray Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "CHESTPLATE",
@@ -80930,11 +80968,11 @@
       "tier": "RARE"
     },
     {
-      "durability": 10,
       "id": "BANNER:10",
-      "material": "BANNER",
+      "item_model": "minecraft:lime_banner",
+      "material": "PAPER",
       "name": "Lime Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "durability": 3,
@@ -85818,6 +85856,7 @@
       "material": "SKULL_ITEM",
       "name": "Skeleton Skull",
       "npc_sell_price": 20,
+      "soulbound": "COOP",
       "tier": "RARE"
     },
     {
@@ -86508,11 +86547,11 @@
       }
     },
     {
-      "durability": 3,
       "id": "BANNER:3",
-      "material": "BANNER",
+      "item_model": "minecraft:brown_banner",
+      "material": "PAPER",
       "name": "Brown Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "category": "ACCESSORY",
@@ -88761,6 +88800,7 @@
       "material": "SKULL_ITEM",
       "name": "Zombie Skull",
       "npc_sell_price": 20,
+      "soulbound": "COOP",
       "tier": "RARE"
     },
     {
@@ -89706,9 +89746,12 @@
       "npc_sell_price": 2
     },
     {
+      "can_place": false,
       "id": "DRAGON_EGG",
-      "material": "DRAGON_EGG",
+      "item_model": "minecraft:dragon_egg",
+      "material": "PAPER",
       "name": "Dragon Egg",
+      "soulbound": "COOP",
       "tier": "LEGENDARY"
     },
     {
@@ -92470,11 +92513,11 @@
       "tier": "EPIC"
     },
     {
-      "durability": 1,
       "id": "BANNER:1",
-      "material": "BANNER",
+      "item_model": "minecraft:red_banner",
+      "material": "PAPER",
       "name": "Red Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "durability": 3,
@@ -93617,11 +93660,11 @@
       "npc_sell_price": 1
     },
     {
-      "durability": 6,
       "id": "BANNER:6",
-      "material": "BANNER",
+      "item_model": "minecraft:cyan_banner",
+      "material": "PAPER",
       "name": "Cyan Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "can_place": false,
@@ -93715,11 +93758,11 @@
       "tier": "RARE"
     },
     {
-      "durability": 15,
       "id": "BANNER:15",
-      "material": "BANNER",
+      "item_model": "minecraft:white_banner",
+      "material": "PAPER",
       "name": "White Banner",
-      "npc_sell_price": 2
+      "soulbound": "COOP"
     },
     {
       "glowing": true,
@@ -96450,12 +96493,14 @@
       }
     },
     {
+      "can_place": false,
       "description": "%%red%%I guess you have this now.",
       "id": "BEDROCK",
-      "material": "BEDROCK",
+      "item_model": "minecraft:bedrock",
+      "material": "PAPER",
       "museum": true,
       "name": "Bedrock",
-      "npc_sell_price": 1,
+      "soulbound": "COOP",
       "tier": "LEGENDARY"
     },
     {
@@ -144155,6 +144200,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1780581341465,
+  "lastUpdated": 1781018884006,
   "success": true
 }
