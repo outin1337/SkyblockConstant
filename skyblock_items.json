@@ -24280,6 +24280,7 @@
         "signature": "PLKg3u4c4xLOcAFT7anVftIQbacPKhJ3icNPMXrhF0pw9XTRQgT2uUrzQunnwj8LxjEKfGi/aKCYw7PQEs12cWJie2IWS/BkNb2XwZBLUan5xmxGMoZ+OLcwWwU/xoARdH8AxNFee/86ttvbXzPRX2R0kwWN1/crnjepaq1s45FAVNtXLNV83FJ2+dkk7l8O4zxn0Msjrprya10S9mcKZw9wfyh7xP5V9QD+Uh8y9ovwVgTX9i4jx6W1eeXCAFXaC9ecg8YW5o+Gaxn0sgwaH9o5RwlTHs6YwOsEYFex3rQGvbbgO56dPJfIkuOCA9a7cAJjDJz91QitmU1VgQKFmX8YsZKxiri+DyCjXgcvBV10AN9br8t+mUrXyRMpYHX+OOF9V5Phd9iGw7795XY4QfwWfS4glP66dsb/y60CVOT0meez/y5QOa2TyJ/DPOehNr9PxYqQ0/0Hmyxc/Q05GvrRT9VGr/5YLuN1oGdlz2azdrnr+c9U3iVw0x84ik76QCYBeOdbHpm4RuGceLoBW+Ds4Dsaxwmdm71ogpgx9foUUwxmZRAnKpqOmH3v82ofgG46wK1a+5qT3avB8nnUTf+uTFWN+uVIKYt0R4jQYRZTbGLykBvAdM6w7p3sIW0n57pBM8+j4c543WRz4PlT4WLJVQ7OXSYDad/02qkd7lU=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDMzOTEyNzEwNSwKICAicHJvZmlsZUlkIiA6ICJjOTAzOGQzZjRiMTg0M2JiYjUwNTU5ZGE3MWFjMTk2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQk5SY29vbGNhdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YTg5ZGUxODExMTE1ZTFhZWUzNzNmNmE3ODQ1YmQzZjgxYzdkYmUzMDJlNGFmYzdlOGQ2YjhhMTIwMGM3MjEzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
+      "soulbound": "COOP",
       "tier": "EPIC",
       "unstackable": true
     },
@@ -25149,6 +25150,7 @@
         "signature": "faY/VTMUbZX+eTQyJQq5FO7qjE7g5KSh61zNjomPEaiOKbL8NtJrYXmu8AovaFdQ/i2k79njNROQBfr48bWyqtMGnE3a0ey7qx2/JdrJP1ympNrTNjlkE52X0JQ2xj1xVTlQt+3GcJDCCCxJctIHlHtgVcHfh02YCzef+8WEhgsUKoo3j9svBYeWi5M6xItTECC31v1rNpNf7Uj4FDhtxnVe5lVK0AcvHDr9GAqEvfaSE7hNZg54NGVAZbFNw7GHmMgelHvVaD1/HWic59sCDeg5Eo89Cru1tzA+Cp6IsDKGS4mwIsnqIXuAK0Rn7c5IK0934LT/Ny/hcfLmERstC9lez1Q0Mbmd9EDSB/GTRKGi+uzk0Wkq+AVzeb1uT7Vr0nUENOfjMfe01excLsC3fJsqbevvqlTFhsZrB7H20Jp+ruUvFVktKeM9Flt5Nv+gAZDDFXoab4xIGZYdeibyaZjAPzltAkP0fBcSOhyaMR/mdou/NasC702LMttMLMl7E0X80fJuPY7p86jxs7esmTYzy0TuqZdt5qXWRNyS/P4amSQjbL/6FylC9OPV0LUZbJ2YE6SNQO6gUDTAftfYtb6jCz+ah93+iAwFBZTPBx0cYJ5nrEG9HQHx99mQzqznYvoKDiHiAhm0obfryBxdCn8clalsmoZesWuDrwHoZBA=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTU0MDYxMDEwNiwKICAicHJvZmlsZUlkIiA6ICJhYWZmMDUwYTExOTk0NzM1YjEyNDVlNDk0MGFlZjY4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXN0SW1tb3J0YWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDMwZGU2YTU3ZDY5NjgzZmNmNWUzYzMxNDgyNGY1MTE0N2EwMjg1Njk0NmRiMTAyYTBmOTJkMDcxZWExOTBkMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
+      "soulbound": "COOP",
       "tier": "UNCOMMON"
     },
     {
@@ -25965,6 +25967,7 @@
         "signature": "PIJ1q+mVOwNmVs4zefcGZ2ASBs9yhRcpMRDBhhD2jVdnui/Ev9B2zSUlGGHHUEG9Scoa0PRSFtLF9BM+s409nUk5PjlyUyn5UP61EMFOGalE78BlE9S/pyctvkHftQsLa8IlaUF5KcFD2R5lspfw2Q32bRNZfg9zMTZL8LJsjnAGFHp6uevo7GOEd8hYQamgIZ+EN7vWaVLl0S7KH8gpPIkC//NMDXnVZdooeRS1LqgIR4ciBbwlHAkNMREeMuVYA5ffeI/IZZ458Ssd9W573ea+NURmp9dWLyp69cCi0dnC9WT92nmCpzR/+Vnk4YU8AxyZCl/2bHWPf+PUrrpjmznxki8FdaMnCSLCHPPjSdzJfbA5JFA9+neMM4hzwbD4OkModgZKamPdPIiH5Ba0YEnEHt7B0dFQdMFxgxRHrR+t3DyZPwypcIDiHqCG6lIy3d0rvOQA7ZpmkKdapxTARFvOKvsNlrXhFllhmL/6a27RqmNnVfRkRPOmvLJxY9j5kMEp7YWaBQ64EipWJWFCWhA/WEYU+Q+0zWI8JRHGtbmO/gCZTPg++C+hoBW8UCFwS2jaqg4vB0w6L8R7fCmqTICTt9Jf47o+X+H3P+a6tyxOCEiWBB9Pqu7j5ZobI917KgRPn+MIyF/7Kxtd74DBr22XFgZzSflutVbD0ewpK1g=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODg1NzI1NzU4NywKICAicHJvZmlsZUlkIiA6ICI0ZjU2ZTg2ODk2OGU0ZWEwYmNjM2M2NzRlNzQ3ODdjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYwMjI2ZDRjMWQzMGZiZWJlY2FlOTM5ZGE5MDA2MDNlNGNkMGZlZDg1OTJhMWJiM2UxMWY5YWM5MjM5MWE0NWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
+      "soulbound": "COOP",
       "tier": "SPECIAL",
       "unstackable": true
     },
@@ -33667,6 +33670,7 @@
           "type": "COLLECTION"
         }
       ],
+      "soulbound": "COOP",
       "stats": {
         "MINING_FORTUNE": 5,
         "MINING_SPEED": 15
@@ -37412,6 +37416,8 @@
       "npc_sell_price": 2
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "REVIVE_STONE",
@@ -38826,6 +38832,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "AMETHYST_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -38870,6 +38878,7 @@
       "museum": true,
       "name": "Iron Horse Armor",
       "npc_sell_price": 500,
+      "soulbound": "COOP",
       "tier": "RARE"
     },
     {
@@ -43195,6 +43204,8 @@
       "npc_sell_price": 4
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "WARRIOR_DUNGEON_ABILITY_1",
@@ -43298,6 +43309,8 @@
       "name": "True Essence"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "TOPAZ_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -44256,6 +44269,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "HEALER_DUNGEON_ABILITY_3",
@@ -45295,6 +45310,8 @@
       "unstackable": true
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "description": "Cycle between all the variations of the selected preview!",
       "durability": 3,
       "id": "SWAPPABLE_PREVIEW",
@@ -45461,6 +45478,8 @@
       "tier": "EPIC"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "HAUNT_ABILITY",
@@ -48311,6 +48330,7 @@
           "type": "COLLECTION"
         }
       ],
+      "soulbound": "COOP",
       "stats": {
         "MINING_FORTUNE": 5,
         "MINING_SPEED": 15
@@ -48572,6 +48592,7 @@
           "type": "COLLECTION"
         }
       ],
+      "soulbound": "COOP",
       "stats": {
         "MINING_FORTUNE": 5,
         "MINING_SPEED": 15
@@ -50330,6 +50351,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "RUBY_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -52045,6 +52068,8 @@
       ]
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "BOW",
       "dungeon_item": true,
       "id": "ARCHER_DUNGEON_ABILITY_2",
@@ -52888,6 +52913,7 @@
           "type": "COLLECTION"
         }
       ],
+      "soulbound": "COOP",
       "stats": {
         "MINING_FORTUNE": 5,
         "MINING_SPEED": 15
@@ -55735,6 +55761,8 @@
       ]
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "TANK_DUNGEON_ABILITY_1",
@@ -56657,6 +56685,8 @@
       "npc_sell_price": 9
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "has_uuid": true,
@@ -57495,7 +57525,8 @@
     {
       "id": "FROSTY_SNOW_BALL",
       "material": "SNOW_BALL",
-      "name": "Frosty Snowball"
+      "name": "Frosty Snowball",
+      "soulbound": "COOP"
     },
     {
       "glowing": true,
@@ -61652,6 +61683,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "TANK_DUNGEON_ABILITY_2",
@@ -63993,6 +64026,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "glowing": true,
       "id": "MAGE_DUNGEON_ABILITY_2",
@@ -67270,6 +67305,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "HEALER_DUNGEON_ABILITY_1",
@@ -68398,6 +68435,7 @@
       "museum": true,
       "name": "Diamond Horse Armor",
       "npc_sell_price": 1000,
+      "soulbound": "COOP",
       "tier": "EPIC"
     },
     {
@@ -73818,6 +73856,8 @@
       "tier": "EPIC"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "BOW",
       "dungeon_item": true,
       "id": "ARCHER_DUNGEON_ABILITY_3",
@@ -76074,6 +76114,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "JASPER_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -78075,7 +78117,8 @@
       "glowing": true,
       "id": "SILEX",
       "material": "QUARTZ",
-      "name": "Sharp Rock"
+      "name": "Sharp Rock",
+      "soulbound": "COOP"
     },
     {
       "category": "DRILL",
@@ -78131,6 +78174,7 @@
       "museum": true,
       "name": "Nether Star",
       "npc_sell_price": 1,
+      "soulbound": "COOP",
       "tier": "LEGENDARY"
     },
     {
@@ -79272,6 +79316,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "glowing": true,
       "id": "MAGE_DUNGEON_ABILITY_1",
@@ -81731,6 +81777,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "AMBER_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -82974,6 +83022,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "AXE",
       "dungeon_item": true,
       "id": "GHOST_THROWING_AXE",
@@ -83722,6 +83772,8 @@
       ]
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "has_uuid": true,
       "id": "MAXOR_ENERGY_CRYSTAL",
@@ -83918,6 +83970,7 @@
       "museum": true,
       "name": "Gold Horse Armor",
       "npc_sell_price": 750,
+      "soulbound": "COOP",
       "tier": "EPIC"
     },
     {
@@ -85727,6 +85780,8 @@
       "npc_sell_price": 4
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "SAPPHIRE_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -86543,6 +86598,8 @@
       "unstackable": true
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "ARCHER_DUNGEON_ABILITY_1",
@@ -87460,6 +87517,8 @@
       "tier": "UNOBTAINABLE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "JADE_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -89827,6 +89886,7 @@
       "material": "SADDLE",
       "name": "Saddle",
       "npc_sell_price": 5,
+      "soulbound": "COOP",
       "tier": "UNCOMMON"
     },
     {
@@ -92019,11 +92079,14 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "SECRET_DUNGEON_REDSTONE_KEY",
       "material": "SKULL_ITEM",
       "name": "Redstone Key",
+      "serializable": false,
       "skin": {
         "signature": "QAy8ibJWR89++h4wygk9vbzGtCn7r4fHfHZVUvn6L168FyDXUyvZ3jzibPdog9F7SxycsyseHfjEcACxpgkoAjF6LdNlxMqjrK9hkI5NvEeXQqdGTPwNmb17GJ6YVb6q9tBSocB5eAFzjFw0kQCdbtziaHa2QNzKs5o4l9qDK4H2atjcXvJxEBk5Wf3brhEDL8TLFkOlPAHO/qMUyD8fK0h0ehyOqhqZTXMGgkBW49tkhGQCoAmRnAITnaM5ZwFNFmXoVYvex+2Tvf8lyzYalSnSt+ZhUmP/IeABPah7mxQWl2elJkUTpOmYrLrmTGLK0Dfba2Cw6MEnk2hU/KV78+mLxXcm0D7/As+8+AvH3XTltu1aSm2H+ABkjaieszWgHwlGNNbTWrYRC+3X7ZCSywMxAwB3XARcRyl+XlRlMa5v26c+jbcHeEMPeL+jwKWzMDzpEXu9rNsuNicGKOXZJCMjDhFEdoIsOcEU0W9SD3ZhLqvMEfTPNmQY00KC2SLw1J9VtxCeBqSESXIc8K/B9DH/NdYEY1Gv4aUKyZ4Iif5KvfK03N7k8j4/KDWNUB4v1s7JRFU6/CE0VRP+h3cZpqMN239ZcGYYk20GZcMIEicFQZgtlrY7YxuONzRJOm5PwE7qIDWMrbHx0G5x5s/erph/cRVnaEESgKhgvLXkhk0=",
         "value": "eyJ0aW1lc3RhbXAiOjE1NzA5MTUxODU0ODUsInByb2ZpbGVJZCI6IjVkZTZlMTg0YWY4ZDQ5OGFiYmRlMDU1ZTUwNjUzMzE2IiwicHJvZmlsZU5hbWUiOiJBc3Nhc2luSmlhbmVyMjUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyMjNlMzZhYzEzZjBmNzFhYmNmYmYwYzk2ZmRjMjAxMGNjM2UxMWZmMmIwZDgxMTJkMGU2M2Y0YjRhYWEwZGUifX19"
@@ -93706,6 +93769,8 @@
       }
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "durability": 3,
       "id": "HEALER_DUNGEON_ABILITY_2",
@@ -95071,6 +95136,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "dungeon_item": true,
       "glowing": true,
       "id": "MAGE_DUNGEON_ABILITY_3",
@@ -102958,6 +103025,8 @@
       "tier": "EPIC"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "CITRINE_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -102970,6 +103039,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "AQUAMARINE_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -102982,6 +103053,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "OPAL_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -102994,6 +103067,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "PERIDOT_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -103006,6 +103081,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "ONYX_CRYSTAL",
       "material": "SKULL_ITEM",
@@ -118540,7 +118617,9 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
       "can_place": false,
+      "can_trade": false,
       "durability": 3,
       "id": "ELLE_FUEL_CELL",
       "material": "SKULL_ITEM",
@@ -118552,7 +118631,9 @@
       }
     },
     {
+      "can_auction": false,
       "can_place": false,
+      "can_trade": false,
       "id": "ELLE_SUPPLIES",
       "material": "CHEST",
       "name": "%%green%%Elle's Supplies",
@@ -142158,6 +142239,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "FISHING_ROD",
       "id": "ELLES_LAVA_ROD",
       "material": "FISHING_ROD",
@@ -142256,6 +142339,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "PICKAXE",
       "glowing": true,
       "id": "ELLES_PICKAXE",
@@ -144293,6 +144378,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1781877369241,
+  "lastUpdated": 1781904941552,
   "success": true
 }
