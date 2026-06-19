@@ -32120,6 +32120,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "ORE",
       "durability": 3,
       "id": "ENCHANTED_SULPHUR_CUBE",
       "material": "SKULL_ITEM",
@@ -32145,6 +32146,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_EMERALD_BLOCK",
       "material": "EMERALD_BLOCK",
@@ -32242,6 +32244,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "BLOCK",
       "id": "NETHERRACK",
       "material": "NETHERRACK",
       "name": "Netherrack",
@@ -33214,6 +33217,7 @@
       }
     },
     {
+      "category_display": "ORE",
       "id": "QUARTZ_ORE",
       "material": "QUARTZ_ORE",
       "name": "Nether Quartz Ore",
@@ -33317,6 +33321,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "BLOCK",
       "id": "OBSIDIAN",
       "material": "OBSIDIAN",
       "name": "Obsidian",
@@ -34252,6 +34257,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_REDSTONE_BLOCK",
       "material": "REDSTONE_BLOCK",
@@ -35797,6 +35803,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_DIAMOND_BLOCK",
       "material": "DIAMOND_BLOCK",
@@ -36270,6 +36277,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_SAND",
       "material": "SAND",
@@ -37668,6 +37676,7 @@
       ]
     },
     {
+      "category_display": "BLOCK",
       "id": "STONE",
       "material": "STONE",
       "name": "Stone",
@@ -38015,6 +38024,7 @@
       "tier": "LEGENDARY"
     },
     {
+      "category_display": "ORE",
       "id": "GOLD_INGOT",
       "material": "GOLD_INGOT",
       "name": "Gold Ingot",
@@ -38475,6 +38485,7 @@
       ]
     },
     {
+      "category_display": "BLOCK",
       "id": "GRAVEL",
       "material": "GRAVEL",
       "name": "Gravel",
@@ -42033,6 +42044,7 @@
       "npc_sell_price": 1
     },
     {
+      "category_display": "BLOCK",
       "id": "SAND",
       "material": "SAND",
       "name": "Sand",
@@ -42228,6 +42240,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_COBBLESTONE",
       "material": "COBBLESTONE",
@@ -43167,6 +43180,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_ENDSTONE",
       "material": "ENDER_STONE",
@@ -43399,6 +43413,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_PACKED_ICE",
       "material": "PACKED_ICE",
@@ -43547,6 +43562,7 @@
       ]
     },
     {
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_COAL",
       "material": "COAL",
@@ -44591,6 +44607,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_MYCELIUM",
       "material": "MYCEL",
@@ -45363,6 +45380,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_LAPIS_LAZULI_BLOCK",
       "material": "LAPIS_BLOCK",
@@ -46041,6 +46059,7 @@
       "unstackable": true
     },
     {
+      "category_display": "ORE",
       "description": "%%gray%%%%italic%%\"Give me some Sulphur and I'll make a wand. Give me all the Sulphur and I'll conquer the world.\" - Unnamed Mage.",
       "id": "SULPHUR_ORE",
       "material": "GLOWSTONE_DUST",
@@ -50793,6 +50812,7 @@
       "npc_sell_price": 64
     },
     {
+      "category_display": "BLOCK",
       "durability": 3,
       "id": "ENCHANTED_RED_SAND_CUBE",
       "material": "SKULL_ITEM",
@@ -50875,6 +50895,7 @@
       "tier": "SPECIAL"
     },
     {
+      "category_display": "BLOCK",
       "description": "%%gray%%The purest form of stone. How can something so simple, be so heavy?",
       "durability": 3,
       "id": "CONCENTRATED_STONE",
@@ -51587,6 +51608,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_COAL_BLOCK",
       "material": "COAL_BLOCK",
@@ -51726,6 +51748,7 @@
       }
     },
     {
+      "category_display": "ORE",
       "id": "GOLD_ORE",
       "material": "GOLD_ORE",
       "name": "Gold Ore",
@@ -52601,6 +52624,7 @@
       "tier": "LEGENDARY"
     },
     {
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_QUARTZ",
       "material": "QUARTZ",
@@ -54339,6 +54363,7 @@
       ]
     },
     {
+      "category_display": "ORE",
       "id": "COAL_ORE",
       "material": "COAL_ORE",
       "name": "Coal Ore",
@@ -54355,6 +54380,7 @@
       }
     },
     {
+      "category_display": "BLOCK",
       "id": "MYCEL",
       "material": "MYCEL",
       "name": "Mycelium",
@@ -56754,6 +56780,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_ICE",
       "material": "ICE",
@@ -57096,6 +57123,7 @@
       }
     },
     {
+      "category_display": "ORE",
       "id": "LAPIS_ORE",
       "material": "LAPIS_ORE",
       "name": "Lapis Lazuli Ore",
@@ -57655,6 +57683,7 @@
       ]
     },
     {
+      "category_display": "ORE",
       "id": "DIAMOND",
       "material": "DIAMOND",
       "name": "Diamond",
@@ -57662,6 +57691,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_REDSTONE",
       "material": "REDSTONE",
@@ -58970,6 +59000,7 @@
       ]
     },
     {
+      "category_display": "BLOCK",
       "id": "COBBLESTONE",
       "material": "COBBLESTONE",
       "name": "Cobblestone",
@@ -60504,6 +60535,7 @@
       "npc_sell_price": 12
     },
     {
+      "category_display": "ORE",
       "id": "DIAMOND_ORE",
       "material": "DIAMOND_ORE",
       "name": "Diamond Ore",
@@ -60945,6 +60977,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_IRON_BLOCK",
       "material": "IRON_BLOCK",
@@ -62443,6 +62476,7 @@
       "npc_sell_price": 4
     },
     {
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_GOLD",
       "material": "GOLD_INGOT",
@@ -65587,6 +65621,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_OBSIDIAN",
       "material": "OBSIDIAN",
@@ -65656,6 +65691,7 @@
       "tier": "EPIC"
     },
     {
+      "category_display": "DWARVEN METAL",
       "durability": 3,
       "glowing": true,
       "id": "REFINED_MITHRIL",
@@ -66975,6 +67011,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "ORE",
       "id": "REDSTONE",
       "material": "REDSTONE",
       "name": "Redstone Dust",
@@ -67563,6 +67600,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_GLOWSTONE",
       "material": "GLOWSTONE",
@@ -68207,6 +68245,7 @@
       "unstackable": true
     },
     {
+      "category_display": "DWARVEN METAL",
       "description": "%%gray%%Its strength and resistance to corrosion are the highest of any metallic element.",
       "durability": 3,
       "id": "TITANIUM_ORE",
@@ -68383,6 +68422,7 @@
       "tier": "LEGENDARY"
     },
     {
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_GLOWSTONE_DUST",
       "material": "GLOWSTONE_DUST",
@@ -68617,6 +68657,7 @@
       "unstackable": true
     },
     {
+      "category_display": "BLOCK",
       "durability": 3,
       "id": "ENCHANTED_MYCELIUM_CUBE",
       "material": "SKULL_ITEM",
@@ -69260,6 +69301,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_IRON",
       "material": "IRON_INGOT",
@@ -69490,6 +69532,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "ORE",
       "id": "IRON_INGOT",
       "material": "IRON_INGOT",
       "name": "Iron Ingot",
@@ -71175,6 +71218,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "BLOCK",
       "id": "PACKED_ICE",
       "material": "PACKED_ICE",
       "name": "Packed Ice",
@@ -71194,6 +71238,7 @@
       "tier": "EPIC"
     },
     {
+      "category_display": "BLOCK",
       "id": "GLOWSTONE",
       "material": "GLOWSTONE",
       "name": "Glowstone",
@@ -71553,6 +71598,7 @@
       ]
     },
     {
+      "category_display": "DWARVEN METAL",
       "durability": 3,
       "glowing": true,
       "id": "ENCHANTED_TITANIUM",
@@ -71582,6 +71628,7 @@
     },
     {
       "can_place": false,
+      "category_display": "DWARVEN METAL",
       "description": "%%gray%%%%italic%%\"The Man called it \"true-silver\" while the Dwarves, who loved it above all things, had their own, secret name for it.\"",
       "id": "MITHRIL_ORE",
       "material": "PRISMARINE_CRYSTALS",
@@ -71687,6 +71734,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "DWARVEN METAL",
       "durability": 3,
       "glowing": true,
       "id": "REFINED_TITANIUM",
@@ -72531,6 +72579,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "BLOCK",
       "id": "ENDER_STONE",
       "material": "ENDER_STONE",
       "name": "End Stone",
@@ -73415,6 +73464,7 @@
       }
     },
     {
+      "category_display": "BLOCK",
       "description": "%%gray%%A condensed form of rock only found at extreme depths.",
       "id": "HARD_STONE",
       "material": "STONE",
@@ -74464,6 +74514,7 @@
       "soulbound": "COOP"
     },
     {
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_EMERALD",
       "material": "EMERALD",
@@ -77031,6 +77082,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "ORE",
       "durability": 4,
       "id": "INK_SACK:4",
       "material": "INK_SACK",
@@ -77039,6 +77091,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_GOLD_BLOCK",
       "material": "GOLD_BLOCK",
@@ -79034,6 +79087,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "ORE",
       "id": "EMERALD",
       "material": "EMERALD",
       "name": "Emerald",
@@ -79845,12 +79899,14 @@
       }
     },
     {
+      "category_display": "ORE",
       "id": "LAPIS_BLOCK",
       "material": "LAPIS_BLOCK",
       "name": "Block of Lapis Lazuli",
       "npc_sell_price": 9
     },
     {
+      "category_display": "ORE",
       "id": "EMERALD_ORE",
       "material": "EMERALD_ORE",
       "name": "Emerald Ore",
@@ -80481,6 +80537,7 @@
       }
     },
     {
+      "category_display": "BLOCK",
       "id": "ICE",
       "material": "ICE",
       "name": "Ice",
@@ -80922,6 +80979,7 @@
       "tier": "EPIC"
     },
     {
+      "category_display": "ORE",
       "id": "IRON_ORE",
       "material": "IRON_ORE",
       "name": "Iron Ore",
@@ -81185,6 +81243,7 @@
       "tier": "EPIC"
     },
     {
+      "category_display": "BLOCK",
       "durability": 1,
       "id": "SAND:1",
       "material": "SAND",
@@ -81555,6 +81614,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "ORE",
       "id": "COAL",
       "material": "COAL",
       "name": "Coal",
@@ -82532,6 +82592,7 @@
       ]
     },
     {
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_DIAMOND",
       "material": "DIAMOND",
@@ -82752,6 +82813,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_SULPHUR",
       "material": "GLOWSTONE_DUST",
@@ -84360,6 +84422,7 @@
       "tier": "COMMON"
     },
     {
+      "category_display": "DWARVEN METAL",
       "glowing": true,
       "id": "ENCHANTED_MITHRIL",
       "material": "PRISMARINE_CRYSTALS",
@@ -84875,6 +84938,7 @@
       }
     },
     {
+      "category_display": "ORE",
       "durability": 4,
       "glowing": true,
       "id": "ENCHANTED_LAPIS_LAZULI",
@@ -85628,6 +85692,7 @@
     },
     {
       "can_place": false,
+      "category_display": "ORE",
       "glowing": true,
       "id": "ENCHANTED_QUARTZ_BLOCK",
       "material": "QUARTZ_BLOCK",
@@ -86662,6 +86727,7 @@
       "npc_sell_price": 8
     },
     {
+      "category_display": "ORE",
       "id": "DIAMOND_BLOCK",
       "material": "DIAMOND_BLOCK",
       "name": "Block of Diamond",
@@ -86861,6 +86927,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "ORE",
       "id": "QUARTZ",
       "material": "QUARTZ",
       "name": "Nether Quartz",
@@ -89532,6 +89599,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "durability": 1,
       "glowing": true,
       "id": "ENCHANTED_RED_SAND",
@@ -93737,6 +93805,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "description": "%%gray%%A refined form of heavy rock from the darkest depths.",
       "glowing": true,
       "id": "ENCHANTED_HARD_STONE",
@@ -94515,6 +94584,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "category_display": "BLOCK",
       "id": "GLOWSTONE_DUST",
       "material": "GLOWSTONE_DUST",
       "name": "Glowstone Dust",
@@ -94819,6 +94889,7 @@
     },
     {
       "can_place": false,
+      "category_display": "BLOCK",
       "glowing": true,
       "id": "ENCHANTED_NETHERRACK",
       "material": "NETHERRACK",
@@ -95519,6 +95590,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "ORE",
       "id": "REDSTONE_ORE",
       "material": "REDSTONE_ORE",
       "name": "Redstone Ore",
@@ -102757,6 +102829,7 @@
       "tier": "EPIC"
     },
     {
+      "category_display": "DWARVEN METAL",
       "durability": 3,
       "id": "REFINED_TUNGSTEN",
       "material": "SKULL_ITEM",
@@ -102769,6 +102842,7 @@
       "tier": "EPIC"
     },
     {
+      "category_display": "DWARVEN METAL",
       "description": "Considered for a long time to be unbreakable prior to the discovery of the Crystal Hollows.",
       "durability": 3,
       "id": "TUNGSTEN",
@@ -102793,6 +102867,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "DWARVEN METAL",
       "durability": 3,
       "id": "ENCHANTED_TUNGSTEN",
       "material": "SKULL_ITEM",
@@ -102824,6 +102899,7 @@
       "tier": "RARE"
     },
     {
+      "category_display": "DWARVEN METAL",
       "durability": 3,
       "id": "REFINED_UMBER",
       "material": "SKULL_ITEM",
@@ -102836,6 +102912,7 @@
       "tier": "EPIC"
     },
     {
+      "category_display": "DWARVEN METAL",
       "description": "Hardy enough to flourish even in the harshest of conditions.",
       "durability": 3,
       "id": "UMBER",
@@ -102848,6 +102925,7 @@
       }
     },
     {
+      "category_display": "DWARVEN METAL",
       "durability": 3,
       "id": "ENCHANTED_UMBER",
       "material": "SKULL_ITEM",
@@ -103422,6 +103500,7 @@
     },
     {
       "can_place": false,
+      "category_display": "DWARVEN METAL",
       "description": "An unnatural, nigh-unbreakable material. Of those unlucky few who have discovered where it originates, none have lived to tell the tale.",
       "id": "GLACITE",
       "material": "PACKED_ICE",
@@ -103442,6 +103521,7 @@
     },
     {
       "can_place": false,
+      "category_display": "DWARVEN METAL",
       "glowing": true,
       "id": "ENCHANTED_GLACITE",
       "material": "PACKED_ICE",
@@ -119275,6 +119355,7 @@
       "unstackable": true
     },
     {
+      "category_display": "%%red%%%%bold%%DUNGEON PICKAXE",
       "glowing": true,
       "has_uuid": true,
       "id": "DUNGEONBREAKER",
@@ -144212,6 +144293,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1781798885220,
+  "lastUpdated": 1781877369241,
   "success": true
 }
