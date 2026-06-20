@@ -40624,6 +40624,8 @@
       "npc_sell_price": 10
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 10,
       "id": "MITHRIL_POWDER_TIER_1",
       "material": "INK_SACK",
@@ -43714,6 +43716,8 @@
       "unstackable": true
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 6,
       "id": "GEMSTONE_POWDER_TIER_2",
       "material": "INK_SACK",
@@ -45775,6 +45779,8 @@
       "npc_sell_price": 3
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 14,
       "id": "GEMSTONE_POWDER_TIER_3",
       "material": "INK_SACK",
@@ -56559,6 +56565,8 @@
       "npc_sell_price": 1
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 6,
       "id": "MITHRIL_POWDER_TIER_2",
       "material": "INK_SACK",
@@ -75319,6 +75327,8 @@
       "unstackable": true
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 14,
       "id": "MITHRIL_POWDER_TIER_3",
       "material": "INK_SACK",
@@ -95077,6 +95087,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 10,
       "id": "GEMSTONE_POWDER_TIER_1",
       "material": "INK_SACK",
@@ -142225,6 +142237,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "DEPLOYABLE",
       "durability": 3,
       "id": "MINIATURE_NUKE",
@@ -142254,6 +142268,8 @@
       "tier": "SPECIAL"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "glowing": true,
       "id": "FINAL_REVIVE_PERK_ITEM",
@@ -142368,6 +142384,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "glowing": true,
       "id": "REVIVE_PERK_ITEM",
@@ -144378,6 +144396,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1781904941552,
+  "lastUpdated": 1781916677805,
   "success": true
 }
