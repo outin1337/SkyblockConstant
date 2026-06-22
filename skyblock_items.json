@@ -45581,7 +45581,7 @@
     {
       "glowing": true,
       "id": "GREAT_CARROT_CANDY",
-      "material": "CARROT",
+      "material": "CARROT_ITEM",
       "name": "Great Carrot Candy",
       "npc_sell_price": 1,
       "tier": "RARE"
@@ -78733,7 +78733,7 @@
     },
     {
       "id": "SIMPLE_CARROT_CANDY",
-      "material": "CARROT",
+      "material": "CARROT_ITEM",
       "name": "Simple Carrot Candy",
       "npc_sell_price": 1,
       "tier": "UNCOMMON"
@@ -144396,6 +144396,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1781916677805,
+  "lastUpdated": 1782146355553,
   "success": true
 }
