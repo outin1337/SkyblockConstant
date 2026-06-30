@@ -45643,7 +45643,8 @@
       ],
       "glowing": true,
       "id": "GEMSTONE_DRILL_2",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 5,
@@ -48473,7 +48474,8 @@
       "category": "DRILL",
       "glowing": true,
       "id": "MITHRIL_DRILL_1",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 6,
@@ -48548,7 +48550,8 @@
       ],
       "glowing": true,
       "id": "GEMSTONE_DRILL_1",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 4,
@@ -50709,7 +50712,8 @@
       "category": "DRILL",
       "glowing": true,
       "id": "MITHRIL_DRILL_2",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 10,
@@ -56247,7 +56251,8 @@
       ],
       "glowing": true,
       "id": "DIVAN_DRILL",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum": true,
       "museum_data": {
         "category": "MINING",
@@ -67643,7 +67648,8 @@
       ],
       "glowing": true,
       "id": "GEMSTONE_DRILL_3",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 7,
@@ -78439,7 +78445,8 @@
       ],
       "glowing": true,
       "id": "GEMSTONE_DRILL_4",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 10,
@@ -80553,7 +80560,8 @@
       ],
       "glowing": true,
       "id": "TITANIUM_DRILL_3",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 15,
@@ -83176,7 +83184,8 @@
       "category": "DRILL",
       "glowing": true,
       "id": "TITANIUM_DRILL_1",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 10,
@@ -88913,7 +88922,8 @@
       ],
       "glowing": true,
       "id": "TITANIUM_DRILL_4",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 20,
@@ -89015,7 +89025,8 @@
       ],
       "glowing": true,
       "id": "TITANIUM_DRILL_2",
-      "material": "PRISMARINE_SHARD",
+      "item_model": "minecraft:prismarine_shard",
+      "material": "DIAMOND_PICKAXE",
       "museum_data": {
         "category": "MINING",
         "donation_xp": 15,
@@ -144670,6 +144681,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1782745723550,
+  "lastUpdated": 1782844343374,
   "success": true
 }
