@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783033258079,
+  "lastUpdated": 1783194212120,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy EXP!",
@@ -3246,11 +3246,11 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Guardian Defender Sea Creature",
-            "Werewolf Sea Creature",
-            "Stridersurfer Sea Creature",
-            "Poisoned Water Worm Sea Creature",
-            "Volcanic Snail Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVII   Grants +1.6➜1.7 ⛃ Treasure Chance.",
             "+3 ❤ Health",
             "+50,000 Coins",
@@ -6164,5 +6164,5 @@
     }
   },
   "success": true,
-  "version": "0.25.0.51"
+  "version": "0.25.0.52"
 }
