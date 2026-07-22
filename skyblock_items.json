@@ -4283,6 +4283,7 @@
       "tier": "RARE"
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_HUSBANDRY_SACK",
       "material": "SKULL_ITEM",
@@ -4295,6 +4296,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_FORAGING_SACK",
       "material": "SKULL_ITEM",
@@ -4307,6 +4309,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4319,6 +4322,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_MINING_SACK",
       "material": "SKULL_ITEM",
@@ -4331,6 +4335,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_CANDY_SACK",
       "material": "SKULL_ITEM",
@@ -4343,6 +4348,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_RUNES_SACK",
       "material": "SKULL_ITEM",
@@ -4355,6 +4361,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "FLOWER_SACK",
       "material": "SKULL_ITEM",
@@ -4367,6 +4374,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_MUTATIONS_SACK",
       "material": "SKULL_ITEM",
@@ -4379,6 +4387,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_DUNGEON_SACK",
       "material": "SKULL_ITEM",
@@ -4391,6 +4400,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_MINING_SACK",
       "material": "SKULL_ITEM",
@@ -4403,6 +4413,20 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
+      "durability": 3,
+      "id": "BEGINNER_FISHING_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Beginner Fishing Sack",
+      "skin": {
+        "signature": "ur+hG6V1Ez44Jv7sCjt6/NXc2/mOgnoIPaw6iZdngWeb6RUmQ3u6cw24l8Qb4KoxoQ+bF5MhvdzzDcvNlE2AAESiO343y+VsAuJfIyIreL5IIhJvpHoL5uAWM2tKEtiR8OcRnvdn6z3/bk66wrYn2YnAl2P7L/ujlf2LMuxqRl9SP4KOm4kDTIMEvqnIzQQrk71m6m2tmBf81n2JQWWFFSMhWAk6r9i9upEdwgK5rs19ANI1e9sU2IzUcrHkYdukwJdoT87VMi7EdK2VcmShqdGL7FeCverUgI7Lh4c4J6B8lMZvrf3MrYhwCPITJ3LLHTQRYXvFD+8cAGXFSLY0hKw6MVAjvdTsuo3s4kxcK0nOXdqRIZTQIQaxOHpmxNP4zPBnm8k7WJdnCB8a2vYl4vcZnSoRDWetEKIKJ48OD5mgXzYEtuoQzDr51+AexwkgTC5sjG8AAPRSRPCDqH2EMYsX4zB1CAWJBRBTpQOkMhP295s5XgF62d572fHwqvScg6iYl9gwrEJ76Ow1zBSgZidd0YHJ/vypekpPLeH5J+yN0hV1v54K6AHguTp4jaCjcE0HHvq/lRjahok5pDzgfsWjr0z0drAIZ/EMpxU/RtpM5utkjKdlN4yIMVuStJ+7zCaDCG6beEFs0rOwCSll2vtlLPaH0tCM0T46Mt8C1K0=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwNTc1MywKICAicHJvZmlsZUlkIiA6ICI0YjQyNDY0YTZmNzI0MzY0OTNlNTAzYzBlNzc0MjMzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJESUFNT05EX0xFR0dJTkdTIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiYTY1OTgwYjMyMWI0NjQwYTM5YzQ0M2E5ZjgyNDM3MDA3Nzg2N2UxOTg5NTVhNTM4NjA5YTU0ZTc5NDQ0ZmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "COMMON",
+      "unstackable": true
+    },
+    {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_ENCHANTED_AGRONOMY_SACK",
       "material": "SKULL_ITEM",
@@ -4415,6 +4439,20 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
+      "durability": 3,
+      "id": "BEGINNER_COMBAT_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Beginner Combat Sack",
+      "skin": {
+        "signature": "rIH2JFRWBD2RYd36XwpkO+H90LIMCT9oxDEeRIwmVzLeRhpJC5OO67gpd+/rtP//S4OJNShluxVBuHS4oJYeRuUm0X/V7YqKSuS0O8YNibupzX4XA0qw2Pd/kAzFrftdCLdzF3z3rnHQFZW3jn4p6KU6aVwJ5+tQE0CH7s+bOGpPY6z4CKvKv6K6/bD1JH4zBtcIKSO2+QBFrpcZ4KDrnp2QGfiMKpRLf66d7S1Q9ReAUl5Q6rziRde+VuQWo31EQhhn6vawSFCioLIHcev5Car9Dayplb9dK5prJjJKEkRr1WooeEVTKwJUzgkiuLVrdzdHFfuTQOFlNbRYD8CwZucOQzzm+ATRo4seD7kXfX3r58cUksaQFNrnFZdqdSrBQpiNt52G+SZwKQeXDLBUOl17Tok7BJ56WIoFD3/KlaKkAIOwtVzDWJbZk8/JWOK72mXayOF6cQdLBncxTu4MFQ94ZyfZflZBKhELQpE8x7dZ5d30EsbEK/LehkO/uWrJqVcT9UyELa5fbdQBkhV7uYp/1BjRN0N40mcqudjVaZ3WbFwhyQH1dfDvqXPXIdRNLjLT9fffO8oLQ28cTd41WcF9WCqH07kLx25n1L4d/ITN6SQ/BOTSESAzWCHy39hqWWRO1ZgID9MCzsiIYlVBvCPnntbmmWzt4MhikhCHl9Y=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwNDA0MywKICAicHJvZmlsZUlkIiA6ICI2N2M1NzUxMzY1Mzg0MWJjYTQ1MTkwY2IyZGFiMWEwOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaXRlc3RhbGtlcjg3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkNTIyZDQ5MjI0YjMxNzhlYmZlZDYzMTQ4Mzg5OWFmOTUyNjI5NTk5MDRmZjMxOTMxMWQ1NjUwYmQzZmE3NzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "COMMON",
+      "unstackable": true
+    },
+    {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_FORAGING_SACK",
       "material": "SKULL_ITEM",
@@ -4427,6 +4465,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_MUTATIONS_SACK",
       "material": "SKULL_ITEM",
@@ -4439,6 +4478,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_SLAYER_SACK",
       "material": "SKULL_ITEM",
@@ -4451,6 +4491,20 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
+      "durability": 3,
+      "id": "BEGINNER_HUSBANDRY_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Beginner Husbandry Sack",
+      "skin": {
+        "signature": "Tjt9EcJLNBzP/Volo8r7ZveQXCeGuVCuXW8FSU9v0d30a8qt+i6O4NEpSHA8ga9TViKjX3mn8QVFeGAZ4afOwZKbOtdNrmPW6cYqEeSKWoUajWq88S/fjgfU8Jgy6P2C4F9WP+i2YJaXMC+b+GVcqSvyVZxnzDEmi+O2lmp8SXCsIAcGRS/UwnUyHnBWnRNCgIz7oWwqsMbHRyqLGdfa0wI/0KInZNQwDhfKCuaj8b6q+jiXoWDYkHiDb8hQTcNxf0mNBCJMp4cwK2Vh3rVFErhMdy3KZdb4MrZEmROHVjzDme10ino7p/ZeAb9KrbWuPk25qG7zhCYsLTkGgzTHZqlXs/+30/gOgZFB5KP58gBlHYV2UkA4N5Vgspw+mvbr3ffrvXtiLmE0Iamlimk0S3KONzJ53W1501d1a6L50dXkvs8aQjnfKUdS7jouBrzYfxMhRTeZ3V3l0xB+Yr6EgKZ7J5jPraD2MtCH55h2PeZAYHTvwwyea1uyz51dT+VqYXtEfzMNo01sKES+ZejmblitbtYLU+MatA8+EVXXsro1KTguvcrdRIdW744ifg2v1W8cTw9mM+4XFD9sN+NAalN53pvzqLu1T4ggs8FlQtkxGb3SbUq7tBDfWR4SaATY28tV4mWJGvJpaZ8KmbexR7Koxit4jZdkDHkL4Ejf1ZY=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwMjQ2OSwKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2NHIxbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MDJkNWZiMDA3OTgzM2JlMTkxNTMwMjQ1NTgzZDE2ZjMyMmUzNDNjZGQ0MzRjZGQ3YWFiN2U4YmRjZGJiYzRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "COMMON",
+      "unstackable": true
+    },
+    {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_AGRONOMY_SACK",
       "material": "SKULL_ITEM",
@@ -4463,6 +4517,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_EVENTS_SACK",
       "material": "SKULL_ITEM",
@@ -4475,6 +4530,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "WITCH_SACK",
       "material": "SKULL_ITEM",
@@ -4487,6 +4543,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_MUTATIONS_SACK",
       "material": "SKULL_ITEM",
@@ -4499,6 +4556,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_NETHER_SACK",
       "material": "SKULL_ITEM",
@@ -4512,6 +4570,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_HUSBANDRY_SACK",
       "material": "SKULL_ITEM",
@@ -4524,6 +4583,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_ENCHANTED_MINING_SACK",
       "material": "SKULL_ITEM",
@@ -4536,6 +4596,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_COMBAT_SACK",
       "material": "SKULL_ITEM",
@@ -4548,6 +4609,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "GARDEN_SACK",
       "material": "SKULL_ITEM",
@@ -4560,6 +4622,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SILVER_TROPHY_FROG_SACK",
       "material": "SKULL_ITEM",
@@ -4580,6 +4643,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "DIAMOND_TROPHY_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4600,6 +4664,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "GOLD_TROPHY_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4620,6 +4685,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SILVER_TROPHY_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4640,6 +4706,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "BRONZE_TROPHY_FROG_SACK",
       "material": "SKULL_ITEM",
@@ -4660,6 +4727,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "BRONZE_TROPHY_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4680,6 +4748,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_ENCHANTED_HUSBANDRY_SACK",
       "material": "SKULL_ITEM",
@@ -4692,6 +4761,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_ENCHANTED_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4704,6 +4774,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_LAVA_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4717,6 +4788,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "DWARVEN_MINES_SACK",
       "material": "SKULL_ITEM",
@@ -4729,6 +4801,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_COMBAT_SACK",
       "material": "SKULL_ITEM",
@@ -4741,6 +4814,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_SLAYER_SACK",
       "material": "SKULL_ITEM",
@@ -4753,6 +4827,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_ENCHANTED_FORAGING_SACK",
       "material": "SKULL_ITEM",
@@ -4765,6 +4840,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_AGRONOMY_SACK",
       "material": "SKULL_ITEM",
@@ -4777,6 +4853,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_COMBAT_SACK",
       "material": "SKULL_ITEM",
@@ -4789,6 +4866,20 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
+      "durability": 3,
+      "id": "BEGINNER_AGRONOMY_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Beginner Agronomy Sack",
+      "skin": {
+        "signature": "NDySYsSwD5JRniznzVdEg6NOifIxavZ2FUm2vZAa2MdqqAa0+xjBWeYdzffEQO0sIwM2uurF8mMRmj7n6O/Jq7gjBIQGqkz3BY89GNtCQSEnwrmcDEGeH52ZErSLbOuPVNePER9iN4JaBoUhqv3zJP1o7QORwKL0N7T3VSBX3tbtwGlJgqbfZFdGcNQrpocJca1uAhL+DTRz9YxtmZ+3SlPR8F4xExu97MUp+EvXgE3E2ZN5nHHBrKy4F3AWwAmRsBodplQ9ZEXHPL4AIMKc/+4dPeXnVHQsZeEmFgxYTHyUagye0pogJNV1DwKPN96isIkwPIBZBplges7+SnTHERIBtc9jaZA3Kp2jWzD0lpds+rPg3syTxhBmAjvETbA0flRiKIy1eyCPpW/kse4Xwnm/TG6nPrYVmSod7/bte7BkB8Fl5IVe7UWuP1Ld8UxAYLxaiJaWnQy8P+rsLuyESLoCToCxjwlFPD2ari9kZ5CICgtvVGIkkexOcNAJRHzPMeqXTKVaMrwRWFqPp5DaTOeeKf+4DDOsJnzZNxtbZ3rKcIKHUUY+TcJRpZPkWJLr3HD7YZT2UYMMvsnkDLnZSXXOK5WPE8OKcHoCjLxmlH08tEWXxdx0soDTkdTGdBe87zxPxP6b1w4nL5PK6sgwz03Qt1/IJZ5kXmIOL5LOcJg=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwMTI3NywKICAicHJvZmlsZUlkIiA6ICI5ZjJiY2M1M2U4YzM0OTY4YTc5Yzc0NTExYWQ2NmQyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWJveWlvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2MGRhOGRmN2U4MjVlMjFiODk3ZDYwOGZiODg0NmQ5NWIyZjgzM2VhNWQyNWExY2FkN2I2MTAwZTg1ZmQwNjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "COMMON",
+      "unstackable": true
+    },
+    {
+      "category": "SACK",
       "durability": 3,
       "id": "CRYSTAL_HOLLOWS_SACK",
       "material": "SKULL_ITEM",
@@ -4801,6 +4892,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_FORAGING_SACK",
       "material": "SKULL_ITEM",
@@ -4813,6 +4905,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_SLAYER_SACK",
       "material": "SKULL_ITEM",
@@ -4825,6 +4918,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_ENCHANTED_COMBAT_SACK",
       "material": "SKULL_ITEM",
@@ -4837,6 +4931,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_NETHER_SACK",
       "material": "SKULL_ITEM",
@@ -4850,6 +4945,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_LAVA_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4863,6 +4959,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_HUSBANDRY_SACK",
       "material": "SKULL_ITEM",
@@ -4875,6 +4972,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4887,6 +4985,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_MINING_SACK",
       "material": "SKULL_ITEM",
@@ -4899,6 +4998,20 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
+      "durability": 3,
+      "id": "BEGINNER_MINING_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Beginner Mining Sack",
+      "skin": {
+        "signature": "OCJt8KhFfi2hcq2N6K00tngBTfE6zlNykCVoEgSH+opripxziXOovc92yYcYDP8lJpjduBqa28it/K2ykhd6YS7quwbrmUdUBYe/42aOyR+JuJ44GriRgtFiDUrJJFEDmXujOo81MuOv6lvZqXl/ONpVUh7gJ3n5dLwNYv+M37RQoTKgT6qtcafi/HwD3V69F0B0ogctvE3jA3iIcpEb/w2qYmYF7zWWV/+CcM9Rl0BFMnQwC3uDb8JuAkViM0ipYHKnmP+fcxrSZYuBUam3jCWrM5cPr9+wLg/KNE2gKNjRreCumfme4Y0e1jZvVoyd2XuJ/NQbEeG1X9oEcAT6b3VVUyufbsq/iBi2+v6DzkMY2phCksNO7T9MnHliL6P5XLTjBI5RDy9x0wAkSshpYHHldLJuJI0113SU3hlzxKyI6ErB1yF5pvMaVH5gbPYkwcEzrzG2fvxTAi6snAdztp5n67yuOn0BXN2+rbXhwGDX5jkROEggPsQZT1huONcLUr/A3abQ58tDh/vBBHteumqGnSrhRRvQg0BEVLSS1ZaETBleYvdie9WmZzihonSoNiVQXBAtKyKQEoN6L3gzVqgx+3MPwutgVoHlzePQ5kUqWBB5P1qkDrmXHforto+ETO/P++MMJqSEx0BbsM0sFHPXrwEnoZINYKbAqVksvSE=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwODUzNSwKICAicHJvZmlsZUlkIiA6ICJhYWMxYjA2OWNkMjE0NWE2ODNlNzQxNzE4MDcxMGU4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqdXNhbXUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTVmM2E4OTQ4Yzg2N2ZjYzA2YjBmZTc3MzRhMzc3MjA0ZDgyNzQxNGY1NGRlMTY5OGM4NDk1MmJmNTM0MDBiZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "COMMON",
+      "unstackable": true
+    },
+    {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_DRAGON_SACK",
       "material": "SKULL_ITEM",
@@ -4911,6 +5024,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_DRAGON_SACK",
       "material": "SKULL_ITEM",
@@ -4923,6 +5037,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_DRAGON_SACK",
       "material": "SKULL_ITEM",
@@ -4935,6 +5050,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_AGRONOMY_SACK",
       "material": "SKULL_ITEM",
@@ -4947,6 +5063,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_WINTER_SACK",
       "material": "SKULL_ITEM",
@@ -4959,6 +5076,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_LAVA_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -4972,6 +5090,20 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
+      "durability": 3,
+      "id": "BEGINNER_FORAGING_SACK",
+      "material": "SKULL_ITEM",
+      "name": "Beginner Foraging Sack",
+      "skin": {
+        "signature": "LCFK4ChmIW+4c2aO1ago6+47NuKNCvEbRoj78EavGdvRucgaAqmiXCrIfvgwodNFX/++T29hodhkLph8hAJIvYFebGEVHBAzwpgmAOX/Z/iQZreWpgo33Jjg50rXgkIafCUZhYPkhvMq5CkWQGbEMJ6QimR5AwiftciXul+0DqM+QL0WGeohsOKrX9pdJ89VhxOk5qIPBFAS1zyA1FS/Jed6ky+kqIG1kZEx5MdjY4upqXCT+i9p4RhDrq9OKAQsaV7gxLfu0f8SS50dWRsV5cNe4b9uXR1wGkPC5HrYcUflVOI1YDV+//mzc8IVsQbQTkdbRpXJ3d/d1llo0JB1cmv89iTP8ozvS8BhjPK3vwqN1FXt32F1Q0VtdQ6P3m/vf3oEc6P6VrL4GjBEdb4/ZN0+2fsn1Nqs+GksK3pLXL4rRcDSTTjNkeNOHqycd+bvxE6snW1RvQQfrAfOw/Z8ok+29YE9t0Atg7Gm7TJAB6vSnKQ2D5dKdTeD2CGeX85HzeBPpThTdr0rIGIDeBs+PlcfWaXNJzVYcByp5yNTrmVrhhSR2MWSUJ512gwH/vF30nwNZrtxSnRKXkHx4P9SElRfWABhXvbvfOY4VX3J9BaTogF/JdotoTWQcvUIcIGe3LIthSUnsYMZtg4rjXlXX6KEKAihfBR35VUbQISjdPM=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzIzODMwNzA5MSwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMDA3Yzg3ZmEyNTFhYjdjNWRkZDZhMTlhMzliODg0MTZjMWQ1MDE0NDBmNzIwYmZjMjkyZDJiOGFhNjdhM2M5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "COMMON",
+      "unstackable": true
+    },
+    {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_NETHER_SACK",
       "material": "SKULL_ITEM",
@@ -4985,6 +5117,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_RUNES_SACK",
       "material": "SKULL_ITEM",
@@ -4997,6 +5130,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_RUNES_SACK",
       "material": "SKULL_ITEM",
@@ -5009,6 +5143,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_FISHING_SACK",
       "material": "SKULL_ITEM",
@@ -22739,7 +22874,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "LARGE_WITCH_CAULDRON",
       "material": "SKULL_ITEM",
@@ -22754,7 +22888,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "GIANT_WITCH_CAULDRON",
       "material": "SKULL_ITEM",
@@ -22769,7 +22902,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "MEDIUM_WITCH_CAULDRON",
       "material": "SKULL_ITEM",
@@ -22784,7 +22916,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "SMALL_WITCH_CAULDRON",
       "material": "SKULL_ITEM",
@@ -23753,6 +23884,7 @@
       "tier": "RARE"
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "MEDIUM_GEMSTONE_SACK",
       "material": "SKULL_ITEM",
@@ -23961,6 +24093,7 @@
       "tier": "LEGENDARY"
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "LARGE_GEMSTONE_SACK",
       "material": "SKULL_ITEM",
@@ -23973,6 +24106,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "SMALL_GEMSTONE_SACK",
       "material": "SKULL_ITEM",
@@ -25568,6 +25702,7 @@
       "unstackable": true
     },
     {
+      "category": "SACK",
       "durability": 3,
       "id": "RUNE_SACK",
       "material": "SKULL_ITEM",
@@ -26237,7 +26372,7 @@
       "item_model": "hypixel_skyblock:item/community_center/mayor/finnegan/crystalized_moonlight",
       "material": "PAPER",
       "name": "Crystalized Moonlight",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26259,6 +26394,16 @@
       "name": "Very Moldy Bread",
       "tier": "LEGENDARY",
       "unstackable": true
+    },
+    {
+      "category": "CONSUMABLE",
+      "game_stage": "SKILLED",
+      "has_uuid": true,
+      "id": "FEAST_BURGER",
+      "item_model": "hypixel_skyblock:item/uncategorized/feast_burger",
+      "material": "PAPER",
+      "name": "Feast Burger with a Side of Deepfries",
+      "tier": "EPIC"
     },
     {
       "id": "POTTED_CACTUS",
@@ -26328,6 +26473,14 @@
       "tier": "LEGENDARY"
     },
     {
+      "category": "REFORGE_STONE",
+      "id": "BLOOMING_THORNS",
+      "item_model": "hypixel_skyblock:item/uncategorized/blooming_thorns",
+      "material": "PAPER",
+      "name": "Blooming Thorns",
+      "tier": "EPIC"
+    },
+    {
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
@@ -26337,8 +26490,17 @@
       "item_model": "minecraft:fire_coral",
       "material": "PAPER",
       "name": "Carrot Zest",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
+    },
+    {
+      "can_auction": true,
+      "has_uuid": true,
+      "id": "SUPER_JACOB_SYSTEM",
+      "item_model": "hypixel_skyblock:item/uncategorized/super_jacob_system",
+      "material": "PAPER",
+      "name": "Super Jacob Entertainment System",
+      "tier": "EPIC"
     },
     {
       "category": "REFORGE_STONE",
@@ -26385,8 +26547,16 @@
       "item_model": "minecraft:yellow_bundle",
       "material": "PAPER",
       "name": "Salted Sunflower Seeds",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
+    },
+    {
+      "has_uuid": true,
+      "id": "SALTY_NOZZLE",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/salty_nozzle",
+      "material": "PAPER",
+      "name": "Salty Nozzle",
+      "tier": "EPIC"
     },
     {
       "components": [
@@ -26398,7 +26568,7 @@
       "item_model": "minecraft:nautilus_shell",
       "material": "PAPER",
       "name": "Cornucopia",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26467,7 +26637,7 @@
       "item_model": "minecraft:kelp",
       "material": "PAPER",
       "name": "Cane Knot",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26480,7 +26650,7 @@
       "item_model": "minecraft:beetroot_soup",
       "material": "PAPER",
       "name": "Melon Juice",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26526,7 +26696,7 @@
       "item_model": "minecraft:goat_horn",
       "material": "PAPER",
       "name": "Aggourdian",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26551,7 +26721,7 @@
       "item_model": "minecraft:cactus_flower",
       "material": "PAPER",
       "name": "Cactus Flower",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26658,7 +26828,7 @@
       "item_model": "minecraft:beetroot_seeds",
       "material": "PAPER",
       "name": "Designer Coffee Beans",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26694,10 +26864,10 @@
         }
       ],
       "id": "FEASTFUNGUS",
-      "item_model": "minecraft:crimson_fungus",
+      "item_model": "hypixel_skyblock:item/uncategorized/feastfungus",
       "material": "PAPER",
       "name": "Feastfungus",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26710,7 +26880,7 @@
       "item_model": "minecraft:weeping_vines",
       "material": "PAPER",
       "name": "Botroot",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26843,7 +27013,7 @@
       "item_model": "minecraft:honey_bottle",
       "material": "PAPER",
       "name": "Floral Gelatin",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26908,10 +27078,10 @@
         }
       ],
       "id": "DEEPFRIES",
-      "item_model": "minecraft:tall_dry_grass",
+      "item_model": "hypixel_skyblock:item/uncategorized/deepfries",
       "material": "PAPER",
       "name": "Deepfries",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 50000,
       "tier": "UNCOMMON"
     },
     {
@@ -26958,7 +27128,7 @@
       "id": "FRAGRANCED_BROWN_MUSHROOM_PASTE",
       "item_model": "hypixel_skyblock:item/community_center/mayor/finnegan/fragranced_brown_mushroom",
       "material": "PAPER",
-      "name": "\"Fragranced\" Brown Mushroom Paste",
+      "name": "\"Fragranced\" Brown Mushroom \"Paste\"",
       "tier": "RARE"
     },
     {
@@ -31778,36 +31948,19 @@
     {
       "category": "CHESTPLATE",
       "color": "255,215,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "costs": [
-            {
-              "amount": 20,
-              "item_id": "FINE_PERIDOT_GEM",
-              "type": "ITEM"
-            },
-            {
-              "coins": 50000,
-              "type": "COINS"
-            }
-          ],
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "FARM_ARMOR_CHESTPLATE",
       "material": "LEATHER_CHESTPLATE",
       "museum_data": {
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "category": "FARMING",
         "game_stage": "AMATEUR",
-        "parent": {}
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        }
       },
-      "name": "Farm Armor Chestplate",
+      "name": "Haymaker Chestplate",
       "npc_sell_price": 5200,
       "requirements": [
         {
@@ -31817,11 +31970,10 @@
         }
       ],
       "stats": {
-        "DEFENSE": 75,
-        "FARMING_FORTUNE": 10,
-        "HEALTH": 20
+        "DEFENSE": 15,
+        "FARMING_FORTUNE": 10
       },
-      "tier": "RARE"
+      "tier": "COMMON"
     },
     {
       "category": "HELMET",
@@ -31928,16 +32080,16 @@
       "unstackable": true
     },
     {
-      "category": "AXE",
+      "category": "SWORD",
       "id": "CHICKEN_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/chicken_axe",
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "museum_data": {
         "category": "FARMING",
         "donation_xp": 2,
         "game_stage": "INTERMEDIATE"
       },
-      "name": "Chicken Axe",
+      "name": "Advanced Chicken Axe",
       "requirements": [
         {
           "level": 15,
@@ -31945,6 +32097,9 @@
           "type": "SKILL"
         }
       ],
+      "stats": {
+        "DAMAGE": 20
+      },
       "tier": "UNCOMMON"
     },
     {
@@ -31992,6 +32147,25 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDc2NjU3NTgwMSwKICAicHJvZmlsZUlkIiA6ICIwYjg3ZTgyZTgwODA0MmU4ODM3MzMwOTk4Mjk4OThmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6ZWxhMjAwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDMyMTE0NmYyOTAzYmE4ZjRhZWRhZmU4M2NjZmIzOGFkZTAzMDk2YzMzMTIxMDcxZjFmODQ0ZmNkMjg2OTRkIgogICAgfQogIH0KfQ=="
       },
       "tier": "RARE"
+    },
+    {
+      "category": "SWORD",
+      "id": "BASIC_RABBIT_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_rabbit_axe",
+      "material": "WOOD_AXE",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "game_stage": "STARTER",
+        "parent": {
+          "BASIC_RABBIT_AXE": "RABBIT_AXE"
+        }
+      },
+      "name": "Basic Rabbit Axe",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "tier": "COMMON"
     },
     {
       "can_place": false,
@@ -32052,8 +32226,8 @@
         }
       ],
       "stats": {
-        "DEFENSE": 15,
-        "HEALTH": 15,
+        "DEFENSE": 20,
+        "HEALTH": 20,
         "INTELLIGENCE": 40
       },
       "tier": "UNCOMMON"
@@ -33425,7 +33599,10 @@
           "skill": "FARMING",
           "type": "SKILL"
         }
-      ]
+      ],
+      "stats": {
+        "FARMING_FORTUNE": 5
+      }
     },
     {
       "category": "SWORD",
@@ -35484,6 +35661,8 @@
       ]
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "id": "MUSHROOM_COLLECTION",
       "material": "RED_MUSHROOM",
       "name": "Mushroom",
@@ -35534,6 +35713,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "durability": 3,
       "id": "GEMSTONE_COLLECTION",
       "material": "SKULL_ITEM",
@@ -35596,7 +35777,8 @@
       ],
       "stats": {
         "DEFENSE": 20,
-        "HEALTH": 20
+        "HEALTH": 20,
+        "STRENGTH": 5
       },
       "tier": "UNCOMMON"
     },
@@ -37443,7 +37625,7 @@
       "stats": {
         "DEFENSE": 30,
         "HEALTH": 30,
-        "INTELLIGENCE": 50
+        "INTELLIGENCE": 60
       },
       "tier": "RARE"
     },
@@ -37519,6 +37701,25 @@
       "name": "Singing Fish",
       "soulbound": "COOP",
       "tier": "SPECIAL"
+    },
+    {
+      "category": "SWORD",
+      "id": "BASIC_COW_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_cow_axe",
+      "material": "WOOD_AXE",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "game_stage": "STARTER",
+        "parent": {
+          "BASIC_COW_AXE": "COW_AXE"
+        }
+      },
+      "name": "Basic Cow Axe",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "tier": "COMMON"
     },
     {
       "durability": 14,
@@ -37680,8 +37881,8 @@
         }
       ],
       "stats": {
-        "DEFENSE": 5,
-        "HEALTH": 5,
+        "DEFENSE": 10,
+        "HEALTH": 10,
         "INTELLIGENCE": 20
       },
       "tier": "UNCOMMON"
@@ -38040,7 +38241,7 @@
         "donation_xp": 1,
         "game_stage": "STARTER"
       },
-      "name": "Rookie Axe",
+      "name": "Rookie Foraging Axe",
       "npc_sell_price": 6,
       "stats": {
         "DAMAGE": 20
@@ -38841,9 +39042,9 @@
         }
       ],
       "stats": {
-        "DEFENSE": 30,
-        "HEALTH": 30,
-        "INTELLIGENCE": 50
+        "DEFENSE": 25,
+        "HEALTH": 25,
+        "INTELLIGENCE": 45
       },
       "tier": "RARE"
     },
@@ -40992,7 +41193,7 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzQ4NDgwOCwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwMjQ3YmM0YTAxZDJhMjM5MWNkOGQ4NTQzYzlmYzY3M2NkYTc0YjA2YmZjMTI3YTcyZWMwNmFkM2VkNTgwZTEiCiAgICB9CiAgfQp9"
       },
       "stats": {
-        "vitality": 10
+        "vitality": 4
       },
       "tier": "UNCOMMON"
     },
@@ -41635,6 +41836,25 @@
       "tier": "EPIC"
     },
     {
+      "category": "SWORD",
+      "id": "BASIC_CHICKEN_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_chicken_axe",
+      "material": "WOOD_AXE",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "game_stage": "STARTER",
+        "parent": {
+          "BASIC_CHICKEN_AXE": "CHICKEN_AXE"
+        }
+      },
+      "name": "Basic Chicken Axe",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "tier": "COMMON"
+    },
+    {
       "experience": {
         "farming": {
           "MINION_STORAGE": 16.0
@@ -42205,6 +42425,7 @@
       "unstackable": true
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "SWORD",
       "dungeon_item": true,
       "gear_score": 50,
@@ -45993,36 +46214,19 @@
     {
       "category": "BOOTS",
       "color": "255,215,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "costs": [
-            {
-              "amount": 20,
-              "item_id": "FINE_PERIDOT_GEM",
-              "type": "ITEM"
-            },
-            {
-              "coins": 50000,
-              "type": "COINS"
-            }
-          ],
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "FARM_ARMOR_BOOTS",
       "material": "LEATHER_BOOTS",
       "museum_data": {
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "category": "FARMING",
         "game_stage": "AMATEUR",
-        "parent": {}
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        }
       },
-      "name": "Farm Armor Boots",
+      "name": "Haymaker Boots",
       "npc_sell_price": 2500,
       "requirements": [
         {
@@ -46032,11 +46236,10 @@
         }
       ],
       "stats": {
-        "DEFENSE": 35,
-        "FARMING_FORTUNE": 10,
-        "HEALTH": 20
+        "DEFENSE": 15,
+        "FARMING_FORTUNE": 10
       },
-      "tier": "RARE"
+      "tier": "COMMON"
     },
     {
       "components": [
@@ -47453,9 +47656,11 @@
       "force_wipe_recomb": true,
       "glowing": true,
       "id": "ENCHANTED_BOOKSHELF",
-      "material": "BOOKSHELF",
+      "item_model": "minecraft:bookshelf",
+      "material": "PAPER",
       "name": "Enchanted Bookshelf",
       "npc_sell_price": 2700,
+      "soulbound": "COOP",
       "tier": "UNCOMMON"
     },
     {
@@ -47659,30 +47864,32 @@
     },
     {
       "category": "BOOTS",
-      "color": "237,170,54",
+      "color": "172,57,0",
       "id": "PUMPKIN_BOOTS",
       "material": "LEATHER_BOOTS",
       "museum_data": {
         "armor_set_donation_xp": {
-          "PUMPKIN": 2
+          "PUMPKIN": 3
         },
         "category": "FARMING",
-        "game_stage": "STARTER",
-        "parent": {}
+        "game_stage": "AMATEUR",
+        "parent": {
+          "PUMPKIN": "MELON"
+        }
       },
-      "name": "Pumpkin Boots",
-      "npc_sell_price": 8,
+      "name": "Sprout Boots",
       "requirements": [
         {
-          "level": 2,
+          "level": 15,
           "skill": "FARMING",
           "type": "SKILL"
         }
       ],
       "stats": {
-        "DEFENSE": 8,
-        "HEALTH": 8
-      }
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
+      },
+      "tier": "UNCOMMON"
     },
     {
       "dungeon_item": true,
@@ -50500,12 +50707,12 @@
       "id": "FARMER_ORB",
       "material": "SKULL_ITEM",
       "name": "Farmer Orb",
-      "npc_sell_price": 1900,
+      "npc_sell_price": 480,
       "skin": {
         "signature": "jGgDnHSDXubnjL+oqQM4LJB/A+cJbpt86o/ZTLPHI60X68DBnCWn5EVUe+MqGpoAH6Xk64tZzDvK1sKKHNLsA8eZcJYMiu4xaJLCCI7dyOyfOGS0fkKaMpno/x8TKYliy6qEreZ87ZuBSrLQq2kVATyghqa1TNd4T/GicAWxwCMkjzUqP7BEGuBaVIMmMSUv0cg8ywLTJbB4TG4O9T0tsgw7pp3UNl6LXDLQrRFfxiNuYjeZGNt57akh8oun6BUIDB3CHhZmtslWt169I4P+6g/PFoajp7P2aINRT8P8+KDJS064UtuY15ymvLTlnpCfa/R/e5WIlPDSSkAtbInYBxod0efTtOH5KbHJhaiTpWpe+MVlsNWPtAZ9oEvpeftS0B4IH74+5LtWg52SKaTTmvJWykFzQ/tYtIVYCmeJZdEzOAlVNPLc0Byn6Y9cKghD6iiAJOm6PrKlXptMeBGFKM2YvxPYuuCV/7FpeCbHgIQvbdHia5r1SR1ynQCB3VTz3RCTzc2mU4t5rByBGVnEYyuLErGfpZ6kMKjSa8Le3gAiGWb2aof45s1v3HMvHaSxXLcoUpO9r8S5UJr32BQN4qo3rZ1CZvNmzcjI4BcytRcpo8nKo1T2RjJFA+qYE8Kl73Lfmm/lR9j5F1cvUcbdgTivZJUGcYOTaYQMDc4GvHU=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzQ0MTk0MSwKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTU3YjM1NGNlOWJmOGRiMGE3ZWQyYWZjNzllMjdmMjhjM2NjYWFhZjJjNDYwYTUxOTkzY2FjMmIwNTY0ZWY2MCIKICAgIH0KICB9Cn0="
       },
-      "tier": "UNCOMMON"
+      "tier": "COMMON"
     },
     {
       "durability": 5,
@@ -50653,9 +50860,9 @@
         }
       ],
       "stats": {
-        "DEFENSE": 30,
-        "HEALTH": 30,
-        "INTELLIGENCE": 50
+        "DEFENSE": 40,
+        "HEALTH": 40,
+        "INTELLIGENCE": 90
       },
       "tier": "RARE"
     },
@@ -51850,30 +52057,32 @@
     },
     {
       "category": "CHESTPLATE",
-      "color": "237,170,54",
+      "color": "255,167,63",
       "id": "PUMPKIN_CHESTPLATE",
       "material": "LEATHER_CHESTPLATE",
       "museum_data": {
         "armor_set_donation_xp": {
-          "PUMPKIN": 2
+          "PUMPKIN": 3
         },
         "category": "FARMING",
-        "game_stage": "STARTER",
-        "parent": {}
+        "game_stage": "AMATEUR",
+        "parent": {
+          "PUMPKIN": "MELON"
+        }
       },
-      "name": "Pumpkin Chestplate",
-      "npc_sell_price": 16,
+      "name": "Sprout Chestplate",
       "requirements": [
         {
-          "level": 2,
+          "level": 15,
           "skill": "FARMING",
           "type": "SKILL"
         }
       ],
       "stats": {
-        "DEFENSE": 14,
-        "HEALTH": 14
-      }
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
+      },
+      "tier": "UNCOMMON"
     },
     {
       "category": "AXE",
@@ -52024,12 +52233,6 @@
     },
     {
       "category": "BOOTS",
-      "color": "255,255,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "FARM_SUIT_BOOTS",
       "material": "LEATHER_BOOTS",
       "museum_data": {
@@ -52038,9 +52241,11 @@
         },
         "category": "FARMING",
         "game_stage": "STARTER",
-        "parent": {}
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        }
       },
-      "name": "Farm Suit Boots",
+      "name": "Farmhand Boots",
       "npc_sell_price": 20,
       "requirements": [
         {
@@ -52050,7 +52255,7 @@
         }
       ],
       "stats": {
-        "DEFENSE": 15,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       }
     },
@@ -52091,7 +52296,8 @@
       ],
       "stats": {
         "DEFENSE": 30,
-        "HEALTH": 30
+        "HEALTH": 30,
+        "STRENGTH": 10
       },
       "tier": "RARE"
     },
@@ -53002,7 +53208,9 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODc3MzM5OTY2MCwKICAicHJvZmlsZUlkIiA6ICJmZmU5MzczY2YyMDM0OWFhYTJlN2NiYzJkZmY2M2I5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWxvblR1bmExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1ZDlkOThhZDZkMTU0ZWYxZjRjNjNkYmE5MmE1MTMzN2NkMWY0ZWIwY2I2NWI5YjJhOTBmZThiMDMwOTZkYjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "stats": {
-        "HEALTH": 50
+        "HEALTH": 50,
+        "MENDING": 30,
+        "VITALITY": 30
       },
       "tier": "RARE",
       "upgrade_costs": [
@@ -55894,6 +56102,25 @@
       ]
     },
     {
+      "category": "SWORD",
+      "id": "BASIC_MUSHROOM_COW_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_mushroom_cow_axe",
+      "material": "WOOD_AXE",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "game_stage": "STARTER",
+        "parent": {
+          "BASIC_MUSHROOM_COW_AXE": "MUSHROOM_COW_AXE"
+        }
+      },
+      "name": "Basic Mooshroom Axe",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "tier": "COMMON"
+    },
+    {
       "ability_damage_scaling": 0.3,
       "category": "WAND",
       "id": "FIRE_VEIL_WAND",
@@ -56962,8 +57189,8 @@
         }
       ],
       "stats": {
-        "DEFENSE": 20,
-        "HEALTH": 20,
+        "DEFENSE": 25,
+        "HEALTH": 25,
         "INTELLIGENCE": 60
       },
       "tier": "UNCOMMON"
@@ -57196,12 +57423,7 @@
     },
     {
       "category": "HELMET",
-      "color": "255,255,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
+      "color": "253,232,98",
       "id": "FARM_SUIT_HELMET",
       "material": "LEATHER_HELMET",
       "museum_data": {
@@ -57210,9 +57432,11 @@
         },
         "category": "FARMING",
         "game_stage": "STARTER",
-        "parent": {}
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        }
       },
-      "name": "Farm Suit Helmet",
+      "name": "Farmhand Helmet",
       "npc_sell_price": 25,
       "requirements": [
         {
@@ -57222,7 +57446,7 @@
         }
       ],
       "stats": {
-        "DEFENSE": 15,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       }
     },
@@ -59821,36 +60045,19 @@
     {
       "category": "LEGGINGS",
       "color": "255,215,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "costs": [
-            {
-              "amount": 20,
-              "item_id": "FINE_PERIDOT_GEM",
-              "type": "ITEM"
-            },
-            {
-              "coins": 50000,
-              "type": "COINS"
-            }
-          ],
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "FARM_ARMOR_LEGGINGS",
       "material": "LEATHER_LEGGINGS",
       "museum_data": {
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "category": "FARMING",
         "game_stage": "AMATEUR",
-        "parent": {}
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        }
       },
-      "name": "Farm Armor Leggings",
+      "name": "Haymaker Leggings",
       "npc_sell_price": 4500,
       "requirements": [
         {
@@ -59860,11 +60067,10 @@
         }
       ],
       "stats": {
-        "DEFENSE": 50,
-        "FARMING_FORTUNE": 10,
-        "HEALTH": 20
+        "DEFENSE": 15,
+        "FARMING_FORTUNE": 10
       },
-      "tier": "RARE"
+      "tier": "COMMON"
     },
     {
       "category": "ACCESSORY",
@@ -59877,6 +60083,25 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODU4MTg2NDg5MSwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmNGVlY2E4MjVkZGRiN2Y4NjEzNTJlY2IwYmUyZGY0NjE1NzI4YjYzODk0YjdjNTQ0MThhZjAxMDVhMzkxNzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "tier": "EPIC"
+    },
+    {
+      "category": "SWORD",
+      "id": "BASIC_PIG_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_pig_axe",
+      "material": "WOOD_AXE",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "game_stage": "STARTER",
+        "parent": {
+          "BASIC_PIG_AXE": "PIG_AXE"
+        }
+      },
+      "name": "Basic Pig Axe",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "tier": "COMMON"
     },
     {
       "category": "HELMET",
@@ -59983,7 +60208,8 @@
       ],
       "stats": {
         "DEFENSE": 25,
-        "HEALTH": 25
+        "HEALTH": 25,
+        "STRENGTH": 5
       },
       "tier": "UNCOMMON"
     },
@@ -61179,18 +61405,14 @@
       ],
       "stats": {
         "DEFENSE": 70,
-        "HEALTH": 70
+        "HEALTH": 70,
+        "STRENGTH": 10
       },
       "tier": "RARE"
     },
     {
       "category": "CHESTPLATE",
-      "color": "255,255,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
+      "color": "236,4,31",
       "id": "FARM_SUIT_CHESTPLATE",
       "material": "LEATHER_CHESTPLATE",
       "museum_data": {
@@ -61199,9 +61421,11 @@
         },
         "category": "FARMING",
         "game_stage": "STARTER",
-        "parent": {}
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        }
       },
-      "name": "Farm Suit Chestplate",
+      "name": "Farmhand Chestplate",
       "npc_sell_price": 40,
       "requirements": [
         {
@@ -61211,7 +61435,7 @@
         }
       ],
       "stats": {
-        "DEFENSE": 40,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       }
     },
@@ -61553,30 +61777,36 @@
     },
     {
       "category": "HELMET",
-      "color": "237,170,54",
+      "durability": 3,
       "id": "PUMPKIN_HELMET",
-      "material": "LEATHER_HELMET",
+      "material": "SKULL_ITEM",
       "museum_data": {
         "armor_set_donation_xp": {
-          "PUMPKIN": 2
+          "PUMPKIN": 3
         },
         "category": "FARMING",
-        "game_stage": "STARTER",
-        "parent": {}
+        "game_stage": "AMATEUR",
+        "parent": {
+          "PUMPKIN": "MELON"
+        }
       },
-      "name": "Pumpkin Helmet",
-      "npc_sell_price": 10,
+      "name": "Sprout Helmet",
       "requirements": [
         {
-          "level": 2,
+          "level": 15,
           "skill": "FARMING",
           "type": "SKILL"
         }
       ],
+      "skin": {
+        "signature": "p1uECur9Oo8MN8y1BZJYgDHKPvqWGXJgN+ONfXsX6vfpXXBQuQHJJhGLUS8HQd2TaI+Du+8e0/b1PdATyKeJxAaWaL8U++dF7a6UO1HcHNqKC99UGwCtLuAdrVTxHrhSUUPpcHLXtxDidXxlt73jW5qXIv6Ry/I338aTlOSDNRqUnwIBkhrRpw8mzbYIg4yzAXy5g2u6KVQCBAK7lrgFh11NBEFvlg6aTcIAOd0v+3S8dx4OCWNR2+uUUfB+sDGfw8CBPMEZ/BjCjZN2pAkRdVo4jfrjAy/rYLVca133r58Y1wMDwo+oT2G0NtG4WE7Jyb4z87JPfMuHdp/QOxCj9twglixH0ZkAr8XKTO73hEbqctfhCnAYCeVBbVU1PC4vBtsWs6ESuk2jO4Lvq9If1Ip2opllwO5VDIoizxpd4QZpXQ1sA14Cpz+yanhUra6SKLXoKdunreGwHVzx9MqcymAXNv4SAtgjJndzVOApgZZXCgSx6Li7Fm5F6BMOaWW5l2GaCc5xZ0C/+vuTgh77s2OjCFbs+pYwFn3JZqyRnYlHrbPPGdfr2H8zxivlGAeG/f3g6U4tgJuSNEryXz8KIvQcbrhyR2Dy9FuDbBpx+Hzq/ci/HxMjamemUCWl8WUI0olnXb2pl+wQnvS6AW7vrzeJRaW9ZhWzfUIMhu7SCIw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTEzOTUzOTg4MSwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmY5MjQ4OTcyNTA5M2Q1MWRkMThhMjU5MzgyZmEwMjA3YTIwYTk0NDk1ODgzZDlmNGIxZmQ5N2E4YTExYjlmMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
       "stats": {
-        "DEFENSE": 8,
-        "HEALTH": 8
-      }
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
+      },
+      "tier": "UNCOMMON"
     },
     {
       "category": "COSMETIC",
@@ -64112,6 +64342,11 @@
       "tier": "UNCOMMON"
     },
     {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
       "glowing": true,
       "id": "COMPACTOR",
       "material": "DROPPER",
@@ -67228,6 +67463,25 @@
       "tier": "RARE"
     },
     {
+      "category": "SWORD",
+      "id": "BASIC_SHEEP_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/basic_sheep_axe",
+      "material": "WOOD_AXE",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "game_stage": "STARTER",
+        "parent": {
+          "BASIC_SHEEP_AXE": "SHEEP_AXE"
+        }
+      },
+      "name": "Basic Sheep Axe",
+      "stats": {
+        "DAMAGE": 10
+      },
+      "tier": "COMMON"
+    },
+    {
       "category": "HELMET",
       "dungeon_item_conversion_cost": {
         "amount": 20,
@@ -67978,16 +68232,16 @@
       "tier": "EPIC"
     },
     {
-      "category": "AXE",
+      "category": "SWORD",
       "id": "SHEEP_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/sheep_axe",
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "museum_data": {
         "category": "FARMING",
         "donation_xp": 2,
         "game_stage": "INTERMEDIATE"
       },
-      "name": "Sheep Axe",
+      "name": "Advanced Sheep Axe",
       "requirements": [
         {
           "level": 15,
@@ -67995,6 +68249,9 @@
           "type": "SKILL"
         }
       ],
+      "stats": {
+        "DAMAGE": 20
+      },
       "tier": "UNCOMMON"
     },
     {
@@ -72104,16 +72361,16 @@
       }
     },
     {
-      "category": "AXE",
+      "category": "SWORD",
       "id": "PIG_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/pig_axe",
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "museum_data": {
         "category": "FARMING",
         "donation_xp": 2,
         "game_stage": "INTERMEDIATE"
       },
-      "name": "Pig Axe",
+      "name": "Advanced Pig Axe",
       "requirements": [
         {
           "level": 15,
@@ -72121,9 +72378,13 @@
           "type": "SKILL"
         }
       ],
+      "stats": {
+        "DAMAGE": 20
+      },
       "tier": "UNCOMMON"
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "SWORD",
       "dungeon_item_conversion_cost": {
         "amount": 100,
@@ -77202,12 +77463,7 @@
     },
     {
       "category": "LEGGINGS",
-      "color": "255,255,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
+      "color": "74,72,132",
       "id": "FARM_SUIT_LEGGINGS",
       "material": "LEATHER_LEGGINGS",
       "museum_data": {
@@ -77216,9 +77472,11 @@
         },
         "category": "FARMING",
         "game_stage": "STARTER",
-        "parent": {}
+        "parent": {
+          "FARM_SUIT": "FARM_ARMOR"
+        }
       },
-      "name": "Farm Suit Leggings",
+      "name": "Farmhand Leggings",
       "npc_sell_price": 32,
       "requirements": [
         {
@@ -77228,7 +77486,7 @@
         }
       ],
       "stats": {
-        "DEFENSE": 30,
+        "DEFENSE": 10,
         "FARMING_FORTUNE": 5
       }
     },
@@ -77878,7 +78136,7 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MDMxOTM3OCwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjUxZWIxNmYyMmRkNzUwNWJlNWRhZTA2NjcxODAzNjMzYTVhYmY4YjJiZWViNWM2MDU0ODY3MGRmMGU1OTIxNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "stats": {
-        "vitality": 5
+        "vitality": 2
       }
     },
     {
@@ -80141,7 +80399,8 @@
         }
       ],
       "stats": {
-        "DEFENSE": 10,
+        "DEFENSE": 15,
+        "HEALTH": 15,
         "INTELLIGENCE": 30
       },
       "tier": "UNCOMMON"
@@ -81871,7 +82130,8 @@
       ],
       "stats": {
         "DEFENSE": 30,
-        "HEALTH": 30
+        "HEALTH": 30,
+        "STRENGTH": 5
       },
       "tier": "UNCOMMON"
     },
@@ -82559,16 +82819,16 @@
       "tier": "LEGENDARY"
     },
     {
-      "category": "AXE",
+      "category": "SWORD",
       "id": "MUSHROOM_COW_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/mushroom_cow_axe",
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "museum_data": {
         "category": "FARMING",
         "donation_xp": 2,
         "game_stage": "INTERMEDIATE"
       },
-      "name": "Mushroom Cow Axe",
+      "name": "Advanced Mooshroom Axe",
       "requirements": [
         {
           "level": 15,
@@ -82576,6 +82836,9 @@
           "type": "SKILL"
         }
       ],
+      "stats": {
+        "DAMAGE": 20
+      },
       "tier": "UNCOMMON"
     },
     {
@@ -82817,7 +83080,8 @@
       ],
       "stats": {
         "DEFENSE": 60,
-        "HEALTH": 60
+        "HEALTH": 60,
+        "STRENGTH": 10
       },
       "tier": "RARE"
     },
@@ -85550,7 +85814,8 @@
       ],
       "stats": {
         "DEFENSE": 40,
-        "HEALTH": 40
+        "HEALTH": 40,
+        "STRENGTH": 5
       },
       "tier": "UNCOMMON"
     },
@@ -85830,9 +86095,9 @@
         }
       ],
       "stats": {
-        "DEFENSE": 30,
-        "HEALTH": 30,
-        "INTELLIGENCE": 50
+        "DEFENSE": 15,
+        "HEALTH": 15,
+        "INTELLIGENCE": 30
       },
       "tier": "RARE"
     },
@@ -88668,41 +88933,28 @@
       "skin": {
         "signature": "lHEVU3QtxSdStPWYtRy2pLJb+vIdEMWRy+GaNG4V2/JS0YYpCEPwafiDbTlsUUYI2eOJkLkj51DK0UIaeD8MaaoUuxsBGXyRL9C5FV+8J2thuPjSl6bMw/Dccj/Mcu1IyzZYmg1clEXIXQo4DhQJFRWCQaAHae//E64kK/c6IOW4KzArBLvgj4FDsi+B2T5qOIdKLU7/23qDczKL0q3VwfTq/Ol+Fd4zLvRlE6fgmS5WKaWuaA1NKw69fVx+kSkrDzXVEw6czO8zBPBOUGKQnssP7+Svi7evZj8vyvzmLXcMbHRgmScHSZDBiUJ4AXKkExSVPB7Ni2jnFL6IMKBm4uqdjlnq9zFLwXQjwL5aQ4MU0kmPcha51dfBzIkPsqCb7d0fJLe3qmRc3b/uoHBANb33PSGv94aULD0X2OH2sA1yAF/v2iR87XC+V2lo2JiE42tj/uyaDc7o0eOVBrmdkQf0UOAix1EIc54WzqPKmamkMIWQ7+dbGPyc8qhhoHaJlmn6pErI4Q9pqVv3WM9PQzBxMgc15Hkdr4170Hv8ZnqWT9hXdA97uFXnL4/9c/7A/wz0bYRhIqirLxu/apgzwFyyX2sWmfP56aIuXw2Q+DmP4phEea4jGUKUb61FrivlC9xAJ7nrHsIs2683oSYjXJiFvMuG9efzEoMNsh8ln+M=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTE0MTU1MTQ0OCwKICAicHJvZmlsZUlkIiA6ICJkODY1NjliNzg1ODU0OGU3OTJlYmJjNDM2MGYxNjkwNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPY2FuYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQ3YTMwYzgyZGJhOWY1YTdiZWZkNmFiYzE2MDg5ZTI5MjU2ZTUyZTA2ZjJhODVmMjQ2MWFjZDdhNTU3YzE0YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-      }
+      },
+      "stats": {
+        "FARMING_FORTUNE": 3
+      },
+      "tier": "UNCOMMON"
     },
     {
       "category": "HELMET",
       "color": "255,215,0",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        },
-        {
-          "costs": [
-            {
-              "amount": 20,
-              "item_id": "FINE_PERIDOT_GEM",
-              "type": "ITEM"
-            },
-            {
-              "coins": 50000,
-              "type": "COINS"
-            }
-          ],
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "FARM_ARMOR_HELMET",
-      "material": "LEATHER_HELMET",
+      "material": "HAY_BLOCK",
       "museum_data": {
         "armor_set_donation_xp": {
-          "FARM_ARMOR": 3
+          "FARM_ARMOR": 2
         },
         "category": "FARMING",
         "game_stage": "AMATEUR",
-        "parent": {}
+        "parent": {
+          "FARM_ARMOR": "PUMPKIN"
+        }
       },
-      "name": "Farm Armor Helmet",
+      "name": "Haymaker Helmet",
       "npc_sell_price": 3200,
       "requirements": [
         {
@@ -88712,11 +88964,10 @@
         }
       ],
       "stats": {
-        "DEFENSE": 40,
-        "FARMING_FORTUNE": 10,
-        "HEALTH": 20
+        "DEFENSE": 15,
+        "FARMING_FORTUNE": 10
       },
-      "tier": "RARE"
+      "tier": "COMMON"
     },
     {
       "category": "SWORD",
@@ -91025,6 +91276,7 @@
       "npc_sell_price": 2
     },
     {
+      "ability_damage_scaling": 0.3,
       "category": "WAND",
       "id": "CELESTE_WAND",
       "item_model": "hypixel_skyblock:item/uncategorized/celeste_wand",
@@ -91044,7 +91296,7 @@
         }
       ],
       "stats": {
-        "WEAPON_ABILITY_DAMAGE": 40
+        "WEAPON_ABILITY_DAMAGE": 250
       },
       "tier": "UNCOMMON"
     },
@@ -94224,6 +94476,30 @@
       "tier": "UNCOMMON"
     },
     {
+      "category": "FARMING_TOOL",
+      "id": "ROOKIE_FARMING_AXE",
+      "item_model": "hypixel_skyblock:item/uncategorized/rookie_farming_axe",
+      "material": "STONE_AXE",
+      "museum": true,
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 1,
+        "game_stage": "STARTER"
+      },
+      "name": "Rookie Farming Axe",
+      "npc_sell_price": 3,
+      "requirements": [
+        {
+          "level": 1,
+          "skill": "FARMING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "FARMING_FORTUNE": 5
+      }
+    },
+    {
       "catacombs_requirements": [
         {
           "dungeon_type": "CATACOMBS",
@@ -94332,16 +94608,16 @@
       "npc_sell_price": 0.5
     },
     {
-      "category": "AXE",
+      "category": "SWORD",
       "id": "COW_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/cow_axe",
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "museum_data": {
         "category": "FARMING",
         "donation_xp": 2,
         "game_stage": "INTERMEDIATE"
       },
-      "name": "Cow Axe",
+      "name": "Advanced Cow Axe",
       "requirements": [
         {
           "level": 15,
@@ -94349,6 +94625,9 @@
           "type": "SKILL"
         }
       ],
+      "stats": {
+        "DAMAGE": 20
+      },
       "tier": "UNCOMMON"
     },
     {
@@ -94809,6 +95088,7 @@
       }
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "SWORD",
       "dungeon_item_conversion_cost": {
         "amount": 100,
@@ -95509,6 +95789,7 @@
       "tier": "EPIC"
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "SWORD",
       "dungeon_item_conversion_cost": {
         "amount": 100,
@@ -95786,6 +96067,7 @@
       "tier": "EPIC"
     },
     {
+      "ability_damage_scaling": 0.3,
       "category": "WAND",
       "id": "STARLIGHT_WAND",
       "item_model": "hypixel_skyblock:item/uncategorized/starlight_wand",
@@ -95807,7 +96089,7 @@
         }
       ],
       "stats": {
-        "WEAPON_ABILITY_DAMAGE": 50
+        "WEAPON_ABILITY_DAMAGE": 300
       },
       "tier": "RARE"
     },
@@ -96217,16 +96499,16 @@
       "tier": "LEGENDARY"
     },
     {
-      "category": "AXE",
+      "category": "SWORD",
       "id": "RABBIT_AXE",
       "item_model": "hypixel_skyblock:item/uncategorized/rabbit_axe",
-      "material": "WOOD_AXE",
+      "material": "STONE_AXE",
       "museum_data": {
         "category": "FARMING",
         "donation_xp": 2,
         "game_stage": "INTERMEDIATE"
       },
-      "name": "Rabbit Axe",
+      "name": "Advanced Rabbit Axe",
       "requirements": [
         {
           "level": 15,
@@ -96234,6 +96516,9 @@
           "type": "SKILL"
         }
       ],
+      "stats": {
+        "DAMAGE": 20
+      },
       "tier": "UNCOMMON"
     },
     {
@@ -96327,7 +96612,8 @@
       ],
       "stats": {
         "DEFENSE": 40,
-        "HEALTH": 40
+        "HEALTH": 40,
+        "STRENGTH": 10
       },
       "tier": "RARE"
     },
@@ -97027,30 +97313,32 @@
     },
     {
       "category": "LEGGINGS",
-      "color": "237,170,54",
+      "color": "255,142,9",
       "id": "PUMPKIN_LEGGINGS",
       "material": "LEATHER_LEGGINGS",
       "museum_data": {
         "armor_set_donation_xp": {
-          "PUMPKIN": 2
+          "PUMPKIN": 3
         },
         "category": "FARMING",
-        "game_stage": "STARTER",
-        "parent": {}
+        "game_stage": "AMATEUR",
+        "parent": {
+          "PUMPKIN": "MELON"
+        }
       },
-      "name": "Pumpkin Leggings",
-      "npc_sell_price": 14,
+      "name": "Sprout Leggings",
       "requirements": [
         {
-          "level": 2,
+          "level": 15,
           "skill": "FARMING",
           "type": "SKILL"
         }
       ],
       "stats": {
-        "DEFENSE": 10,
-        "HEALTH": 10
-      }
+        "DEFENSE": 20,
+        "FARMING_FORTUNE": 15
+      },
+      "tier": "UNCOMMON"
     },
     {
       "durability": 3,
@@ -98088,7 +98376,7 @@
         "CRITICAL_DAMAGE": 25,
         "DEFENSE": 20,
         "HEALTH": 40,
-        "TRUE_DEFENSE": 5
+        "TRUE_DEFENSE": 20
       },
       "tier": "EPIC"
     },
@@ -101348,7 +101636,7 @@
       },
       "soulbound": "SOLO",
       "stats": {
-        "vitality": 5
+        "vitality": 3
       },
       "tier": "RARE"
     },
@@ -101675,7 +101963,7 @@
       ],
       "stats": {
         "CRITICAL_DAMAGE": 39,
-        "DAMAGE": 251,
+        "DAMAGE": 319,
         "STRENGTH": 151,
         "vitality": 20
       },
@@ -101940,7 +102228,9 @@
       "stats": {
         "DEFENSE": 35,
         "HEALTH": 100,
-        "INTELLIGENCE": 100
+        "INTELLIGENCE": 100,
+        "MENDING": 50,
+        "VITALITY": 50
       },
       "tier": "EPIC",
       "upgrade_costs": [
@@ -102021,7 +102311,9 @@
       "stats": {
         "DEFENSE": 10,
         "HEALTH": 50,
-        "INTELLIGENCE": 50
+        "INTELLIGENCE": 50,
+        "MENDING": 40,
+        "VITALITY": 40
       },
       "tier": "RARE",
       "upgrade_costs": [
@@ -102621,7 +102913,9 @@
       "stats": {
         "DEFENSE": 100,
         "HEALTH": 150,
-        "INTELLIGENCE": 100
+        "INTELLIGENCE": 100,
+        "MENDING": 60,
+        "VITALITY": 60
       },
       "tier": "LEGENDARY",
       "upgrade_costs": [
@@ -102663,6 +102957,7 @@
       ]
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "WAND",
       "glowing": true,
       "id": "WAND_OF_RESTORATION",
@@ -102688,6 +102983,7 @@
       "tier": "EPIC"
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "WAND",
       "glowing": true,
       "id": "WAND_OF_ATONEMENT",
@@ -102711,6 +103007,7 @@
       "tier": "LEGENDARY"
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "WAND",
       "glowing": true,
       "id": "WAND_OF_HEALING",
@@ -102736,6 +103033,7 @@
       "tier": "UNCOMMON"
     },
     {
+      "actionbar_resource": "VITALITY",
       "category": "WAND",
       "glowing": true,
       "id": "WAND_OF_MENDING",
@@ -103404,8 +103702,9 @@
         }
       ],
       "stats": {
-        "DEFENSE": -1000000,
-        "HEALTH": 500
+        "CRITICAL_DAMAGE": 15,
+        "DEFENSE": -30,
+        "HEALTH": 400
       },
       "tier": "EPIC"
     },
@@ -103485,8 +103784,9 @@
         "value": "eyJ0aW1lc3RhbXAiOjE1MzcwODc0Mzg4MTMsInByb2ZpbGVJZCI6ImNhYjI4ODVkMTUxNjQ1OTNhZmI2MDkwODJlOTE2NmU3IiwicHJvZmlsZU5hbWUiOiJGYW5jeV9MdWR3aWciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyODU5NTBmZDY3ODU4ZTc2YzQzOWIwYjViODdjNjlhNmM1MmE0ZGY5MzZlMjI0ZDg0M2IxNGMyMjU2NTk0OWUifX19"
       },
       "stats": {
-        "DEFENSE": -1000000,
-        "HEALTH": 500,
+        "CRITICAL_DAMAGE": 15,
+        "DEFENSE": -30,
+        "HEALTH": 300,
         "INTELLIGENCE": 125
       },
       "tier": "EPIC"
@@ -103562,8 +103862,9 @@
         }
       ],
       "stats": {
-        "DEFENSE": -1000000,
-        "HEALTH": 500,
+        "CRITICAL_DAMAGE": 15,
+        "DEFENSE": -30,
+        "HEALTH": 200,
         "INTELLIGENCE": 25
       },
       "tier": "EPIC"
@@ -103639,7 +103940,8 @@
         }
       ],
       "stats": {
-        "DEFENSE": -1000000,
+        "CRITICAL_DAMAGE": 15,
+        "DEFENSE": -30,
         "HEALTH": 500
       },
       "tier": "EPIC"
@@ -104061,9 +104363,10 @@
         }
       ],
       "stats": {
-        "DAMAGE": 120,
-        "STRENGTH": 20,
-        "WALK_SPEED": 5
+        "ATTACK_SPEED": 5,
+        "DAMAGE": 160,
+        "STRENGTH": 80,
+        "WALK_SPEED": 10
       },
       "tier": "LEGENDARY"
     },
@@ -104921,6 +105224,17 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIzNDA4OTU0NiwKICAicHJvZmlsZUlkIiA6ICIzMjFjNTBiMjJhY2Q0OGUxOGEyMGU0N2I2ZThhYjE2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWdodDEzMzM3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0YzkwNTJhYzQyZmZkYmEzNDg4MDJiZjYwZmU4MDlkOTk3Y2Y1MWJjMDQ2ZjYxZDEwMmQ2ZGYzZjM1ZDdjZDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "tier": "EPIC"
+    },
+    {
+      "can_recombobulate": false,
+      "force_wipe_recomb": true,
+      "glowing": true,
+      "id": "MAGIC_FOR_PETS",
+      "item_model": "hypixel_skyblock:item/uncategorized/magic_for_pets",
+      "material": "PAPER",
+      "name": "Magic For Pets In A Hurry",
+      "npc_sell_price": 2700,
+      "tier": "UNCOMMON"
     },
     {
       "durability": 3,
@@ -106997,121 +107311,81 @@
     {
       "category": "CHESTPLATE",
       "color": "203,210,219",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "RABBIT_CHESTPLATE",
       "material": "LEATHER_CHESTPLATE",
       "museum_data": {
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
         "category": "FARMING",
-        "game_stage": "SKILLED",
+        "game_stage": "STARTER",
         "parent": {}
       },
       "name": "Rabbit Chestplate",
-      "requirements": [
-        {
-          "level": 15,
-          "skill": "FARMING",
-          "type": "SKILL"
-        }
-      ],
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 40,
+        "walk_speed": 5
       }
     },
     {
       "category": "LEGGINGS",
       "color": "203,210,219",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "RABBIT_LEGGINGS",
       "material": "LEATHER_LEGGINGS",
       "museum_data": {
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
         "category": "FARMING",
-        "game_stage": "SKILLED",
+        "game_stage": "STARTER",
         "parent": {}
       },
       "name": "Rabbit Leggings",
-      "requirements": [
-        {
-          "level": 15,
-          "skill": "FARMING",
-          "type": "SKILL"
-        }
-      ],
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 30,
+        "walk_speed": 5
       }
     },
     {
       "category": "HELMET",
-      "color": "203,210,219",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
+      "durability": 3,
       "id": "RABBIT_HELMET",
-      "material": "LEATHER_HELMET",
+      "material": "SKULL_ITEM",
       "museum_data": {
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
         "category": "FARMING",
-        "game_stage": "SKILLED",
+        "game_stage": "STARTER",
         "parent": {}
       },
       "name": "Rabbit Helmet",
-      "requirements": [
-        {
-          "level": 15,
-          "skill": "FARMING",
-          "type": "SKILL"
-        }
-      ],
+      "skin": {
+        "signature": "KjzhHeGbPJVK/cwCrySP8+275jUrN3wcLxuNaDC1FWxdbsQq3cVdateP+NYfed55JWSw92vvGGDxd44kyQFGwzboFmPNxM9V2ETjF/+AM5t2OWe7dq8DdBRvmEgO6yYF7f7T6yvxn8tSOFYZDDFEeoQOzJNBgocNoF43PisJOLuqiPvGVgKZPDxnjM2TC+gNKTWRwypDyba9dcmHvzGHep6Jm3GnJ5b70Tf+bnYwbYZbrvZt7/rLz63QCqRrewxnsoffZ0ntiZI5d3f0y6V01oHf0Tc9xBfOlivtfOnMD79ARSEXsifVwtYO1gzGAwLCKkQuZSHk0U9SeUqwAhsr5+SAb0y9qGyBX9nAdeXNt9v17CqnzBQ7ThJAYOVrNLeR8T1HnYVWKckHGD+sW4vVrYYNUb7MhyhiuX0acg84BFDMRn54shrpCpoo7QKKpo6bzNXb3Ca7v3M4BS6ENp5YqLMlVufeDTLVRlv8ETgafsQowCP0bJX6EpKjBHSM6oXQcletqxPbxMw4Trf0Ur0BXjd4HxsIaRlhER7uZFi64XO3e28HUi/qgGqT9Kp8PQof4YnTgACsy1CVAtPnswGeyS/e6jHc5meqdlkcWOrvHUlaqUtm1J7D9jviCkr0o1YoHN4toQUFQsnOj8i17DJ3pYvgokavUTBsRxj2l27F+rI=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM1MjcxOTUzNCwKICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5NmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEwY2EyYjkwZDgzMWYxN2Y3YzhiNzcxZmIzOTczY2NhMmQ3NmE0NTZiYjdiNDdiODBkNjg3MmIwNWIyNTFmNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 15,
+        "walk_speed": 5
       }
     },
     {
       "category": "BOOTS",
       "color": "203,210,219",
-      "gemstone_slots": [
-        {
-          "slot_type": "PERIDOT"
-        }
-      ],
       "id": "RABBIT_BOOTS",
       "material": "LEATHER_BOOTS",
       "museum_data": {
         "armor_set_donation_xp": {
-          "RABBIT": 8
+          "RABBIT": 1
         },
         "category": "FARMING",
-        "game_stage": "SKILLED",
+        "game_stage": "STARTER",
         "parent": {}
       },
       "name": "Rabbit Boots",
-      "requirements": [
-        {
-          "level": 15,
-          "skill": "FARMING",
-          "type": "SKILL"
-        }
-      ],
       "stats": {
-        "FARMING_FORTUNE": 15
+        "defense": 15,
+        "walk_speed": 5
       }
     },
     {
@@ -107554,8 +107828,9 @@
     },
     {
       "category": "HELMET",
+      "durability": 3,
       "id": "MELON_HELMET",
-      "material": "MELON_BLOCK",
+      "material": "SKULL_ITEM",
       "museum_data": {
         "armor_set_donation_xp": {
           "MELON": 4
@@ -107566,14 +107841,18 @@
           "MELON": "CROPIE"
         }
       },
-      "name": "Melon Helmet",
+      "name": "Tater Helmet",
       "requirements": [
         {
-          "level": 25,
+          "level": 20,
           "skill": "FARMING",
           "type": "SKILL"
         }
       ],
+      "skin": {
+        "signature": "jyNytgvTGX/dkUvhaJwunuXn64Tk+2WYcPH3mWzO8R9w9+icEJJJYR7z8gaZJh7UCVnE3PJFkHUAWo7lUBGHfgmMjClJ9yLWsVRlgsjP9qxftbQCI1+KHsUIi5eZrocd7QLv+MIbOt3SjoHeNcjLqMWXFpj4OnludziP0dHve/hDUUHVzky0bU3OJ5n2M9XY12QTtF5J6zvC1s5pZBvaajJeTFyKMw9Fy4lbmSP5bG/w1pkRu3Mam2rpSfq+kwb+6vFbyeEbjTkXawzVvmx/N5c/z4e2i03ewY+TApyUQ4ngryoMVZts5hJfOYOVfny1EnE1C+rW3oIvzKee+h/yO0Acni0z3KLH2UwZEAe68O+06yxIT4/1fAkMjgC2RdIdz1zxV9CCJtVOYqLIpbFLYHRrJH9RgJZh6wbJuHjOikl2nBbDvIHyu+7Ky/5YP6Xn2RtsUwwoZ2OrKl+1iY6H+MUdvXiM5i10dLEFeLL4oiplE3uTs9yDlzapRvCwngcIS8U8S7MWBBMgqBPWpkshputZSC2WS+sVj4gNMPCdu1k3nb/mIluCu11ozM2h432nGaNaZF8pzhLM3QKe1dRP51qSn3OShA9CAiCsh0S15um4QiNFO92Jpqh5mjwpFItOkzhoBCB2PYq+GVcjd++7HwCc8iq/GH0qlY/oj+15fHY=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTE0MDY4MTUzOCwKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjA4NjY5ZTY5OWQ2ZjBkM2E3N2Y3NGIyYjI3MjI4Y2U1MWI5MzU5Njc4ZDI2ZjljMzQwODc2NGIyZTc3OWFhIgogICAgfQogIH0KfQ=="
+      },
       "stats": {
         "bonus_pest_chance": 10,
         "defense": 25,
@@ -107585,7 +107864,7 @@
     },
     {
       "category": "BOOTS",
-      "color": "137,158,32",
+      "color": "154,85,0",
       "id": "MELON_BOOTS",
       "material": "LEATHER_BOOTS",
       "museum_data": {
@@ -107598,10 +107877,10 @@
           "MELON": "CROPIE"
         }
       },
-      "name": "Melon Boots",
+      "name": "Tater Boots",
       "requirements": [
         {
-          "level": 25,
+          "level": 20,
           "skill": "FARMING",
           "type": "SKILL"
         }
@@ -107617,7 +107896,7 @@
     },
     {
       "category": "CHESTPLATE",
-      "color": "137,158,32",
+      "color": "248,208,134",
       "id": "MELON_CHESTPLATE",
       "material": "LEATHER_CHESTPLATE",
       "museum_data": {
@@ -107630,10 +107909,10 @@
           "MELON": "CROPIE"
         }
       },
-      "name": "Melon Chestplate",
+      "name": "Tater Chestplate",
       "requirements": [
         {
-          "level": 25,
+          "level": 20,
           "skill": "FARMING",
           "type": "SKILL"
         }
@@ -107649,7 +107928,7 @@
     },
     {
       "category": "LEGGINGS",
-      "color": "137,158,32",
+      "color": "200,151,58",
       "id": "MELON_LEGGINGS",
       "material": "LEATHER_LEGGINGS",
       "museum_data": {
@@ -107662,10 +107941,10 @@
           "MELON": "CROPIE"
         }
       },
-      "name": "Melon Leggings",
+      "name": "Tater Leggings",
       "requirements": [
         {
-          "level": 25,
+          "level": 20,
           "skill": "FARMING",
           "type": "SKILL"
         }
@@ -107678,6 +107957,46 @@
         "walk_speed": 3
       },
       "tier": "UNCOMMON"
+    },
+    {
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "MEDIUM_HONEY_DIPPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/medium_honey_dipper",
+      "material": "PAPER",
+      "name": "Medium Honey Dipper",
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "GIANT_HONEY_DIPPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/giant_honey_dipper",
+      "material": "PAPER",
+      "name": "Giant Honey Dipper",
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "LARGE_HONEY_DIPPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/large_honey_dipper",
+      "material": "PAPER",
+      "name": "Large Honey Dipper",
+      "tier": "EPIC",
+      "unstackable": true
+    },
+    {
+      "can_auction": false,
+      "can_recombobulate": false,
+      "id": "SMALL_HONEY_DIPPER",
+      "item_model": "hypixel_skyblock:item/uncategorized/small_honey_dipper",
+      "material": "PAPER",
+      "name": "Small Honey Dipper",
+      "tier": "UNCOMMON",
+      "unstackable": true
     },
     {
       "category": "COSMETIC",
@@ -109182,6 +109501,29 @@
     },
     {
       "has_uuid": true,
+      "id": "JUICY_SPRAYONATOR",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/juicy_sprayonator",
+      "material": "PAPER",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 4,
+        "game_stage": "SKILLED",
+        "mapped_item_ids": [],
+        "parent": {
+          "JUICY_SPRAYONATOR": "SALTY_SPRAYONATOR"
+        }
+      },
+      "name": "Juicy Sprayonator",
+      "requirements": [
+        {
+          "level": 5,
+          "type": "GARDEN_LEVEL"
+        }
+      ],
+      "tier": "RARE"
+    },
+    {
+      "has_uuid": true,
       "id": "WRIGGLING_LARVA",
       "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/wriggling_larva",
       "material": "PAPER",
@@ -109205,7 +109547,11 @@
       "museum_data": {
         "category": "FARMING",
         "donation_xp": 2,
-        "game_stage": "AMATEUR"
+        "game_stage": "AMATEUR",
+        "mapped_item_ids": [],
+        "parent": {
+          "SPRAYONATOR": "JUICY_SPRAYONATOR"
+        }
       },
       "name": "Sprayonator",
       "requirements": [
@@ -109214,7 +109560,6 @@
           "type": "GARDEN_LEVEL"
         }
       ],
-      "soulbound": "COOP",
       "tier": "UNCOMMON"
     },
     {
@@ -109274,6 +109619,15 @@
       "name": "Pray For Me Vinyl",
       "npc_sell_price": 50000,
       "tier": "UNCOMMON"
+    },
+    {
+      "description": "Can be used at %%green%%SkyMart %%gray%%to upgrade the %%green%%Sprayonator %%gray%%to the %%blue%%Juicy Sprayonator%%gray%%.",
+      "has_uuid": true,
+      "id": "JUICY_NOZZLE",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/juicy_nozzle",
+      "material": "PAPER",
+      "name": "Juicy Nozzle",
+      "tier": "RARE"
     },
     {
       "id": "HONEY_JAR",
@@ -109337,6 +109691,27 @@
       "name": "Firefly in the Hole Vinyl",
       "npc_sell_price": 50000,
       "tier": "UNCOMMON"
+    },
+    {
+      "has_uuid": true,
+      "id": "SALTY_SPRAYONATOR",
+      "item_model": "hypixel_skyblock:item/island_relevant/garden/pests/salty_sprayonator",
+      "material": "PAPER",
+      "museum_data": {
+        "category": "FARMING",
+        "donation_xp": 8,
+        "game_stage": "PROFESSIONAL",
+        "mapped_item_ids": [],
+        "parent": {}
+      },
+      "name": "Salty Sprayonator",
+      "requirements": [
+        {
+          "level": 5,
+          "type": "GARDEN_LEVEL"
+        }
+      ],
+      "tier": "EPIC"
     },
     {
       "glowing": true,
@@ -109937,7 +110312,7 @@
         }
       ],
       "stats": {
-        "FARMING_FORTUNE": 5
+        "FARMING_FORTUNE": 10
       },
       "tier": "UNCOMMON"
     },
@@ -110013,7 +110388,7 @@
         }
       ],
       "stats": {
-        "FARMING_FORTUNE": 10
+        "FARMING_FORTUNE": 15
       },
       "tier": "RARE"
     },
@@ -110044,7 +110419,7 @@
         }
       ],
       "stats": {
-        "FARMING_FORTUNE": 10
+        "FARMING_FORTUNE": 15
       },
       "tier": "RARE"
     },
@@ -110090,7 +110465,7 @@
         }
       ],
       "stats": {
-        "FARMING_FORTUNE": 5
+        "FARMING_FORTUNE": 10
       },
       "tier": "UNCOMMON"
     },
@@ -115014,7 +115389,7 @@
       "id": "VAMPIRE_DENTIST_RELIC",
       "item_specific": {
         "bonus_heal": 1,
-        "cooldown_seconds": 1
+        "cooldown_seconds": 20
       },
       "material": "SKULL_ITEM",
       "name": "Vampire Dentist Relic",
@@ -115033,7 +115408,7 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NTU0NTY1NDAyNywKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkMDZkOWEwNGE1YTc3MjA2MTRlOTM0Yzc1YzZiNjUxZjBlYmFiZWEzYTc0NjFmMWM3NDEwNWM3YTJhMGU2NzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "stats": {
-        "health_regeneration": 10,
+        "health_regeneration": 5,
         "rift_health": 1,
         "rift_time": 30,
         "vitality": 1
@@ -117808,7 +118183,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "MEDIUM_SEAL_PLUSHIE",
       "material": "SKULL_ITEM",
@@ -117823,7 +118197,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "GIANT_SEAL_PLUSHIE",
       "material": "SKULL_ITEM",
@@ -117836,7 +118209,6 @@
       "unstackable": true
     },
     {
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "GIANT_FROG_TREAT",
       "material": "SKULL_ITEM",
@@ -117851,7 +118223,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "SMALL_PIG_EAR",
       "material": "SKULL_ITEM",
@@ -117864,7 +118235,6 @@
       "unstackable": true
     },
     {
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "MEDIUM_FROG_TREAT",
       "material": "SKULL_ITEM",
@@ -117879,7 +118249,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "MEDIUM_PIG_EAR",
       "material": "SKULL_ITEM",
@@ -117894,7 +118263,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "LARGE_PIG_EAR",
       "material": "SKULL_ITEM",
@@ -117909,7 +118277,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "SMALL_SEAL_PLUSHIE",
       "material": "SKULL_ITEM",
@@ -117922,7 +118289,6 @@
       "unstackable": true
     },
     {
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "LARGE_FROG_TREAT",
       "material": "SKULL_ITEM",
@@ -117937,7 +118303,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "GIANT_PIG_EAR",
       "material": "SKULL_ITEM",
@@ -117950,7 +118315,6 @@
       "unstackable": true
     },
     {
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "SMALL_FROG_TREAT",
       "material": "SKULL_ITEM",
@@ -117965,7 +118329,6 @@
     {
       "can_auction": false,
       "can_recombobulate": false,
-      "category": "PET_ITEM",
       "durability": 3,
       "id": "LARGE_SEAL_PLUSHIE",
       "material": "SKULL_ITEM",
@@ -145237,6 +145600,9 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NDE5OTg2NjQ1NSwKICAicHJvZmlsZUlkIiA6ICJlNzM4MTYzZTYwM2M0MTFkOTg4MzNiYzkyZTI4Y2IyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW5va3JhdGVzUml0dmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZiNWFlZGZhZjE1N2QzZGQwMDM4Mzk4MGNkMzU1NTZhZWMzNzY3YzY3ZDNlOGUxMjI0NGVhMmZkZTE5ODE0NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "soulbound": "SOLO",
+      "stats": {
+        "health_regeneration": 0.5
+      },
       "tier": "EPIC"
     },
     {
@@ -145334,6 +145700,6 @@
       "tier": "LEGENDARY"
     }
   ],
-  "lastUpdated": 1783519272515,
+  "lastUpdated": 1784730494765,
   "success": true
 }
