@@ -477,6 +477,7 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
+                "Beginner Combat Sack Recipe",
                 "Zombie Pickaxe Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -759,7 +760,7 @@
               "tier": 6,
               "unlocks": [
                 "Infinite Quiver Exp Discount (-25%)",
-                "Large Quiver Upgrade (+9 slots)",
+                "+9 Quiver Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -783,7 +784,7 @@
               "amountRequired": 50000,
               "tier": 9,
               "unlocks": [
-                "Giant Quiver Upgrade (+9 slots)",
+                "+9 Quiver Slots",
                 "+4 SkyBlock XP"
               ]
             }
@@ -947,7 +948,7 @@
               "amountRequired": 50000,
               "tier": 9,
               "unlocks": [
-                "+5,000 Farming Experience",
+                "+50,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1017,7 +1018,10 @@
               "amountRequired": 50000,
               "tier": 8,
               "unlocks": [
-                "Superb Carrot Candy Recipe",
+                "Sprout Helmet Recipe",
+                "Sprout Chestplate Recipe",
+                "Sprout Leggings Recipe",
+                "Sprout Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1025,7 +1029,7 @@
               "amountRequired": 100000,
               "tier": 9,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "Superb Carrot Candy Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1196,7 +1200,7 @@
               "amountRequired": 200,
               "tier": 2,
               "unlocks": [
-                "+20 Farming Experience",
+                "+50 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1252,7 +1256,7 @@
               "amountRequired": 100000,
               "tier": 9,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "+30,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1340,7 +1344,7 @@
               "amountRequired": 50000,
               "tier": 10,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "+50,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1370,7 +1374,7 @@
               "amountRequired": 500,
               "tier": 2,
               "unlocks": [
-                "+50 Farming Experience",
+                "+100 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1378,7 +1382,7 @@
               "amountRequired": 1250,
               "tier": 3,
               "unlocks": [
-                "+125 Farming Experience",
+                "+250 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1410,7 +1414,7 @@
               "amountRequired": 50000,
               "tier": 7,
               "unlocks": [
-                "+5,000 Farming Experience",
+                "+10,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1418,7 +1422,7 @@
               "amountRequired": 100000,
               "tier": 8,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "+20,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1426,10 +1430,8 @@
               "amountRequired": 250000,
               "tier": 9,
               "unlocks": [
-                "Melon Helmet Recipe",
-                "Melon Chestplate Recipe",
-                "Melon Leggings Recipe",
-                "Melon Boots Recipe",
+                "+50,000 Farming Experience",
+                "Juicy Nozzle Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1475,7 +1477,7 @@
               "amountRequired": 100000,
               "tier": 5,
               "unlocks": [
-                "+20,000 Farming Experience",
+                "+50,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1584,7 +1586,7 @@
               "amountRequired": 50000,
               "tier": 9,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "+50,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1606,7 +1608,7 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
-                "+10 Farming Experience",
+                "Beginner Husbandry Sack Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1694,7 +1696,7 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
-                "Small Potion Bag",
+                "Potion Bag",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1718,7 +1720,7 @@
               "amountRequired": 2500,
               "tier": 5,
               "unlocks": [
-                "Medium Potion Bag Upgrade (+9 slots)",
+                "+9 Potion Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1726,7 +1728,7 @@
               "amountRequired": 5000,
               "tier": 6,
               "unlocks": [
-                "+500 Alchemy Experience",
+                "+1,500 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1742,7 +1744,7 @@
               "amountRequired": 25000,
               "tier": 8,
               "unlocks": [
-                "Large Potion Bag Upgrade (+9 slots)",
+                "+9 Potion Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1758,7 +1760,7 @@
               "amountRequired": 75000,
               "tier": 10,
               "unlocks": [
-                "Giant Potion Bag Upgrade (+9 slots)",
+                "+9 Potion Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1774,7 +1776,7 @@
               "amountRequired": 250000,
               "tier": 12,
               "unlocks": [
-                "Massive Potion Bag Upgrade (+9 slots)",
+                "+9 Potion Bag Slots",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1796,7 +1798,7 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
-                "+500 Farming Experience",
+                "+100 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1813,7 +1815,7 @@
               "amountRequired": 1000,
               "tier": 4,
               "unlocks": [
-                "+2,500 Farming Experience",
+                "+1,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1829,7 +1831,7 @@
               "amountRequired": 5000,
               "tier": 6,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "+5,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1931,7 +1933,10 @@
               "amountRequired": 100000,
               "tier": 9,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "Tater Helmet Recipe",
+                "Tater Chestplate Recipe",
+                "Tater Leggings Recipe",
+                "Tater Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1953,10 +1958,7 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
-                "Pumpkin Helmet Recipe",
-                "Pumpkin Chestplate Recipe",
-                "Pumpkin Leggings Recipe",
-                "Pumpkin Boots Recipe",
+                "Farmer Orb Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1989,7 +1991,7 @@
               "amountRequired": 5000,
               "tier": 6,
               "unlocks": [
-                "Farmer Orb Recipe",
+                "+5,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2051,7 +2053,10 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
-                "+100 Farming Experience",
+                "Rabbit Helmet Recipe",
+                "Rabbit Chestplate Recipe",
+                "Rabbit Leggings Recipe",
+                "Rabbit Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2110,10 +2115,7 @@
               "amountRequired": 50000,
               "tier": 9,
               "unlocks": [
-                "Rabbit Helmet Recipe",
-                "Rabbit Chestplate Recipe",
-                "Rabbit Leggings Recipe",
-                "Rabbit Boots Recipe",
+                "+50,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -2312,7 +2314,6 @@
               "amountRequired": 2000,
               "tier": 5,
               "unlocks": [
-                "Enchanted Paper Recipe",
                 "Speed Ring Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2321,7 +2322,7 @@
               "amountRequired": 5000,
               "tier": 6,
               "unlocks": [
-                "Enchanted Bookshelf Recipe",
+                "Enchanted Paper Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2329,7 +2330,7 @@
               "amountRequired": 10000,
               "tier": 7,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "Magic For Pets In A Hurry Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2338,7 +2339,6 @@
               "tier": 8,
               "unlocks": [
                 "Enchanted Sugar Cane Recipe",
-                "Speed Artifact Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2346,7 +2346,7 @@
               "amountRequired": 50000,
               "tier": 9,
               "unlocks": [
-                "+25,000 Farming Experience",
+                "Speed Artifact Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -2368,7 +2368,11 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
-                "Harvesting Exp Discount (-25%)",
+                "Beginner Agronomy Sack Recipe",
+                "Farmhand Helmet Recipe",
+                "Farmhand Chestplate Recipe",
+                "Farmhand Leggings Recipe",
+                "Farmhand Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2376,10 +2380,7 @@
               "amountRequired": 250,
               "tier": 3,
               "unlocks": [
-                "Farm Suit Helmet Recipe",
-                "Farm Suit Chestplate Recipe",
-                "Farm Suit Leggings Recipe",
-                "Farm Suit Boots Recipe",
+                "Harvesting Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2387,7 +2388,7 @@
               "amountRequired": 500,
               "tier": 4,
               "unlocks": [
-                "Farming Talisman Recipe",
+                "Enchanted Wheat Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2395,7 +2396,7 @@
               "amountRequired": 1000,
               "tier": 5,
               "unlocks": [
-                "Enchanted Wheat Recipe",
+                "Small Agronomy Sack Recipe",
                 "Enchanted Bread Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2404,6 +2405,10 @@
               "amountRequired": 2500,
               "tier": 6,
               "unlocks": [
+                "Haymaker Helmet Recipe",
+                "Haymaker Chestplate Recipe",
+                "Haymaker Leggings Recipe",
+                "Haymaker Boots Recipe",
                 "Farming Island Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2412,7 +2417,7 @@
               "amountRequired": 10000,
               "tier": 7,
               "unlocks": [
-                "Small Agronomy Sack Recipe",
+                "Farming Talisman Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2428,10 +2433,7 @@
               "amountRequired": 25000,
               "tier": 9,
               "unlocks": [
-                "Farm Armor Helmet Recipe",
-                "Farm Armor Chestplate Recipe",
-                "Farm Armor Leggings Recipe",
-                "Farm Armor Boots Recipe",
+                "+25,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2494,7 +2496,7 @@
               "amountRequired": 100000,
               "tier": 5,
               "unlocks": [
-                "+25,000 Farming Experience",
+                "+50,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3014,7 +3016,7 @@
               "amountRequired": 100,
               "tier": 3,
               "unlocks": [
-                "Small Fishing Bag",
+                "Fishing Bag",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3046,7 +3048,7 @@
               "amountRequired": 2500,
               "tier": 7,
               "unlocks": [
-                "Medium Fishing Bag Upgrade (+9 slots)",
+                "+9 Fishing Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3062,7 +3064,7 @@
               "amountRequired": 30000,
               "tier": 9,
               "unlocks": [
-                "Large Fishing Bag Upgrade (+9 slots)",
+                "+9 Fishing Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3070,7 +3072,7 @@
               "amountRequired": 45000,
               "tier": 10,
               "unlocks": [
-                "Giant Fishing Bag Upgrade (+9 slots)",
+                "+9 Fishing Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3078,7 +3080,7 @@
               "amountRequired": 60000,
               "tier": 11,
               "unlocks": [
-                "Massive Fishing Bag Upgrade (+9 slots)",
+                "+9 Fishing Bag Slots",
                 "+4 SkyBlock XP"
               ]
             }
@@ -3206,7 +3208,7 @@
               "amountRequired": 200,
               "tier": 5,
               "unlocks": [
-                "Medium Sack of Sacks Upgrade (+4 slots)",
+                "+4 Small Sack of Sacks Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3214,7 +3216,7 @@
               "amountRequired": 400,
               "tier": 6,
               "unlocks": [
-                "Large Sack of Sacks Upgrade (+4 slots)",
+                "+4 Small Sack of Sacks Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3223,7 +3225,7 @@
               "tier": 7,
               "unlocks": [
                 "Tropical Cloak Recipe",
-                "Greater Sack of Sacks Upgrade (+4 slots)",
+                "+4 Small Sack of Sacks Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3231,7 +3233,7 @@
               "amountRequired": 1600,
               "tier": 8,
               "unlocks": [
-                "Giant Sack of Sacks Upgrade (+4 slots)",
+                "+4 Small Sack of Sacks Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3239,7 +3241,7 @@
               "amountRequired": 4000,
               "tier": 9,
               "unlocks": [
-                "Massive Sack of Sacks Upgrade (+5 slots)",
+                "+5 Small Sack of Sacks Slots",
                 "+4 SkyBlock XP"
               ]
             }
@@ -3253,7 +3255,7 @@
               "amountRequired": 20,
               "tier": 1,
               "unlocks": [
-                "Pufferfish Hat Recipe",
+                "Spiked Bait Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3261,7 +3263,7 @@
               "amountRequired": 50,
               "tier": 2,
               "unlocks": [
-                "Enchanted Pufferfish Recipe",
+                "Beginner Fishing Sack Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3269,7 +3271,8 @@
               "amountRequired": 100,
               "tier": 3,
               "unlocks": [
-                "Cleave Exp Discount (-25%)",
+                "Pufferfish Hat Recipe",
+                "Spiked Hook Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3277,7 +3280,8 @@
               "amountRequired": 150,
               "tier": 4,
               "unlocks": [
-                "Depth Strider Exp Discount (-25%)",
+                "Enchanted Pufferfish Recipe",
+                "Cleave Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3285,7 +3289,6 @@
               "amountRequired": 400,
               "tier": 5,
               "unlocks": [
-                "Spiked Bait Recipe",
                 "Small Fishing Sack Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3294,7 +3297,7 @@
               "amountRequired": 800,
               "tier": 6,
               "unlocks": [
-                "Spiked Hook Exp Discount (-25%)",
+                "Depth Strider Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3775,6 +3778,7 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
+                "Beginner Foraging Sack Recipe",
                 "Birch Leaves Trade",
                 "+4 SkyBlock XP"
               ]
@@ -3783,7 +3787,6 @@
               "amountRequired": 250,
               "tier": 3,
               "unlocks": [
-                "Enchanted Birch Log Recipe",
                 "Portal to Birch Park Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3800,7 +3803,8 @@
               "amountRequired": 1000,
               "tier": 5,
               "unlocks": [
-                "Birch Forest Biome Stick Recipe",
+                "Small Foraging Sack Recipe",
+                "Enchanted Birch Log Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3808,7 +3812,7 @@
               "amountRequired": 2000,
               "tier": 6,
               "unlocks": [
-                "Small Foraging Sack Recipe",
+                "Birch Forest Biome Stick Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4473,6 +4477,7 @@
               "amountRequired": 100,
               "tier": 2,
               "unlocks": [
+                "Beginner Mining Sack Recipe",
                 "Smelting Touch Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
@@ -6083,7 +6088,7 @@
           ]
         },
         "REDSTONE": {
-          "maxTiers": 16,
+          "maxTiers": 9,
           "name": "Redstone Dust",
           "tiers": [
             {
@@ -6098,7 +6103,8 @@
               "amountRequired": 250,
               "tier": 2,
               "unlocks": [
-                "Small Accessory Bag",
+                "Enchanted Redstone Dust Recipe",
+                "+6 Accessory Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6107,6 +6113,7 @@
               "tier": 3,
               "unlocks": [
                 "Efficiency Exp Discount (-25%)",
+                "+6 Accessory Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6114,15 +6121,17 @@
               "amountRequired": 1500,
               "tier": 4,
               "unlocks": [
-                "Enchanted Redstone Dust Recipe",
+                "Weather Stick Recipe",
+                "+6 Accessory Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
             {
-              "amountRequired": 3000,
+              "amountRequired": 2500,
               "tier": 5,
               "unlocks": [
-                "Weather Stick Recipe",
+                "Travel Scroll to Deep Caverns Recipe",
+                "+6 Accessory Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6130,91 +6139,36 @@
               "amountRequired": 5000,
               "tier": 6,
               "unlocks": [
-                "Medium Accessory Bag Upgrade (+6 slots)",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 10000,
-              "tier": 7,
-              "unlocks": [
-                "Travel Scroll to Deep Caverns Recipe",
+                "Personal Compactor 4000 Recipe",
+                "+6 Accessory Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "amountRequired": 25000,
-              "tier": 8,
+              "tier": 7,
               "unlocks": [
                 "Enchanted Redstone Block Recipe",
+                "Personal Compactor 5000 Recipe",
+                "+6 Accessory Bag Slots",
                 "+4 SkyBlock XP"
               ]
             },
             {
-              "amountRequired": 50000,
+              "amountRequired": 100000,
+              "tier": 8,
+              "unlocks": [
+                "Personal Compactor 6000 Recipe",
+                "+6 Accessory Bag Slots",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "amountRequired": 250000,
               "tier": 9,
               "unlocks": [
-                "Large Accessory Bag Upgrade (+6 slots)",
-                "Personal Compactor 4000 Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 200000,
-              "tier": 10,
-              "unlocks": [
-                "Greater Accessory Bag Upgrade (+6 slots)",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 400000,
-              "tier": 11,
-              "unlocks": [
-                "Giant Accessory Bag Upgrade (+6 slots)",
-                "Personal Compactor 5000 Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 600000,
-              "tier": 12,
-              "unlocks": [
-                "Massive Accessory Bag Upgrade (+6 slots)",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 800000,
-              "tier": 13,
-              "unlocks": [
-                "Humongous Accessory Bag Upgrade (+6 slots)",
-                "Personal Compactor 6000 Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 1000000,
-              "tier": 14,
-              "unlocks": [
-                "Colossal Accessory Bag Upgrade (+6 slots)",
                 "Personal Compactor 7000 Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 1200000,
-              "tier": 15,
-              "unlocks": [
-                "Titanic Accessory Bag Upgrade (+6 slots)",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "amountRequired": 1400000,
-              "tier": 16,
-              "unlocks": [
-                "Preposterous Accessory Bag Upgrade (+6 slots)",
+                "+6 Accessory Bag Slots",
                 "+4 SkyBlock XP"
               ]
             }
@@ -6923,7 +6877,7 @@
       "name": "Rift"
     }
   },
-  "lastUpdated": 1783520134892,
+  "lastUpdated": 1784731062103,
   "success": true,
-  "version": "0.26.0.0"
+  "version": "0.26.1.0"
 }
