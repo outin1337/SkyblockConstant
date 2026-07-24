@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1784833062122,
+  "lastUpdated": 1784919119970,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy EXP!",
@@ -3563,7 +3563,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lord Jawbus Sea Creature",
             "Treasure Hunter XLV   Grants +4.4➜4.5  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
@@ -6165,5 +6165,5 @@
     }
   },
   "success": true,
-  "version": "0.26.1.4"
+  "version": "0.26.1.6"
 }
