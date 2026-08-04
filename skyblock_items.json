@@ -5873,6 +5873,19 @@
     {
       "durability": 3,
       "generator": "BIRCH",
+      "generator_tier": 12,
+      "id": "BIRCH_GENERATOR_12",
+      "material": "SKULL_ITEM",
+      "name": "Birch Minion XIi",
+      "skin": {
+        "signature": "wTwnWRBvO4HmuEQRoeO75/WXM9k5MX+T4wPhSDcTEytaH+5juSjcA2ODLckPNJqZ03e1+ErJ1vqa2gBvhPIO2NleW948SW6SWOhd4t4axvIbTyws5wflZZ98jFHLpKzvxNKFZqXZfTZKE/Mf9eq6EZUXTzcuxboVegde1IhrWuxX2O24vYNj3Bh0Mojs+Qx4Pi5YSOhMpPix8tUpZ6nCUGFKAeBxCAFgM2jltJsDVnnZhtzSDD4gqKgngkqMIUfCCxvTIaWoLMjRJkAxd4jid8H7k8zBPZsaA9XbhJ+kZac3HahTvTWfHju4AnWk3gJWt+cQ2b9fQz+F9S4NivzHYhxk5C+JNw06r8EEuZNdOHdSqh9jM7WkmKRBMgDaXfZWa8ZRO6j+tvsYfKWvyyBowkJL5SXXlWmzYO8eA1a/ZiHu9OTtUad7DWGreaKV1n6O9vzLn6jP6jHVj5Mgc51yZhRF2N8fyVNUVcYTrTe7cfuNDsOyIKiLb1pW/lioKt5zypjyuCVFB/U5ezGG6Wi8lP3WXAUTghkmF7C04Uvj5HKZnJpAVjpZjFXtaLbzmEj0KdIWmD1lMXRr0RrJ0de9t7Q8o6tdRM08vyBqzKh8a6XQy1sHO5G8TW+DdDxmJJf46jLgAHZZblvM+OeMBvClJIbqab2i3SqYQbpaSxHpYtM=",
+        "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzAxMzUzNDEsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNzQ2MTIyOWRmMDc2ZjgxMzdhNDU2MGIzODM2NWFlNDg0MzBiMDEwNzBiOTAyMjFhYTU4NDYyODRjMTdiODc2In19fQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "BIRCH",
       "generator_tier": 9,
       "id": "BIRCH_GENERATOR_9",
       "material": "SKULL_ITEM",
@@ -6088,6 +6101,19 @@
       "skin": {
         "signature": "XkgymAlsIXHThB5+1aWxQ0Z0BJMhI+vLbMgBp7TB6ud8B0DXfCPczDQ5E0ix12qbhw1mYMenv0JsppyFOYh3xnvW/4yqVI9c3Zv3rgpYaikgmnz5fCCaz8yntDVSlSK1/5r5v62yFIQoS8iN85ric2GRe8B+Z1YISZIXoMXCTdaBJ6jKjrEjRD1QkUAnVso9v1sJ8bZAR4Ed3XwHyli1hQDg77QKxsQsBLuXUHkNVz6eTz+UV7bB+S2cGrqI29xki8rZOVDXjmsRkNXttzchWN5gOdat6CzIhj0XD9NeCKm7AlzdY9qdwDTPqSSv6gektiFCmKNHVevY5g8JjMoYZvMgRevvY2QMY+KSSCLBb+zIS4msAvneh3I+P2u4B+2ialtB1+41HEwGf8T87tYj6O1oLXo44ozLjtIQbfw7AmRH+cIS4ARnjvDyQHE7p5uJl6Uh//Vhb42AiVg1aIiXSXarMcYpuu6o9xpUwMgErqCqLKJU+m4copAa3bA6rwSFJKip8RPYrn8LGoyyNi2tF+ER6kIVnIkqx2DdslHY4MeeKNJ9QLJjbhnkHHDYF0g4PB67RSnSBb3G1whovovjfAhgMGSRdqcoLRvipn6/GlaYrk5AAa5H/MzMDZdw/TD9VKXHvz4fWKExLeK5frIWnHbfPA9OPDuvnnTrEcwZwp4=",
         "value": "eyJ0aW1lc3RhbXAiOjE1NTc5Mjk2OTk5OTcsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk2MDliY2ZlY2FkNzNjODRkZDk1NzY3MzQzOWE3ZjU2NDI2MjY5ZmM1NjliNmU4NDA1ZDFhMWMwNWNlZDg1NTcifX19"
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "ACACIA",
+      "generator_tier": 12,
+      "id": "ACACIA_GENERATOR_12",
+      "material": "SKULL_ITEM",
+      "name": "Acacia Minion XII",
+      "skin": {
+        "signature": "Ny0PWA2SuANL78Q5pk7qgLfyFPIV4wHRktUVwepXXd/2L+2qrGgP5FkDBgInDkkKVWcfYryphPR3JGuElh0TXCCbKKuz3bkiGFqwHMPCD1+JcKzG1Ok6bESs13F7pUDazode1iw4dEmQjtrkG9c/sBPg+A5yqA3BnG+b3/c0m0pMaECAEMo+7NH0yZN90m8N32KOn7pUjGbkQRwdOet98AX6bAajQg30csPM+AjunHVNUJ6jpJMC97gDWWJ/6K8WJXBrL7jd6CJ9Nbr2oxN9n9yl6cjVQ/T8f+0cxF2kxaedSgSm2JGXrnm5n9scSAXd1Ml+aWZndGAILNgXApuhfWdu+Sk8PymLH3UyuNsOC0lXCI3JAlRKDhI2vMHuFl+cTB7NSAGjV5R2QwNIP3BNnJUGxSYrsEG220mWmBqxiGhGlSoNrl1jGFseDLr+no1YPgGo0VMof2RSV/Y01ry2I+RkP3hoPOmDp8/vw0twqpQ7lvZTqa62sNcbaFo4iSHAaFCasHrbjZQ1n8oC6MpwZffypsGxTTMwsWdrS2jDQIbNC0YusQwXrW5QjqB21IMwq3tOMfYs8XYos/EjhYvaHTgphcVwV11H3iRjaFLEXaAZP+2uqix1VXh+CGSNv8A01hV2XVrQEv28gwiHXzvpg0UqdETz4qvTvGuAt5S32ik=",
+        "value": "eyJ0aW1lc3RhbXAiOjE1NTc5Mjk5NzM2MzksInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRmNmUzNDY1NmYyMzhlZDBkNjgyM2ZjMzFjYjE2NDU1Zjc5YWE5NzU2ODg0MjI1ZDZjZTRlZjY4MWM4MjQwZWIifX19"
       },
       "tier": "RARE"
     },
@@ -10539,6 +10565,19 @@
     {
       "durability": 3,
       "generator": "JUNGLE",
+      "generator_tier": 12,
+      "id": "JUNGLE_GENERATOR_12",
+      "material": "SKULL_ITEM",
+      "name": "Jungle Minion XII",
+      "skin": {
+        "signature": "ghOiI9s4VwgJZTvqJLzwJ9snGzWAKPVX6TOKa3o4KyJ0m5f6H43MlbiiquMNgQ87k67TvAbUSLkhXO629Y295yQ+bRfDT4/jD+8LB1P2E+mH++uZYwmLD2Lxmr9cC2koO9ahKDvymr+8UCOvSE+Q3br8LWQ2d7qjAK/T9lnGTckEXFs7+Ti2GLUu6Y//7axmn9EBLQwSWXHHtHbtuYDOkU64PRsK4VbVyc8FuvATEfxU/AVXwMaJm5Lepq7RrnqvGb5HIbjrR7ejVNwo8qLZFn0BEmkMNcO4xFs4klqCnDYLtSh+PBktK2S6dbDoG35Mm4fJOWu51rg/sWn4Z21vGxUnnP3r2qEoO1k+WAPnNjzXr0LKUSRduscI7ZwlUGjwZF31u8hBnR3nx6Uu2T2Wir4U96be24j/XRXK7fWwJ0r1YPfseB/UnOXT1wtMxdQ5bAPmE0+RwJTvmr/p0ZJHajYkZguJ5urKDC3KreqV9O/5lu4pkho5HWjDXnlm3ULiznpNFtV0pGh2n3niMsFeWs2eObTQWnRiDu0vaZJU6lWAstjGo0gpA1T1F2BQY4Y16/1oyEMe4Wchon2zep1sG/IMzLhZvGnuAhPqZRXDzLmwVyMlLoVH3CxX027gTd0tFtd4VF0FAVDRsFAzXJl/CK4yk5OhGZZue6DRSZIFfBQ=",
+        "value": "eyJ0aW1lc3RhbXAiOjE1NTc5Mzc0OTE2ODUsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGJlZmM0ZThkNWM3M2Q5YTllM2ZlNWIxMDA5ZjU2OGM1ZDNjYjA3MWZhODY5YjU0ZDI2MDRjYWRlZjQ3NDUwNSJ9fX0="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "JUNGLE",
       "generator_tier": 9,
       "id": "JUNGLE_GENERATOR_9",
       "material": "SKULL_ITEM",
@@ -11014,6 +11053,19 @@
       "skin": {
         "signature": "bXLcxVYfeg/HgkxzY56o3in8vJgRISpoPJ1KiTUNnBS9KcBqOpdHLITegUHcxNMLaRHKSentg05OP2q3KFyCDLc/osUQjc3ZW3e8JVPe0BfmbNWudqjoKG0Tt1OLa84koogOkWfos+GJzhz9SOiQ41lesAty5l9LhDe7o2zEmqXNUU4xheLzR/NsaaeuAYGC27tm9KnQZc7vg0xXepgzDUc1o0R5AZHhfdTCMtF6/23nFEnaZ9oBZ9VTFNttc25n/btnzrCwI6Rb0uEIHhaaqY5qVHiB91z+/uJE2FBQSVei6/v8VancOyBOJus++57w45Ix/ZA/5PjafAP1N4jOeMHxXDteY/ceHJqA1Te4Zf3jIITc3vl4XVOgcgvKmDcUyeG1TdWsAlaxw7FJZMhgvg5znWKDb5FArP50Z9kW2f9cHdxxiYyNK6vS8rW3127tWCN3MJaXbE952EGH5dC6X2IPqrm8We8f6sDQJoB+ikc0i6BdkNKjHOCtdCrBaFP1NqWItwyzKqqtywj1oGkm1+d6+UYWadc0Gv05B91UHtk7hrYFcjBuwwFu2vMm8GtNyQeEuqer9sRbjA0toNOfpm4+Yk3dSdB+qjQArbxbg0rw7NxuFX8wbgbRE4MOHLkg5+IKtJriNqWCfO1uknA0Unms5tsHFb1Dx8C5bc//lFI=",
         "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzUyMjc0OTAsInByb2ZpbGVJZCI6ImRkZWQ1NmUxZWY4YjQwZmU4YWQxNjI5MjBmN2FlY2RhIiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkQXBwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNThkYjQ4NDEzZjAxZWI2NjlhYzk4YTRjYjA4ODQwMjEzMDc4ODZlMjkwNDhhMDcyZDI3ZTRmNzNlMWVhNmZlIn19fQ=="
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "DARK_OAK",
+      "generator_tier": 12,
+      "id": "DARK_OAK_GENERATOR_12",
+      "material": "SKULL_ITEM",
+      "name": "Dark Oak Minion XII",
+      "skin": {
+        "signature": "uF+eXz22KoJfVhlcLFJtRYIKUho5AxewrBNJIppTQLBY6pvEESUVphHXOyFiSvKsHT75m3T4UjdXAp504nA2vYqdAtct1xM6FH169FnqH6z3G4sj5X4v4xXbK2IDswlvLDVDMxlAuwiwsu+fhSsmnaThneKDPhGvH1VWMMjo9jt5UUdrmkoUU3YPs/Shu9ykXAEPwE4TpEmTuo+5GmOMF+/CMpb6d31dn3vbOxIbfPU/5eJu1brj6bWfaq/Weayte772y3sXxr55Thk84JggLo7rQCIv6VeRXDx82VJ3QBat6UzmZbhLRNoJPH/exzPA9igZt/9HGB0NtRkKLKb9hejGKBNt7gJOWN0ihmKunksVrc5nZ9C6dniyJTBlvnEC3WobvmOAsNbDsCXRrMIu3qcgrZuo+oMY3AByAcGv7b5J/rnaLXWFrqPbFCrFX+egXwzaIf/zhODHvlobXrOaUP2ReplYHcfAlKKcxtewOqPMkogQ69WSZ8cEaRSUWpDtgjktVnFAZ9MGLnE/HtCrmmV1um9E4ixaehSzdvCIVn3/bK0ezOrI6HVELbAug4bwLyfmzaANv7V3KX3j19PRY28eOCdPVpYzX/f86AmH0i4Z0FdCXRbTdomdFE642Ep9pB/jK4Ugsu8AKmZTOSPl5Sy89T0Zcz1idQHGH414VOs=",
+        "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzUzNTAwOTcsInByb2ZpbGVJZCI6IjJjMTA2NGZjZDkxNzQyODI4NGUzYmY3ZmFhN2UzZTFhIiwicHJvZmlsZU5hbWUiOiJOYWVtZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNjNjUwYjY5MTg5YTFkYTJhMGE5ZTlkMGEyMzVjYjg5ZGYwZjMyYWI0MjFhZDA1OWUwMTJiZTU5NjM4MDU3ZiJ9fX0="
       },
       "tier": "RARE"
     },
@@ -12171,6 +12223,19 @@
       "skin": {
         "signature": "afp860VseOReJR/k9dHpKH6WiheSMlk2yK0t+n3cRSMlTugIpoYvxzMDuZYL9zDHe+5vXbRPu+qIOua18NvPFcsoSkC+NsYC8ZISTeHzmHPNsmZCFW0sQDrq7pfz+/fN2Q5JqcnebX7ZdvFpztMd35biVFwXkvR3eLL935mF6qfwkIdihbqil0ZpcQdHIvsZLGN6NbJmoq6kQr1omSzb1yxGRBAnEMPIIfgTeBDXWsHFARKLuL8MwFqhzjCEcf3tNBmaKSTyPV7uB82Uyd6B4q0VXuuRkXYvqEoOiL2R+OxNMJ7Bswea3bJf22vGckn6YJL2XSwJ4Vv8YPusQDM94J2OipabcsMDGc6P3gkbbYgOR/fzfRG8N/QaCpzEeDqjp2X/9uXvhCXwP1E0VuS+uzhs4xtj47Pjn6fcCrWjDz7R8f1PGbPoZdWVNRI20k0qzgZP8IoB0DfbEpyeXrXklsjsmE5qT+av7LNDytg6Is+ZICbxxCWI8zm36iBf4zNHV7YbOaWzHE6cC1Ug3FwKikgLzSC2fo6XmTAwTuMuQ5GuzGDhOJYMYjdfrf2r6uvJBjlcKzfH6cwfhyXZudA6PSntnq60psbimmKXIBpjyMJt5HQ0ecbDSDQ697/Wg4+uzXNmpOKoCgDTmpTO+o73G7sXhIdrh+4t23KTjNUcXpI=",
         "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDUxNTMxNjcsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0YmE5OGUyYjgxZTk0MjZlNWYxZjQ0YjYzNTU5NjMzYjNiMmFiNDE2YTcyY2JjM2I2Y2I0ZDUyN2FhYWQ4Y2QifX19"
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "SPRUCE",
+      "generator_tier": 12,
+      "id": "SPRUCE_GENERATOR_12",
+      "material": "SKULL_ITEM",
+      "name": "Spruce Minion XII",
+      "skin": {
+        "signature": "VofeDht5EmZr+sa9jS4z9cL2cObY++Iyt1Gw1++mJ+iLJceX0j/CCHjnhM1Q1BmSXnIyzjQ1m5QRhR40/OtEYLwvz/u5DPAHAeK7qOKO+wR+fvfuzN2AQDIS2vfItLBDktOn7Ku1ylCUyp9bgzbvZyN121FpwmYi0P9RWVoRfU0XkL3GJCiRQTKp722T5MheBiFRtJPPoZGReMg4svJ0fNKWydql+H6SPCtRKvCOb7Tf4LBVUma20hROo42mKDn4jFxnJoUN9qZN6KdDhdLmerq9XA8PRdwQEcuEE1lY8sJQh4RlHnkFY9KubZhDTCQVtxddA2OannwcErlmPd4TjPyQVj65B1wsnU++Ik9m+0tYuXGlhE7WoHHgiKYxXCr0DGxflfuzDxr7HiIrJNqANIX6X3Ni9x8MSGdBeFxTBeq6UHp63NCi0epX+wsWw688tFCrb/toI3dehkHYAm7eIa5oyEG4rDQw0HGKwfqcA1SAWc9TmwqhShRalt0JuxMxDMujSs3iwdLIg6/6NlX8KgNZprbqsCLvD+vm1y0IiX5VFbxFQIC9i20x06RD05cFIZXls2xUCdYX/qm2UHEpAoBVfxZrJgjvanEFZxnUeTxQFwOvco/7yVJd3k/LpRXXLNxCKsQEFKtitlrT+VIfQ6NmCw4+8xSx7QmU4f1nqHY=",
+        "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDUxNjQ4MzEsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE1NGYxMWRhMzU4ZDE0ZmExMWUyYzMyZWIxYjkzZDk0NDRlYWJjZDYwMGUzMmNjMGFiNDYyMTcyYTFmMTJjIn19fQ=="
       },
       "tier": "RARE"
     },
@@ -13920,6 +13985,19 @@
       "skin": {
         "signature": "hPgqKhNRaqwqvWY0rUsCb6gPf/YmPPvcfGxWvTC78bOs21WuoQh9ybm+KsK5V5ak4htCIsXn0MbA5+OnrZwakvNl7KnSr6uC75E4Mb0vGMG+5tqgCWuiDqgMAEthHotulAjfc+G8RcJducbxyfBZubHk5Z3Eop+y5PGxcZYz1Q3bojNhieHqWqb+04OKQXzRkKS7LWrZgE2xi4Cq3s3Rbpzpwea0z9J3MP1UWI78fWtKim+ht4VVx2wikRlSUgizB1jThrEKrxP2H896QIM9HqfJ6m4ISp/H78LAw6Hcq4x/1GpQAUbrwcySimJAByEBAZwQCCa2VuVc94fJ9B7fk/PX3aS1ouKn0xD3oXEUS9kiCtBdIgbOERhQW8rHTFkiaGcI6p5oegbr1qM1Rnll8CoaHWzojo06sHEuVrA2/On2bvuXbzStvU/0tOZsRah7aLy9+ehlEX+O/RhG7sRLOHbawt4cjOxEnY95Twp0w+0LCOUDsRPAUZnggiBLqOzz5JdgqgO6k692sVUqqFv0TwUMlykUqtVvETwNxas07ITySwEsAu7CcSNlPzWklCAevaflDF2fUEJ/kaCz7is0kyMAhNJ44AxnpyRcvLATLQIBRhI3WDbsPJdtb3sVpTN6CgL5mATZRXSfkhIwnNBV7hq5/JSFJ9tPeRboI5fG6eI=",
         "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDc0NzY4OTMsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1M2NiZjUzNTQ5ZDAyY2QzNDJhYWZhMTM1MzQ2MTc1MTRhMzYzYWU3NGRiOTQ4MzRmY2VkM2E4ZGQzODAxYjgifX19"
+      },
+      "tier": "RARE"
+    },
+    {
+      "durability": 3,
+      "generator": "OAK",
+      "generator_tier": 12,
+      "id": "OAK_GENERATOR_12",
+      "material": "SKULL_ITEM",
+      "name": "Oak Minion XII",
+      "skin": {
+        "signature": "QYYOXQOPQNCzsil1Fg7o/fl+nWdXoZ6mg/6P+YczWSicVZDSwx7gsH+XJFA0Mrsg7kds4bRYaTuCVNtLemh1AaaOdVylDmBxW7LU3wtrZUcVwrB1bxh8N7R7UeuIdBtbYwmO15XkHqKbHUB9O+e+bjnPsP4mllKwMVJ0C9i7fKw7Vd/afWzZiWE3bTb+9enDh6VbgXrbprt/fbptzKODtOboalVvVXhKeoUqGGRaIPwbUkIyXUbEPHXWp5yPAH3h7X0wme9ahc28mkBS4WYk0+Iaxh4kdqx1fvyTS3b/VNYqEEMFUf0KFRLOIhzz4Ya6eCw7aMCdOwQ0e5qtKmDHc+GysGMVGz4QO0bblgeO/LbjKWKUgfQjVHE7jiJkXXt1Ovl1urAen8i9+BjPl4fNGQIqURdsZ9IDYIa1Ma0rdQGprATNbvN3gwySMhB+grOruZjOHNG1yxVraLkaWrW4Cg7cntFeT/uCvAb6nMwexqqGMERKRUtjy0YsyPI2ZhIWY7CBmMX9iRwXS6ZM1myn9GqB2crHPsFN9m4CDkDPnEVAHsSeGcx1qwFPhqo9lQyhUT6t+aTxaIaffmVMSjsfW9euRroz0MvzoyYjvaJwXWAOuzkLASySwHEjfc9qFkBpHle2vRSHlR3opnfilUUbClD3XhoOkorW621+MggD+Yo=",
+        "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDc1ODY1NDksInByb2ZpbGVJZCI6IjJjMTA2NGZjZDkxNzQyODI4NGUzYmY3ZmFhN2UzZTFhIiwicHJvZmlsZU5hbWUiOiJOYWVtZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTYxM2Y5OTFmOTJiZDBjZjcwMGNmZWU5YTE0NDBmZjRkZmU4OTk5OTc5MmUxZWI5Njk4YjQwNjU0OTc2MTE4MCJ9fX0="
       },
       "tier": "RARE"
     },
@@ -30049,6 +30127,16 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNDg1NjAyOTgyOCwKICAicHJvZmlsZUlkIiA6ICJiN2ZjZTM2MzZjY2U0MGRhYTExYjM5NTcyMTVkYTkyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWNreWxhY2lvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1ODZlMDQwN2I4ZTBjMzkwYzA0NzNkODVjMjExYWFiODM2OGFlMDMwNjNjYzU2YzAyMmY0NDUxM2JmOWYxNmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "tier": "EPIC"
+    },
+    {
+      "furniture": "SPARKLING_PODIUM",
+      "id": "SPARKLING_PODIUM",
+      "item_model": "hypixel_skyblock:item/furniture/sparkling_podium",
+      "material": "PAPER",
+      "name": "Sparkling Podium",
+      "soulbound": "COOP",
+      "tier": "EPIC",
+      "unstackable": true
     },
     {
       "durability": 3,
@@ -48909,6 +48997,7 @@
       "id": "PET_ITEM_FORAGING_SKILL_BOOST_UNCOMMON",
       "material": "IRON_AXE",
       "name": "Foraging Exp Boost",
+      "npc_sell_price": 25000,
       "tier": "UNCOMMON"
     },
     {
@@ -83091,6 +83180,7 @@
       "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
       "material": "IRON_AXE",
       "name": "Foraging Exp Boost",
+      "npc_sell_price": 50000,
       "tier": "RARE"
     },
     {
@@ -105139,46 +105229,98 @@
     },
     {
       "category": "BOOSTER",
-      "durability": 3,
+      "id": "LUCK_BOOSTER_UNCOMMON",
+      "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_luck_upgraded",
+      "material": "PAPER",
+      "name": "Uncommon Luck Booster",
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "BOOSTER",
+      "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON",
+      "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_foraging_wisdom_upgraded",
+      "material": "PAPER",
+      "name": "Uncommon Foraging Wisdom Booster",
+      "npc_sell_price": 25000,
+      "salvages": [
+        {
+          "amount": 5,
+          "essence_type": "FOREST",
+          "type": "ESSENCE"
+        }
+      ],
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "BOOSTER",
+      "id": "SWEEP_BOOSTER_UNCOMMON",
+      "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_sweep_upgraded",
+      "material": "PAPER",
+      "name": "Uncommon Sweep Booster",
+      "npc_sell_price": 25000,
+      "salvages": [
+        {
+          "amount": 5,
+          "essence_type": "FOREST",
+          "type": "ESSENCE"
+        }
+      ],
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "BOOSTER",
+      "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
+      "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_foraging_fortune_upgraded",
+      "material": "PAPER",
+      "name": "Uncommon Foraging Fortune Booster",
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "BOOSTER",
+      "id": "FIGHTING_BOOSTER_UNCOMMON",
+      "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_fighting_upgraded",
+      "material": "PAPER",
+      "name": "Uncommon Fighting Booster",
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "BOOSTER",
+      "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON",
+      "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_hunting_wisdom_upgraded",
+      "material": "PAPER",
+      "name": "Uncommon Hunting Wisdom Booster",
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "BOOSTER",
       "id": "FIGHTING_BOOSTER",
-      "material": "SKULL_ITEM",
-      "name": "Fighting Booster",
-      "skin": {
-        "signature": "IXGUVdI9gzsTUGGRbzuVa5L0XurFH5znOKe1pON7IIuCtPbywcCw+Tn/0RgVylT36CwYDykPmDZz3LIE2i7yCpJynZ/KBsmJ/8dnzwB/3IR+t/jIn/Ikb/JyBtztV+xTaLitmKDP06SuLe5jJVX4pJjCPuqX/7kNLOwpwLGzTNJZcxGuJsXV8ctNNr02k/u8qt302pwidlGauNURECZVhCMS0aKYAc/cAsA808r/xLjzKSgsLaM7llTahvfxz7gaNM8smp2A2PzfKbwz0oMOlug7+erweqUKUOw99J8pymFH5BRiWALEPcug8Pm3BdSZc1GTsqcvQ6eVsAw/em48UTflsNTv35y7PpSHMgkdKvP/MsxmqIwzAO7d04ZLzA9A/gJIjkQ0V10Eda8F/coJJO8drNPK0VtIBLHwcGUHoQy/7HL053MV3JimqkKy5aQgxzJYGjQ5HYupobrlSPHUa7L2n8znOd2RA6geWZnRSxmauix3n8Tw/Lc/LJyf0tbH2QkwQ/WvU1ZdhuMKz5DajWyU8QSkHKZiJyFntplQRU72n2X7JNL5g8lr+FpRk4w8tLeZ4JtM8oFi6MVc+wzkB3pNKJJlC//u9wBExlJ5cgYm4ZrbB2LFhasvGEi1CFQngCKN/g9JhSSSwKdUXNGoO/Wp/rPb5IsR8T7bkawBujc=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjc0MDkxMywKICAicHJvZmlsZUlkIiA6ICI1ZTEwYjc5MTY2ZTA0MTNkYjI2MThkMzE3MTc2M2Y4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPTUZfQmxvY2tCdXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE2YmI4YTJlZjYxNDQxMTNiODdjMmRhNWQwNzAzOGM2Y2Y3NThlZDVhZTQxNzNlMmIwMWEwZDQwYTVmMmU1MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-      },
+      "item_model": "hypixel_skyblock:item/boosters/common/booster_fighting",
+      "material": "PAPER",
+      "name": "Common Fighting Booster",
       "tier": "COMMON"
     },
     {
       "category": "BOOSTER",
-      "durability": 3,
       "id": "FORAGING_FORTUNE_BOOSTER",
-      "material": "SKULL_ITEM",
-      "name": "Foraging Fortune Booster",
-      "skin": {
-        "signature": "fSFuXOX3TKrsph6B+am1oSJEoZ0bATh4vXHYDop97P/sqLdNYnP7HX+kOIukrzgbNJtfTpPbIUrd/6HtNAljO/0slP3yivggQxZ0RPtNYe3IO0G5Y9pvB49dTfu/+w5N3jf76EziZK0AgVIoUUjcZbya7hIIZls5nGEjakb3oI2NqoZfarBigqjaTU6aEA6eSvDDJxEVO3dkhY5TVXE7zOojxEERPPRhvlcRn6UpW2skduCG+QF0KFQ4bLUV1RbbPnqzqejF8bwNyFrXVD2naHqrnyz+IPEQEEVdnUvMr3v3J6Okmn8c47+dhXVELoBXkAl95RA04KhhO2xjAuhYwbZORFyZBS4/X9TT6W0X2JEerAFihnpmKIeWRNw6+qBmmq+4kw0OrlFw1t8W7g2To3Aro5pg1uhhlGSmm5EDSFeNC4tWxI8Bs8J4YNkxkt5rrtUUbkT6Ah41JfDFRvqszDepsgXbM+ymMzFV2vanSr4YKy6jt7Tdjh07kiWYn/CZrQxoD/erHZYCH81nx0Ve12OPb6exrtjz/tdP0FwBmexWHUxeVbR6a7Dgpy62f4+Unc6cBCSPUda2dTwTrGpd9LwkXOcQqBHTY+pScR1Db1Su7394zssrDgv7OoPKHnHy/sAXaKb7pj+Z8oyy+qc5CeR+mxIlXeeTaOMQx88eXe0=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjY3MjExNywKICAicHJvZmlsZUlkIiA6ICJjYzU2NjAzYmZiZjg0OGJmOTM3MzY1N2VjYzUyNGI4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpc2FhYWFhYV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY2ZWQ4ZGI0YzgxZDM5YmQyNzA1ZGU0YjE0Y2Q4NTBlNjBhMWI4MDhmMzY2OGQwYTVhZjA0MTcwZDc0NmJlOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-      },
+      "item_model": "hypixel_skyblock:item/boosters/common/booster_foraging_fortune",
+      "material": "PAPER",
+      "name": "Common Foraging Fortune Booster",
       "tier": "COMMON"
     },
     {
       "category": "BOOSTER",
-      "durability": 3,
       "id": "LUCK_BOOSTER",
-      "material": "SKULL_ITEM",
-      "name": "Luck Booster",
-      "skin": {
-        "signature": "LdV6RKdNzuiY/MTtO/LJBc1RbIuEp1Dl68DUc95s3CVYRn7E8Dmpl3Q6usEBpFdKnGxdVxXq2d3Gh0BLGw5B1jPx9lr1+zHW3eVzBfjPKQ5cJRDAWOIND5oo7jmLTMNBMEEpR45lFmV7QkcvfKThaAxsoQF+I4jF1+/1Ui/PpaHyB0gafofXzFyi1Y96GGtRkL7Yvp7MTeH2c8IZnyY91QaQUdpUqUiMKW4XjWRwOvYvnVYxNWgYxkJlY9HcE9bBhuT7BfarQ80lNicYTyXfEOmJrnGYcmyu/cIvoeMSNDr2+iPwvvqUnFx2b2p2FwZcPLigIRO+d1oYaoibUIYkGf0RqSU3t2GepGHZWLq7O+B0MfD+2d5/bepB2A2+VpGnCGwcsWcs+H6erYr2HbbxCTo/DsFjQR41JLF8jpMldxIsHfGsjCcvFgbV8hGEbsiouOQYzKygUpvPdct8S2+skXDjXy0x2Z6ZvUcVxuvBS2t7Zq+xzrNoAfXvXAsCnI58iBZ2RvOjKtlXsny9/ydBAyxiVY0H8XF0VjiwvauJylayyMT+UlumsIYd0xy2+TwNWxWkRnuzrdF/fds3nfNRc+kWnku5SsNRYJQ6XvbP59d3uizlbQYwxqVAKNoCsQOtkYc+DYZ39Ie5wpVaQueI1fS/8ygDUp6bjPdcmZpo6d4=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjYzMjQwNywKICAicHJvZmlsZUlkIiA6ICI3MmY5MTdjNWQyNDU0OTk0YjlmYzQ1YjVhM2YyMjIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0X0d1eV9Jc19NZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMjA2MmQzYWQzZTdlMjg1MzhhMzEzOTRjYjg2MWJjOGRiZGE5ZGZkODQwYTc0OWMwNzZhYmQwY2RiN2Y4ZDQ4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-      },
+      "item_model": "hypixel_skyblock:item/boosters/common/booster_luck",
+      "material": "PAPER",
+      "name": "Common Luck Booster",
       "tier": "COMMON"
     },
     {
       "category": "BOOSTER",
-      "durability": 3,
       "id": "SWEEP_BOOSTER",
-      "material": "SKULL_ITEM",
-      "name": "Sweep Booster",
+      "item_model": "hypixel_skyblock:item/boosters/common/booster_sweep",
+      "material": "PAPER",
+      "name": "Common Sweep Booster",
       "npc_sell_price": 25000,
       "salvages": [
         {
@@ -105187,18 +105329,14 @@
           "type": "ESSENCE"
         }
       ],
-      "skin": {
-        "signature": "LlxRAT0rscokG2qOQkKro1X4ESdEmiX6PocXMjVmDtN1Mu7e/5HjtlzkajUt0bkb1z2CNlbZw+0nTSisR2RknssgZNVcx54jDQy00ukmMdtBMeCexmHZrPEAbeuFlXuJrnos53bcyYoPqOTfAJUcqjwp4/+Z08rY3XVPnip9nx/0EwdLkoOIWbZXJcXt2i7+HH88p6pNrbGuwi7+RlKnxlgCOjQysMd3MoTGpaASxLgoy/6v+B878QztThSjP7NBsvDOOpnPpAOsNFHCQA8D2/4hZFRPoOYw/VAWj0hhePdgeRiyErZ/oxAx4iLtn0ctH1FEBEIHczkioXpDtHI/mbAA7ZzaWVCpEVI27QpdNTO8oKebcX25IqDBSrOZbo3TDhkMMZUCxDaXbdgI7Mz8IO41ITa8iNlojgbwbeEV1zNPPMey9z/kmm3rZFuqcWX9Cau3YIvaTVqBwYqpUSsUEIsdEPn7q4tUIq/rP1jlOSsA/lrRciT7i+ZSxfkanEY8Ka4/y702w+CKxEvnGN0iyzU1ITOwRC1q8Zpr/FS4xsadNuPsac+Q2IKaBA+k7eQ/HilrCMyceIHjRcdl2J/97sbR7wDJJn6mjIveAW1JxLKMZJz7VtIm7hxBOD2RWJszRzDZcP5uMMrqAmnlHmuWftvutcXK6WehUEQ7X7yDRrg=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjU3ODg5OCwKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2YTA2MjRiNDQwNDQ5YTU3MTk1MTgzOTJmYTE4MmE5MWNiODkwZGIzNWFkNDQxMGFhZTQ3Zjg1YzJkNjE5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-      },
       "tier": "COMMON"
     },
     {
       "category": "BOOSTER",
-      "durability": 3,
       "id": "FORAGING_WISDOM_BOOSTER",
-      "material": "SKULL_ITEM",
-      "name": "Foraging Wisdom Booster",
+      "item_model": "hypixel_skyblock:item/boosters/common/booster_foraging_wisdom",
+      "material": "PAPER",
+      "name": "Common Foraging Wisdom Booster",
       "npc_sell_price": 25000,
       "salvages": [
         {
@@ -105207,10 +105345,14 @@
           "type": "ESSENCE"
         }
       ],
-      "skin": {
-        "signature": "nBFz7g8f4O8iZcTFsc47aAH+k6ZVDUwknp489kqO73yrTRkocJt19w9KBM4eBwCn85jw0XtZ3HyoI5Im7CrCx8+X1QHCRpdyioDSNnEqnr/11UC44udAkBxPYgC8J3s4rV0HGXBmEsfde7wsykB0vJrkpuokDZDBw1DKRnqA7mgkNI/OOzeIEyVSAOWv4PCbN+Fxh/eVPWfeWUaJPH4kX1foJUOqFYhRn0ah6okbTi0vftQNniTyznXE3j98/nG7mSEz2eFcVebimIzo6xmyFhVVp0o8ZavDqT8W1S2p4HVuN+kJTHBrj9WhmI8frRICEyTIvPsdyL6/zA2Y6uejGPbunp5D1od6YqfLDBVNN0WHsEdCQNVif5tmJkqTmVLTomjRCzsafDHTPOYAblnnRUFOnYQO6cA69tToRDP7BHDHd5p9wdGz3331qjKch1OFmGs0PnPQ4Pzrq9j8BtGydruvEenwuSSN1M8vte9RAjfGyZ0JeaTp5KBKLdI3m8BanzM+Y5J530+BtDQi9qmLkAHy4vBh6YAdw22WXZS/+6ZhOLYudA5IEnHmLvsef9mBkUhXZ+Axf3dPreDtBa0uqB9TcyOCV66UjRI+4mcCGC6WLu4lJMMRS0QTOeGqeWwt6hUqltFlkV5oyseGB8E8mJ4X9hQ8tfqarbac1EtyQ40=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjcwOTUwMywKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxZjQ5MTBlZWI2NjcwZGYxM2Q5YTEyMzM4MzI0MTkwZTYyZWUzZGI0ODNhYjNlN2YyYjRjYTkzYjUzYjBlNzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-      },
+      "tier": "COMMON"
+    },
+    {
+      "category": "BOOSTER",
+      "id": "HUNTING_WISDOM_BOOSTER_COMMON",
+      "item_model": "hypixel_skyblock:item/boosters/common/booster_hunting_wisdom",
+      "material": "PAPER",
+      "name": "Common Hunting Wisdom Booster",
       "tier": "COMMON"
     },
     {
@@ -105930,7 +106072,7 @@
         }
       ],
       "stats": {
-        "damage": 200,
+        "damage": 300,
         "farming_fortune": 20
       },
       "tier": "EPIC"
@@ -105975,7 +106117,7 @@
         }
       ],
       "stats": {
-        "damage": 250,
+        "damage": 400,
         "farming_fortune": 25
       },
       "tier": "LEGENDARY"
@@ -106031,7 +106173,7 @@
         }
       ],
       "stats": {
-        "damage": 150,
+        "damage": 200,
         "farming_fortune": 15
       },
       "tier": "RARE"
@@ -106059,7 +106201,7 @@
         }
       ],
       "stats": {
-        "damage": 120,
+        "damage": 150,
         "farming_fortune": 10
       },
       "tier": "UNCOMMON"
@@ -108411,6 +108553,14 @@
     },
     {
       "category": "COSMETIC",
+      "durability": 1,
+      "id": "SAFARI_BARN_SKIN",
+      "material": "LONG_GRASS",
+      "name": "Safari Barn Skin",
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "COSMETIC",
       "durability": 3,
       "id": "FROG_BARN_SKIN",
       "material": "SKULL_ITEM",
@@ -108824,8 +108974,8 @@
       "name": "Zombud",
       "npc_sell_price": 0,
       "skin": {
-        "signature": "LwsgeOnqGV/VhfBTH9huwk8Ka2xd6PsI6mzd8/6ClVp4gYTTaR+cl6wAecW/8l3oj070avg+fiaM1PmbWdNIpGA4MB3sCBZMEho0JwqPY0bz9nbLDtuliLdVS/DtEKThmGyQfNChKvWQ6sNLblgLqgLnYV561DfaCpmcHaAKfoKBbIKkFn+w6yd+SpKwNS+BySg4llVJ74I6NZoL7f1oo8xHYxy9BxCXpcaMw3MEroKDWBZaRiDRAvvrb8p/AlNA55bfS7yiLMgtGP8F2isB/DRcEud/cclhUB8QSkEK9ofA4SOdeoExR13lBt1jHZBnyB/EGutHQoBgEO6EPmfbwSbnDg19BHve4dsxubJnXatbcWvyIX17LvkaDQ5nwMnnFU2JOrjN64v9emmpciXknAeGGsgB+/BjsKGwhu7QhLFRP8KTIkR+W+H4Dh3J/qSNhE1qu0cH6EsGIYkEF/8oR0/50ly4oLqMq/9GGTnz3F9pIVF3W73RtoV1Zu+yZj9TRJp3EhRLQgZ/nKc01cj5JLW1MFMVMOPqpcUGJBQXpBsBajWHwhgwlmio9hBb6nJmsEU+vE4qJVwMWXogEP5uV2WvjFLgSXoS9ghWMEb2sda+j9ZMlM7hKoJ9vEnL39G/iYojXXAcIF+TEGt4xR5Bbfq49SsGlx/bye/VX7ALZhE=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjc3NTkyNTc3NCwKICAicHJvZmlsZUlkIiA6ICIzMjA3MWFlYjYzZjI0NmY0YTVlMGZhMWY3ODg3ZGRhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcl9HZW5lcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMmM0OTk0YjdhMWM0NTIzMWI2MjNiODI0NWMxMTczODJiMjY3Yzg4NTZjNTdjZmZhMmQ4MDhjMjQxMDI3YTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+        "signature": "msVtmprpgT/J7V/RaRZ1/XCajjvKEguW3Domds5pGpynqC8gM9Dsat7Ofu/E5dnRPaPcEfbbBpC0rr8LWAQ5lSRjCK+GUM9v2m/x1QnkCSLExc2dAZBDo/O9lAR4+eeWXk+dahmjat2b9N+xLOK8wMHsiNqNRU0tuugcDm6T304cVlgiHU+Nsn/ePx8cjhbq00Di7hc9VmcEw6Hzzm+AtYGzHka3Ga08/aOlL0IG9JwlpfW957oBb8+xwokJXv2sxnNoldvSAgFm3D0ZFfg3Wk5ZLlYXU7FmSe6/c0YxQFEmqHzCGvO2M1hUKBR6x29ATjqLxZzZI0SS67u4VJ4C6uOIro/l5CJhleerBaYWelWlsuKAsWMrJIWRhO74CzWiVKMfkrUthzRUBduBoH7+Ll6S/5Qa6djkRS69SGcsFiVcTlFHh5VgfWFSf78YnjvqGyQ7w5Tq1S3cH+LC/n8DN43H9xzLdG2Hqz9it3kt8Ritb7sGE5pwgfQRrHBB206rsFe9iOTbBdCGiWX0KIOZwpq2Ndd6nVNaz/gs518JeGnWPTt87J2lrzpu32405o0CyWY52PuOm9rT3JChiQAZ7+Qi6nKNj/nmx+1NfIQzLBL4M8RbbVp8KbFn83wo6H9/4+mVOli2YPUMAAotamUA1O9YS9HhnV5Dy+TfhyZp7q8=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM4MTg3OSwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdjNjgzYTk4YjdkNjJjMTA5Y2EzY2Q0Mjg0NTlkZTU3MDg1MzY2YzJlNGU1OTQzNmUxNjFmZjc0YzBiMGQ0YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
       "tier": "EPIC"
     },
@@ -111769,6 +111919,1125 @@
           }
         ]
       ]
+    },
+    {
+      "can_have_booster": true,
+      "category": "BRACELET",
+      "id": "VEILSHROOM_BRACELET",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/veilshroom_bracelet",
+      "material": "PAPER",
+      "museum_data": {
+        "category": "FORAGING",
+        "donation_xp": 8,
+        "game_stage": "EXPERT",
+        "parent": {}
+      },
+      "name": "Veilshroom Bracelet",
+      "requirements": [
+        {
+          "level": 30,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "foraging_fortune": 25,
+        "sweep": 5
+      },
+      "tier": "EPIC"
+    },
+    {
+      "can_have_booster": true,
+      "category": "NECKLACE",
+      "id": "HONEYCOMB_NECKLACE",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/honeycomb_necklace",
+      "material": "PAPER",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "HONEYCOMB": 8
+        },
+        "category": "FORAGING",
+        "game_stage": "EXPERT"
+      },
+      "name": "Honeycomb Necklace",
+      "requirements": [
+        {
+          "level": 30,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "foraging_fortune": 25,
+        "sweep": 5
+      },
+      "tier": "EPIC"
+    },
+    {
+      "can_have_booster": true,
+      "category": "BELT",
+      "id": "TORRHUS_BELT",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/torrhus_belt",
+      "material": "PAPER",
+      "museum_data": {
+        "category": "FORAGING",
+        "donation_xp": 8,
+        "game_stage": "PROFESSIONAL",
+        "parent": {}
+      },
+      "name": "Torrhus Belt",
+      "requirements": [
+        {
+          "level": 24,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "foraging_fortune": 10,
+        "sweep": 2
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "CONSUMABLE",
+      "has_uuid": true,
+      "id": "ISOPOD_HUSK",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/isopod_husk",
+      "material": "PAPER",
+      "name": "Isopod Husk",
+      "npc_sell_price": 250000,
+      "tier": "EPIC"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%A type of silk woven by the Silkbreeze. It's so soft that it practically trickles through your fingers as you hold it.",
+      "glowing": true,
+      "id": "SUBLIME_SILK",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/sublime_silk",
+      "material": "PAPER",
+      "name": "Sublime Silk",
+      "npc_sell_price": 50000,
+      "tier": "EPIC"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%The Torrid is born when a water hyacinth blooms for the first time.",
+      "has_uuid": true,
+      "id": "WATER_HYACINTH",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/water_hyacinth",
+      "material": "PAPER",
+      "name": "Water Hyacinth",
+      "npc_sell_price": 1000000,
+      "tier": "LEGENDARY"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%The Silkbreeze passes through the forest at such speed that, in most cases, it can only be heard, not seen.",
+      "has_uuid": true,
+      "id": "DISTANT_ECHO",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/distant_echo",
+      "material": "PAPER",
+      "name": "Distant Echo",
+      "npc_sell_price": 1000000,
+      "tier": "LEGENDARY"
+    },
+    {
+      "can_auction": false,
+      "category": "REFORGE_STONE",
+      "id": "EXTREMELY_MILD_ADHESIVE",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/reforge_stones/extremely_mild_adhesive",
+      "material": "PAPER",
+      "name": "Extremely Mild Adhesive",
+      "npc_sell_price": 25000,
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%Dropped by the %%dark_purple%%Giant Isopod %%dark_aqua%%Sea Creature %%gray%%in %%gold%%Torrhus Canyon%%gray%%.\n\n%%dark_gray%%%%italic%%A massive, sturdy piece of netting that would be more than strong enough to catch most critters when used as a net. Unfortunately, for whoever owned it, the Giant Isopod is a bit larger than your average critter.",
+      "glowing": true,
+      "id": "REINFORCED_NETTING",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/reinforced_netting",
+      "material": "PAPER",
+      "name": "Reinforced Netting",
+      "npc_sell_price": 1000000,
+      "tier": "LEGENDARY"
+    },
+    {
+      "category": "PET_ITEM",
+      "id": "WINDING_IVY",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petitems/winding_ivy",
+      "material": "PAPER",
+      "name": "Winding Ivy",
+      "npc_sell_price": 100000,
+      "tier": "RARE"
+    },
+    {
+      "category": "PET_ITEM",
+      "id": "RUBBER_SNORKEL",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petitems/rubber_snorkel",
+      "material": "PAPER",
+      "name": "Rubber Snorkel",
+      "npc_sell_price": 25000,
+      "tier": "RARE"
+    },
+    {
+      "description": "%%gray%%Can be spent in %%aqua%%Miria's Shop%%gray%%!",
+      "id": "MIRIA_COUPON",
+      "material": "NAME_TAG",
+      "name": "Miria's Coupon",
+      "npc_sell_price": 15000,
+      "tier": "RARE"
+    },
+    {
+      "description": "%%gray%%Used to purchase certain items from %%aqua%%Miria's Shop%%gray%%!",
+      "id": "MIRIA_PRIZE",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/starlyn/mirias_prize",
+      "material": "PAPER",
+      "name": "Miria's Prize",
+      "npc_sell_price": 50000,
+      "tier": "EPIC"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "Perhaps even the trees of Galatea have something to say about its technological intricacies.",
+      "id": "HELIXIS",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/logs/helixis",
+      "material": "PAPER",
+      "name": "Helixis",
+      "npc_sell_price": 512000,
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A hardened mass of helix logs all wrapped around each other in a spiral.",
+      "glowing": true,
+      "id": "ENCHANTED_HELIX_LOG",
+      "item_model": "minecraft:stripped_mangrove_log",
+      "material": "PAPER",
+      "name": "Enchanted Helix Log",
+      "npc_sell_price": 3200,
+      "tier": "UNCOMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A particularly resilient type of log that, should they not know the secret to cutting it, will outlast most foragers.",
+      "experience": {
+        "foraging": {
+          "BREAK_BLOCK": 25.0
+        }
+      },
+      "id": "HELIX_LOG",
+      "item_model": "minecraft:stripped_mangrove_log",
+      "material": "PAPER",
+      "name": "Helix Log",
+      "npc_sell_price": 20,
+      "tier": "COMMON"
+    },
+    {
+      "category": "TRAVEL_SCROLL",
+      "id": "TORRHUS_CANYON_TRAVEL_SCROLL",
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Torrhus Canyon",
+      "tier": "RARE"
+    },
+    {
+      "category": "TRAVEL_SCROLL",
+      "id": "TORRHUS_SPRINGS_TRAVEL_SCROLL",
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Torrhus Springs",
+      "tier": "RARE"
+    },
+    {
+      "category": "PORTAL",
+      "durability": 3,
+      "id": "TORRHUS_SAFARI_ENTRANCE_PORTAL",
+      "item_specific": {
+        "portal": {
+          "description_name": "%%dark_green%%Critter Safari Entrance",
+          "destination_mode": "foraging_3",
+          "holo_name": "Critter Safari Entrance",
+          "location_tag": "safari_entrance",
+          "offset": "NEW",
+          "requirements": [
+            {
+              "tier": 4,
+              "type": "HEART_OF_THE_FOREST"
+            }
+          ],
+          "schematic_file": "sb_portal_safari"
+        }
+      },
+      "material": "SKULL_ITEM",
+      "name": "Portal to the Critter Safari Entrance",
+      "skin": {
+        "signature": "SM4ACE2JX8qUap2rPxpnlIwTyfgqecDclnpfy6ktoEsEUBQpUfQ5JYW/l0LJrQTYjN844+Ee/KOE0hC/W0R4MC9ii0XnOKu9RJLd11MtFqkII0M8NJMNsCD33b3BqxWxFbYl9mYEDGjFdauULsn2DjJmhQ55cdzkF9GEGBxArGcifhL+4X+M9562bBeaiN0MM4cszfV31Qu/Ux0Uq1Buu1S1OzbaQAWTpaHX8BEMHesHu6wM2TBvDEA0zqMh7uRoL8+eCDI0wpUelGAn6KimDjuDEKyhxTNlfcEsD4JDm0ymBYDxAm1dU8FxFTXX9yGJLFPxGGSVqOPt5+aqf/snhepnJwD+MCS92LAyiAdUNoxbnU4uMyoLuFqJ0iMhOthjlUhknfE5S3UAI+WOUJMXZ9DeA5sO72UP7O5rerM8lH54hv9IwQ75XB25Qc5F+YwiXM2Uq9n4eB8f1c6/yHPVpQaTDsMC/7b6HG2+5vINfsn5d65AfxcZf1spz62vsG0f+pzSsVafLKxmX4Vc5BBoyUFBFrNAs9rgEw+2ne5EXDYkYIsIXY1A2k8vzljYJNwQMS9pdWtDbONu13JlRytM/YqNxm8dZ/x9+49L1d5fqzZZAoGmQU8FWJdDqUYk1vTTEW2lWCLMo/b9TyjDXKev8mLZoeyUs1I4+QFeq7HutZ4=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM1NzU4NiwKICAicHJvZmlsZUlkIiA6ICJkZWFmNjAxNDU1NDY0MGU5YWJmNmUyMWZiZDgyZDU2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaWxvcnlLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxZTMxNTcxMTVhM2YyMDZlNWRmNTMwMWU2ODVlYmI0YTZhOTYyN2ViZGFhMDliMjFkNTAwZDg1MzE1NDg1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      }
+    },
+    {
+      "category": "PORTAL",
+      "durability": 3,
+      "id": "TORRHUS_CANYON_PORTAL",
+      "item_specific": {
+        "portal": {
+          "description_name": "%%gold%%Torrhus Canyon",
+          "destination_mode": "foraging_3",
+          "holo_name": "Torrhus Canyon",
+          "offset": "NEW",
+          "requirements": [
+            {
+              "tier": 4,
+              "type": "HEART_OF_THE_FOREST"
+            }
+          ],
+          "schematic_file": "sb_portal_loch"
+        }
+      },
+      "material": "SKULL_ITEM",
+      "name": "Portal to the Torrhus Canyon",
+      "skin": {
+        "signature": "oEZMmqR1wp0/ySqrv1wFEGc9HxxoG0NSFsj+x0cJTdELNHMHzPGrIEwyBrqH/JBh1G08WjjY9PTSHyBVFXgNh1uJvLJOq+ktK5wTu8LkppFLs6Q6V0c/5TqytKn6cIHc72fQk/LazTOko7re/VGp+nAueyzesZE+A4ApU9X7hOjXPA4e9AY0y8im+JEZsBKAf4Kqnnhrv+stx7vxglQtdez1thtJqGJH4DDv/m39UDhd7Ao9vUFtzYalV508HhOeJjrWvWmeYgXvDo1zYrDJKNH7QsEjZhNYC5UUmsCI5yJeyZ7lnOui+m1r2HWIaT863ezNEIfecqMiH0pDxChHzoRM1YiGZ3TcfqHwo0F/LO4gH1caAfm21OKMNa9gxH/05S4PrM4zT/OhneBpv8t9pTOYHMakpYWWEF3SDv1qii20RA5pJ7/0bRNAY1SBYwVRjML62MsbWQX0UPSH/dJ1kOGU3e2eXUY40rmqJqrhL7ogmXq/5HA2tggGrjcXVSt97DydQ56PeanwKyOxgg4dbrTfO2nyTptVT9uR15dHxIE24WyU+NzEQLE9Wu1kULXWCJ5kKtWj43j1dMkGCMCRBBF/VHHA//9qQM01DwXbal+0CKZEx7IooOr6M5+38A1JJrd89MYvOhK5Q2AWkAvQyxG+GnLwbvOrAbfZB5RnAb0=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODgzODYxNywKICAicHJvZmlsZUlkIiA6ICJiYTllNWY4YTc0Yzg0MzQ5YjY3ZTg2MzBlMDRmMTI2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbW9ndXNwYWRvdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYzNiZTBjNmE1YTZmY2E3N2I0NTA0YzJjZjkzNTlkYTgzNTE2Y2Y1ODA4NjQyZjQ0MDdiYTEyZmU5NDA3NDY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      }
+    },
+    {
+      "category": "TRAVEL_SCROLL",
+      "id": "TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL",
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Critter Safari Entrance",
+      "tier": "RARE"
+    },
+    {
+      "category": "PORTAL",
+      "durability": 3,
+      "id": "TORRHUS_SPRINGS_PORTAL",
+      "item_specific": {
+        "portal": {
+          "description_name": "%%aqua%%Torrhus Springs",
+          "destination_mode": "foraging_3",
+          "holo_name": "Torrhus Springs",
+          "location_tag": "springs",
+          "offset": "NEW",
+          "requirements": [
+            {
+              "tier": 4,
+              "type": "HEART_OF_THE_FOREST"
+            }
+          ],
+          "schematic_file": "sb_portal_loch"
+        }
+      },
+      "material": "SKULL_ITEM",
+      "name": "Portal to the Torrhus Springs",
+      "skin": {
+        "signature": "u8uxkdMDHKDNUIGb/AwTekTEooXy2znqzalhXN3MdreH85VqGn2pd73X/ObFHhNSiaOLzqH3cbu2JmcpKP4Qe0jrBMXCl+Q+KSLMP44baqL1GZw2/kMYLLjoO0DT59zLqQWFleQbhaAba1XKsACs5loc5FaedsdT5HTv1NAVGzxKKm4j3+Jq3wMLbF1NIhY8ucK//GnXNAySJ+Rw4gDhfRMG4wXPcwcLDxcME3FWio18Pw3ALkqPoye+EOMcxxjTzYbZ//75teeG49MAQgMBW108KnTnsDyTtTsRbGTjnnDVaGbCElbdRyjscwhFtiQVxYzQKxRIXeQNVIZGN5rbMez5NZ7y/WVY0WGAEoOxj1oNMwRCNAnLrovNhDiam19zYtGXIuAYYlyExYj9vbZqO4qxnqP/ckV0I09oWVaohgmveuMvdRSXTFu4yNIVYcJvsnvJ+aPY/PYKc9wT/UhR8xNgeYjdLMFh/QpHbQkHSPDP8ezBXWHRQn/LKfyLXPkh4IkKSL7zwA463kko2vo0Z8uZd4pBBP1LiIvpJyeiQGfkb2cvPucqxlfp1vIexB4DyhKCuauj0dNIjseyzkIz6ehznzw1gYFbXiF1Z6z7+jDHL6sxhdliRjuuJJkVQ5rUwuDWzdQoH3qz7rMFlNSwK9DubM+Zdt4v95xPuhJ+XQE=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTgxNDIxMywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI5YzFmYjkyM2UzNjNiMDI5MjlkZTgyMDdjODAxM2VhM2M3ZTRiMzkzMzA0N2ZjOWNhMmJiMDhiOGRjMDcyNTQiCiAgICB9CiAgfQp9"
+      }
+    },
+    {
+      "can_have_booster": true,
+      "category": "BOOTS",
+      "color": "226,90,22",
+      "gemstone_slots": [
+        {
+          "costs": [
+            {
+              "amount": 20,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 50000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        },
+        {
+          "costs": [
+            {
+              "amount": 40,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 100000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        }
+      ],
+      "id": "HELIX_ARMOR_BOOTS",
+      "material": "LEATHER_BOOTS",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "HELIX_ARMOR": 9
+        },
+        "category": "FORAGING",
+        "game_stage": "EXPERT",
+        "parent": {}
+      },
+      "name": "Helix Boots",
+      "npc_sell_price": 4480,
+      "requirements": [
+        {
+          "level": 25,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "defense": 30,
+        "foraging_fortune": 45,
+        "health": 85,
+        "sweep": 20
+      },
+      "tier": "EPIC"
+    },
+    {
+      "can_have_booster": true,
+      "category": "CHESTPLATE",
+      "color": "226,90,22",
+      "gemstone_slots": [
+        {
+          "costs": [
+            {
+              "amount": 20,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 50000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        },
+        {
+          "costs": [
+            {
+              "amount": 40,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 100000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        }
+      ],
+      "id": "HELIX_ARMOR_CHESTPLATE",
+      "material": "LEATHER_CHESTPLATE",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "HELIX_ARMOR": 9
+        },
+        "category": "FORAGING",
+        "game_stage": "EXPERT",
+        "parent": {}
+      },
+      "name": "Helix Chestplate",
+      "npc_sell_price": 8960,
+      "requirements": [
+        {
+          "level": 25,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "defense": 55,
+        "foraging_fortune": 45,
+        "health": 190,
+        "sweep": 20
+      },
+      "tier": "EPIC"
+    },
+    {
+      "can_have_booster": true,
+      "category": "HELMET",
+      "durability": 3,
+      "gemstone_slots": [
+        {
+          "costs": [
+            {
+              "amount": 20,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 50000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        },
+        {
+          "costs": [
+            {
+              "amount": 40,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 100000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        }
+      ],
+      "id": "HELIX_ARMOR_HELMET",
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "HELIX_ARMOR": 9
+        },
+        "category": "FORAGING",
+        "game_stage": "EXPERT",
+        "parent": {}
+      },
+      "name": "Helix Helmet",
+      "npc_sell_price": 5600,
+      "requirements": [
+        {
+          "level": 25,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "skin": {
+        "signature": "PyKZ5r+BZE7eh0XCqs8xtq+80U2OsOcLcbG5YJvkC+f7x46vBmVVkumUFdBOQrRGJf6YjfNgeBrqeVX1YJ5dhoTRkwcM94L/vAoT/ahWJrGGiKnDhwcLt8/yWkNJuRTFXyn0UKhLGbu0adecMMX0DwATrfZ7esoJ4O/4HnyxMW2EaZ1GspDCzCHY2zu2GH1G5yHrnyF/1v2kjpUEhBKlhni4elJ9pr/9aH550onSd4BhVU4S+a0s09h0fZyIM9Xz/xpl3Ievp58FYM24i5va9AAg6XWMTmxF1wWlVW2oPdxp9WYXRELu+vu1NtW3wqaCIzNk0/B5PTC8UBjC987nWo+ScthQaT/5Kfn6TvA2ZvkgmwWLBQjmB7xAC0tHhEg6QBTJB1mLyiHU6CjPjNO3ZqSFyZ3G906sKVD10r38CnAh2o4Rhb8i+zyeiereUoIGBvuMB+vVcc9iD2lhlUGa6GFEVslPgMjCTkjLH6mQNPluJAFtkT7+DtNCh35JCQtfiE5plsf0qHGPulTg8197IvzUDgyH+jRJkHSduE4GsB3rENIEKuuia9aPyRqgR29j+sa6JlmErsLZyK5v6C9juxmhKevQRLiFHqandLl2JL08h1GbTu0SXxoQ/N+2g3WvBhnuM13Jpx15ECV0stPJi8K2q39iLj5o7Y9I54iwu28=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyODQwNiwKICAicHJvZmlsZUlkIiA6ICJkODYwY2JiYWM0Njg0ODhjOWI4MTY3MGVjZjQ5OGRmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2FzdGxpbmVDcmVhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyYWQyMzViOTQ1OGNjMjZjOWRkNzk0YTM1YzExMDBlMWI1YmJlNGEwYzZjM2RhNmZmZDQ4MzAwMDY2ODNjYjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "stats": {
+        "defense": 35,
+        "foraging_fortune": 45,
+        "health": 100,
+        "sweep": 20
+      },
+      "tier": "EPIC"
+    },
+    {
+      "can_have_booster": true,
+      "category": "LEGGINGS",
+      "color": "226,90,22",
+      "gemstone_slots": [
+        {
+          "costs": [
+            {
+              "amount": 20,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 50000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        },
+        {
+          "costs": [
+            {
+              "amount": 40,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 100000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        }
+      ],
+      "id": "HELIX_ARMOR_LEGGINGS",
+      "material": "LEATHER_LEGGINGS",
+      "museum_data": {
+        "armor_set_donation_xp": {
+          "HELIX_ARMOR": 9
+        },
+        "category": "FORAGING",
+        "game_stage": "EXPERT",
+        "parent": {}
+      },
+      "name": "Helix Leggings",
+      "npc_sell_price": 7840,
+      "requirements": [
+        {
+          "level": 25,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "defense": 45,
+        "foraging_fortune": 45,
+        "health": 165,
+        "sweep": 20
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "PET_ITEM",
+      "id": "MEDIUM_SLOTH_CLAW",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_medium",
+      "material": "PAPER",
+      "name": "Medium Sloth Claw",
+      "npc_sell_price": 50000,
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "category": "PET_ITEM",
+      "id": "SMALL_SLOTH_CLAW",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_small",
+      "material": "PAPER",
+      "name": "Small Sloth Claw",
+      "npc_sell_price": 25000,
+      "tier": "UNCOMMON",
+      "unstackable": true
+    },
+    {
+      "category": "PET_ITEM",
+      "id": "LARGE_SLOTH_CLAW",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_large",
+      "material": "PAPER",
+      "name": "Large Sloth Claw",
+      "npc_sell_price": 75000,
+      "tier": "EPIC",
+      "unstackable": true
+    },
+    {
+      "category": "PET_ITEM",
+      "id": "GIANT_SLOTH_CLAW",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_giant",
+      "material": "PAPER",
+      "name": "Giant Sloth Claw",
+      "npc_sell_price": 100000,
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "id": "CRUNCHY_BUG",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/crunchy_bug",
+      "material": "PAPER",
+      "name": "Crunchy Bug",
+      "npc_sell_price": 5,
+      "soulbound": "SOLO",
+      "tier": "RARE"
+    },
+    {
+      "category": "FISHING_NET",
+      "has_uuid": true,
+      "id": "GIGANTIC_FISHING_NET",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/nets/gigantic_fishing_net",
+      "material": "PAPER",
+      "museum_data": {
+        "category": "HUNTING",
+        "donation_xp": 10,
+        "game_stage": "EXPERT",
+        "parent": {}
+      },
+      "name": "Gigantic Fishing Net",
+      "stats": {
+        "pull": 100
+      },
+      "tier": "LEGENDARY"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "The famed, sweet-smelling produce of Torrhus Canyon.",
+      "id": "HONEYCOMB",
+      "item_model": "minecraft:honeycomb",
+      "material": "PAPER",
+      "name": "Honeycomb",
+      "npc_sell_price": 100,
+      "tier": "COMMON"
+    },
+    {
+      "can_place": false,
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A solid chunk of sweet-smelling honey. Its smell attracts all sorts of critters.",
+      "glowing": true,
+      "id": "ENCHANTED_HONEYCOMB_BLOCK",
+      "item_model": "minecraft:honeycomb_block",
+      "material": "PAPER",
+      "name": "Enchanted Honeycomb Block",
+      "npc_sell_price": 512000,
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "A block of sparkling honey. It smells incredible.",
+      "glowing": true,
+      "id": "ENCHANTED_HONEYCOMB",
+      "item_model": "minecraft:honeycomb",
+      "material": "PAPER",
+      "name": "Enchanted Honeycomb",
+      "npc_sell_price": 16000,
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "CONSUMABLE",
+      "id": "JUMBO_POT_OF_HONEYCOMB",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_jumbo",
+      "material": "PAPER",
+      "name": "Jumbo Pot of Honeycomb",
+      "requirements": [
+        {
+          "collection": "HONEYCOMB",
+          "tier": 5,
+          "type": "COLLECTION"
+        }
+      ],
+      "tier": "EPIC",
+      "unstackable": true
+    },
+    {
+      "category": "CONSUMABLE",
+      "id": "BEHEMOTH_POT_OF_HONEYCOMB",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_behemoth",
+      "material": "PAPER",
+      "name": "Behemoth Pot of Honeycomb",
+      "requirements": [
+        {
+          "level": 30,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "category": "CONSUMABLE",
+      "id": "FUN_SIZED_POT_OF_HONEYCOMB",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized",
+      "material": "PAPER",
+      "name": "Fun-Sized Pot of Honeycomb",
+      "requirements": [
+        {
+          "collection": "HONEYCOMB",
+          "tier": 1,
+          "type": "COLLECTION"
+        }
+      ],
+      "tier": "UNCOMMON",
+      "unstackable": true
+    },
+    {
+      "category": "CONSUMABLE",
+      "id": "FAMILY_SIZED_POT_OF_HONEYCOMB",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_family_sized",
+      "material": "PAPER",
+      "name": "Family-Sized Pot of Honeycomb",
+      "requirements": [
+        {
+          "collection": "HONEYCOMB",
+          "tier": 3,
+          "type": "COLLECTION"
+        }
+      ],
+      "tier": "RARE",
+      "unstackable": true
+    },
+    {
+      "category": "CONSUMABLE",
+      "has_uuid": true,
+      "id": "BEE_SALIVA",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/bee_saliva",
+      "material": "PAPER",
+      "name": "Bee Saliva",
+      "tier": "EPIC"
+    },
+    {
+      "durability": 3,
+      "id": "GENERATOR_UPGRADE_STONE_OAK_12",
+      "material": "SKULL_ITEM",
+      "name": "Oak Minion XII Upgrade Stone",
+      "skin": {
+        "signature": "BVsQmpbjE4u0mp89ZmAe3AKsRXj50mtxR9HxZ1p6HdmMxR3inlMu+hV1/L8xmRRjMzLh49iJqz/vXHach3rxaeIHJrayaAH3z/zOJNYrRmK5RYhg6SgsAt0QNnEx6B0owB1UyoKGzzBTSkvawFCxUjQXXwOcEZt41kkzNEnpriscG2E+wKSpM8069adMD+PQApta3KEO3fMiM7SqFR6bAya0Qv7Tvdf4IsHMrwpWR83dckrVCPX0pNhGI76OT9uGpm1nfq4QXm1xzYbexYW0L/ge6N2hxDQ8ukOc4GCZLtTiNWApcZGS94mCi9Q4MH3RHfsGdWPG9CmkCZ3tvMeezQm3ZciElJW/N75/t9wWQUz+EfOobjYd9W1Gpll4DDeunqkZ3jzH1nM7aa5264xT5/lk9Zh4zNerqoxZKisfWrvCbJd/WsCu6LPDyo8ELMmP1n06S6JvsKfRM0663AvetZMy56NDqkmn/Qj40bKJE62AM17CA7QPjOptNa7K4bHEmxLVyo+KZnLUJbrc+AztL+FtN69qOg5kA8d/f2RM+4ERCH/fy3bkkNKJWRattVu64OH5mYTMHTJyRLMKLqUqc9OtQwQqgVPhe9TCN/MyWabGW5bmLDAl5mDNKbU/hs6cIcRI0VfMAROpdocuYQ9F6zuaiTb4O94sIaApBc501vw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwOTgwNywKICAicHJvZmlsZUlkIiA6ICI1MGVlNDc2NGY0ODA0ZTAwYjQxM2I2MTA2MmU4YmFjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbmRyZU1lc3NpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyMzc2ZjZhYzZlMjAwZTU4YjM1ZmY1MDQ0ODIxNTI0M2ZjMmNhNTBlMzYyYmIyMzQ2YWJlY2Y2YWQyMzk5NTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "GENERATOR_UPGRADE_STONE_DARK_OAK_12",
+      "material": "SKULL_ITEM",
+      "name": "Dark Oak Minion XII Upgrade Stone",
+      "skin": {
+        "signature": "RmWyao+U4Oh+/jPWCQuR9Q1QqvL9PwOuDC7zb86XNrxCDOBXwBURCtQFYKYDkLRlK2ou/F/Owe9aPGHoQlZEEVAVdsPJk9ZBRleZrCcs9K+DlCUJori+YvEPrC4fem1PE06pewClBx70fMs0+Lv1HYlWmbASc9GKoI0OlBHfoBGaOqDw0QU+ZjsAmgevHFkXY2pQpB2XQNVnLwwbzuwfmLResOxj91cMtl0sm2O+nwLbuV2H3+ZyuR0u1OhqzBsZjy0OM/4VQ5xUhHI+JKvQr8JbYmszyQh4cV4yWiKPoPiQyXrhgV10VgvMbYehLLF4r473gf4KO75YqKYSg4GXNxZ7gRWuZ8Z0tPcqwvclEtqDQV1AxwyeDj0ghdQX9OulwkKUhDpD7LjJ1LsmojoXxw04/o/4qvqUJIXNi7cePzhHKu0JgViIH8zGQMnaS+RyRMneA1+wINypyDbryKqHyqu1hqI+eYS7NAp3yCnAPWQX8kITMNpYyoDMrPK6gQXmSpFqxH7uKp0damMSmFGDkE9Usx1Y823W/qmGllagLc25blflEb1lsjUtNimrmK6U+hqAB2gidulIfblL/BnL4P8Z8bPdmqtEGEA8ju5rUpdeKJ4DldsuDiloRVFhB4goP4YLNr6m/fcjfp0iqVjdzvTD53yh1zhZITTvCNxM7So=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwOTM4NCwKICAicHJvZmlsZUlkIiA6ICI2OTE1MGMxMTk3M2E0MGViOGExNjZiNTY5OThmNWEzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdXJtYWFqYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83OWI3Zjk4NjUyNzgxZDc1MDg0ODI2ZjMwYmZlYjdmMjFkYTVmZjA3NmEwOWFjMTgxZDc2Yjk1NjJjYzdmMDllIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "GENERATOR_UPGRADE_STONE_BIRCH_12",
+      "material": "SKULL_ITEM",
+      "name": "Birch Minion XII Upgrade Stone",
+      "skin": {
+        "signature": "XoTLNKes0b95+Mg2N6i3fphzy2KY5brhoeVF2NqbviFLI0MsbWWEP5kVzr+2o5OMnrw2Gfwj8uPq44rYBcm4WB8LvA8iZHMOHnGYsTA1QFwjzyfNDwcb3ZAN69lmRnckx3cZZhKdzENoZ35VcFzkaw0AnPx0j5ui7FgZ/G1FsSGhp4GmkA0Pvo/CgpFVpoYM6tVNkBJ8sahcePYMgxQLcCoJSPjyG4PiLvaipslV54/WhPK1ppdb0mOhwOx933Ev97mEaiJoRY4j58AOGE/3naFZ5dwVhFbCXYXsMqidSpuho4PUVpC3LHYGv9ZLBVV2irF2UgbVOl9vpAUhsCG2n8EVF1IouElKu8QEV14WhNsTr5nkANcs/DB26poH5qp+RT4J95RHcZq5zUtcUziR+ZV1NZTJbM7yW8oLCBeyGZQJo2xWeXmKxGhAEoVMl2KuWP6FxNEu5gsG4AS9aYv6jB17ePe5eBPLyvxdzQYfcZC8lWHTWy42VPo0sr+y02s7Iz9PFpyQzT4U9Tr/N5x3wLOh9W8+TlyrQ2Wp7kYfSzir7exYNp2wqYmmd4q+dKhzrxCSgHEedfAhEuffH5IL9lvcRLCBQF+yhhFxuuClC7cgkAWwFtA2K//2gO9xsB74n2+oen6WvAcm/2ZTGasdow0+lHU09iYuZz6DqViKdNY=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwODk4MCwKICAicHJvZmlsZUlkIiA6ICIxN2Q0ODA1ZDRmMTA0YTA5OWRiYzJmNzYzMDNjYmRkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnaWZ0bWV0b25uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQwNDFkNWZhNzliNjk3ODE1YjY5NmMyZDZjMzliODQzMzkxZDRjZDMwYTAwMTBiZTI3YjdmYTZiNWRkYmQ4NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "GENERATOR_UPGRADE_STONE_SPRUCE_12",
+      "material": "SKULL_ITEM",
+      "name": "Spruce Minion XII Upgrade Stone",
+      "skin": {
+        "signature": "WZLfxw7ntDWRStdF4UprtK/kvQlQ9fBZQ0nJc7gLGufJ3k0M/e3CeXkSBesbPlhe3yJCW0P4urt+dAbO22c+YLkdcG42t1qrYb02himRwSr7zdCzhdXA7GR+VoVUgQdcQYAhlnFMp9+CDd8cBFNVglfer5XE2iPPMR/QNcaAj5448pnXY4PdywpMahPkq25uS35BBJt9h+fK5r/atvzz3iNFq8JR453q2uc8Qug2JcotC4JVtynoRHzxp3DmwQ0cnnH1ySAperyvGTEY02jvm58tUTEhGjxPEIgX3AzWhdD6wpEzo3itlhgQc+BVfFM5ZEYlVGgOIUA4t2dJvThDbuqDOQ3CprK1jKcPBVq9YlVITV9Ds1s5My5TB5aB+QJO0Tj0sLVkmoStfocTJeobUV9JZw8ThOtRMovJgAWXMopea6yunUtu+ytX2dcbXbBNhjW93U3N2tcx+1QhIuoL7N3A2/J1NucaTsLL921APFgNk2kUBuwYsnrauZmR0QU8nsWUq44AAEzD9UDFVlLutk0CtgLWILiB3sNWt+DAzL34oKOVSQ1W4BEOvIXxGLdUfL6gs+5WGQbbQE2AyXx4VE7DqOAcj2tVF8S6ybvlaADKw4PpuPut/7eNecvJhEDYSZ2bZ5LbKj1poZD6trJy80E68bEq3ArrwpuYIze5ViU=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODExMDIzNSwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlOTE5Yzk3YzE2ZGRkNGY3OTMwZGIxMmQxODA5YjQ1YzYzNjM1ZjEzMWZkZTAzNWFhMGQzMzMwMmY4YmY4YjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "GENERATOR_UPGRADE_STONE_JUNGLE_12",
+      "material": "SKULL_ITEM",
+      "name": "Jungle Minion XII Upgrade Stone",
+      "skin": {
+        "signature": "RFZAqPM0Dd1fLK8VI/Vje/rWF0nX6rPZ0BHact0de1PIWV2onvSxRmvtPXQ1R3Y6SSX8nCzLWhXABFw1POnvRbusvyqHlCa/aOn+VH2XWXuhnqb6kYCjrMuVINCt7JJV+ZmZ5bAMf6BGA7qnu6InEFIlxPNAPtQmwohjPLaQ3VazMNOUNECKivgUo1OyRTq0kgJInMt8+DhwZqrr0ii7F7Y8t66w8dxsABC+BNu8Kz7KIffomJAzdghxRx70Mk6cXPl4iD4L44uq1KMFRBWb7pn+R8qIxRk6gpYp3ZanQCg44i0KiAQ2Ov7F54+I+3kgi71bbdQQDdMHc8mCSvl51amv6vUJmVaMO6efbhlJl81gD63mjJ8bE0Pds0PPoSGbqnJPwaoHRjTFGyxaUduJTvWosD0Kan4QLrlIT1SWRxj73jfUjwvKLaXKQLbZOS6b7LF/vhSoHjbGPXJpCkHwByCQYlfkJlB4X9zlXvQ33L1MZa2Top2GDc+fJgK5KbNlSdxO339+qqDB5aq+tb3TGHMUpADKLzQjbNonVFI+k0FFdWjmDM2C8Q4D3s2F2VjpU13ehJRKAIbNlQG35oGS7MJD6+JxMzqsXjGE/QK6j/iHHBr55jmnYOjnFcLWOjDfYBYdp1wv9a7M2csxRT5ZvXiKn3EgGeWOOPj5Nbmi7sA=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODExMDA0MiwKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRhYTY2N2Y0M2JjODcxMzdlNDhkYzc3OThlMGU5ZDQzZjE4ZmNhYzVjYmM1MTA2NGMxYzQyNmFkMmZmNDBlMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "durability": 3,
+      "id": "GENERATOR_UPGRADE_STONE_ACACIA_12",
+      "material": "SKULL_ITEM",
+      "name": "Acacia Minion XII Upgrade Stone",
+      "skin": {
+        "signature": "hCkGC0+kP6kXSojQasbNki15ZBT3B7DfQPTHAYwB2ccEEsRCMdJuhA6YJOKGkG1IgKLoFck4mxntkhk9eo5eys7IqQMYup71ac7iLprz7HXLPpSVwtmBy3uUbrym9Ql8jN+pQpxGhpSa10TPqh3xpGnEBpHd+Z1w/K22GrG5ubsrdU1wMMG8ksza4/7t11RC1A0Xdg3bNDIEI10Aozb9Vx1W5rAa23jnFkPtP0nofD8+xd5cMIEoE0oU3RTnxPXs7v5RJ4oaftbOVKAgkRtFePpzMwvgWEb4Z2vyol1hgvShcTZguSm4VHHymptqiB++jFPjbhXpmUCcdqPds1K3B1dvBitj6yGuQ8mIjDp6dSVnkHGbJ0+BCTlg70ZhCdctgREKYrLrRMrhYBT57SVWiyatEjFknPQYOWsxqcIJpmgA0urq8MAhpJ+TdNZXRsmk9+GCyzkBgYHu1EEVAUhViisP2Q/woLtL2gdNJV5a+36YpVpPTV6zrmxEjVhun64xmuyKXndeYFGH2UoQvcdw0ajGb3CWMcHpaFdMUP3+wbpMPVCwzVUVSw7p01fCe454a74qg9r3MBQ43oof/8it+7PT50LY4K4lBihrA7an1Q4YMxI4b1yDXgSA15OwtZeYLYZXppjGQmSUxzCZUAItmZNa8C/GVPAifS6JXh03Zkw=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwODMxMCwKICAicHJvZmlsZUlkIiA6ICI0MmU4MDAxM2I3ZWE0Y2FkYmE1NDJhZWJmNDVhNjBkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW1hcmlpaWlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWI3YTQyZTRjMWQ2NWQzMWQ2NDY3MDk4MTE2NjBkOThkNmI0ZjhlMGYwYWY2ODBhNmFhNDM2OTlkMzhjNTA2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "LEGENDARY",
+      "unstackable": true
+    },
+    {
+      "can_have_booster": true,
+      "category": "AXE",
+      "gemstone_slots": [
+        {
+          "costs": [
+            {
+              "amount": 20,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 50000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        },
+        {
+          "costs": [
+            {
+              "amount": 40,
+              "item_id": "FINE_CITRINE_GEM",
+              "type": "ITEM"
+            },
+            {
+              "coins": 100000,
+              "type": "COINS"
+            }
+          ],
+          "slot_type": "CITRINE"
+        }
+      ],
+      "id": "HELIX_CHOPPER",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/axes/helix_chopper",
+      "material": "STONE_AXE",
+      "museum_data": {
+        "category": "FORAGING",
+        "donation_xp": 7,
+        "game_stage": "EXPERT",
+        "mapped_item_ids": [],
+        "parent": {}
+      },
+      "name": "Helix Chopper",
+      "npc_sell_price": 2000,
+      "requirements": [
+        {
+          "level": 20,
+          "skill": "FORAGING",
+          "type": "SKILL"
+        }
+      ],
+      "stats": {
+        "damage": 75,
+        "foraging_fortune": 50,
+        "strength": 25,
+        "sweep": 50
+      },
+      "tier": "EPIC",
+      "upgrade_costs": [
+        [
+          {
+            "amount": 100,
+            "essence_type": "FOREST",
+            "type": "ESSENCE"
+          }
+        ],
+        [
+          {
+            "amount": 200,
+            "essence_type": "FOREST",
+            "type": "ESSENCE"
+          }
+        ],
+        [
+          {
+            "amount": 300,
+            "essence_type": "FOREST",
+            "type": "ESSENCE"
+          }
+        ],
+        [
+          {
+            "amount": 400,
+            "essence_type": "FOREST",
+            "type": "ESSENCE"
+          }
+        ],
+        [
+          {
+            "amount": 500,
+            "essence_type": "FOREST",
+            "type": "ESSENCE"
+          }
+        ]
+      ]
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "LUMBERJACK_RING",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_ring",
+      "material": "PAPER",
+      "name": "Lumberjack Ring",
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "LUMBERJACK_TALISMAN",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_talisman",
+      "material": "PAPER",
+      "name": "Lumberjack Talisman",
+      "tier": "COMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "LUMBERJACK_ARTIFACT",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_artifact",
+      "material": "PAPER",
+      "name": "Lumberjack Artifact",
+      "tier": "RARE"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "ACCRETION_RING",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_ring",
+      "material": "PAPER",
+      "name": "Accretion Ring",
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "ACCRETION_TALISMAN",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_talisman",
+      "material": "PAPER",
+      "name": "Accretion Talisman",
+      "tier": "COMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "ACCRETION_ARTIFACT",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_artifact",
+      "material": "PAPER",
+      "name": "Accretion Artifact",
+      "tier": "RARE"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "HONEYCOMB_TALISMAN",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_talisman",
+      "material": "PAPER",
+      "name": "Honeycomb Talisman",
+      "tier": "COMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "HONEYCOMB_ARTIFACT",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_artifact",
+      "material": "PAPER",
+      "name": "Honeycomb Artifact",
+      "tier": "RARE"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "HONEYCOMB_RING",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_ring",
+      "material": "PAPER",
+      "name": "Honeycomb Ring",
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "TORRHUS_TALISMAN",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_talisman",
+      "material": "PAPER",
+      "name": "Torrhus Talisman",
+      "npc_sell_price": 10000,
+      "stats": {
+        "helix_fortune": 5
+      },
+      "tier": "COMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "TORRHUS_RING",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_ring",
+      "material": "PAPER",
+      "name": "Torrhus Ring",
+      "npc_sell_price": 20000,
+      "stats": {
+        "helix_fortune": 10
+      },
+      "tier": "UNCOMMON"
+    },
+    {
+      "category": "ACCESSORY",
+      "id": "TORRHUS_ARTIFACT",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_artifact",
+      "material": "PAPER",
+      "name": "Torrhus Artifact",
+      "npc_sell_price": 30000,
+      "stats": {
+        "helix_fortune": 15
+      },
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "show_items_first": [
+            "ACCRETION_ARTIFACT"
+          ],
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%A bouquet of ruby veilshrooms. The heat emanating from them can be felt even through the wrapping - best to handle with care.",
+      "glowing": true,
+      "id": "VEILSHROOM_BUNCH",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/resources/veilshroom_bunch",
+      "material": "PAPER",
+      "name": "Veilshroom Bunch",
+      "npc_sell_price": 128000,
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "sort_by_accessory_tier": true,
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%Ruby Veilshrooms only grow in Torrhus Canyon, nurtured by the relentless heat of the blazing sun beating down upon them.",
+      "glowing": true,
+      "id": "ENCHANTED_RUBY_VEILSHROOM",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/resources/ruby_veilshroom",
+      "material": "PAPER",
+      "name": "Enchanted Ruby Veilshroom",
+      "npc_sell_price": 800,
+      "tier": "UNCOMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%Having absorbed the heat of the sun to gain its blazing red coloring, it now exudes a unique warmth.",
+      "id": "RUBY_VEILSHROOM",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/resources/ruby_veilshroom",
+      "material": "PAPER",
+      "name": "Ruby Veilshroom",
+      "npc_sell_price": 5,
+      "tier": "COMMON"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%Dropped by the %%blue%%Puck %%gray%%in %%gold%%Torrhus Canyon%%gray%%.\n\n%%dark_gray%%%%italic%%The very essence of a Puck is mischief. Though it seldom means harm, it should never be trusted.",
+      "id": "BOTTLED_MISCHIEF",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/bottled_mischief",
+      "material": "PAPER",
+      "name": "Bottled Mischief",
+      "npc_sell_price": 25000,
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%A vial of particularly clear water, gathered from Torrhus Spring by Miria herself. It exudes a faint warmth when pressed against your chest, reminding you of fond memories of days gone by.",
+      "id": "VIAL_OF_SPRING_WATER",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/vial_of_spring_water",
+      "material": "PAPER",
+      "name": "Vial of Spring Water",
+      "npc_sell_price": 150000,
+      "tier": "LEGENDARY"
     },
     {
       "category": "BELT",
@@ -116689,7 +117958,9 @@
         },
         "category": "FORAGING",
         "game_stage": "EXPERT",
-        "parent": {}
+        "parent": {
+          "MANGROVE_GRIPPERS": "VEILSHROOM_BRACELET"
+        }
       },
       "name": "Mangrove Grippers",
       "npc_sell_price": 614840,
@@ -116721,8 +117992,7 @@
           "MANGROVE": 8
         },
         "category": "FORAGING",
-        "game_stage": "EXPERT",
-        "parent": {}
+        "game_stage": "EXPERT"
       },
       "name": "Mangrove Locket",
       "npc_sell_price": 12848,
@@ -116750,14 +118020,14 @@
       "id": "MANGROVE_VINE",
       "material": "SKULL_ITEM",
       "museum_data": {
-        "armor_set_donation_xp": {
-          "MANGROVE": 8
-        },
         "category": "FORAGING",
+        "donation_xp": 5,
         "game_stage": "EXPERT",
-        "parent": {}
+        "parent": {
+          "MANGROVE_VINE": "TORRHUS_BELT"
+        }
       },
-      "name": "Mangrove Vine",
+      "name": "Moonglade Belt",
       "npc_sell_price": 51440,
       "requirements": [
         {
@@ -116935,13 +118205,6 @@
     },
     {
       "glowing": true,
-      "id": "RAINBOW_FEATHER",
-      "material": "FEATHER",
-      "name": "Rainbow Feather",
-      "tier": "LEGENDARY"
-    },
-    {
-      "glowing": true,
       "has_uuid": true,
       "id": "WET_BOOK",
       "material": "BOOK",
@@ -117115,7 +118378,7 @@
       "tier": "EPIC"
     },
     {
-      "description": "%%gray%%Its vibrant green glow perfectly matches the scales of the Jade Dragon. A symbol of new beginnings and unimaginable power.",
+      "description": "%%gray%%Purchased from %%aqua%%Agatha's Shop%%gray%%!\n\n%%dark_gray%%%%italic%%Its vibrant green glow perfectly matches the scales of the Jade Dragon. A symbol of new beginnings and unimaginable power.",
       "durability": 3,
       "id": "SHINIEST",
       "material": "SKULL_ITEM",
@@ -117128,14 +118391,16 @@
       "tier": "LEGENDARY"
     },
     {
+      "description": "%%gray%%Used to purchase certain items from %%aqua%%Agatha's Shop%%gray%%!",
       "id": "STARLYN_PRIZE",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/starlyn/starlyn_prize",
       "material": "PAPER",
-      "name": "Starlyn Prize",
+      "name": "Agatha's Prize",
       "npc_sell_price": 20000,
       "tier": "RARE"
     },
     {
+      "description": "%%gray%%Can be spent in %%aqua%%Agatha's Shop%%gray%%!",
       "id": "AGATHA_COUPON",
       "material": "NAME_TAG",
       "name": "Agatha's Coupon",
@@ -117173,12 +118438,12 @@
       "item_model": "minecraft:mangrove_log",
       "material": "SKULL_ITEM",
       "name": "Enchanted Mangrove Log",
-      "npc_sell_price": 1280,
+      "npc_sell_price": 2240,
       "skin": {
         "signature": "yk4SFp8oPh9zDK7XtXXmEsIgUvj/plHk4OfRE/wOFq8DoxgDd2mYS6XfbtwdhRUzMdb2tNhQkKUKed556PTabAnzoN04LNtdNCX8r/eLx8bEXZLSKjY2lNUdjpWueR3BNlwOObXlouz68wp85SG1YfhhRqYOs81N8nNScyAJgf4iby/RAWX+IFtEl7TzTLV9Ik1Wg0m88m9QROod3bNAdmamP1FyHdjlVpm+yn47rJSI4b79mJE1nGwkkBNi3eHjWwnmkJMFXuSCD4EBEjH+ulV+RJOMCsDTgoFbJptCJS1Aoo22W53XS627q9n9JlevNSDt7ntm1qhVp3YZecx2oAbU8jHkEEQiwSVaLGHoNs1BBO+XO5JgcnLXU27ZxoX41nEIveNOtwDeEpVkMlXyqlvr1o8KiavCRDlEdD2/SvAmAAR3GmqkonaHujGwGCkOFJh95L1BQzkd4CgIlGBiqa0NmiFaFlov+eWzK/Xx+PD4nGKbXTxyuqMdgioV1mvyvNFWTHNtFweY3bLYXO6SCvNBD9IvfiBrPJ04JL+MFTFcFhGkoGS4FGPy/K+evkMy9PyyeLAoprbByh7Ameo5RJvxBwTCApd7GNYX9GFCrHsJvDqJQTZF5Md3RpbsaH2IOuryYk8SQi5iao1k8n28uLw//39m/0NxnxFzLW2mGnI=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTg4ODgxMiwKICAicHJvZmlsZUlkIiA6ICIzNjQ4MzkyNGRmNjQ0ZDlmYTM0NjcyYTRhMWRlYmU2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdWFuQXRpbnM3OSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOWMxNzE5OGVhMGI2YmJhMzQwM2UzYzBlNGMzZGE0MWYxNjZkNzRiOWFmMTA1OGM4NmI2ZGM0ZDFhZGJhNWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
-      "tier": "RARE"
+      "tier": "UNCOMMON"
     },
     {
       "durability": 3,
@@ -117192,25 +118457,21 @@
       "item_model": "minecraft:stripped_spruce_log",
       "material": "SKULL_ITEM",
       "name": "Enchanted Fig Log",
-      "npc_sell_price": 1120,
+      "npc_sell_price": 1280,
       "skin": {
         "signature": "n5Pn0X/xbUYn1kvMP0NydCu1kJmLcUf7p+qnarF2IZut4RX3bD+tiyC/xF+gc/js1yXF0470vl2qvWEd1CI20faocvfwojy8JRzR+SylIRVSlSLYD2sO9EOaIs+bwOcIRBTv15mqN719a3XEJrFSHwKcyXeIi48vWxEOuuyTHyMzzh4biF7AO/DoSfdbCp7505zSQExyqI5OlDJry6iHMqVJK0UQPA3w9914cGfiBOr2NmPg0RsFNTx0yCE460YLnEqKSQRE+2JqLH9uz6lqN3n0NDsfbkLEOFN92JQ1g5yH/+5GK37r3hiUsu2CPS746Z47qlqAKXOClYUBRHFLlTSUevkayFYs0wTEAdDNUkzvw0AulU1TzUApiyYQkg4kTibb8Elx+4sdqulDpb11tVHyUv50oMldkuKo3Ndx/QcNuw2+TmPwX42FDs6DGkebHqm/mBQHssYVfJGkOFMrg8b4UlTNNWVFtyL+3cjCrcfZ2+hLJ5eigiUwgRydTIH+gn4v7X8RaI9TNhtF+Y/BjTd35Us6EZQC2M2st+ONxG7yIU0kAWqp1oEaJdnNwoDKRw3vI22ECCFHZPIFfbFLOcVkzYB5AKvjP15b2hE4VqX180NFApzfae6ax8L9lg0gJOLE2Te7zwW7YhaHp2R5UO38fY4Mku0lFKRgowEAUNs=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTcxNDQwOSwKICAicHJvZmlsZUlkIiA6ICI5NzBmYWNjMzY0YWY0MDdkYmY4NGEzYzkxOTVkMjdjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXJodGlfR2FtZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFiMGQxN2FmNjE2ZGFiZGMyMWU3MGU2ZDI3YjM5NDAxN2E3MjUxMWVmMjhkYmExN2MxNmNiNGM1YzIxNDJlMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
       },
-      "tier": "RARE"
+      "tier": "UNCOMMON"
     },
     {
       "description": "%%italic%%A dense testament to time, holding the chronicles of ancient figs.",
-      "durability": "3",
       "id": "FIGSTONE",
-      "material": "SKULL_ITEM",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/figstone",
+      "material": "PAPER",
       "name": "Figstone",
-      "npc_sell_price": 179200,
-      "skin": {
-        "signature": "EbVcBv+WHRCwjCO93PQi1arAP/1C4+hvHWpXhElsPYVIOQD1LW+VPaOnnelyOMYXQA5yuszlfC6jelXKNz6GLYDF4peTXhS8zHpERt6FgUCnNkweqZaREHIwKAvPTLHpvIYpmMqutpCRSwrHxvYZumtGO06pcLwbe9i/SylagY1PmO8abroTz+38FKD7bDszNFRBUnqqauWp36hBgYxxZKTuVRnWPrz3XKFmP5hLOVId4lB9IOwKHzL6WfImZsIU8EkmwtLK1eeultM2ZgGWR8GYlHCz0BI4NCJf3XdiARBbjfNVeiMbdy0rVXhHw+BONeLMHmyMfULVAAp0zT3WnPzx2n0XHFalgG06IWjnhwj8li6gKkWv4WsaThoWSGsZgo1lfaXz1ic2SSq2LKpIwrnT2BKfgwAjyFQ31Bvq66rbLVqAi4yA7csFbOgHtGEb7JZoIpjJ3GYXtWp94wuuDoMzb/dv3SD5n6DzlxV1Z9CvNFg4jCGa6K9RtCdbFTTd6tspBNg1uKGvPMzU2ZbLVZH9ejxQfXw77vMY31I+Rd/d2mMdCW6EB3KugmNfVfISxpR85oqKa4ygC7FRb/hwm41ZMaywSH8jHtByTQbaT7erMGJK/I/nSCnR8/UFToLms5RJhvApZXzRn3Q8A1UmLt/6P1Ym38Z7Z4lWF5XaD84=",
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTc4MTU3OCwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ODYxMjU1ZjM3MjRmYzc3ZTdhODI2MDBhN2MzZDA4Y2Q2MWQ2NWUwYTdiOTdkYjVjMjRlNTk2MzBjM2FiNTE0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-      },
-      "tier": "EPIC"
+      "npc_sell_price": 204800,
+      "tier": "RARE"
     },
     {
       "description": "%%italic%%Mangroves' finest gift, a shard echoing with tales of brine and bristle.",
@@ -117218,8 +118479,8 @@
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/mangcore",
       "material": "PAPER",
       "name": "Mangcore",
-      "npc_sell_price": 204800,
-      "tier": "EPIC"
+      "npc_sell_price": 358400,
+      "tier": "RARE"
     },
     {
       "components": [
@@ -117231,14 +118492,14 @@
       "durability": 3,
       "experience": {
         "foraging": {
-          "BREAK_BLOCK": 15.0
+          "BREAK_BLOCK": 5.0
         }
       },
       "id": "FIG_LOG",
       "item_model": "minecraft:stripped_spruce_log",
       "material": "SKULL_ITEM",
       "name": "Fig Log",
-      "npc_sell_price": 7,
+      "npc_sell_price": 8,
       "skin": {
         "signature": "Z2q6cfrfQPWsIwYukOTYbeK4mVJIe5rf7jB78m0U4LkmiAlOHITIk/86wK0JOTdU31HqxpuN9aQ0AyTJYeG5HSp78kxbdjrUvgSuoOM7/d/bXcrAdacu98mGy5gCypzgqojalVgP+UAdjPzLzuzXOI7jpOztqox+3pRsZm+w0Oc2HQlQL/zGkaCtDUXNDqtXzjBGq5aujbqGubUfX7eFfKC8GFZTowpvOzs+xw2v70tG2quEl843NjWHSMlPK3mBEQjQSHepkVSZRNz2MY4B8pjSh2soo05gvlY0+zi7aBmr7X+m+dWiIy+LYcOHrKB57vqRiHezzwfR/3a8JdRzujlsZ8O2Ouu5XNXRYKKHf0tMxegX9gJHAdsk1dr/ELVcEnT2b3XqdnMOiBgML1MAWLsCsLJG9kwnzR8ilL+2C33HQc6XnnD0Mx7D7ZqEUDSZumXZn4E5XoWkiyKHTSRpH2L4yWO4sRRRnTjm2MsiVyaXWrdS1/gYTKYmd3b20vq5SiS8e0+7YWD6YM2mDtwJ7Dfm2kIqPgHVzvfaHxZ/vmK8VuYBQ55S8vxhTaOF/YZTdrIDpkL2Q7GlUFwFMe0ACLX+hYXkw3av2RDH0PTt2ebg7eWk7qrHDvk33mmfgsf8ecd3vKgSAX+TPulT+oE2kW5Rea40U3Z2IvArIdEZ028=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTYzNjIzMSwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NDA3OGRhOWI5MzgyZTI3MmMzOTFiYTAxZTIwMGU2YzE3NWNmZWNkNGNjNWQwN2VlYmQ1ODNkYzA2MmYwMGQwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
@@ -117254,14 +118515,14 @@
       "durability": 3,
       "experience": {
         "foraging": {
-          "BREAK_BLOCK": 20.0
+          "BREAK_BLOCK": 15.0
         }
       },
       "id": "MANGROVE_LOG",
       "item_model": "minecraft:mangrove_log",
       "material": "SKULL_ITEM",
       "name": "Mangrove Log",
-      "npc_sell_price": 8,
+      "npc_sell_price": 14,
       "skin": {
         "signature": "X0RhAmaYLRfspSV0pCaKa6pMc19gPmJUecUnEZXncR0VwWn66g3dSkwY55R16vDWcAw8y6tr6QzbG4kTzHWOh4mcnYq2fPYiJXtWs785nNZ+vAIYumksOqcgXusTTpyE4hbEdZU3TPboOzXhycY+Z/xFWkhXbkoiWjo6QBqx/eSpj8MMx7D2ImBeDOBg2BabCMvtz2BAKGFTFysdZ/YaVdoYl1wvYSZ8VGiEJVreLcVt6N7Jfw1X+fE9Ez+U/cLRKA0aEenPvC3xvh6udYkoBxq/ft8PLtn03RROuJssNhoprrhRN3iTIvPjks29hxaLXh7mlzTK/LhwPsi7KpJdtXWdVBuLGQbOdD4+A9tkiJBmsTIxh6LO+SOgCOjSHQtfcsIqIlBJbqxhJ9qAVMiNH38qgjEXJt0P4OthWLM5VqWlqLwP5IhPRzDN7tnmDiZDa90kbYa+JR5vFH7vY0XKZ4YN/D57hCmBPLZyMuWGPGbbaWSDFvMK79LEnG9ca/SitriZgJjkkUcgCnP74D1y4qZLaF04GyJuEtul6mmBJznGyIrMjt3eeannWtmpRWMp4DT3D0A5SWf2IqFB/eYdIZ5/KYVS66PxwMnqZB0ZHCe2ask/nEgPRLEPWX/iypvbkl+cDrSKctfVVJ8kRhCqSbh6++c5ql/w4+fp/6N+TUw=",
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTg1ODY5MCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMTgwZmI4NzA5OGY4YzMxOTM0ODY0OWQxOGEwMmEzYTc3M2EwNTlhNjBhMmNiZTYxMzgwYmFiMTkxZWMwZDdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
@@ -117651,7 +118912,9 @@
         },
         "category": "FORAGING",
         "game_stage": "EXPERT",
-        "parent": {}
+        "parent": {
+          "FIG": "HELIX_ARMOR"
+        }
       },
       "name": "Figmail",
       "npc_sell_price": 8960,
@@ -117666,7 +118929,7 @@
         "defense": 45,
         "foraging_fortune": 30,
         "health": 160,
-        "sweep": 6
+        "sweep": 10
       },
       "tier": "RARE"
     },
@@ -117698,7 +118961,9 @@
         },
         "category": "FORAGING",
         "game_stage": "EXPERT",
-        "parent": {}
+        "parent": {
+          "FIG": "HELIX_ARMOR"
+        }
       },
       "name": "Fig Cap",
       "npc_sell_price": 5600,
@@ -117717,7 +118982,7 @@
         "defense": 30,
         "foraging_fortune": 30,
         "health": 80,
-        "sweep": 6
+        "sweep": 10
       },
       "tier": "RARE"
     },
@@ -117749,7 +119014,9 @@
         },
         "category": "FORAGING",
         "game_stage": "EXPERT",
-        "parent": {}
+        "parent": {
+          "FIG": "HELIX_ARMOR"
+        }
       },
       "name": "Fig Trousers",
       "npc_sell_price": 7840,
@@ -117764,7 +119031,7 @@
         "defense": 35,
         "foraging_fortune": 30,
         "health": 140,
-        "sweep": 6
+        "sweep": 10
       },
       "tier": "RARE"
     },
@@ -117796,7 +119063,9 @@
         },
         "category": "FORAGING",
         "game_stage": "EXPERT",
-        "parent": {}
+        "parent": {
+          "FIG": "HELIX_ARMOR"
+        }
       },
       "name": "Fig Striders",
       "npc_sell_price": 4480,
@@ -117811,7 +119080,7 @@
         "defense": 25,
         "foraging_fortune": 30,
         "health": 65,
-        "sweep": 6
+        "sweep": 10
       },
       "tier": "RARE"
     },
@@ -118213,10 +119482,10 @@
       "id": "GIANT_FROG_TREAT",
       "material": "SKULL_ITEM",
       "name": "Giant Frog Treat",
+      "npc_sell_price": 100000,
       "skin": {
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhlM2Q2YWE5ODgwYjViYTYzMmUzYzJmNDc2NmMzMDcxOTM2MDczYTc1ZGNlZGQ0NDVhZTdhYTU3MmE1MDk4ZSJ9fX0="
       },
-      "soulbound": "SOLO",
       "tier": "LEGENDARY",
       "unstackable": true
     },
@@ -118239,10 +119508,10 @@
       "id": "MEDIUM_FROG_TREAT",
       "material": "SKULL_ITEM",
       "name": "Medium Frog Treat",
+      "npc_sell_price": 50000,
       "skin": {
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI0NTAzNjc4MmM2YTdlMjVmZjg0YzUwODdhNjU5NjZkNjUwYzAzM2JhMzdlMDA5NjVlOGI5OTAyMWIzZWNhZSJ9fX0="
       },
-      "soulbound": "SOLO",
       "tier": "RARE",
       "unstackable": true
     },
@@ -118293,10 +119562,10 @@
       "id": "LARGE_FROG_TREAT",
       "material": "SKULL_ITEM",
       "name": "Large Frog Treat",
+      "npc_sell_price": 75000,
       "skin": {
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFmMjczMzdkMWUxYTk3YjY3YmYzM2Q0NTE3Y2UwYzIxZGU4MmI3MGUzYmZkNDVhMjIyMDFhNGQwNTZiNjAwYyJ9fX0="
       },
-      "soulbound": "SOLO",
       "tier": "EPIC",
       "unstackable": true
     },
@@ -118319,10 +119588,10 @@
       "id": "SMALL_FROG_TREAT",
       "material": "SKULL_ITEM",
       "name": "Small Frog Treat",
+      "npc_sell_price": 25000,
       "skin": {
         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZkODg4MWQwMmZlOWNlZTg1OWFjNTk3NzMxYjJkZjQ2YmVlNmQ1MmM0NDYyMDVmOWRhOWRmYTdiZDExMTY5NCJ9fX0="
       },
-      "soulbound": "SOLO",
       "tier": "UNCOMMON",
       "unstackable": true
     },
@@ -118377,7 +119646,7 @@
       "has_uuid": true,
       "id": "BASIC_FISHING_NET",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/nets/basic_fishing_net",
-      "material": "WEB",
+      "material": "PAPER",
       "museum_data": {
         "category": "HUNTING",
         "donation_xp": 1,
@@ -118398,7 +119667,7 @@
       "has_uuid": true,
       "id": "MEDIUM_FISHING_NET",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/nets/medium_fishing_net",
-      "material": "WEB",
+      "material": "PAPER",
       "museum_data": {
         "category": "HUNTING",
         "donation_xp": 2,
@@ -118419,13 +119688,15 @@
       "has_uuid": true,
       "id": "TURBO_FISHING_NET",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net",
-      "material": "WEB",
+      "material": "PAPER",
       "museum_data": {
         "category": "HUNTING",
         "donation_xp": 7,
         "game_stage": "SKILLED",
         "mapped_item_ids": [],
-        "parent": {}
+        "parent": {
+          "TURBO_FISHING_NET": "GIGANTIC_FISHING_NET"
+        }
       },
       "name": "Turbo Fishing Net",
       "stats": {
@@ -118587,7 +119858,7 @@
       ],
       "stats": {
         "FORAGING_FORTUNE": 5,
-        "SWEEP": 7,
+        "SWEEP": 10,
         "damage": 10
       },
       "tier": "UNCOMMON"
@@ -118685,9 +119956,9 @@
         "damage": 30,
         "foraging_fortune": 20,
         "strength": 10,
-        "sweep": 7
+        "sweep": 15
       },
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "upgrade_costs": [
         [
           {
@@ -118767,7 +120038,9 @@
         "donation_xp": 5,
         "game_stage": "SKILLED",
         "mapped_item_ids": [],
-        "parent": {}
+        "parent": {
+          "FIGSTONE_AXE": "HELIX_CHOPPER"
+        }
       },
       "name": "Figstone Splitter",
       "npc_sell_price": 480,
@@ -118782,9 +120055,9 @@
         "damage": 50,
         "foraging_fortune": 35,
         "strength": 15,
-        "sweep": 24
+        "sweep": 25
       },
-      "tier": "EPIC",
+      "tier": "RARE",
       "upgrade_costs": [
         [
           {
@@ -118876,7 +120149,7 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDU1OTQ5NSwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhZjgzOWMxYmZhYTg4YWVmZTY1YTBhNzk5ZjRmMzJjZjM2NjY3ZDlmZTBlN2Y5ZmMyMDBiMzMwNjk3MjZmNzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "stats": {
-        "respiration": 30
+        "respiration": 15
       },
       "tier": "RARE"
     },
@@ -118893,7 +120166,7 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDUyMTgwOCwKICAicHJvZmlsZUlkIiA6ICI2MDJiNzM0ZDcyZjI0YWI3ODFhYmEyODdlMGU5ZTk5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0Q29yb25hIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFjMjhiZGY2MTY1YjU5N2ExYjc2NTY5MmFiOGNkMDIzMzUyNTRlYjI1OGJjNWU5MWNlNjE4MzZiNTZmZWNiOTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
       },
       "stats": {
-        "respiration": 20
+        "respiration": 10
       },
       "tier": "UNCOMMON"
     },
@@ -118910,7 +120183,7 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDQ4OTAxMSwKICAicHJvZmlsZUlkIiA6ICI1NjQ4ZTA1Njg4NWU0NGQyYTVhYTBkYmVkMjZhZmFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaX2ZseSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmM2MjcyN2RhYmQ1NWRmODk3Yzc0MDk0YmUxYzUxYmI1ZDJkNGFiNmM0Mjg2ZGYyMmY0MDgzMGRmNTAxN2Y0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
       },
       "stats": {
-        "respiration": 10
+        "respiration": 5
       },
       "tier": "COMMON"
     },
@@ -119741,6 +121014,84 @@
       "category": "DEPLOYABLE",
       "durability": 3,
       "has_uuid": true,
+      "id": "LARGE_POCKET_BLACK_HOLE",
+      "item_specific": {
+        "capture_skins": [
+          {
+            "signature": "EfLu1DDaLWb0PvZd1flr6gAO9sw82Og17XeaHQhsaVWQpPFM6oWLf0raFwtJPqfmkLTTp7nk+Zo2S0unbE0nn1eqPkQJvc+e55YLRkORq8PEjmKziJJ3AoBccXVWmp3jyWXvkj/35NTEPZLszvqsk/dBhM9c9pKpJDb1IixjqVn82uGMZSzz3gtdKxhsqFD6Pv8mIS4fgoTCcuLKl5YnJCeWoAS73xgSkPO4lFvw7XGYkvlAM1qbogMwgykqILtaXK4YcABfxdS8g8nBS8sz/1WX7s0Lp/unLFuo9x5WnK8iPDu+wPJZQGTB2xvcKyZKEyinMoYbjpR02KVGWWIVa/KpdTPbNPl0+dS0ukmNVmpXyrd8D4DCvt1/sxO1PV/XGxydRB/uKy5CbvE9ylA4vmfcK9bNdfMMUhXLKO+nN81MZweSmKlMgd+vXEzJk3lmoK9vnGmcferjIXddBoXwOsmxHagvO7mY0/VGAni6QKisX6GlEfT1xbbYbOyqQbn6peFjof0e3a9DkJi34pydjtcYm2MWP4pWmg2ZPgOcwspZYKU+Mq2TBxD7hl64sN87XGyBaKA3Q/Vd0jzGq1Zx2KfeqImVnpMuFOw4sbsrohZ8a7dUoL8BVUQGlwmgI+tfDXnY8nLAoMlxFEsc+eIgB+qfr8ZEyx/x2j4gwfGfvx0=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2Nzk0NjU4NCwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4YTRiZmUxNjNjYmRjY2QwOThjNTIzNWI5NTYwNzNiYTk1OWFjZjM3ODgwN2I5ZWY1OWIzYTQyZTc0MDE2Y2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          },
+          {
+            "signature": "DTK8T9m2M3awOUQCQl09leSMfRJPbDjoNUWzLszGZ9F/1Bs9+QNs1ULYzyzNOFIdjhRanVDUuu/AUsvzDvt15bNzTA/TWHjG6o2N+Y2qI+AVtGSYZyPaBE+al5ttOf6EX2m2LQgWYxTV80Zz9BI1am3d2RM/anqUKXidWNXw69812WZyJf2+6ZlDNJtMKKqG8O2J2RRHdtvndRDOFjqWxZnVOu2WH5Rq0V1OPLvF2m14JeziwbDwTJLNvQSsBLou1SCjQ7KaLMR8GtuUXUg8E0GXgafR+EK+hLYcEzTX5muwWMpEcJo3Fbuim7AM4TQhujc7FGcXz3PwSBsmypntgZMFe7wNpJBZrLP8S0YyAGT7BYUVIUDtr3ZUEZLMyauUxMfTXdbTjRuD14ogYDvu/jFhcJHq2hY6XiG5EybSMnNpUWU5eOYwUpTl/B5j0DgqzC4A13IyQW2gYNLkrH7yIiWxQbhI0KlYUgUAknCh7m47uNr+UJFm0PzWsDUv27OFkoxiFvu3UngYe5O1JlqVrVGuEitTjtY+sdiIqDpp62ykQ2wzKWWKXz5wWnnitCQAVjcjqWDdPGPPWZaL+MHdI0wv6Hfd5r/gXmwUV3EBrNLTumoKobOnG9nFP9MiiWNpmqYo36vZ+aupicCMdHfRv6AM/pANHEQ29IAd7psFnfY=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2Nzk0NjU0NiwKICAicHJvZmlsZUlkIiA6ICIwNDg0N2ZjNWM5YjY0NTQ1YjI1ZWJkYmJiNzdjNjg2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXFsdWEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMwNDc1Y2VkZjc2OWE4YzIwNTYyNDU1ZTUzM2Q0ZGRhYjAwNzRlMjA2NmU1ODEyNTgzYzViYzZmMmRiZWE2ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          },
+          {
+            "signature": "FW+pYdyumwQWk4htRsLlT+J4sY5dUHpHz/sMNSBY6occGB4sgh/a9tzjm33QuJ+KG3mqNUUVgf58LZ8rESIPLb26KsC+sRRICG9pPW5wNTPqwmVKyfvjOFCBUNc8V19EvzF5oW6QRHMRnhx4/u5T+hknMq/EsRD3KC7gEduN/7E7VJ5YEDmRmkTpOR3Y6UMVZBU2acT7E0J3wjGQEwZ8+MSlnoNNhNhe/txSywOfEBqguP7Rmk8I4eayY51o0J4gEr4vG5OPq0xxOflLZQzgjJQQe38AW67LTNdEA6NJ4z01aoMtZc65ol2mB9k07iH4s0Fc//1TkWI5Lb9RKrVojn/aL1jbdBSIhVioBMOKMN3BGQ/ZS6Wp7MlYyOOeQ76ZsTsfi7R8wifuOADvwEgK97mJkhiOStWlzfevSNygoPlG+w3eH9mqMD2Q/4RF/3WX5+HIUC2O1lEpUqPFHalQxVP5eOIAhysSRV5gq4mYmMCN4ec1ywlvNQwtBGBdJIpVcjIVYRtZ0prM2WMhtIP1bKv43pk+vmP8U9VCIhk6dVP4Lzo9JXm1qNgNmOE+SPRqOa3m56ShPMbSiK5DQDJOswjASa/LTXmDfVl6KwusD6NhA6V9oob1H3vAZiAramtceWp8VsOxisdxHxAnDWZpaZyd7UxWHfJBezMx9t1WQzU=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2Nzk0NTcwMywKICAicHJvZmlsZUlkIiA6ICJmM2VlZmVlYTk1NTU0MzhhODllNWQyNjMwZjVhNDUyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcG9va3lBdG9tMDkwNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNkMWE0NWIyOWE4OTllMzUwZTUzNjkyYTVmNjU1OGM3Y2M0ZjE0MDAyM2UxODdlMDY0NDM3ZmJmM2U4MmE4MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          },
+          {
+            "signature": "q+TWOtAHT2YKKzi+Wqg8NaeeYxLUHfkBeYuWVtHLbajfje9MeJr3BbPuNIU730I5SvlYo/rGzIRW8+8Chn0q3uDxmZkv70TcFSUc+99e0Aq2Qj3hCDbtOkhVZ1ZEFcTkpsIBDXoMtUot+MWHDf5Kbz9yDp2n6NZSI7DzPbbzjAHKlOuAx8eSIO5ZmhPiU5asgXXkGKf51mPDGZNdlkPmRZYsY/X4S1b1aUHxI8LvXElAozD8rNpPMKPClEM74B96BqM6CaWJhyihhyaExIwtfw7+NzlKH1AOWI8QGcA4L/yYAdY6JGbhkEbXut8VsPieVbzTRh3552S2nynQGzRfFYgDiZeD+5WPwXPsUHgKpE75vLf9HFnLiGtXwYKkq/lEFa19dCY952Ce5c5lY1MdIV2n+YQb5YDACb+1SZ9JraS4zK4KRtQaGSEHDZsz0OCAYdxXnEKC/5P59uO9MjVHYcPj0+K1DWOze0wFPEtmGEs+QMtF4+UqAGZD0HPG06tpqNppU1EIdNzlyr0Y+rcBpmjuRhX8FTAkmXzf1BjpVdZ7WlpdsSP1CExOiaSipdfJ22B85ckBTz0SEnxtWJuqtfHhhuCpMsPQfZB7Ev+rFk81iSvDUOFD1azLW6mNUAG2xQJaQh1yOr507D0FmT2ZJDrDJ02q4MDuBGlpsm/7aDQ=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2Nzk0NjM2MSwKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJjcmFmdENhcnJpZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiOWQ2NDlmYmRhY2Q2ZTBiMWQ5ZDFlMDRhMmM3ZDc4OWNkN2NmMGIxYzUxZGE4NGU4ZDk2ZmVmYjUwNjc2MTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          },
+          {
+            "signature": "AzFJCju7gyAZcPTEce7s0DccLM3cmUBikJR7kzD3m6a9XR5NsJ4ww/I5w7NGO4wJNi2yopq4Ty+lamQNE1hpVloEZFGmSuhN2HAb+7RBRJG3wsFdBN/rsPGQ1kwabDv+lb/aFOQA356yUv4+O7bpsPYxyhTGl8uuuRaAQVLBV3I92wIwPoW26Uo46F5vybbReKLF8uTmJJo1h6p8Edu7TCdJwP7d/HASOxRHh6IbvnY1fSRhZ5W+HvUyDBCeyHAcKwboTU3pRd3BQofAThDh+9QTe+x/DDypHdiPJXoq6sJz30qmWvvKcKJ5+0T9rpnKQBQ71g5AaKm+yoxfKZ2yPggq9Y4AsfpRA2nFAnk/linV5SpPv/hQ91XKhOOdjs3I8AyFmVRuJce8A1gF5KIhN4T+/yWH2cIaWaiCweszfltmXiML95QbaHRQLE6yLPetRewTaoM/i53sbv8OER6JHSosisGNh/tf4UaZd/9IQsVB9WZqSzSSFycmMcpIdQRG372V/x8iG9EvGP8lW3qu4W37Du9znNcWWbkErCMH2v/9cHZbHGZUeslLS3re++NvaUVFH0PiAAGbKOXauofpH8ePfxpCFrFdCyzeTgIDKMF2FPExdqS6wjCaZr17lV3s7gwMs4jVp0bSNT1bXZOD6GV1qnaG8TdNQGkrCBEjG5I=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2Nzk0NDcyNCwKICAicHJvZmlsZUlkIiA6ICI5MTU1ZmYzNTNlMzc0ZmZlYjE0MmE5NmU2MzU2ZjA4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbG5hZFhCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2YjcxNWY2ZTM3Zjk4ZDI1YTk2NmE5NmU1MGZkM2RlZjBhZGI2Yzk0YTg5M2YzOTc1YmEzMzM2ZDNlZjFkYzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          },
+          {
+            "signature": "jHO7XPhiq72/sfBIF+8mOVxSWRhyMXp35/6kGFXpga02hYq1yjeshTg4vtdM8RS2suaqqUv+8qe9CB8x5yuLOCPcEjSK0CREVUnCFFE2vO789ln+5BMjNUZ0YBMXiHpvEOCfxJvUCcGx21CjQJ2yDi5psvfAp6YngvyWSYejnPhsnHDc9amZ0uL1lHMBIm6gdVWjjFsSNyUgMZmZLB40BAPZD/c2KUQn7wehPskQWlXSrTuwt9VyczbpfLWR/VtMmeBzR3QoChR5ngPoM2eN1r6lHFSJV5XNicsiDQ3mFo0DWFMIKa+4QdmHSh4Xd7RrIlmxiT0N6EbJGyvIf7lXnORfOK7qjpHmCJMfSVQ0vTmthFAIJeJ8PrZXYq3PbVIRaEjny3fIig5EYc2Nq1cVta+Yx57aU5D7yUbQzu1rNr9e5lkbR4nChrM8Yg1KpP37d74v5Mxisoo2pXHgE3b2ejB1mvLu7pIzkkXi0E6UTDwkNGHSmvdWqkGoIBp49x3wWugnwmld4WUKhwOdzpVQyCoP2kmel54ja/pSYPshUu+2hhPHJ+ZFIosAXx8zNkf7qSUXWTylvNv3S84ZFJq4W6pWjl3ZSNXUzMLhmmBPGKUm+iPMgaOLYoAQrRv1noGlUfJorFkLwiUWVuRM0t9aMRFLApp50UpFEkNvJGaXc20=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2Nzk0NDgwOSwKICAicHJvZmlsZUlkIiA6ICIzOWEzOTMzZWE4MjU0OGU3ODQwNzQ1YzBjNGY3MjU2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZW1pbmVjcmFmdGVybG9sIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5OWFjMWJkYmJlOTA5MTdhNGNlMTEwNTA3ZmU3MDU0M2YyMWQ1YTExNzY2MjBjMGQzZDU2ODdiZDkzM2VhM2UiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ],
+        "default_skin": {
+          "signature": "YAuAf2ZiaEKSPk7k+q/lzTLEfLoK6oG7G25UDXdPrgWTGNfiAEvgomKhhW0NPlVlKu7mUgdUzM9RP3WXfH7rXof5ieo/xI4D9V/mWTd6mpdaiCKm+Qnye2OkmSZlvXCQwacKwyRaWrXMNcLUk+K8OHST6OAsQLsrTl/e+86TBdc8sMMa/Eb+dM7Kcpec1lJe0pmHVsPJaZ7c541t11yb0nbpnGCAZhoOOULEKrCLbiy7bjvyFjJiIDDRurAFhRIN0H2189+tIZez6jU20AbvYUdnlPaUeGSog84D6JOGKDhx333rUAB5Y7GjOjt06QLdCqfP8vD2aMStTr2yPnfY6TUjTh0f7zKbX/KwWQUhA2IEsylciqKvbDcMKtEO1cib3HPUSlq72ylq4HogthzKPV1shRNFijGFe9rw8p/SJSaQga3Eh4bt02YoVewR4N51MI9j3UnlsDq1Ln2fGqJHbOKA0ho7uuYgKAxGya/MafLc3YwKh7ph9yZ/dftOuN7AyxCqBtRQq/cpil4Z1VAPJx8w/xQ25K81GU5fESHuvBcy62dw2ti6r1S8xK9UKv3zA6kN5uaKNBXXoJIE7djd5L0C79GLHTp2qpOWswZNtKArtFDfRD2Ocgw4X4+6py7h9zbvyZ/MS+AxvyDGpBBeUkTLegm5fzzhoeI9ntvqPAg=",
+          "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNTk5NjMyNywKICAicHJvZmlsZUlkIiA6ICJjNGRiNjkxZDNkYmU0ZWI5YThiNjgzM2I4ODNkYmM0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJmb3NzaW5hbHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRiZDM3ODI3ZjNmNTViODM4YjY0YWZlN2Y5MGMwZDc3ZWI0MDBkNTBkZGZlYTcwZmYzNWMyOTg2OGZlOGM0NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+        },
+        "rarity_skins": [
+          {
+            "signature": "JNLP4Ey3XomXaN0qvlpRflzy7w0R9W+oFWvLnlDv3YEDX5tEQk+L/vrXC1MAsmtpd7Vvfr/SWRfyLJmaUr6NNRQKxjOH0CQL5PC9JXn6Q6RSFerpmNgBEH1XadrQ+/QvMcOTcJf43xRnlFX8th7QX+g3KQcMudTObqlk9eI0leSYzTWHDguwSHU4YyoDyx8+DTkYhzmiQL/IEDxUib0Y9j86FQfeK6nJAqFclIJT6ixaiZeygCIpJni7cKLjZUjwjOw9RE/0xvoZ2jv9xpVItI9EaiEolztuS8WDLTvTcg/fuml7Cym2dEnTDdX7ICkwdlqV+UavQCssKtkhEeEmlOulLQyBghEmg7PgJdd0nwNpI53gN29UCVNwN++8BXqvTsne12JOFfIbu9/dLkzeUTcNN3v5IAVKY2tH0MQxVZbGvtNQdOL/iFEuKkVMs7V2i2T5oPpHNd8WWcRbkzGYJK8R237gsQpoNbvUjr9h6d3TooczgLMMly6CM2fwkzXi9jYh3luP0dcTvfHgfrmL/hy4vpibNBAmRVRgB3A2sVpyt4Um9C6JvAeVO86L7g9y5uQNnatwCc8yMYu6x2YvuQ8+XqkPYCOpi+H116e+aGmfTM4Bs/cpSDGflV/bqHlGDMCRdoPm0ndQhlGsRdhfqOlDXlAlt6bComKH0LwIc7E=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2NzgzNTA4MiwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQyMjUwYzhkMjBhOTY0NmRjODQ1MDMxOTFmZmRmOTI2NjcxNGEyYjJmMGIzOTYwODgxNWEwNjk3Mzc4NzI5MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          },
+          {
+            "signature": "Ktl4Z4aTzHaS8HSb9mmNQkMLRlxGLs+BM87YSB/BxtwK0sAUrN6+zizKl4Bm6Zq/T4sHMfxkDpRWzPsWs0ZAn2EQnnJ3R/tCLwvA3x3eOOA8nFAGh/iPwmxmOfLwFH/UVLxtnf+bOqg3NxqDt7M+cH/OXkHsyw8nBwESThYVA3gpnCJSafNhrBu/vywyN5kLqA2zrDdTUtHHqi6vI59bD8Z7a0MQUUIIlgvr97lOm74ZeQy0hs0W7PGh9bUEBQcITduIn0oj9rmT5B6Wz37mZ9OTl1wl8v2b73AaCLM8OddQ2+vgJHB2mjKQhmHH2xOI0m5kw5hsKQT/yx+B1G0rScj57j926D4etoWZmlutzhrCsQhC098UVDAKAIxKMNmKZ0i7QjtZLbjsIfk8n7cvkRY3KaEr0rvg4NJTFvq0rFguY6JYmeRCRIBT0F5Fdy+5S7VTL07ouec9Abej5SFmc7De9kBfk+jsd3n/zascrirugzcYK+rUlEn/b0cN60SmT+8Is9CestgN/URMkl4T0h1rVLROLwzq+RmlXrV9fCzP0Hy9AriGcjJZF9qfaIO0C8tP5fTII5GMW8k4HFx1fN9nwdKvomdGzb52ZTun56gUYWbtosaniq6P8/pzSYJ797hmZeMCm8jVQvPTkopuSddJ2knRkKJkF+ZI/+2IOqo=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2NzgzNDg2MCwKICAicHJvZmlsZUlkIiA6ICJiOTc3ODUwYWMxMGE0Mjk4YmRiNWNhYjBhODA0NmM4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb3JheER1YmJlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNjI1OTljZmE5N2NkYzQ3ZmFlZjY2ZDhjNWZlZDUwMjI2YjhkMTEyODNhYmMxNDM2NzJkMjE2ZTg0ZDc3Y2M1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          },
+          {
+            "signature": "WoC2mKPsSPqZJux1SIf6IEwBkdmIcbX8Hv+AzazeqQRZVM3SF4tCmFOygptjiH+evm3Bk2Xu/S2559rsaY7frKxNJdUrJLBScxpVHsNJGNrHYnh5Eeoj5qZL8HD9/YesPh/iH2Oyt1ia+Fov1F2OHoY8UNGQ6WEzGoTdnJ1DhrL0kTBrI17F3vDpNcYX+UNVp8IR/4UYgtsVKDY8Zfwiom6oreuGnS+xn/vUjR33sVmrVlMqXpDutWfc6NisO6RACyTl+pNO63AaDElIpUj9zoySqIGvPDTjbb8SgoVTZEPkPB0Boe3MHpxMMKtoO8TvGvT5YuxW2WaZjkhyH41OPyzdzvfpSV45LnMLrOWrhXyYSgcCVz4iVUVjqoT6zIvmuFyObeH0QtlY5Vgyr/KVR2qht+Wf7CzncPl8AtF0AKs6tfEwb7gph6x7IpIcx/Z+FfYFcs6aqBNjn9oUCKD5DdPe2q/BLJJeWiKwDU8RBZY5Ai12kAYf7iNkSWJmdIxceZyGMaaIb8Ow/IPpWFi6Yz9INHBSLiGxU2JcOX8spFCFSZZ5nle2WUppaOy1lveZCIbHM7p4i32frxFz7z5TOy4jK+Qv1GHuBLwqsuBNRCPHq6WZl/F/KNExInP4Em+/A60Qn1We9GJ3dRGoif2F841sJzoWPUIpcdyMt85khX0=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2NzgzNjk4MCwKICAicHJvZmlsZUlkIiA6ICJhNWM5MmJlODg5MGY0NDU0OTdkNGEwOTM2Yjg1NDc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG93ZGVyVGVjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZDkzY2ZjOTk4NzY0MzAyYmUzNGRhZGMyNmNhNTk3MmU3NzY0ODY1MTA1ODNlNmQ4YjUyMzE5MjNhNmUwMTg1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          },
+          {
+            "signature": "x0Rov7dvonppqnEKmN0kDk/U6/kGZCZ+nag+W0ZQp9hWpYAPsHG/CtkLpQQbv7449netnMphTCtcPRCubx8YyT3u9QT5uHdA0OvCalQQqb0GKee/N9RxD+DzLz9kLUEqNav/ZDgGUhDKcch0cqdeHA/yaLluSeOHz3jebZAuNn4SQy4JKU5AjDMAoXFp6wUadWxR2w7YAzpxgQsOltkYRUeeWM1tNls3NCmY6ip0DIjwQzv/97a85XRTOLuao7fK3QP2XUwVKyyNad0rML3ezHNfM691FlfiBzbMS91/T2rF/vGdw97FpZ3DBvyzp6ldsPJYoIOG3CNC6Uy58IRnuRAWAU4aFKP1NVOkWkqpLgE2Z0IZZfOIb+3atAxL4sg+WSdTdc0IefIKaBdnqwoBTPr5h7QKOygYlPuophhwGmyrKg0iZ65bzh5z9qVufjkhD+2RENdgvXHr+mtjP6bo/aqFx0R5pX6U93hMsjascJhfRAONIuMJy8SSphaIrw6qyYEOqFAIOk5QOA/7waZVM/gN8LLK79u6oz8xGE7vw882S7B2Xj3ZQomKrTaH3nxYHdzXydQ9vKHdY2ma4BEwHTCSf1jUAfdiX4Wh2V207C0hNaA8g1bayZljk9BA2nz9HlYC3fJ5miiBVyhwuwtCC3wAGjJIQergUMFts2vjboM=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2NzgzNjA3OSwKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MjliNzA2MjE3NWU5MzA5ZTE2Y2U1MjkzMGJkNzcyOTFiZmIyODE5ZTNkYzdlYjNhZGFjYTYzZWUyZmNjNzViIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          },
+          {
+            "signature": "rX84hbSdpZz5zO+rZBUAerYD0W/MK84Oy2jbXFc0Rit+RPfpVeQA5TLGj5d3O6LQNV7whawwGn40XVkmUOht68IaU593zLR2dGAFtJPhbO/eBaVrF0duFAspiBeQcf8BSEtO1DKzw+/QP3NsD980g1QZ5uxKtipwAN1QIS7wsOzuixhivgOBi5fCEKkuXaZ2B/mOVT/x5uwdDpaG4WV6GW++JZWFIwnIt/1ySYBtg3huqgho3NUCwLuf0/uPjp6J6dkn7L8VMaPRRB3Ll2duQ+EuMTcKu2J8c45InIB3V30YG83YF68Og8egim2Xg8TRDdaiEZsI8+Q3+/Uk92IJVd9vpjRkl2Yh8rEQRCOhWlcb7RkiPHvbMLguEzaXSnd8H4yj0czp3JUUA36Kc4N6PLZFBqcCEg0Fk17cqUbv0fPFj/T6WwxiycEPDd4Di0aqhmCxG+OgFb740D8NWeXWgKdd2QBMlFVpXzyLbIdLEjzwfc6x2NiwLQnsovSQMGAeiIZJbV/Aq6pPzCK5aud68H+OUlb7CBV9TZQbLVAxsRadPQV0KZCC7M6Ea9l4scQZvgHSawJLsxDYQwr53WPu88ThAzQrDugI01+kcaDgsJUTDtA+6+87ioytQXw3MIkyDLzuHOx05vS/gdI8uA2sNWQyIINRfd5Dg4dapesvSlo=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2NzgzNjg3MCwKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhNmE3ZTY1ODJhODY3MTc0Y2NiMTY4MzMyOWNiZjM2MzE2ZGZhMDVhZTlhODc1NzA4MjA1YzdjODI5YmUyNWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          },
+          {
+            "signature": "KzZQvhwm0Jvs3zbyIVh0P2w3saeONDBiSXQSCsoTE20aljyoqZr/1INEWyQtREMYBZ6S89AKt20Sx0HwxDodu1FUTXN2PaSzqtVfLsHcQI6hOoTT7zRrbIX1ngQ/HddZTb1w6V5arUCVKjQiWz91ysyRtoA4oQRTMI34Ge4+89FUBYst9QxqDM+BUXaKCEpGzleGqkM98qiHDLfv2hl7buKzwICEOC24Y5isADBO1dcCk05Q7c+Qt8rhTjLUFLXVE/Ysz6ILyVxCs+Ahf2lPZRfjYEIgexOhnkiEvFmKFd1ggX6eMKV+GMCj+nedQ4jMESQ4FFGPHqa5Lnq64IALig/Dod+kz3W1xcQdBoRnF1NMM7Kk6GV6hxtQAdci9Kk2t2Ja3nbofuyQtoLsCTgVEfOJc1kC/fxtdAHt/GAyvCCzcmug+A+vPHptzd25oc61HvKkqZOgK4s8AZkGGoDvYED9NhZqHlK6spbMxoiCNX64ZwLlBFtMNhmWGWIZrG6Ggb/zVnlbKpMyBQ9N+d7qmuhY3KSh+rjVsYP/yecbP2kEmXQAsZSEJ1NdT8oE1Lb8XZOdffpo3hCILufD7HytpLt6f7georqMnpsGpzD9tEoJwYtOJgJ0KZfq0EgTFmjRFUVS1qhaCCLmp1meqCj8bav7F4YRccNc9VNMqYPibCI=",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDU2NzgzNjgwMiwKICAicHJvZmlsZUlkIiA6ICJhNjJmNGM0MWY5Y2M0ZDRhOGEyZjFkY2NjZjZkZmE5NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCMDBLWSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OTA2ZmFlMTEyYWU1OGFlNWY0MmE2ZDc3MWQzZTRlYmY2ODA5MWEyOTZjMDAxNjc4OGU4MWY2OGMyOTY0M2EyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "material": "SKULL_ITEM",
+      "museum_data": {
+        "category": "HUNTING",
+        "donation_xp": 6,
+        "game_stage": "SKILLED",
+        "mapped_item_ids": [],
+        "parent": {}
+      },
+      "name": "Large Pocket Black Hole",
+      "skin": {
+        "signature": "YAuAf2ZiaEKSPk7k+q/lzTLEfLoK6oG7G25UDXdPrgWTGNfiAEvgomKhhW0NPlVlKu7mUgdUzM9RP3WXfH7rXof5ieo/xI4D9V/mWTd6mpdaiCKm+Qnye2OkmSZlvXCQwacKwyRaWrXMNcLUk+K8OHST6OAsQLsrTl/e+86TBdc8sMMa/Eb+dM7Kcpec1lJe0pmHVsPJaZ7c541t11yb0nbpnGCAZhoOOULEKrCLbiy7bjvyFjJiIDDRurAFhRIN0H2189+tIZez6jU20AbvYUdnlPaUeGSog84D6JOGKDhx333rUAB5Y7GjOjt06QLdCqfP8vD2aMStTr2yPnfY6TUjTh0f7zKbX/KwWQUhA2IEsylciqKvbDcMKtEO1cib3HPUSlq72ylq4HogthzKPV1shRNFijGFe9rw8p/SJSaQga3Eh4bt02YoVewR4N51MI9j3UnlsDq1Ln2fGqJHbOKA0ho7uuYgKAxGya/MafLc3YwKh7ph9yZ/dftOuN7AyxCqBtRQq/cpil4Z1VAPJx8w/xQ25K81GU5fESHuvBcy62dw2ti6r1S8xK9UKv3zA6kN5uaKNBXXoJIE7djd5L0C79GLHTp2qpOWswZNtKArtFDfRD2Ocgw4X4+6py7h9zbvyZ/MS+AxvyDGpBBeUkTLegm5fzzhoeI9ntvqPAg=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNTk5NjMyNywKICAicHJvZmlsZUlkIiA6ICJjNGRiNjkxZDNkYmU0ZWI5YThiNjgzM2I4ODNkYmM0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJmb3NzaW5hbHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRiZDM3ODI3ZjNmNTViODM4YjY0YWZlN2Y5MGMwZDc3ZWI0MDBkNTBkZGZlYTcwZmYzNWMyOTg2OGZlOGM0NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "EPIC"
+    },
+    {
+      "category": "DEPLOYABLE",
+      "durability": 3,
+      "has_uuid": true,
       "id": "MEDIUM_POCKET_BLACK_HOLE",
       "item_specific": {
         "capture_skins": [
@@ -119806,7 +121157,9 @@
         "donation_xp": 4,
         "game_stage": "INTERMEDIATE",
         "mapped_item_ids": [],
-        "parent": {}
+        "parent": {
+          "MEDIUM_POCKET_BLACK_HOLE": "LARGE_POCKET_BLACK_HOLE"
+        }
       },
       "name": "Medium Pocket Black Hole",
       "npc_sell_price": 500000,
@@ -145698,8 +147051,186 @@
       "material": "NAME_TAG",
       "name": "Sirius' Personal Phone Number",
       "tier": "LEGENDARY"
+    },
+    {
+      "glowing": true,
+      "id": "RAINBOW_FEATHER",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/rainbow_feather",
+      "material": "PAPER",
+      "name": "Rainbow Feather",
+      "npc_sell_price": 100000,
+      "tier": "EPIC"
+    },
+    {
+      "can_have_booster": true,
+      "can_recombobulate": false,
+      "category": "BELT",
+      "id": "SAFARI_BELT",
+      "material": "PAPER",
+      "museum_data": {
+        "category": "HUNTING",
+        "donation_xp": 2,
+        "game_stage": "INTERMEDIATE",
+        "mapped_item_ids": []
+      },
+      "name": "Safari Belt",
+      "soulbound": "SOLO",
+      "tier": "COMMON"
+    },
+    {
+      "description": "%%dark_gray%%A shiny orange gem that glows faintly.",
+      "durability": 3,
+      "id": "ORANGE_GEM",
+      "material": "SKULL_ITEM",
+      "name": "Orange Gem",
+      "safari_only": true,
+      "skin": {
+        "signature": "ZjvP2dazviuhtJbkOCQX+a4u7Rm8CHVa3eradSmq5MwkpYW6hiVbiyXIDUl2WtGYfIvBsBsYlasbI4HQrGrsregu3VT6YCHrH3IMLLNZco1Jx8uBn7r4AIljyAoOKObMycKemFLqkZIByKlCylftQK/pPQd7KRFYUrqubMLyG9qhnGnTLPCQ7I2dEpJXCGNy2iidZGxieJWI8ZMVucHGaZQ+AdJyaUgH2PRWG9uVhKutU9KqjhaPuHZG0Bsk4lPYcyxQ/VFVkh1ICVl+N7tSBodcOZQ+Tx0aVFQIJUeJr297DcYARjxgyYiwtPQYj7uMib1fhvOvd/87boMddWj2c670XDRGzLUjdfdXPeNRNKwq0iOOiZVnzD6soYAGF+LOlTQ16jLmTsQPULr9zF12wth372MIPoWXRpc+7Y/sjIBR8kryuYN4wXzNwg8ULDEg7Ri7MXNXgX6Xn4bb9l0BEJi9bMvsK28zDQhdJJE2tyc7QbBqHmOvEUqrzwnO//dU5vmZkxpCnmA/3DG1J2cwSBvw8aW/IeZKYABMNpG5nrV9EgOiet7DVwQbuj27wLTPjnNd6h5wCtgQBi045S+QSF9OTZf1GIqirWktjyan6L3IAut/8v3hYAgAL9KAUEmjDcwA+47cKtE6vTDLpm/PdiRo79V3W9bfTSJUzzNrdyA=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NjE4OSwKICAicHJvZmlsZUlkIiA6ICJjYmNkNDQzZGE1NTI0OGU3ODM3NWNmZjYwMmQzZWI0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPX1JlaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZmI2MDMwM2E4OGYxYTJhMDg4MTBiYTVhNjhlNTFhYTA4MDM2MjQwMDRiY2U2MGY0MzE0YTYxY2FjZjcyNThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "%%dark_gray%%A fabulous lime gem. It reminds you of a meadow.",
+      "durability": 3,
+      "id": "LIME_GEM",
+      "material": "SKULL_ITEM",
+      "name": "Lime Gem",
+      "safari_only": true,
+      "skin": {
+        "signature": "U2ghkqOVwA5GUGNcHu41nlBnd+lxQ/wjDxO8hLsp6rYPlm0NMRwufMJbv3BfIfA9d/IbqbCtPfkp4ij/ICUoHOFGO54Sc1KCnJDiIwviHGnJ0b2Wu/k5A5ucNlhcwsA6CkYtqjPBKFpqFRyMIva0X2FuCfO306CsnAWQa5RWyRrO3Q1YK8rDyIdEAYELfVqSQplZbqGIWL+Jbq9jwBVBD1bKwoyrV2+COxURb37i83rfo1lD8ozIgHZhRZcOdh32ORz5O+AenjmkabHnGTSUwqnP39piW/2Cs5lBcR/0c+Vlg9xFnncqow5s0ix9/s7LqzsvwNkGqzc3Sn4EplVjEfa9YKLd5syO1xS5cfBs6OfKaB61cCA7bIdZxzefv1JkcYvjgZ3S2qiFktZHEU5ykSagr6itA1LymixVBAEkMLaAzSEaF8J/Qkg55NtFIgHnyC2vj1Y8blrFnRsBUI+noX9w3ojZ6QN0BFCJjUGmRkHTzD60dz9hKewI+/jB55TZsMVjQn7LMWDaQDKPjq17KfzrsYVU80AHPfu8AuUMDCkIixL+JEJ6sXFvghld0+JNkpfUh7ilHsRHVg5oBOoIb0FDL5VXbW6X9j7XpDyAGz9G/TT4jv9LAzzxiv//wAHun5l9KvTg5uD4Ee5qCzRth2PiuwnUy1hWcQg3KBJbsew=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NTE5MSwKICAicHJvZmlsZUlkIiA6ICJkM2VmYjJmMThjMDU0YmRhYTE0OTVlZTY0ZDgxZjdlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNTEsxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZmI5OGY1YjkyNzY4NjI3ZTlmM2U0MjYwOTU2MWNjYjQ2MzhhZDlkNzZkZjk3NjE2NzRiMjdmNjgyMGZkYzA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+      },
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "%%dark_gray%%A brilliant purple gem glowing like a crystal from the depths.",
+      "durability": 3,
+      "id": "PURPLE_GEM",
+      "material": "SKULL_ITEM",
+      "name": "Purple Gem",
+      "safari_only": true,
+      "skin": {
+        "signature": "goqeoFlK/K4kRnrE2FGpEubB0wWZMa50XFFkTIWC8FsLhS2KVccPKJuVhJ4rnjmt8bbi8rD/pemXrsosnqHsWd8MXIW5toLz3Dd4u5bkEk7CLPO3eSVj6GZXf246mIGDh5mOd3guE/bb4z4UB3ypOPPIph3UC7Z0iZpJ4nX3e0PscDELdle1mF8Kov1VVrKNlLCxiCjGfDZUTnxeWi/qGznHo3IwP5oprvbi/GXj9FaqjpTdrnhbt0KX6DzUmpbFr6C+jjPJMgTI0SC/whGBThSidCbNWVbKhOXoNx60+mnlr9L/Fe3t3bm5u+HB+KVi3Br2pUkoALBAnqwSxQJdHABw6e5TzXN0KRZMGmbB7rQTvmz7N68JtL7R5U55NwqMAXJSSzojhpRYdR9brUmxkBwp1ob9flwu+9sOsvNHM9OFLl1CYwcOgmZPlxiLzCrts170OYm8QIcVOGWhauu7Ltx3Bj+yQunZrr1EGFj67Aiuf5TsdjBKshOPu6EErAfv8hf+HuYRxGQ6NwAW+G+PpDIf+Claw/Hgh7fqWLEVCIY632dV3643vpI8RyAaTjlsFtW0/3DQSD5AfeWJmDt4k0Ng0eRN1N3KXTHhgvti+K8RHbdmFZPCHIs8ou01bedYxk+xZy/ZPtDon9HHrO5vaAsYe5Wu2gijFD719+cMBkU=",
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NjU5NywKICAicHJvZmlsZUlkIiA6ICJjNGU0ZDY2MWRkMDQ0MDE3ODNhZDM5NGEzMDBjOTFjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSNTBrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg1N2I1NzhlN2U2NzM2ZGVkOWI0ZWMwNTE2MjU1NjA1MzMyMzljZWY4MThkZDI4ZDZhNGM0OTYwNGFiMjViNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+      },
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "Looks flavorsome. Perhaps a certain %%critter%%%%gray%% would like it?",
+      "id": "FLAVOR_PACKED_FISH",
+      "material": "RAW_FISH",
+      "name": "Flavor-packed Fish",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "Looks scrumptious. Perhaps a certain %%critter%%%%gray%% would like it?",
+      "id": "LUSH_LILY_PAD",
+      "material": "WATER_LILY",
+      "name": "Lush Lily Pad",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "Looks delicious. Perhaps a certain %%critter%%%%gray%% would like it?",
+      "id": "WHOLESALE_WHEAT",
+      "material": "WHEAT",
+      "name": "Wholesale Wheat",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%Throwing coins into fountains and other bodies of water is said to bring good luck in some cultures.",
+      "id": "SHINING_COIN",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/shining_coin",
+      "material": "PAPER",
+      "name": "Shining Coin",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%A stick of a sweet-smelling incense. It makes you feel at ease.",
+      "id": "SOOTHING_INCENSE",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/soothing_incense",
+      "material": "PAPER",
+      "name": "Soothing Incense",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "category": "CAPSULE",
+      "id": "MASTERFUL_CRITTER_CAPSULE",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/masterful_critter_capsule",
+      "material": "PAPER",
+      "name": "Masterful Critter Capsule",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "category": "CAPSULE",
+      "id": "CRITTER_CAPSULE",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/critter_capsule",
+      "material": "PAPER",
+      "name": "Critter Capsule",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%Some odd-looking worm, and it's still alive!",
+      "id": "WRIGGLEWORM",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/quest/wriggleworm",
+      "material": "PAPER",
+      "name": "Wriggleworm",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%A large, tasty berry. Whatever critter eats this won't be hungry anytime soon.",
+      "id": "YOGI_BERRY",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/quest/yogi_berry",
+      "material": "PAPER",
+      "name": "Yogi Berry",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "description": "%%dark_gray%%%%italic%%A small bag containing a large amount of birdseed.",
+      "id": "BAG_OF_SEEDS",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/quest/bag_of_seeds",
+      "material": "PAPER",
+      "name": "Bag of Seeds",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "category": "REFORGE_STONE",
+      "id": "MORNING_DEW",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/morning_dew",
+      "material": "PAPER",
+      "name": "Morning Dew",
+      "npc_sell_price": 100000,
+      "tier": "EPIC"
+    },
+    {
+      "category": "NECKLACE",
+      "id": "SPARKLING_AMULET",
+      "item_model": "hypixel_skyblock:item/island_relevant/safari/sparkling_amulet",
+      "material": "PAPER",
+      "name": "Sparkling Amulet",
+      "safari_only": true,
+      "tier": "SPECIAL"
+    },
+    {
+      "category": "PICKAXE",
+      "glowing": true,
+      "id": "ICEBREAKER",
+      "material": "DIAMOND_PICKAXE",
+      "name": "Icebreaker",
+      "safari_only": true,
+      "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1784730494765,
+  "lastUpdated": 1785851660596,
   "success": true
 }
