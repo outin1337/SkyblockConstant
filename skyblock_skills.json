@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1785778349568,
+  "lastUpdated": 1785854249620,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy EXP!",
@@ -1825,6 +1825,7 @@
             "Dedication Enchantment",
             "Impaling Enchantment",
             "Forest Pledge Enchantment",
+            "Petalfall Enchantment",
             "+15,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -3222,8 +3223,14 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
+            "Torrid Sea Creature",
+            "Sprawl Sea Creature",
+            "Brineling Sea Creature",
             "Agarimoo Sea Creature",
             "Water Worm Sea Creature",
+            "Haggard Sea Creature",
+            "Silkbreeze Sea Creature",
+            "Giant Isopod Sea Creature",
             "Bayou Sludge Sea Creature",
             "Treasure Hunter 15   Grants +1.4➜1.5  Treasure Chance.",
             "+3  Health",
@@ -3367,7 +3374,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "??? Sea Creature",
+            "Magma Slug Sea Creature",
             "Treasure Hunter 27   Grants +2.6➜2.7  Treasure Chance.",
             "+5  Health",
             "+275,000 Coins",
@@ -3378,8 +3385,8 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Nutcracker Sea Creature",
+            "Moogma Sea Creature",
             "Treasure Hunter 28   Grants +2.7➜2.8  Treasure Chance.",
             "+5  Health",
             "+300,000 Coins",
@@ -3400,8 +3407,8 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Lava Leech Sea Creature",
+            "Titanoboa Sea Creature",
             "Treasure Hunter 30   Grants +2.9➜3  Treasure Chance.",
             "+5  Health",
             "+350,000 Coins",
@@ -3412,8 +3419,8 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Magma Pillar Sea Creature",
+            "Pyroclastic Worm Sea Creature",
             "Treasure Hunter 31   Grants +3➜3.1  Treasure Chance.",
             "+5  Health",
             "+375,000 Coins",
@@ -3434,7 +3441,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lava Flame Sea Creature",
             "Treasure Hunter 33   Grants +3.2➜3.3  Treasure Chance.",
             "+5  Health",
             "+425,000 Coins",
@@ -3445,7 +3452,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Fire Eel Sea Creature",
             "Treasure Hunter 34   Grants +3.3➜3.4  Treasure Chance.",
             "+5  Health",
             "+450,000 Coins",
@@ -3456,9 +3463,9 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Reindrake Sea Creature",
+            "Blue Ringed Octopus Sea Creature",
+            "Taurus Sea Creature",
             "Treasure Hunter 35   Grants +3.4➜3.5  Treasure Chance.",
             "+5  Health",
             "+475,000 Coins",
@@ -3469,8 +3476,8 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Plhlegblast Sea Creature",
+            "Thunder Sea Creature",
             "Treasure Hunter 36   Grants +3.5➜3.6  Treasure Chance.",
             "+5  Health",
             "+500,000 Coins",
@@ -3481,7 +3488,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Fiery Scuttler Sea Creature",
             "Treasure Hunter 37   Grants +3.6➜3.7  Treasure Chance.",
             "+5  Health",
             "+550,000 Coins",
@@ -3512,7 +3519,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "??? Sea Creature",
+            "Wiki Tiki Sea Creature",
             "Treasure Hunter 40   Grants +3.9➜4  Treasure Chance.",
             "+5  Health",
             "+700,000 Coins",
@@ -3563,7 +3570,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lord Jawbus Sea Creature",
             "Treasure Hunter 45   Grants +4.4➜4.5  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
@@ -3584,7 +3591,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "??? Sea Creature",
+            "Ragnarok Sea Creature",
             "Treasure Hunter 47   Grants +4.6➜4.7  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
@@ -4169,9 +4176,39 @@
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
           ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Logger 55   Grants +216➜220  Foraging Fortune, which increases your chance for multiple logs.",
+            "+2  Strength",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Logger 56   Grants +220➜224  Foraging Fortune, which increases your chance for multiple logs.",
+            "+2  Strength",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Logger 57   Grants +224➜228  Foraging Fortune, which increases your chance for multiple logs.",
+            "+2  Strength",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
         }
       ],
-      "maxLevel": 54,
+      "maxLevel": 57,
       "name": "Foraging"
     },
     "HUNTING": {
@@ -4181,8 +4218,8 @@
           "level": 1,
           "totalExpRequired": 50.0,
           "unlocks": [
-            "Charming 1   Grants 0.04% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 1   Grants +0.04 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+100 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4191,8 +4228,8 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Charming 2   Grants 0.04➜0.08% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 2   Grants +0.04➜0.08 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+250 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4201,8 +4238,8 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Charming 3   Grants 0.08➜0.12% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 3   Grants +0.08➜0.12 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+500 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4211,8 +4248,8 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Charming 4   Grants 0.12➜0.16% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 4   Grants +0.12➜0.16 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+750 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4221,8 +4258,8 @@
           "level": 5,
           "totalExpRequired": 1175.0,
           "unlocks": [
-            "Charming 5   Grants 0.16➜0.2% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 5   Grants +0.16➜0.2 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+1,000 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4231,8 +4268,8 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Charming 6   Grants 0.2➜0.24% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 6   Grants +0.2➜0.24 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+2,000 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4241,8 +4278,8 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Charming 7   Grants 0.24➜0.28% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 7   Grants +0.24➜0.28 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+3,000 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4251,8 +4288,8 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Charming 8   Grants 0.28➜0.32% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 8   Grants +0.28➜0.32 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+4,000 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4261,8 +4298,8 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Charming 9   Grants 0.32➜0.36% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 9   Grants +0.32➜0.36 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+5,000 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4271,8 +4308,8 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Charming 10   Grants 0.36➜0.4% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 10   Grants +0.36➜0.4 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+7,500 Coins",
             "+5 SkyBlock XP"
           ]
@@ -4281,8 +4318,8 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Charming 11   Grants 0.4➜0.44% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 11   Grants +0.4➜0.44 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+10,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4291,8 +4328,8 @@
           "level": 12,
           "totalExpRequired": 22425.0,
           "unlocks": [
-            "Charming 12   Grants 0.44➜0.48% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 12   Grants +0.44➜0.48 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+15,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4301,8 +4338,8 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Charming 13   Grants 0.48➜0.52% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 13   Grants +0.48➜0.52 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+20,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4311,8 +4348,8 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Charming 14   Grants 0.52➜0.56% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 14   Grants +0.52➜0.56 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+25,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4321,8 +4358,9 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Charming 15   Grants 0.56➜0.6% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "+Access to Critter Safari",
+            "Charming 15   Grants +0.56➜0.6 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+30,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4331,8 +4369,8 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Charming 16   Grants 0.6➜0.64% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 16   Grants +0.6➜0.64 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+40,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4341,8 +4379,8 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Charming 17   Grants 0.64➜0.68% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 17   Grants +0.64➜0.68 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+50,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4351,8 +4389,8 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Charming 18   Grants 0.68➜0.72% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 18   Grants +0.68➜0.72 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+65,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4361,8 +4399,8 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Charming 19   Grants 0.72➜0.76% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 19   Grants +0.72➜0.76 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+80,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4371,8 +4409,8 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Charming 20   Grants 0.76➜0.8% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 20   Grants +0.76➜0.8 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+100,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4381,8 +4419,8 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Charming 21   Grants 0.8➜0.84% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 21   Grants +0.8➜0.84 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+125,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4391,8 +4429,8 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Charming 22   Grants 0.84➜0.88% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 22   Grants +0.84➜0.88 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+150,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4401,8 +4439,8 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Charming 23   Grants 0.88➜0.92% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 23   Grants +0.88➜0.92 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+175,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4411,8 +4449,8 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Charming 24   Grants 0.92➜0.96% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 24   Grants +0.92➜0.96 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+200,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -4421,14 +4459,264 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Charming 25   Grants 0.96➜1% chance to charm the mobs you defeat and capture their Shard.",
-            "+1  Hunter Fortune",
+            "Charming 25   Grants +0.96➜1 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
             "+225,000 Coins",
             "+10 SkyBlock XP"
           ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425.0,
+          "unlocks": [
+            "Charming 26   Grants +1➜1.04 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+250,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425.0,
+          "unlocks": [
+            "Charming 27   Grants +1.04➜1.08 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+275,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425.0,
+          "unlocks": [
+            "Charming 28   Grants +1.08➜1.12 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+300,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425.0,
+          "unlocks": [
+            "Charming 29   Grants +1.12➜1.16 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+325,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425.0,
+          "unlocks": [
+            "Charming 30   Grants +1.16➜1.2 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+350,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425.0,
+          "unlocks": [
+            "Charming 31   Grants +1.2➜1.24 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+375,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Charming 32   Grants +1.24➜1.28 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+400,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Charming 33   Grants +1.28➜1.32 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+425,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Charming 34   Grants +1.32➜1.36 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+450,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Charming 35   Grants +1.36➜1.4 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+475,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Charming 36   Grants +1.4➜1.44 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+500,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Charming 37   Grants +1.44➜1.48 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+550,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Charming 38   Grants +1.48➜1.52 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+600,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Charming 39   Grants +1.52➜1.56 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+650,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Charming 40   Grants +1.56➜1.6 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+700,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Charming 41   Grants +1.6➜1.64 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+750,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Charming 42   Grants +1.64➜1.68 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+800,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Charming 43   Grants +1.68➜1.72 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+850,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Charming 44   Grants +1.72➜1.76 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+900,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Charming 45   Grants +1.76➜1.8 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+1,000,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Charming 46   Grants +1.8➜1.84 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+1,000,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Charming 47   Grants +1.84➜1.88 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+1,000,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Charming 48   Grants +1.88➜1.92 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+1,000,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Charming 49   Grants +1.92➜1.96 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+1,000,000 Coins",
+            "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Charming 50   Grants +1.96➜2 ❣ Charm Chance.",
+            "+1  Hunting Fortune",
+            "+1,000,000 Coins",
+            "+20 SkyBlock XP"
+          ]
         }
       ],
-      "maxLevel": 25,
+      "maxLevel": 50,
       "name": "Hunting"
     },
     "MINING": {
@@ -4539,6 +4827,7 @@
           "unlocks": [
             "Spelunker 10   Grants +36➜40  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
+            "Extremely Mild Adhesive Reforge",
             "Dirt Bottle Reforge",
             "+7,500 Coins",
             "+5 SkyBlock XP"
@@ -6165,5 +6454,5 @@
     }
   },
   "success": true,
-  "version": "0.26.1.11"
+  "version": "0.27.0.2"
 }
