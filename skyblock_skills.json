@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1785947249611,
+  "lastUpdated": 1785958649600,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy EXP!",
@@ -3223,15 +3223,15 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Torrid Sea Creature",
-            "Sprawl Sea Creature",
-            "Brineling Sea Creature",
-            "Agarimoo Sea Creature",
-            "Water Worm Sea Creature",
-            "Haggard Sea Creature",
-            "Silkbreeze Sea Creature",
-            "Giant Isopod Sea Creature",
-            "Bayou Sludge Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XV   Grants +1.4➜1.5  Treasure Chance.",
             "+3  Health",
             "+30,000 Coins",
@@ -3242,7 +3242,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Sea Leech Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVI   Grants +1.5➜1.6  Treasure Chance.",
             "+3  Health",
             "+40,000 Coins",
@@ -3253,11 +3253,11 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Guardian Defender Sea Creature",
-            "Werewolf Sea Creature",
-            "Stridersurfer Sea Creature",
-            "Poisoned Water Worm Sea Creature",
-            "Volcanic Snail Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVII   Grants +1.6➜1.7  Treasure Chance.",
             "+3  Health",
             "+50,000 Coins",
@@ -6454,5 +6454,5 @@
     }
   },
   "success": true,
-  "version": "0.27.0.4"
+  "version": "0.27.0.5"
 }
