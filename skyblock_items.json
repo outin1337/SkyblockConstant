@@ -103793,7 +103793,6 @@
       ],
       "stats": {
         "CRITICAL_DAMAGE": 15,
-        "DEFENSE": -30,
         "HEALTH": 400
       },
       "tier": "EPIC"
@@ -103875,7 +103874,6 @@
       },
       "stats": {
         "CRITICAL_DAMAGE": 15,
-        "DEFENSE": -30,
         "HEALTH": 300,
         "INTELLIGENCE": 125
       },
@@ -103953,7 +103951,6 @@
       ],
       "stats": {
         "CRITICAL_DAMAGE": 15,
-        "DEFENSE": -30,
         "HEALTH": 200,
         "INTELLIGENCE": 25
       },
@@ -104031,7 +104028,6 @@
       ],
       "stats": {
         "CRITICAL_DAMAGE": 15,
-        "DEFENSE": -30,
         "HEALTH": 500
       },
       "tier": "EPIC"
@@ -147231,6 +147227,6 @@
       "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1785851660596,
+  "lastUpdated": 1786046142121,
   "success": true
 }
