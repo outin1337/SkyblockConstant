@@ -105228,7 +105228,7 @@
       "id": "LUCK_BOOSTER_UNCOMMON",
       "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_luck_upgraded",
       "material": "PAPER",
-      "name": "Uncommon Luck Booster",
+      "name": "Uncommon Luck Booster Upgrade",
       "tier": "UNCOMMON"
     },
     {
@@ -105236,7 +105236,7 @@
       "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON",
       "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_foraging_wisdom_upgraded",
       "material": "PAPER",
-      "name": "Uncommon Foraging Wisdom Booster",
+      "name": "Uncommon Foraging Wisdom Booster Upgrade",
       "npc_sell_price": 25000,
       "salvages": [
         {
@@ -105252,7 +105252,7 @@
       "id": "SWEEP_BOOSTER_UNCOMMON",
       "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_sweep_upgraded",
       "material": "PAPER",
-      "name": "Uncommon Sweep Booster",
+      "name": "Uncommon Sweep Booster Upgrade",
       "npc_sell_price": 25000,
       "salvages": [
         {
@@ -105268,7 +105268,7 @@
       "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
       "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_foraging_fortune_upgraded",
       "material": "PAPER",
-      "name": "Uncommon Foraging Fortune Booster",
+      "name": "Uncommon Foraging Fortune Booster Upgrade",
       "tier": "UNCOMMON"
     },
     {
@@ -105276,7 +105276,7 @@
       "id": "FIGHTING_BOOSTER_UNCOMMON",
       "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_fighting_upgraded",
       "material": "PAPER",
-      "name": "Uncommon Fighting Booster",
+      "name": "Uncommon Fighting Booster Upgrade",
       "tier": "UNCOMMON"
     },
     {
@@ -105284,7 +105284,7 @@
       "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON",
       "item_model": "hypixel_skyblock:item/boosters/uncommon/booster_hunting_wisdom_upgraded",
       "material": "PAPER",
-      "name": "Uncommon Hunting Wisdom Booster",
+      "name": "Uncommon Hunting Wisdom Booster Upgrade",
       "tier": "UNCOMMON"
     },
     {
@@ -147227,6 +147227,6 @@
       "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1786046142121,
+  "lastUpdated": 1786466288520,
   "success": true
 }
