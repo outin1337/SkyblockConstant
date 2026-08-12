@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1786485449642,
+  "lastUpdated": 1786567649610,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy EXP!",
@@ -8,7 +8,7 @@
           "level": 1,
           "totalExpRequired": 50.0,
           "unlocks": [
-            "Brewer I   Potions that you brew have a 1% longer duration.",
+            "Brewer 1   Potions that you brew have a 1% longer duration.",
             "+1  Intelligence",
             "+100 Coins",
             "+5 SkyBlock XP"
@@ -18,7 +18,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Brewer II   Potions that you brew have a 1➜2% longer duration.",
+            "Brewer 2   Potions that you brew have a 1➜2% longer duration.",
             "+1  Intelligence",
             "+250 Coins",
             "+5 SkyBlock XP"
@@ -28,7 +28,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Brewer III   Potions that you brew have a 2➜3% longer duration.",
+            "Brewer 3   Potions that you brew have a 2➜3% longer duration.",
             "+1  Intelligence",
             "+500 Coins",
             "+5 SkyBlock XP"
@@ -38,7 +38,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Brewer IV   Potions that you brew have a 3➜4% longer duration.",
+            "Brewer 4   Potions that you brew have a 3➜4% longer duration.",
             "+1  Intelligence",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -48,7 +48,7 @@
           "level": 5,
           "totalExpRequired": 1175.0,
           "unlocks": [
-            "Brewer V   Potions that you brew have a 4➜5% longer duration.",
+            "Brewer 5   Potions that you brew have a 4➜5% longer duration.",
             "+1  Intelligence",
             "+1,000 Coins",
             "+5 SkyBlock XP"
@@ -58,7 +58,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Brewer VI   Potions that you brew have a 5➜6% longer duration.",
+            "Brewer 6   Potions that you brew have a 5➜6% longer duration.",
             "+1  Intelligence",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -68,7 +68,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Brewer VII   Potions that you brew have a 6➜7% longer duration.",
+            "Brewer 7   Potions that you brew have a 6➜7% longer duration.",
             "+1  Intelligence",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -78,7 +78,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Brewer VIII   Potions that you brew have a 7➜8% longer duration.",
+            "Brewer 8   Potions that you brew have a 7➜8% longer duration.",
             "+1  Intelligence",
             "+4,000 Coins",
             "+5 SkyBlock XP"
@@ -88,7 +88,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Brewer IX   Potions that you brew have a 8➜9% longer duration.",
+            "Brewer 9   Potions that you brew have a 8➜9% longer duration.",
             "+1  Intelligence",
             "+5,000 Coins",
             "+5 SkyBlock XP"
@@ -98,7 +98,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Brewer X   Potions that you brew have a 9➜10% longer duration.",
+            "Brewer 10   Potions that you brew have a 9➜10% longer duration.",
             "+1  Intelligence",
             "+7,500 Coins",
             "+5 SkyBlock XP"
@@ -108,7 +108,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Brewer XI   Potions that you brew have a 10➜11% longer duration.",
+            "Brewer 11   Potions that you brew have a 10➜11% longer duration.",
             "+1  Intelligence",
             "+10,000 Coins",
             "+10 SkyBlock XP"
@@ -118,7 +118,7 @@
           "level": 12,
           "totalExpRequired": 22425.0,
           "unlocks": [
-            "Brewer XII   Potions that you brew have a 11➜12% longer duration.",
+            "Brewer 12   Potions that you brew have a 11➜12% longer duration.",
             "+1  Intelligence",
             "+15,000 Coins",
             "+10 SkyBlock XP"
@@ -128,7 +128,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Brewer XIII   Potions that you brew have a 12➜13% longer duration.",
+            "Brewer 13   Potions that you brew have a 12➜13% longer duration.",
             "+1  Intelligence",
             "+20,000 Coins",
             "+10 SkyBlock XP"
@@ -138,7 +138,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Brewer XIV   Potions that you brew have a 13➜14% longer duration.",
+            "Brewer 14   Potions that you brew have a 13➜14% longer duration.",
             "+1  Intelligence",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -148,7 +148,7 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Brewer XV   Potions that you brew have a 14➜15% longer duration.",
+            "Brewer 15   Potions that you brew have a 14➜15% longer duration.",
             "+2  Intelligence",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -158,7 +158,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Brewer XVI   Potions that you brew have a 15➜16% longer duration.",
+            "Brewer 16   Potions that you brew have a 15➜16% longer duration.",
             "+2  Intelligence",
             "+40,000 Coins",
             "+10 SkyBlock XP"
@@ -168,7 +168,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Brewer XVII   Potions that you brew have a 16➜17% longer duration.",
+            "Brewer 17   Potions that you brew have a 16➜17% longer duration.",
             "+2  Intelligence",
             "+50,000 Coins",
             "+10 SkyBlock XP"
@@ -178,7 +178,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Brewer XVIII   Potions that you brew have a 17➜18% longer duration.",
+            "Brewer 18   Potions that you brew have a 17➜18% longer duration.",
             "+2  Intelligence",
             "+65,000 Coins",
             "+10 SkyBlock XP"
@@ -188,7 +188,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Brewer XIX   Potions that you brew have a 18➜19% longer duration.",
+            "Brewer 19   Potions that you brew have a 18➜19% longer duration.",
             "+2  Intelligence",
             "+80,000 Coins",
             "+10 SkyBlock XP"
@@ -198,7 +198,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Brewer XX   Potions that you brew have a 19➜20% longer duration.",
+            "Brewer 20   Potions that you brew have a 19➜20% longer duration.",
             "+2  Intelligence",
             "+100,000 Coins",
             "+10 SkyBlock XP"
@@ -208,7 +208,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Brewer XXI   Potions that you brew have a 20➜21% longer duration.",
+            "Brewer 21   Potions that you brew have a 20➜21% longer duration.",
             "+2  Intelligence",
             "+125,000 Coins",
             "+10 SkyBlock XP"
@@ -218,7 +218,7 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Brewer XXII   Potions that you brew have a 21➜22% longer duration.",
+            "Brewer 22   Potions that you brew have a 21➜22% longer duration.",
             "+2  Intelligence",
             "+150,000 Coins",
             "+10 SkyBlock XP"
@@ -228,7 +228,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Brewer XXIII   Potions that you brew have a 22➜23% longer duration.",
+            "Brewer 23   Potions that you brew have a 22➜23% longer duration.",
             "+2  Intelligence",
             "+175,000 Coins",
             "+10 SkyBlock XP"
@@ -238,7 +238,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Brewer XXIV   Potions that you brew have a 23➜24% longer duration.",
+            "Brewer 24   Potions that you brew have a 23➜24% longer duration.",
             "+2  Intelligence",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -248,7 +248,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Brewer XXV   Potions that you brew have a 24➜25% longer duration.",
+            "Brewer 25   Potions that you brew have a 24➜25% longer duration.",
             "+2  Intelligence",
             "+225,000 Coins",
             "+10 SkyBlock XP"
@@ -258,7 +258,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Brewer XXVI   Potions that you brew have a 25➜26% longer duration.",
+            "Brewer 26   Potions that you brew have a 25➜26% longer duration.",
             "+2  Intelligence",
             "+250,000 Coins",
             "+20 SkyBlock XP"
@@ -268,7 +268,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Brewer XXVII   Potions that you brew have a 26➜27% longer duration.",
+            "Brewer 27   Potions that you brew have a 26➜27% longer duration.",
             "+2  Intelligence",
             "+275,000 Coins",
             "+20 SkyBlock XP"
@@ -278,7 +278,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Brewer XXVIII   Potions that you brew have a 27➜28% longer duration.",
+            "Brewer 28   Potions that you brew have a 27➜28% longer duration.",
             "+2  Intelligence",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -288,7 +288,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Brewer XXIX   Potions that you brew have a 28➜29% longer duration.",
+            "Brewer 29   Potions that you brew have a 28➜29% longer duration.",
             "+2  Intelligence",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -298,7 +298,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Brewer XXX   Potions that you brew have a 29➜30% longer duration.",
+            "Brewer 30   Potions that you brew have a 29➜30% longer duration.",
             "+2  Intelligence",
             "+350,000 Coins",
             "+20 SkyBlock XP"
@@ -308,7 +308,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Brewer XXXI   Potions that you brew have a 30➜31% longer duration.",
+            "Brewer 31   Potions that you brew have a 30➜31% longer duration.",
             "+2  Intelligence",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -318,7 +318,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Brewer XXXII   Potions that you brew have a 31➜32% longer duration.",
+            "Brewer 32   Potions that you brew have a 31➜32% longer duration.",
             "+2  Intelligence",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -328,7 +328,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Brewer XXXIII   Potions that you brew have a 32➜33% longer duration.",
+            "Brewer 33   Potions that you brew have a 32➜33% longer duration.",
             "+2  Intelligence",
             "+425,000 Coins",
             "+20 SkyBlock XP"
@@ -338,7 +338,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Brewer XXXIV   Potions that you brew have a 33➜34% longer duration.",
+            "Brewer 34   Potions that you brew have a 33➜34% longer duration.",
             "+2  Intelligence",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -348,7 +348,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Brewer XXXV   Potions that you brew have a 34➜35% longer duration.",
+            "Brewer 35   Potions that you brew have a 34➜35% longer duration.",
             "+2  Intelligence",
             "+475,000 Coins",
             "+20 SkyBlock XP"
@@ -358,7 +358,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Brewer XXXVI   Potions that you brew have a 35➜36% longer duration.",
+            "Brewer 36   Potions that you brew have a 35➜36% longer duration.",
             "+2  Intelligence",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -368,7 +368,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Brewer XXXVII   Potions that you brew have a 36➜37% longer duration.",
+            "Brewer 37   Potions that you brew have a 36➜37% longer duration.",
             "+2  Intelligence",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -378,7 +378,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Brewer XXXVIII   Potions that you brew have a 37➜38% longer duration.",
+            "Brewer 38   Potions that you brew have a 37➜38% longer duration.",
             "+2  Intelligence",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -388,7 +388,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Brewer XXXIX   Potions that you brew have a 38➜39% longer duration.",
+            "Brewer 39   Potions that you brew have a 38➜39% longer duration.",
             "+2  Intelligence",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -398,7 +398,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Brewer XL   Potions that you brew have a 39➜40% longer duration.",
+            "Brewer 40   Potions that you brew have a 39➜40% longer duration.",
             "+2  Intelligence",
             "+700,000 Coins",
             "+20 SkyBlock XP"
@@ -408,7 +408,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Brewer XLI   Potions that you brew have a 40➜41% longer duration.",
+            "Brewer 41   Potions that you brew have a 40➜41% longer duration.",
             "+2  Intelligence",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -418,7 +418,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Brewer XLII   Potions that you brew have a 41➜42% longer duration.",
+            "Brewer 42   Potions that you brew have a 41➜42% longer duration.",
             "+2  Intelligence",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -428,7 +428,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Brewer XLIII   Potions that you brew have a 42➜43% longer duration.",
+            "Brewer 43   Potions that you brew have a 42➜43% longer duration.",
             "+2  Intelligence",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -438,7 +438,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Brewer XLIV   Potions that you brew have a 43➜44% longer duration.",
+            "Brewer 44   Potions that you brew have a 43➜44% longer duration.",
             "+2  Intelligence",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -448,7 +448,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Brewer XLV   Potions that you brew have a 44➜45% longer duration.",
+            "Brewer 45   Potions that you brew have a 44➜45% longer duration.",
             "+2  Intelligence",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -458,7 +458,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Brewer XLVI   Potions that you brew have a 45➜46% longer duration.",
+            "Brewer 46   Potions that you brew have a 45➜46% longer duration.",
             "+2  Intelligence",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -468,7 +468,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Brewer XLVII   Potions that you brew have a 46➜47% longer duration.",
+            "Brewer 47   Potions that you brew have a 46➜47% longer duration.",
             "+2  Intelligence",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -478,7 +478,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Brewer XLVIII   Potions that you brew have a 47➜48% longer duration.",
+            "Brewer 48   Potions that you brew have a 47➜48% longer duration.",
             "+2  Intelligence",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -488,7 +488,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Brewer XLIX   Potions that you brew have a 48➜49% longer duration.",
+            "Brewer 49   Potions that you brew have a 48➜49% longer duration.",
             "+2  Intelligence",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -498,7 +498,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Brewer L   Potions that you brew have a 49➜50% longer duration.",
+            "Brewer 50   Potions that you brew have a 49➜50% longer duration.",
             "+2  Intelligence",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -1036,7 +1036,7 @@
           "totalExpRequired": 50.0,
           "unlocks": [
             "+Access to Spider's Den",
-            "Warrior I   Deal 4% more damage to mobs.",
+            "Warrior 1   Deal 4% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+100 Coins",
             "+5 SkyBlock XP"
@@ -1046,7 +1046,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Warrior II   Deal 4➜8% more damage to mobs.",
+            "Warrior 2   Deal 4➜8% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+250 Coins",
             "+5 SkyBlock XP"
@@ -1056,7 +1056,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Warrior III   Deal 8➜12% more damage to mobs.",
+            "Warrior 3   Deal 8➜12% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+500 Coins",
             "+5 SkyBlock XP"
@@ -1066,7 +1066,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Warrior IV   Deal 12➜16% more damage to mobs.",
+            "Warrior 4   Deal 12➜16% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -1076,7 +1076,7 @@
           "level": 5,
           "totalExpRequired": 1175.0,
           "unlocks": [
-            "Warrior V   Deal 16➜20% more damage to mobs.",
+            "Warrior 5   Deal 16➜20% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000 Coins",
             "+5 SkyBlock XP"
@@ -1086,7 +1086,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Warrior VI   Deal 20➜24% more damage to mobs.",
+            "Warrior 6   Deal 20➜24% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -1096,7 +1096,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Warrior VII   Deal 24➜28% more damage to mobs.",
+            "Warrior 7   Deal 24➜28% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -1106,7 +1106,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Warrior VIII   Deal 28➜32% more damage to mobs.",
+            "Warrior 8   Deal 28➜32% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+4,000 Coins",
             "+5 SkyBlock XP"
@@ -1116,7 +1116,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Warrior IX   Deal 32➜36% more damage to mobs.",
+            "Warrior 9   Deal 32➜36% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+5,000 Coins",
             "+5 SkyBlock XP"
@@ -1126,7 +1126,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Warrior X   Deal 36➜40% more damage to mobs.",
+            "Warrior 10   Deal 36➜40% more damage to mobs.",
             "+0.5%  Crit Chance",
             "Displaced Leech Power Stone",
             "+7,500 Coins",
@@ -1137,7 +1137,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Warrior XI   Deal 40➜44% more damage to mobs.",
+            "Warrior 11   Deal 40➜44% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+10,000 Coins",
             "+10 SkyBlock XP"
@@ -1148,7 +1148,7 @@
           "totalExpRequired": 22425.0,
           "unlocks": [
             "+Access to The End",
-            "Warrior XII   Deal 44➜48% more damage to mobs.",
+            "Warrior 12   Deal 44➜48% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+15,000 Coins",
             "+10 SkyBlock XP"
@@ -1158,7 +1158,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Warrior XIII   Deal 48➜52% more damage to mobs.",
+            "Warrior 13   Deal 48➜52% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+20,000 Coins",
             "+10 SkyBlock XP"
@@ -1168,7 +1168,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Warrior XIV   Deal 52➜56% more damage to mobs.",
+            "Warrior 14   Deal 52➜56% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -1178,7 +1178,7 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Warrior XV   Deal 56➜60% more damage to mobs.",
+            "Warrior 15   Deal 56➜60% more damage to mobs.",
             "+0.5%  Crit Chance",
             "Intermediate Accessory Bag Powers",
             "Luxurious Spool Power Stone",
@@ -1192,7 +1192,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Warrior XVI   Deal 60➜64% more damage to mobs.",
+            "Warrior 16   Deal 60➜64% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+40,000 Coins",
             "+10 SkyBlock XP"
@@ -1202,7 +1202,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Warrior XVII   Deal 64➜68% more damage to mobs.",
+            "Warrior 17   Deal 64➜68% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+50,000 Coins",
             "+10 SkyBlock XP"
@@ -1212,7 +1212,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Warrior XVIII   Deal 68➜72% more damage to mobs.",
+            "Warrior 18   Deal 68➜72% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+65,000 Coins",
             "+10 SkyBlock XP"
@@ -1222,7 +1222,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Warrior XIX   Deal 72➜76% more damage to mobs.",
+            "Warrior 19   Deal 72➜76% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+80,000 Coins",
             "+10 SkyBlock XP"
@@ -1232,7 +1232,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Warrior XX   Deal 76➜80% more damage to mobs.",
+            "Warrior 20   Deal 76➜80% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+Access to Zealot Bruiser Hideout",
             "Acacia Birdhouse Power Stone",
@@ -1252,7 +1252,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Warrior XXI   Deal 80➜84% more damage to mobs.",
+            "Warrior 21   Deal 80➜84% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+125,000 Coins",
             "+10 SkyBlock XP"
@@ -1263,7 +1263,7 @@
           "totalExpRequired": 1222425.0,
           "unlocks": [
             "+Access to Crimson Isle",
-            "Warrior XXII   Deal 84➜88% more damage to mobs.",
+            "Warrior 22   Deal 84➜88% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+150,000 Coins",
             "+10 SkyBlock XP"
@@ -1273,7 +1273,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Warrior XXIII   Deal 88➜92% more damage to mobs.",
+            "Warrior 23   Deal 88➜92% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+175,000 Coins",
             "+10 SkyBlock XP"
@@ -1283,7 +1283,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Warrior XXIV   Deal 92➜96% more damage to mobs.",
+            "Warrior 24   Deal 92➜96% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -1293,7 +1293,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Warrior XXV   Deal 96➜100% more damage to mobs.",
+            "Warrior 25   Deal 96➜100% more damage to mobs.",
             "+0.5%  Crit Chance",
             "Horns of Torment Power Stone",
             "Bubba Blister Power Stone",
@@ -1308,7 +1308,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Warrior XXVI   Deal 100➜104% more damage to mobs.",
+            "Warrior 26   Deal 100➜104% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+250,000 Coins",
             "+20 SkyBlock XP"
@@ -1318,7 +1318,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Warrior XXVII   Deal 104➜108% more damage to mobs.",
+            "Warrior 27   Deal 104➜108% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+275,000 Coins",
             "+20 SkyBlock XP"
@@ -1328,7 +1328,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Warrior XXVIII   Deal 108➜112% more damage to mobs.",
+            "Warrior 28   Deal 108➜112% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -1338,7 +1338,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Warrior XXIX   Deal 112➜116% more damage to mobs.",
+            "Warrior 29   Deal 112➜116% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -1348,7 +1348,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Warrior XXX   Deal 116➜120% more damage to mobs.",
+            "Warrior 30   Deal 116➜120% more damage to mobs.",
             "+0.5%  Crit Chance",
             "Mandraa Power Stone",
             "Hazmat Enderman Power Stone",
@@ -1361,7 +1361,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Warrior XXXI   Deal 120➜124% more damage to mobs.",
+            "Warrior 31   Deal 120➜124% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -1371,7 +1371,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Warrior XXXII   Deal 124➜128% more damage to mobs.",
+            "Warrior 32   Deal 124➜128% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -1381,7 +1381,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Warrior XXXIII   Deal 128➜132% more damage to mobs.",
+            "Warrior 33   Deal 128➜132% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+425,000 Coins",
             "+20 SkyBlock XP"
@@ -1391,7 +1391,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Warrior XXXIV   Deal 132➜136% more damage to mobs.",
+            "Warrior 34   Deal 132➜136% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -1401,7 +1401,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Warrior XXXV   Deal 136➜140% more damage to mobs.",
+            "Warrior 35   Deal 136➜140% more damage to mobs.",
             "+0.5%  Crit Chance",
             "Scorched Books Power Stone",
             "+475,000 Coins",
@@ -1412,7 +1412,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Warrior XXXVI   Deal 140➜144% more damage to mobs.",
+            "Warrior 36   Deal 140➜144% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -1422,7 +1422,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Warrior XXXVII   Deal 144➜148% more damage to mobs.",
+            "Warrior 37   Deal 144➜148% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -1432,7 +1432,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Warrior XXXVIII   Deal 148➜152% more damage to mobs.",
+            "Warrior 38   Deal 148➜152% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -1442,7 +1442,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Warrior XXXIX   Deal 152➜156% more damage to mobs.",
+            "Warrior 39   Deal 152➜156% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -1452,7 +1452,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Warrior XL   Deal 156➜160% more damage to mobs.",
+            "Warrior 40   Deal 156➜160% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+700,000 Coins",
             "+20 SkyBlock XP"
@@ -1462,7 +1462,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Warrior XLI   Deal 160➜164% more damage to mobs.",
+            "Warrior 41   Deal 160➜164% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -1472,7 +1472,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Warrior XLII   Deal 164➜168% more damage to mobs.",
+            "Warrior 42   Deal 164➜168% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -1482,7 +1482,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Warrior XLIII   Deal 168➜172% more damage to mobs.",
+            "Warrior 43   Deal 168➜172% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -1492,7 +1492,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Warrior XLIV   Deal 172➜176% more damage to mobs.",
+            "Warrior 44   Deal 172➜176% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -1502,7 +1502,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Warrior XLV   Deal 176➜180% more damage to mobs.",
+            "Warrior 45   Deal 176➜180% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -1512,7 +1512,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Warrior XLVI   Deal 180➜184% more damage to mobs.",
+            "Warrior 46   Deal 180➜184% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -1522,7 +1522,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Warrior XLVII   Deal 184➜188% more damage to mobs.",
+            "Warrior 47   Deal 184➜188% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -1532,7 +1532,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Warrior XLVIII   Deal 188➜192% more damage to mobs.",
+            "Warrior 48   Deal 188➜192% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -1542,7 +1542,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Warrior XLIX   Deal 192➜196% more damage to mobs.",
+            "Warrior 49   Deal 192➜196% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -1552,7 +1552,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Warrior L   Deal 196➜200% more damage to mobs.",
+            "Warrior 50   Deal 196➜200% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -1562,7 +1562,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Warrior LI   Deal 200➜201% more damage to mobs.",
+            "Warrior 51   Deal 200➜201% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1572,7 +1572,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Warrior LII   Deal 201➜202% more damage to mobs.",
+            "Warrior 52   Deal 201➜202% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1582,7 +1582,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Warrior LIII   Deal 202➜203% more damage to mobs.",
+            "Warrior 53   Deal 202➜203% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1592,7 +1592,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Warrior LIV   Deal 203➜204% more damage to mobs.",
+            "Warrior 54   Deal 203➜204% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1602,7 +1602,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Warrior LV   Deal 204➜205% more damage to mobs.",
+            "Warrior 55   Deal 204➜205% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1612,7 +1612,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Warrior LVI   Deal 205➜206% more damage to mobs.",
+            "Warrior 56   Deal 205➜206% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1622,7 +1622,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Warrior LVII   Deal 206➜207% more damage to mobs.",
+            "Warrior 57   Deal 206➜207% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1632,7 +1632,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Warrior LVIII   Deal 207➜208% more damage to mobs.",
+            "Warrior 58   Deal 207➜208% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1642,7 +1642,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Warrior LIX   Deal 208➜209% more damage to mobs.",
+            "Warrior 59   Deal 208➜209% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1652,7 +1652,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Warrior LX   Deal 209➜210% more damage to mobs.",
+            "Warrior 60   Deal 209➜210% more damage to mobs.",
             "+0.5%  Crit Chance",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -1669,7 +1669,7 @@
           "level": 1,
           "totalExpRequired": 50.0,
           "unlocks": [
-            "Conjurer I   Gain 5% more experience orbs from any source.",
+            "Conjurer 1   Gain 5% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Scavenger Enchantment",
@@ -1681,7 +1681,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Conjurer II   Gain 5➜10% more experience orbs from any source.",
+            "Conjurer 2   Gain 5➜10% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Infinite Quiver Enchantment",
@@ -1695,7 +1695,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Conjurer III   Gain 10➜15% more experience orbs from any source.",
+            "Conjurer 3   Gain 10➜15% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Luck Enchantment",
@@ -1708,7 +1708,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Conjurer IV   Gain 15➜20% more experience orbs from any source.",
+            "Conjurer 4   Gain 15➜20% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Cleave Enchantment",
@@ -1721,7 +1721,7 @@
           "level": 5,
           "totalExpRequired": 1175.0,
           "unlocks": [
-            "Conjurer V   Gain 20➜25% more experience orbs from any source.",
+            "Conjurer 5   Gain 20➜25% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Life Steal Enchantment",
@@ -1737,7 +1737,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Conjurer VI   Gain 25➜30% more experience orbs from any source.",
+            "Conjurer 6   Gain 25➜30% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Snipe Enchantment",
@@ -1750,7 +1750,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Conjurer VII   Gain 30➜35% more experience orbs from any source.",
+            "Conjurer 7   Gain 30➜35% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Replenish Enchantment",
@@ -1763,7 +1763,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Conjurer VIII   Gain 35➜40% more experience orbs from any source.",
+            "Conjurer 8   Gain 35➜40% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Giant Killer Enchantment",
@@ -1777,7 +1777,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Conjurer IX   Gain 40➜45% more experience orbs from any source.",
+            "Conjurer 9   Gain 40➜45% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Blessing Enchantment",
@@ -1791,7 +1791,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Conjurer X   Gain 45➜50% more experience orbs from any source.",
+            "Conjurer 10   Gain 45➜50% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Pesterminator Enchantment",
@@ -1806,7 +1806,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Conjurer XI   Gain 50➜55% more experience orbs from any source.",
+            "Conjurer 11   Gain 50➜55% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Ender Slayer Enchantment",
@@ -1819,7 +1819,7 @@
           "level": 12,
           "totalExpRequired": 22425.0,
           "unlocks": [
-            "Conjurer XII   Gain 55➜60% more experience orbs from any source.",
+            "Conjurer 12   Gain 55➜60% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Dedication Enchantment",
@@ -1834,7 +1834,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Conjurer XIII   Gain 60➜65% more experience orbs from any source.",
+            "Conjurer 13   Gain 60➜65% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Tidal Enchantment",
@@ -1847,7 +1847,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Conjurer XIV   Gain 65➜70% more experience orbs from any source.",
+            "Conjurer 14   Gain 65➜70% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+1  Intelligence",
             "Lethality Enchantment",
@@ -1864,7 +1864,7 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Conjurer XV   Gain 70➜75% more experience orbs from any source.",
+            "Conjurer 15   Gain 70➜75% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Drain Enchantment",
@@ -1880,7 +1880,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Conjurer XVI   Gain 75➜80% more experience orbs from any source.",
+            "Conjurer 16   Gain 75➜80% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Gravity Enchantment",
@@ -1893,7 +1893,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Conjurer XVII   Gain 80➜85% more experience orbs from any source.",
+            "Conjurer 17   Gain 80➜85% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Piercing Enchantment",
@@ -1906,7 +1906,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Conjurer XVIII   Gain 85➜90% more experience orbs from any source.",
+            "Conjurer 18   Gain 85➜90% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Spiked Hook Enchantment",
@@ -1919,7 +1919,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Conjurer XIX   Gain 90➜95% more experience orbs from any source.",
+            "Conjurer 19   Gain 90➜95% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Triple-Strike Enchantment",
@@ -1931,7 +1931,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Conjurer XX   Gain 95➜100% more experience orbs from any source.",
+            "Conjurer 20   Gain 95➜100% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Refrigerate Enchantment",
@@ -1946,7 +1946,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Conjurer XXI   Gain 100➜105% more experience orbs from any source.",
+            "Conjurer 21   Gain 100➜105% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Big Brain Enchantment",
@@ -1960,7 +1960,7 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Conjurer XXII   Gain 105➜110% more experience orbs from any source.",
+            "Conjurer 22   Gain 105➜110% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Vampiric Vitality Enchantment",
@@ -1978,7 +1978,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Conjurer XXIII   Gain 110➜115% more experience orbs from any source.",
+            "Conjurer 23   Gain 110➜115% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Quick Bite Enchantment",
@@ -1992,7 +1992,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Conjurer XXIV   Gain 115➜120% more experience orbs from any source.",
+            "Conjurer 24   Gain 115➜120% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Bobbin' Time Enchantment",
@@ -2007,7 +2007,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Conjurer XXV   Gain 120➜125% more experience orbs from any source.",
+            "Conjurer 25   Gain 120➜125% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Corruption Enchantment",
@@ -2022,7 +2022,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Conjurer XXVI   Gain 125➜130% more experience orbs from any source.",
+            "Conjurer 26   Gain 125➜130% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Vicious Enchantment",
@@ -2034,7 +2034,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Conjurer XXVII   Gain 130➜135% more experience orbs from any source.",
+            "Conjurer 27   Gain 130➜135% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Paleontologist Enchantment",
@@ -2048,7 +2048,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Conjurer XXVIII   Gain 135➜140% more experience orbs from any source.",
+            "Conjurer 28   Gain 135➜140% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Habanero Tactics Enchantment",
@@ -2062,7 +2062,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Conjurer XXIX   Gain 140➜145% more experience orbs from any source.",
+            "Conjurer 29   Gain 140➜145% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "No Pain No Gain Enchantment",
@@ -2074,7 +2074,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Conjurer XXX   Gain 145➜150% more experience orbs from any source.",
+            "Conjurer 30   Gain 145➜150% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Ice Cold Enchantment",
@@ -2088,7 +2088,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Conjurer XXXI   Gain 150➜155% more experience orbs from any source.",
+            "Conjurer 31   Gain 150➜155% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Chimera Enchantment",
@@ -2100,7 +2100,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Conjurer XXXII   Gain 155➜160% more experience orbs from any source.",
+            "Conjurer 32   Gain 155➜160% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Rend Enchantment",
@@ -2113,7 +2113,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Conjurer XXXIII   Gain 160➜165% more experience orbs from any source.",
+            "Conjurer 33   Gain 160➜165% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Overload Enchantment",
@@ -2125,7 +2125,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Conjurer XXXIV   Gain 165➜170% more experience orbs from any source.",
+            "Conjurer 34   Gain 165➜170% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Legion Enchantment",
@@ -2137,7 +2137,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Conjurer XXXV   Gain 170➜175% more experience orbs from any source.",
+            "Conjurer 35   Gain 170➜175% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Swarm Enchantment",
@@ -2149,7 +2149,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Conjurer XXXVI   Gain 175➜180% more experience orbs from any source.",
+            "Conjurer 36   Gain 175➜180% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Soul Eater Enchantment",
@@ -2161,7 +2161,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Conjurer XXXVII   Gain 180➜185% more experience orbs from any source.",
+            "Conjurer 37   Gain 180➜185% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "Fatal Tempo Enchantment",
@@ -2174,7 +2174,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Conjurer XXXVIII   Gain 185➜190% more experience orbs from any source.",
+            "Conjurer 38   Gain 185➜190% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "One For All Enchantment",
@@ -2186,7 +2186,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Conjurer XXXIX   Gain 190➜195% more experience orbs from any source.",
+            "Conjurer 39   Gain 190➜195% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+650,000 Coins",
@@ -2197,7 +2197,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Conjurer XL   Gain 195➜200% more experience orbs from any source.",
+            "Conjurer 40   Gain 195➜200% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+700,000 Coins",
@@ -2208,7 +2208,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Conjurer XLI   Gain 200➜205% more experience orbs from any source.",
+            "Conjurer 41   Gain 200➜205% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+750,000 Coins",
@@ -2219,7 +2219,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Conjurer XLII   Gain 205➜210% more experience orbs from any source.",
+            "Conjurer 42   Gain 205➜210% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+800,000 Coins",
@@ -2230,7 +2230,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Conjurer XLIII   Gain 210➜215% more experience orbs from any source.",
+            "Conjurer 43   Gain 210➜215% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+850,000 Coins",
@@ -2241,7 +2241,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Conjurer XLIV   Gain 215➜220% more experience orbs from any source.",
+            "Conjurer 44   Gain 215➜220% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+900,000 Coins",
@@ -2252,7 +2252,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Conjurer XLV   Gain 220➜225% more experience orbs from any source.",
+            "Conjurer 45   Gain 220➜225% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2263,7 +2263,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Conjurer XLVI   Gain 225➜230% more experience orbs from any source.",
+            "Conjurer 46   Gain 225➜230% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2274,7 +2274,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Conjurer XLVII   Gain 230➜235% more experience orbs from any source.",
+            "Conjurer 47   Gain 230➜235% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2285,7 +2285,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Conjurer XLVIII   Gain 235➜240% more experience orbs from any source.",
+            "Conjurer 48   Gain 235➜240% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2296,7 +2296,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Conjurer XLIX   Gain 240➜245% more experience orbs from any source.",
+            "Conjurer 49   Gain 240➜245% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2307,7 +2307,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Conjurer L   Gain 245➜250% more experience orbs from any source.",
+            "Conjurer 50   Gain 245➜250% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2318,7 +2318,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Conjurer LI   Gain 250➜255% more experience orbs from any source.",
+            "Conjurer 51   Gain 250➜255% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2329,7 +2329,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Conjurer LII   Gain 255➜260% more experience orbs from any source.",
+            "Conjurer 52   Gain 255➜260% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2340,7 +2340,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Conjurer LIII   Gain 260➜265% more experience orbs from any source.",
+            "Conjurer 53   Gain 260➜265% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2351,7 +2351,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Conjurer LIV   Gain 265➜270% more experience orbs from any source.",
+            "Conjurer 54   Gain 265➜270% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2362,7 +2362,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Conjurer LV   Gain 270➜275% more experience orbs from any source.",
+            "Conjurer 55   Gain 270➜275% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2373,7 +2373,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Conjurer LVI   Gain 275➜280% more experience orbs from any source.",
+            "Conjurer 56   Gain 275➜280% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2384,7 +2384,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Conjurer LVII   Gain 280➜285% more experience orbs from any source.",
+            "Conjurer 57   Gain 280➜285% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2395,7 +2395,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Conjurer LVIII   Gain 285➜290% more experience orbs from any source.",
+            "Conjurer 58   Gain 285➜290% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2406,7 +2406,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Conjurer LIX   Gain 290➜295% more experience orbs from any source.",
+            "Conjurer 59   Gain 290➜295% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2417,7 +2417,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Conjurer LX   Gain 295➜300% more experience orbs from any source.",
+            "Conjurer 60   Gain 295➜300% more experience orbs from any source.",
             "+0.5%  Ability Damage",
             "+2  Intelligence",
             "+1,000,000 Coins",
@@ -2436,7 +2436,7 @@
           "totalExpRequired": 50.0,
           "unlocks": [
             "+Access to The Barn",
-            "Farmhand I   Grants +4  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 1   Grants +4  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+100 Coins",
             "+5 SkyBlock XP"
@@ -2446,7 +2446,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Farmhand II   Grants +4➜8  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 2   Grants +4➜8  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+250 Coins",
             "+5 SkyBlock XP"
@@ -2456,7 +2456,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Farmhand III   Grants +8➜12  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 3   Grants +8➜12  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+500 Coins",
             "+5 SkyBlock XP"
@@ -2466,7 +2466,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Farmhand IV   Grants +12➜16  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 4   Grants +12➜16  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -2477,7 +2477,7 @@
           "totalExpRequired": 1175.0,
           "unlocks": [
             "+Access to Mushroom Desert",
-            "Farmhand V   Grants +16➜20  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 5   Grants +16➜20  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+1,000 Coins",
             "+5 SkyBlock XP"
@@ -2487,7 +2487,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Farmhand VI   Grants +20➜24  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 6   Grants +20➜24  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -2497,7 +2497,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Farmhand VII   Grants +24➜28  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 7   Grants +24➜28  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -2507,7 +2507,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Farmhand VIII   Grants +28➜32  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 8   Grants +28➜32  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+4,000 Coins",
             "+5 SkyBlock XP"
@@ -2517,7 +2517,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Farmhand IX   Grants +32➜36  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 9   Grants +32➜36  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+5,000 Coins",
             "+5 SkyBlock XP"
@@ -2527,7 +2527,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Farmhand X   Grants +36➜40  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 10   Grants +36➜40  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+7,500 Coins",
             "+5 SkyBlock XP"
@@ -2537,7 +2537,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Farmhand XI   Grants +40➜44  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 11   Grants +40➜44  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+10,000 Coins",
             "+10 SkyBlock XP"
@@ -2547,7 +2547,7 @@
           "level": 12,
           "totalExpRequired": 22425.0,
           "unlocks": [
-            "Farmhand XII   Grants +44➜48  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 12   Grants +44➜48  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+15,000 Coins",
             "+10 SkyBlock XP"
@@ -2557,7 +2557,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Farmhand XIII   Grants +48➜52  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 13   Grants +48➜52  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+20,000 Coins",
             "+10 SkyBlock XP"
@@ -2567,7 +2567,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Farmhand XIV   Grants +52➜56  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 14   Grants +52➜56  Farming Fortune, which increases your chance for multiple crops.",
             "+2  Health",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -2577,7 +2577,7 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Farmhand XV   Grants +56➜60  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 15   Grants +56➜60  Farming Fortune, which increases your chance for multiple crops.",
             "+3  Health",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -2587,7 +2587,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Farmhand XVI   Grants +60➜64  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 16   Grants +60➜64  Farming Fortune, which increases your chance for multiple crops.",
             "+3  Health",
             "+40,000 Coins",
             "+10 SkyBlock XP"
@@ -2597,7 +2597,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Farmhand XVII   Grants +64➜68  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 17   Grants +64➜68  Farming Fortune, which increases your chance for multiple crops.",
             "+3  Health",
             "+50,000 Coins",
             "+10 SkyBlock XP"
@@ -2607,7 +2607,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Farmhand XVIII   Grants +68➜72  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 18   Grants +68➜72  Farming Fortune, which increases your chance for multiple crops.",
             "+3  Health",
             "+65,000 Coins",
             "+10 SkyBlock XP"
@@ -2617,7 +2617,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Farmhand XIX   Grants +72➜76  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 19   Grants +72➜76  Farming Fortune, which increases your chance for multiple crops.",
             "+3  Health",
             "+80,000 Coins",
             "+10 SkyBlock XP"
@@ -2627,7 +2627,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Farmhand XX   Grants +76➜80  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 20   Grants +76➜80  Farming Fortune, which increases your chance for multiple crops.",
             "+4  Health",
             "+100,000 Coins",
             "+10 SkyBlock XP"
@@ -2637,7 +2637,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Farmhand XXI   Grants +80➜84  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 21   Grants +80➜84  Farming Fortune, which increases your chance for multiple crops.",
             "+4  Health",
             "+125,000 Coins",
             "+10 SkyBlock XP"
@@ -2647,7 +2647,7 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Farmhand XXII   Grants +84➜88  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 22   Grants +84➜88  Farming Fortune, which increases your chance for multiple crops.",
             "+4  Health",
             "+150,000 Coins",
             "+10 SkyBlock XP"
@@ -2657,7 +2657,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Farmhand XXIII   Grants +88➜92  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 23   Grants +88➜92  Farming Fortune, which increases your chance for multiple crops.",
             "+4  Health",
             "+175,000 Coins",
             "+10 SkyBlock XP"
@@ -2667,7 +2667,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Farmhand XXIV   Grants +92➜96  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 24   Grants +92➜96  Farming Fortune, which increases your chance for multiple crops.",
             "+4  Health",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -2677,7 +2677,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Farmhand XXV   Grants +96➜100  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 25   Grants +96➜100  Farming Fortune, which increases your chance for multiple crops.",
             "+4  Health",
             "+225,000 Coins",
             "+10 SkyBlock XP"
@@ -2687,7 +2687,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Farmhand XXVI   Grants +100➜104  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 26   Grants +100➜104  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+250,000 Coins",
             "+20 SkyBlock XP"
@@ -2697,7 +2697,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Farmhand XXVII   Grants +104➜108  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 27   Grants +104➜108  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+275,000 Coins",
             "+20 SkyBlock XP"
@@ -2707,7 +2707,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Farmhand XXVIII   Grants +108➜112  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 28   Grants +108➜112  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -2717,7 +2717,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Farmhand XXIX   Grants +112➜116  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 29   Grants +112➜116  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -2727,7 +2727,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Farmhand XXX   Grants +116➜120  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 30   Grants +116➜120  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+350,000 Coins",
             "+20 SkyBlock XP"
@@ -2737,7 +2737,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Farmhand XXXI   Grants +120➜124  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 31   Grants +120➜124  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -2747,7 +2747,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Farmhand XXXII   Grants +124➜128  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 32   Grants +124➜128  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -2757,7 +2757,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Farmhand XXXIII   Grants +128➜132  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 33   Grants +128➜132  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+425,000 Coins",
             "+20 SkyBlock XP"
@@ -2767,7 +2767,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Farmhand XXXIV   Grants +132➜136  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 34   Grants +132➜136  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -2777,7 +2777,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Farmhand XXXV   Grants +136➜140  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 35   Grants +136➜140  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+475,000 Coins",
             "+20 SkyBlock XP"
@@ -2787,7 +2787,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Farmhand XXXVI   Grants +140➜144  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 36   Grants +140➜144  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -2797,7 +2797,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Farmhand XXXVII   Grants +144➜148  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 37   Grants +144➜148  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -2807,7 +2807,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Farmhand XXXVIII   Grants +148➜152  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 38   Grants +148➜152  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -2817,7 +2817,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Farmhand XXXIX   Grants +152➜156  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 39   Grants +152➜156  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -2827,7 +2827,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Farmhand XL   Grants +156➜160  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 40   Grants +156➜160  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+700,000 Coins",
             "+20 SkyBlock XP"
@@ -2837,7 +2837,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Farmhand XLI   Grants +160➜164  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 41   Grants +160➜164  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -2847,7 +2847,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Farmhand XLII   Grants +164➜168  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 42   Grants +164➜168  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -2857,7 +2857,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Farmhand XLIII   Grants +168➜172  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 43   Grants +168➜172  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -2867,7 +2867,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Farmhand XLIV   Grants +172➜176  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 44   Grants +172➜176  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -2877,7 +2877,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Farmhand XLV   Grants +176➜180  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 45   Grants +176➜180  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -2887,7 +2887,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Farmhand XLVI   Grants +180➜184  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 46   Grants +180➜184  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -2897,7 +2897,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Farmhand XLVII   Grants +184➜188  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 47   Grants +184➜188  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -2907,7 +2907,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Farmhand XLVIII   Grants +188➜192  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 48   Grants +188➜192  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -2917,7 +2917,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Farmhand XLIX   Grants +192➜196  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 49   Grants +192➜196  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -2927,7 +2927,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Farmhand L   Grants +196➜200  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 50   Grants +196➜200  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -2937,7 +2937,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Farmhand LI   Grants +200➜204  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 51   Grants +200➜204  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -2947,7 +2947,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Farmhand LII   Grants +204➜208  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 52   Grants +204➜208  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -2957,7 +2957,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Farmhand LIII   Grants +208➜212  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 53   Grants +208➜212  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -2967,7 +2967,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Farmhand LIV   Grants +212➜216  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 54   Grants +212➜216  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -2977,7 +2977,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Farmhand LV   Grants +216➜220  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 55   Grants +216➜220  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -2987,7 +2987,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Farmhand LVI   Grants +220➜224  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 56   Grants +220➜224  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -2997,7 +2997,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Farmhand LVII   Grants +224➜228  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 57   Grants +224➜228  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -3007,7 +3007,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Farmhand LVIII   Grants +228➜232  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 58   Grants +228➜232  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -3017,7 +3017,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Farmhand LIX   Grants +232➜236  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 59   Grants +232➜236  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -3027,7 +3027,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Farmhand LX   Grants +236➜240  Farming Fortune, which increases your chance for multiple crops.",
+            "Farmhand 60   Grants +236➜240  Farming Fortune, which increases your chance for multiple crops.",
             "+5  Health",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -3048,7 +3048,7 @@
             "Sea Walker Sea Creature",
             "Frozen Steve Sea Creature",
             "Frosty Sea Creature",
-            "Treasure Hunter I   Grants +0.1  Treasure Chance.",
+            "Treasure Hunter 1   Grants +0.1  Treasure Chance.",
             "+2  Health",
             "+100 Coins",
             "+5 SkyBlock XP"
@@ -3058,7 +3058,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Treasure Hunter II   Grants +0.1➜0.2  Treasure Chance.",
+            "Treasure Hunter 2   Grants +0.1➜0.2  Treasure Chance.",
             "+2  Health",
             "+250 Coins",
             "+5 SkyBlock XP"
@@ -3068,7 +3068,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Treasure Hunter III   Grants +0.2➜0.3  Treasure Chance.",
+            "Treasure Hunter 3   Grants +0.2➜0.3  Treasure Chance.",
             "+2  Health",
             "+500 Coins",
             "+5 SkyBlock XP"
@@ -3078,7 +3078,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Treasure Hunter IV   Grants +0.3➜0.4  Treasure Chance.",
+            "Treasure Hunter 4   Grants +0.3➜0.4  Treasure Chance.",
             "+2  Health",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -3094,7 +3094,7 @@
             "Trash Gobbler Sea Creature",
             "Bogged Sea Creature",
             "Nurse Shark Sea Creature",
-            "Treasure Hunter V   Grants +0.4➜0.5  Treasure Chance.",
+            "Treasure Hunter 5   Grants +0.4➜0.5  Treasure Chance.",
             "+2  Health",
             "+1,000 Coins",
             "+5 SkyBlock XP"
@@ -3109,7 +3109,7 @@
             "Mithril Grubber Sea Creature",
             "Bloated Mithril Grubber Sea Creature",
             "Large Mithril Grubber Sea Creature",
-            "Treasure Hunter VI   Grants +0.5➜0.6  Treasure Chance.",
+            "Treasure Hunter 6   Grants +0.5➜0.6  Treasure Chance.",
             "+2  Health",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -3122,7 +3122,7 @@
             "Wetwing Sea Creature",
             "Inkling Sea Creature",
             "Sea Witch Sea Creature",
-            "Treasure Hunter VII   Grants +0.6➜0.7  Treasure Chance.",
+            "Treasure Hunter 7   Grants +0.6➜0.7  Treasure Chance.",
             "+2  Health",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -3132,7 +3132,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Treasure Hunter VIII   Grants +0.7➜0.8  Treasure Chance.",
+            "Treasure Hunter 8   Grants +0.7➜0.8  Treasure Chance.",
             "+2  Health",
             "+4,000 Coins",
             "+5 SkyBlock XP"
@@ -3145,7 +3145,7 @@
             "Scarecrow Sea Creature",
             "Tadgang Sea Creature",
             "Sea Archer Sea Creature",
-            "Treasure Hunter IX   Grants +0.8➜0.9  Treasure Chance.",
+            "Treasure Hunter 9   Grants +0.8➜0.9  Treasure Chance.",
             "+2  Health",
             "+5,000 Coins",
             "+5 SkyBlock XP"
@@ -3166,7 +3166,7 @@
             "Lotus Guardian Sea Creature",
             "Drowned Captain Sea Creature",
             "Frog Prince Sea Creature",
-            "Treasure Hunter X   Grants +0.9➜1  Treasure Chance.",
+            "Treasure Hunter 10   Grants +0.9➜1  Treasure Chance.",
             "+2  Health",
             "+7,500 Coins",
             "+5 SkyBlock XP"
@@ -3177,7 +3177,7 @@
           "totalExpRequired": 14925.0,
           "unlocks": [
             "Rider of the Deep Sea Creature",
-            "Treasure Hunter XI   Grants +1➜1.1  Treasure Chance.",
+            "Treasure Hunter 11   Grants +1➜1.1  Treasure Chance.",
             "+2  Health",
             "+10,000 Coins",
             "+10 SkyBlock XP"
@@ -3188,7 +3188,7 @@
           "totalExpRequired": 22425.0,
           "unlocks": [
             "Ent Sea Creature",
-            "Treasure Hunter XII   Grants +1.1➜1.2  Treasure Chance.",
+            "Treasure Hunter 12   Grants +1.1➜1.2  Treasure Chance.",
             "+2  Health",
             "+15,000 Coins",
             "+10 SkyBlock XP"
@@ -3200,7 +3200,7 @@
           "unlocks": [
             "Catfish Sea Creature",
             "Grinch Sea Creature",
-            "Treasure Hunter XIII   Grants +1.2➜1.3  Treasure Chance.",
+            "Treasure Hunter 13   Grants +1.2➜1.3  Treasure Chance.",
             "+2  Health",
             "+20,000 Coins",
             "+10 SkyBlock XP"
@@ -3213,7 +3213,7 @@
             "Fried Chicken Sea Creature",
             "Carrot King Sea Creature",
             "Nightmare Sea Creature",
-            "Treasure Hunter XIV   Grants +1.3➜1.4  Treasure Chance.",
+            "Treasure Hunter 14   Grants +1.3➜1.4  Treasure Chance.",
             "+2  Health",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -3232,7 +3232,7 @@
             "Silkbreeze Sea Creature",
             "Giant Isopod Sea Creature",
             "Bayou Sludge Sea Creature",
-            "Treasure Hunter XV   Grants +1.4➜1.5  Treasure Chance.",
+            "Treasure Hunter 15   Grants +1.4➜1.5  Treasure Chance.",
             "+3  Health",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -3243,7 +3243,7 @@
           "totalExpRequired": 97425.0,
           "unlocks": [
             "Sea Leech Sea Creature",
-            "Treasure Hunter XVI   Grants +1.5➜1.6  Treasure Chance.",
+            "Treasure Hunter 16   Grants +1.5➜1.6  Treasure Chance.",
             "+3  Health",
             "+40,000 Coins",
             "+10 SkyBlock XP"
@@ -3258,7 +3258,7 @@
             "Stridersurfer Sea Creature",
             "Poisoned Water Worm Sea Creature",
             "Volcanic Snail Sea Creature",
-            "Treasure Hunter XVII   Grants +1.6➜1.7  Treasure Chance.",
+            "Treasure Hunter 17   Grants +1.6➜1.7  Treasure Chance.",
             "+3  Health",
             "+50,000 Coins",
             "+10 SkyBlock XP"
@@ -3270,7 +3270,7 @@
           "unlocks": [
             "Tiger Shark Sea Creature",
             "Deep Sea Protector Sea Creature",
-            "Treasure Hunter XVIII   Grants +1.7➜1.8  Treasure Chance.",
+            "Treasure Hunter 18   Grants +1.7➜1.8  Treasure Chance.",
             "+3  Health",
             "+65,000 Coins",
             "+10 SkyBlock XP"
@@ -3283,7 +3283,7 @@
             "??? Sea Creature",
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XIX   Grants +1.8➜1.9  Treasure Chance.",
+            "Treasure Hunter 19   Grants +1.8➜1.9  Treasure Chance.",
             "+3  Health",
             "+80,000 Coins",
             "+10 SkyBlock XP"
@@ -3296,7 +3296,7 @@
             "??? Sea Creature",
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XX   Grants +1.9➜2  Treasure Chance.",
+            "Treasure Hunter 20   Grants +1.9➜2  Treasure Chance.",
             "+4  Health",
             "+100,000 Coins",
             "+10 SkyBlock XP"
@@ -3307,7 +3307,7 @@
           "totalExpRequired": 822425.0,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XXI   Grants +2➜2.1  Treasure Chance.",
+            "Treasure Hunter 21   Grants +2➜2.1  Treasure Chance.",
             "+4  Health",
             "+125,000 Coins",
             "+10 SkyBlock XP"
@@ -3319,7 +3319,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXII   Grants +2.1➜2.2  Treasure Chance.",
+            "Treasure Hunter 22   Grants +2.1➜2.2  Treasure Chance.",
             "+4  Health",
             "+150,000 Coins",
             "+10 SkyBlock XP"
@@ -3329,7 +3329,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Treasure Hunter XXIII   Grants +2.2➜2.3  Treasure Chance.",
+            "Treasure Hunter 23   Grants +2.2➜2.3  Treasure Chance.",
             "+4  Health",
             "+175,000 Coins",
             "+10 SkyBlock XP"
@@ -3341,7 +3341,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXIV   Grants +2.3➜2.4  Treasure Chance.",
+            "Treasure Hunter 24   Grants +2.3➜2.4  Treasure Chance.",
             "+4  Health",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -3353,7 +3353,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXV   Grants +2.4➜2.5  Treasure Chance.",
+            "Treasure Hunter 25   Grants +2.4➜2.5  Treasure Chance.",
             "+4  Health",
             "+225,000 Coins",
             "+10 SkyBlock XP"
@@ -3364,7 +3364,7 @@
           "totalExpRequired": 3822425.0,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XXVI   Grants +2.5➜2.6  Treasure Chance.",
+            "Treasure Hunter 26   Grants +2.5➜2.6  Treasure Chance.",
             "+5  Health",
             "+250,000 Coins",
             "+20 SkyBlock XP"
@@ -3375,7 +3375,7 @@
           "totalExpRequired": 4722425.0,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XXVII   Grants +2.6➜2.7  Treasure Chance.",
+            "Treasure Hunter 27   Grants +2.6➜2.7  Treasure Chance.",
             "+5  Health",
             "+275,000 Coins",
             "+20 SkyBlock XP"
@@ -3387,7 +3387,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXVIII   Grants +2.7➜2.8  Treasure Chance.",
+            "Treasure Hunter 28   Grants +2.7➜2.8  Treasure Chance.",
             "+5  Health",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -3397,7 +3397,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Treasure Hunter XXIX   Grants +2.8➜2.9  Treasure Chance.",
+            "Treasure Hunter 29   Grants +2.8➜2.9  Treasure Chance.",
             "+5  Health",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -3409,7 +3409,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXX   Grants +2.9➜3  Treasure Chance.",
+            "Treasure Hunter 30   Grants +2.9➜3  Treasure Chance.",
             "+5  Health",
             "+350,000 Coins",
             "+20 SkyBlock XP"
@@ -3421,7 +3421,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXXI   Grants +3➜3.1  Treasure Chance.",
+            "Treasure Hunter 31   Grants +3➜3.1  Treasure Chance.",
             "+5  Health",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -3431,7 +3431,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Treasure Hunter XXXII   Grants +3.1➜3.2  Treasure Chance.",
+            "Treasure Hunter 32   Grants +3.1➜3.2  Treasure Chance.",
             "+5  Health",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -3442,7 +3442,7 @@
           "totalExpRequired": 12222425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XXXIII   Grants +3.2➜3.3  Treasure Chance.",
+            "Treasure Hunter 33   Grants +3.2➜3.3  Treasure Chance.",
             "+5  Health",
             "+425,000 Coins",
             "+20 SkyBlock XP"
@@ -3453,7 +3453,7 @@
           "totalExpRequired": 13822425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XXXIV   Grants +3.3➜3.4  Treasure Chance.",
+            "Treasure Hunter 34   Grants +3.3➜3.4  Treasure Chance.",
             "+5  Health",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -3466,7 +3466,7 @@
             "??? Sea Creature",
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXXV   Grants +3.4➜3.5  Treasure Chance.",
+            "Treasure Hunter 35   Grants +3.4➜3.5  Treasure Chance.",
             "+5  Health",
             "+475,000 Coins",
             "+20 SkyBlock XP"
@@ -3478,7 +3478,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XXXVI   Grants +3.5➜3.6  Treasure Chance.",
+            "Treasure Hunter 36   Grants +3.5➜3.6  Treasure Chance.",
             "+5  Health",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -3489,7 +3489,7 @@
           "totalExpRequired": 19222425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XXXVII   Grants +3.6➜3.7  Treasure Chance.",
+            "Treasure Hunter 37   Grants +3.6➜3.7  Treasure Chance.",
             "+5  Health",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -3499,7 +3499,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Treasure Hunter XXXVIII   Grants +3.7➜3.8  Treasure Chance.",
+            "Treasure Hunter 38   Grants +3.7➜3.8  Treasure Chance.",
             "+5  Health",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -3509,7 +3509,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Treasure Hunter XXXIX   Grants +3.8➜3.9  Treasure Chance.",
+            "Treasure Hunter 39   Grants +3.8➜3.9  Treasure Chance.",
             "+5  Health",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -3520,7 +3520,7 @@
           "totalExpRequired": 25522425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XL   Grants +3.9➜4  Treasure Chance.",
+            "Treasure Hunter 40   Grants +3.9➜4  Treasure Chance.",
             "+5  Health",
             "+700,000 Coins",
             "+20 SkyBlock XP"
@@ -3530,7 +3530,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Treasure Hunter XLI   Grants +4➜4.1  Treasure Chance.",
+            "Treasure Hunter 41   Grants +4➜4.1  Treasure Chance.",
             "+5  Health",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -3540,7 +3540,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Treasure Hunter XLII   Grants +4.1➜4.2  Treasure Chance.",
+            "Treasure Hunter 42   Grants +4.1➜4.2  Treasure Chance.",
             "+5  Health",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -3550,7 +3550,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Treasure Hunter XLIII   Grants +4.2➜4.3  Treasure Chance.",
+            "Treasure Hunter 43   Grants +4.2➜4.3  Treasure Chance.",
             "+5  Health",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -3560,7 +3560,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Treasure Hunter XLIV   Grants +4.3➜4.4  Treasure Chance.",
+            "Treasure Hunter 44   Grants +4.3➜4.4  Treasure Chance.",
             "+5  Health",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -3571,7 +3571,7 @@
           "totalExpRequired": 38072425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XLV   Grants +4.4➜4.5  Treasure Chance.",
+            "Treasure Hunter 45   Grants +4.4➜4.5  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -3581,7 +3581,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Treasure Hunter XLVI   Grants +4.5➜4.6  Treasure Chance.",
+            "Treasure Hunter 46   Grants +4.5➜4.6  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -3592,7 +3592,7 @@
           "totalExpRequired": 44072425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XLVII   Grants +4.6➜4.7  Treasure Chance.",
+            "Treasure Hunter 47   Grants +4.6➜4.7  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -3602,7 +3602,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Treasure Hunter XLVIII   Grants +4.7➜4.8  Treasure Chance.",
+            "Treasure Hunter 48   Grants +4.7➜4.8  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -3612,7 +3612,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Treasure Hunter XLIX   Grants +4.8➜4.9  Treasure Chance.",
+            "Treasure Hunter 49   Grants +4.8➜4.9  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -3622,7 +3622,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Treasure Hunter L   Grants +4.9➜5  Treasure Chance.",
+            "Treasure Hunter 50   Grants +4.9➜5  Treasure Chance.",
             "+5  Health",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -3640,7 +3640,7 @@
           "totalExpRequired": 50.0,
           "unlocks": [
             "+Access to The Park",
-            "Logger I   Grants +4  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 1   Grants +4  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+100 Coins",
             "+5 SkyBlock XP"
@@ -3650,7 +3650,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Logger II   Grants +4➜8  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 2   Grants +4➜8  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+250 Coins",
             "+5 SkyBlock XP"
@@ -3660,7 +3660,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Logger III   Grants +8➜12  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 3   Grants +8➜12  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+500 Coins",
             "+5 SkyBlock XP"
@@ -3670,7 +3670,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Logger IV   Grants +12➜16  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 4   Grants +12➜16  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -3680,7 +3680,7 @@
           "level": 5,
           "totalExpRequired": 1175.0,
           "unlocks": [
-            "Logger V   Grants +16➜20  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 5   Grants +16➜20  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+1,000 Coins",
             "+5 SkyBlock XP"
@@ -3690,7 +3690,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Logger VI   Grants +20➜24  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 6   Grants +20➜24  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -3700,7 +3700,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Logger VII   Grants +24➜28  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 7   Grants +24➜28  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -3710,7 +3710,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Logger VIII   Grants +28➜32  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 8   Grants +28➜32  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+4,000 Coins",
             "+5 SkyBlock XP"
@@ -3720,7 +3720,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Logger IX   Grants +32➜36  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 9   Grants +32➜36  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+5,000 Coins",
             "+5 SkyBlock XP"
@@ -3730,7 +3730,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Logger X   Grants +36➜40  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 10   Grants +36➜40  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+7,500 Coins",
             "+5 SkyBlock XP"
@@ -3740,7 +3740,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Logger XI   Grants +40➜44  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 11   Grants +40➜44  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+10,000 Coins",
             "+10 SkyBlock XP"
@@ -3751,7 +3751,7 @@
           "totalExpRequired": 22425.0,
           "unlocks": [
             "+Access to Galatea",
-            "Logger XII   Grants +44➜48  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 12   Grants +44➜48  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+15,000 Coins",
             "+10 SkyBlock XP"
@@ -3761,7 +3761,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Logger XIII   Grants +48➜52  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 13   Grants +48➜52  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+20,000 Coins",
             "+10 SkyBlock XP"
@@ -3771,7 +3771,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Logger XIV   Grants +52➜56  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 14   Grants +52➜56  Foraging Fortune, which increases your chance for multiple logs.",
             "+1  Strength",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -3781,7 +3781,7 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Logger XV   Grants +56➜60  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 15   Grants +56➜60  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -3791,7 +3791,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Logger XVI   Grants +60➜64  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 16   Grants +60➜64  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+40,000 Coins",
             "+10 SkyBlock XP"
@@ -3801,7 +3801,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Logger XVII   Grants +64➜68  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 17   Grants +64➜68  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+50,000 Coins",
             "+10 SkyBlock XP"
@@ -3811,7 +3811,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Logger XVIII   Grants +68➜72  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 18   Grants +68➜72  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+65,000 Coins",
             "+10 SkyBlock XP"
@@ -3821,7 +3821,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Logger XIX   Grants +72➜76  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 19   Grants +72➜76  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+80,000 Coins",
             "+10 SkyBlock XP"
@@ -3831,7 +3831,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Logger XX   Grants +76➜80  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 20   Grants +76➜80  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+100,000 Coins",
             "+10 SkyBlock XP"
@@ -3841,7 +3841,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Logger XXI   Grants +80➜84  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 21   Grants +80➜84  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+125,000 Coins",
             "+10 SkyBlock XP"
@@ -3851,7 +3851,7 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Logger XXII   Grants +84➜88  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 22   Grants +84➜88  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+150,000 Coins",
             "+10 SkyBlock XP"
@@ -3861,7 +3861,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Logger XXIII   Grants +88➜92  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 23   Grants +88➜92  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+175,000 Coins",
             "+10 SkyBlock XP"
@@ -3871,7 +3871,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Logger XXIV   Grants +92➜96  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 24   Grants +92➜96  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -3881,7 +3881,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Logger XXV   Grants +96➜100  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 25   Grants +96➜100  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+225,000 Coins",
             "+10 SkyBlock XP"
@@ -3891,7 +3891,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Logger XXVI   Grants +100➜104  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 26   Grants +100➜104  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+250,000 Coins",
             "+20 SkyBlock XP"
@@ -3901,7 +3901,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Logger XXVII   Grants +104➜108  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 27   Grants +104➜108  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+275,000 Coins",
             "+20 SkyBlock XP"
@@ -3911,7 +3911,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Logger XXVIII   Grants +108➜112  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 28   Grants +108➜112  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -3921,7 +3921,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Logger XXIX   Grants +112➜116  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 29   Grants +112➜116  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -3931,7 +3931,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Logger XXX   Grants +116➜120  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 30   Grants +116➜120  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+350,000 Coins",
             "+20 SkyBlock XP"
@@ -3941,7 +3941,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Logger XXXI   Grants +120➜124  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 31   Grants +120➜124  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -3951,7 +3951,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Logger XXXII   Grants +124➜128  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 32   Grants +124➜128  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -3961,7 +3961,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Logger XXXIII   Grants +128➜132  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 33   Grants +128➜132  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+425,000 Coins",
             "+20 SkyBlock XP"
@@ -3971,7 +3971,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Logger XXXIV   Grants +132➜136  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 34   Grants +132➜136  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -3981,7 +3981,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Logger XXXV   Grants +136➜140  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 35   Grants +136➜140  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+475,000 Coins",
             "+20 SkyBlock XP"
@@ -3991,7 +3991,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Logger XXXVI   Grants +140➜144  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 36   Grants +140➜144  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -4001,7 +4001,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Logger XXXVII   Grants +144➜148  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 37   Grants +144➜148  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -4011,7 +4011,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Logger XXXVIII   Grants +148➜152  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 38   Grants +148➜152  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -4021,7 +4021,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Logger XXXIX   Grants +152➜156  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 39   Grants +152➜156  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -4031,7 +4031,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Logger XL   Grants +156➜160  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 40   Grants +156➜160  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+700,000 Coins",
             "+20 SkyBlock XP"
@@ -4041,7 +4041,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Logger XLI   Grants +160➜164  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 41   Grants +160➜164  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -4051,7 +4051,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Logger XLII   Grants +164➜168  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 42   Grants +164➜168  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -4061,7 +4061,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Logger XLIII   Grants +168➜172  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 43   Grants +168➜172  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -4071,7 +4071,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Logger XLIV   Grants +172➜176  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 44   Grants +172➜176  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -4081,7 +4081,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Logger XLV   Grants +176➜180  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 45   Grants +176➜180  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4091,7 +4091,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Logger XLVI   Grants +180➜184  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 46   Grants +180➜184  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4101,7 +4101,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Logger XLVII   Grants +184➜188  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 47   Grants +184➜188  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4111,7 +4111,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Logger XLVIII   Grants +188➜192  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 48   Grants +188➜192  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4121,7 +4121,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Logger XLIX   Grants +192➜196  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 49   Grants +192➜196  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4131,7 +4131,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Logger L   Grants +196➜200  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 50   Grants +196➜200  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4141,7 +4141,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Logger LI   Grants +200➜204  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 51   Grants +200➜204  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -4151,7 +4151,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Logger LII   Grants +204➜208  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 52   Grants +204➜208  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -4161,7 +4161,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Logger LIII   Grants +208➜212  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 53   Grants +208➜212  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -4171,7 +4171,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Logger LIV   Grants +212➜216  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 54   Grants +212➜216  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -4181,7 +4181,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Logger LV   Grants +216➜220  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 55   Grants +216➜220  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -4191,7 +4191,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Logger LVI   Grants +220➜224  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 56   Grants +220➜224  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -4201,7 +4201,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Logger LVII   Grants +224➜228  Foraging Fortune, which increases your chance for multiple logs.",
+            "Logger 57   Grants +224➜228  Foraging Fortune, which increases your chance for multiple logs.",
             "+2  Strength",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -4218,7 +4218,7 @@
           "level": 1,
           "totalExpRequired": 50.0,
           "unlocks": [
-            "Charming I   Grants +0.04 ❣ Charm Chance.",
+            "Charming 1   Grants +0.04 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+100 Coins",
             "+5 SkyBlock XP"
@@ -4228,7 +4228,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Charming II   Grants +0.04➜0.08 ❣ Charm Chance.",
+            "Charming 2   Grants +0.04➜0.08 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+250 Coins",
             "+5 SkyBlock XP"
@@ -4238,7 +4238,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Charming III   Grants +0.08➜0.12 ❣ Charm Chance.",
+            "Charming 3   Grants +0.08➜0.12 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+500 Coins",
             "+5 SkyBlock XP"
@@ -4248,7 +4248,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Charming IV   Grants +0.12➜0.16 ❣ Charm Chance.",
+            "Charming 4   Grants +0.12➜0.16 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -4258,7 +4258,7 @@
           "level": 5,
           "totalExpRequired": 1175.0,
           "unlocks": [
-            "Charming V   Grants +0.16➜0.2 ❣ Charm Chance.",
+            "Charming 5   Grants +0.16➜0.2 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+1,000 Coins",
             "+5 SkyBlock XP"
@@ -4268,7 +4268,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Charming VI   Grants +0.2➜0.24 ❣ Charm Chance.",
+            "Charming 6   Grants +0.2➜0.24 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -4278,7 +4278,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Charming VII   Grants +0.24➜0.28 ❣ Charm Chance.",
+            "Charming 7   Grants +0.24➜0.28 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -4288,7 +4288,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Charming VIII   Grants +0.28➜0.32 ❣ Charm Chance.",
+            "Charming 8   Grants +0.28➜0.32 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+4,000 Coins",
             "+5 SkyBlock XP"
@@ -4298,7 +4298,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Charming IX   Grants +0.32➜0.36 ❣ Charm Chance.",
+            "Charming 9   Grants +0.32➜0.36 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+5,000 Coins",
             "+5 SkyBlock XP"
@@ -4308,7 +4308,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Charming X   Grants +0.36➜0.4 ❣ Charm Chance.",
+            "Charming 10   Grants +0.36➜0.4 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+7,500 Coins",
             "+5 SkyBlock XP"
@@ -4318,7 +4318,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Charming XI   Grants +0.4➜0.44 ❣ Charm Chance.",
+            "Charming 11   Grants +0.4➜0.44 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+10,000 Coins",
             "+10 SkyBlock XP"
@@ -4328,7 +4328,7 @@
           "level": 12,
           "totalExpRequired": 22425.0,
           "unlocks": [
-            "Charming XII   Grants +0.44➜0.48 ❣ Charm Chance.",
+            "Charming 12   Grants +0.44➜0.48 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+15,000 Coins",
             "+10 SkyBlock XP"
@@ -4338,7 +4338,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Charming XIII   Grants +0.48➜0.52 ❣ Charm Chance.",
+            "Charming 13   Grants +0.48➜0.52 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+20,000 Coins",
             "+10 SkyBlock XP"
@@ -4348,7 +4348,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Charming XIV   Grants +0.52➜0.56 ❣ Charm Chance.",
+            "Charming 14   Grants +0.52➜0.56 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -4359,7 +4359,7 @@
           "totalExpRequired": 67425.0,
           "unlocks": [
             "+Access to Critter Safari",
-            "Charming XV   Grants +0.56➜0.6 ❣ Charm Chance.",
+            "Charming 15   Grants +0.56➜0.6 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -4369,7 +4369,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Charming XVI   Grants +0.6➜0.64 ❣ Charm Chance.",
+            "Charming 16   Grants +0.6➜0.64 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+40,000 Coins",
             "+10 SkyBlock XP"
@@ -4379,7 +4379,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Charming XVII   Grants +0.64➜0.68 ❣ Charm Chance.",
+            "Charming 17   Grants +0.64➜0.68 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+50,000 Coins",
             "+10 SkyBlock XP"
@@ -4389,7 +4389,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Charming XVIII   Grants +0.68➜0.72 ❣ Charm Chance.",
+            "Charming 18   Grants +0.68➜0.72 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+65,000 Coins",
             "+10 SkyBlock XP"
@@ -4399,7 +4399,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Charming XIX   Grants +0.72➜0.76 ❣ Charm Chance.",
+            "Charming 19   Grants +0.72➜0.76 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+80,000 Coins",
             "+10 SkyBlock XP"
@@ -4409,7 +4409,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Charming XX   Grants +0.76➜0.8 ❣ Charm Chance.",
+            "Charming 20   Grants +0.76➜0.8 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+100,000 Coins",
             "+10 SkyBlock XP"
@@ -4419,7 +4419,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Charming XXI   Grants +0.8➜0.84 ❣ Charm Chance.",
+            "Charming 21   Grants +0.8➜0.84 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+125,000 Coins",
             "+10 SkyBlock XP"
@@ -4429,7 +4429,7 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Charming XXII   Grants +0.84➜0.88 ❣ Charm Chance.",
+            "Charming 22   Grants +0.84➜0.88 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+150,000 Coins",
             "+10 SkyBlock XP"
@@ -4439,7 +4439,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Charming XXIII   Grants +0.88➜0.92 ❣ Charm Chance.",
+            "Charming 23   Grants +0.88➜0.92 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+175,000 Coins",
             "+10 SkyBlock XP"
@@ -4449,7 +4449,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Charming XXIV   Grants +0.92➜0.96 ❣ Charm Chance.",
+            "Charming 24   Grants +0.92➜0.96 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -4459,7 +4459,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Charming XXV   Grants +0.96➜1 ❣ Charm Chance.",
+            "Charming 25   Grants +0.96➜1 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+225,000 Coins",
             "+10 SkyBlock XP"
@@ -4469,7 +4469,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Charming XXVI   Grants +1➜1.04 ❣ Charm Chance.",
+            "Charming 26   Grants +1➜1.04 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+250,000 Coins",
             "+20 SkyBlock XP"
@@ -4479,7 +4479,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Charming XXVII   Grants +1.04➜1.08 ❣ Charm Chance.",
+            "Charming 27   Grants +1.04➜1.08 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+275,000 Coins",
             "+20 SkyBlock XP"
@@ -4489,7 +4489,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Charming XXVIII   Grants +1.08➜1.12 ❣ Charm Chance.",
+            "Charming 28   Grants +1.08➜1.12 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -4499,7 +4499,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Charming XXIX   Grants +1.12➜1.16 ❣ Charm Chance.",
+            "Charming 29   Grants +1.12➜1.16 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -4509,7 +4509,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Charming XXX   Grants +1.16➜1.2 ❣ Charm Chance.",
+            "Charming 30   Grants +1.16➜1.2 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+350,000 Coins",
             "+20 SkyBlock XP"
@@ -4519,7 +4519,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Charming XXXI   Grants +1.2➜1.24 ❣ Charm Chance.",
+            "Charming 31   Grants +1.2➜1.24 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -4529,7 +4529,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Charming XXXII   Grants +1.24➜1.28 ❣ Charm Chance.",
+            "Charming 32   Grants +1.24➜1.28 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -4539,7 +4539,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Charming XXXIII   Grants +1.28➜1.32 ❣ Charm Chance.",
+            "Charming 33   Grants +1.28➜1.32 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+425,000 Coins",
             "+20 SkyBlock XP"
@@ -4549,7 +4549,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Charming XXXIV   Grants +1.32➜1.36 ❣ Charm Chance.",
+            "Charming 34   Grants +1.32➜1.36 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -4559,7 +4559,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Charming XXXV   Grants +1.36➜1.4 ❣ Charm Chance.",
+            "Charming 35   Grants +1.36➜1.4 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+475,000 Coins",
             "+20 SkyBlock XP"
@@ -4569,7 +4569,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Charming XXXVI   Grants +1.4➜1.44 ❣ Charm Chance.",
+            "Charming 36   Grants +1.4➜1.44 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -4579,7 +4579,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Charming XXXVII   Grants +1.44➜1.48 ❣ Charm Chance.",
+            "Charming 37   Grants +1.44➜1.48 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -4589,7 +4589,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Charming XXXVIII   Grants +1.48➜1.52 ❣ Charm Chance.",
+            "Charming 38   Grants +1.48➜1.52 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -4599,7 +4599,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Charming XXXIX   Grants +1.52➜1.56 ❣ Charm Chance.",
+            "Charming 39   Grants +1.52➜1.56 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -4609,7 +4609,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Charming XL   Grants +1.56➜1.6 ❣ Charm Chance.",
+            "Charming 40   Grants +1.56➜1.6 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+700,000 Coins",
             "+20 SkyBlock XP"
@@ -4619,7 +4619,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Charming XLI   Grants +1.6➜1.64 ❣ Charm Chance.",
+            "Charming 41   Grants +1.6➜1.64 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -4629,7 +4629,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Charming XLII   Grants +1.64➜1.68 ❣ Charm Chance.",
+            "Charming 42   Grants +1.64➜1.68 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -4639,7 +4639,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Charming XLIII   Grants +1.68➜1.72 ❣ Charm Chance.",
+            "Charming 43   Grants +1.68➜1.72 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -4649,7 +4649,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Charming XLIV   Grants +1.72➜1.76 ❣ Charm Chance.",
+            "Charming 44   Grants +1.72➜1.76 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -4659,7 +4659,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Charming XLV   Grants +1.76➜1.8 ❣ Charm Chance.",
+            "Charming 45   Grants +1.76➜1.8 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4669,7 +4669,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Charming XLVI   Grants +1.8➜1.84 ❣ Charm Chance.",
+            "Charming 46   Grants +1.8➜1.84 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4679,7 +4679,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Charming XLVII   Grants +1.84➜1.88 ❣ Charm Chance.",
+            "Charming 47   Grants +1.84➜1.88 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4689,7 +4689,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Charming XLVIII   Grants +1.88➜1.92 ❣ Charm Chance.",
+            "Charming 48   Grants +1.88➜1.92 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4699,7 +4699,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Charming XLIX   Grants +1.92➜1.96 ❣ Charm Chance.",
+            "Charming 49   Grants +1.92➜1.96 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4709,7 +4709,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Charming L   Grants +1.96➜2 ❣ Charm Chance.",
+            "Charming 50   Grants +1.96➜2 ❣ Charm Chance.",
             "+1  Hunting Fortune",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -4727,7 +4727,7 @@
           "totalExpRequired": 50.0,
           "unlocks": [
             "+Access to Gold Mine",
-            "Spelunker I   Grants +4  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 1   Grants +4  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Jerry Stone Reforge",
             "+100 Coins",
@@ -4738,7 +4738,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Spelunker II   Grants +4➜8  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 2   Grants +4➜8  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Black Diamond Reforge",
             "+250 Coins",
@@ -4749,7 +4749,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Spelunker III   Grants +8➜12  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 3   Grants +8➜12  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Overflowing Trash Can Reforge",
             "+500 Coins",
@@ -4760,7 +4760,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Spelunker IV   Grants +12➜16  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 4   Grants +12➜16  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -4771,7 +4771,7 @@
           "totalExpRequired": 1175.0,
           "unlocks": [
             "+Access to Deep Caverns",
-            "Spelunker V   Grants +16➜20  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 5   Grants +16➜20  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Lapis Crystal Reforge",
             "Moil Log Reforge",
@@ -4783,7 +4783,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Spelunker VI   Grants +20➜24  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 6   Grants +20➜24  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -4793,7 +4793,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Spelunker VII   Grants +24➜28  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 7   Grants +24➜28  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -4803,7 +4803,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Spelunker VIII   Grants +28➜32  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 8   Grants +28➜32  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Rare Diamond Reforge",
             "+4,000 Coins",
@@ -4814,7 +4814,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Spelunker IX   Grants +32➜36  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 9   Grants +32➜36  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "SkyMart Brochure Reforge",
             "+5,000 Coins",
@@ -4825,7 +4825,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Spelunker X   Grants +36➜40  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 10   Grants +36➜40  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Extremely Mild Adhesive Reforge",
             "Dirt Bottle Reforge",
@@ -4837,7 +4837,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Spelunker XI   Grants +40➜44  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 11   Grants +40➜44  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Sunstone Reforge",
             "Moonstone Reforge",
@@ -4851,7 +4851,7 @@
           "unlocks": [
             "+Access to Crystal Hollows",
             "+Access to Dwarven Mines",
-            "Spelunker XII   Grants +44➜48  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 12   Grants +44➜48  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Moonglade Jewel Reforge",
             "Hardened Wood Reforge",
@@ -4864,7 +4864,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Spelunker XIII   Grants +48➜52  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 13   Grants +48➜52  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Full-Jaw Fanging Kit Reforge",
             "Flowering Bouquet Reforge",
@@ -4876,7 +4876,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Spelunker XIV   Grants +52➜56  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 14   Grants +52➜56  Mining Fortune, which increases your chance for multiple ore drops.",
             "+1  Defense",
             "Dwarven Treasure Reforge",
             "End Stone Geode Reforge",
@@ -4888,7 +4888,7 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Spelunker XV   Grants +56➜60  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 15   Grants +56➜60  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Beady Eyes Reforge",
             "Diamonite Reforge",
@@ -4904,7 +4904,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Spelunker XVI   Grants +60➜64  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 16   Grants +60➜64  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Premium Flesh Reforge",
             "+40,000 Coins",
@@ -4915,7 +4915,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Spelunker XVII   Grants +64➜68  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 17   Grants +64➜68  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Red Nose Reforge",
             "+50,000 Coins",
@@ -4926,7 +4926,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Spelunker XVIII   Grants +68➜72  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 18   Grants +68➜72  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Pitchin' Koi Reforge",
             "Pure Mithril Reforge",
@@ -4938,7 +4938,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Spelunker XIX   Grants +72➜76  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 19   Grants +72➜76  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Necromancer's Brooch Reforge",
             "+80,000 Coins",
@@ -4949,7 +4949,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Spelunker XX   Grants +76➜80  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 20   Grants +76➜80  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Entropy Suppressor Reforge",
             "Titanium Tesseract Reforge",
@@ -4964,7 +4964,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Spelunker XXI   Grants +80➜84  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 21   Grants +80➜84  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Red Scarf Reforge",
             "Squeaky Toy Reforge",
@@ -4977,7 +4977,7 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Spelunker XXII   Grants +84➜88  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 22   Grants +84➜88  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Dragon Claw Reforge",
             "Optical Lens Reforge",
@@ -4991,7 +4991,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Spelunker XXIII   Grants +88➜92  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 23   Grants +88➜92  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Overgrown Grass Reforge",
             "Suspicious Vial Reforge",
@@ -5003,7 +5003,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Spelunker XXIV   Grants +92➜96  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 24   Grants +92➜96  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Gleaming Crystal Reforge",
             "Presumed Gallon of Red Paint Reforge",
@@ -5023,7 +5023,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Spelunker XXV   Grants +96➜100  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 25   Grants +96➜100  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Giant Tooth Reforge",
             "Andesite Whetstone Reforge",
@@ -5041,7 +5041,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Spelunker XXVI   Grants +100➜104  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 26   Grants +100➜104  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Warped Stone Reforge",
             "Shriveled Cornea Reforge",
@@ -5054,7 +5054,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Spelunker XXVII   Grants +104➜108  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 27   Grants +104➜108  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Blazen Sphere Reforge",
             "+275,000 Coins",
@@ -5065,7 +5065,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Spelunker XXVIII   Grants +108➜112  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 28   Grants +108➜112  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -5075,7 +5075,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Spelunker XXIX   Grants +112➜116  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 29   Grants +112➜116  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -5085,7 +5085,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Spelunker XXX   Grants +116➜120  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 30   Grants +116➜120  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Amber Material Reforge",
             "Wither Blood Reforge",
@@ -5103,7 +5103,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Spelunker XXXI   Grants +120➜124  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 31   Grants +120➜124  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -5113,7 +5113,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Spelunker XXXII   Grants +124➜128  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 32   Grants +124➜128  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -5123,7 +5123,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Spelunker XXXIII   Grants +128➜132  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 33   Grants +128➜132  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "Kuudra Mandible Reforge",
             "+425,000 Coins",
@@ -5134,7 +5134,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Spelunker XXXIV   Grants +132➜136  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 34   Grants +132➜136  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -5144,7 +5144,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Spelunker XXXV   Grants +136➜140  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 35   Grants +136➜140  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+475,000 Coins",
             "+20 SkyBlock XP"
@@ -5154,7 +5154,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Spelunker XXXVI   Grants +140➜144  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 36   Grants +140➜144  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -5164,7 +5164,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Spelunker XXXVII   Grants +144➜148  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 37   Grants +144➜148  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -5174,7 +5174,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Spelunker XXXVIII   Grants +148➜152  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 38   Grants +148➜152  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -5184,7 +5184,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Spelunker XXXIX   Grants +152➜156  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 39   Grants +152➜156  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -5194,7 +5194,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Spelunker XL   Grants +156➜160  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 40   Grants +156➜160  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+700,000 Coins",
             "+20 SkyBlock XP"
@@ -5204,7 +5204,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Spelunker XLI   Grants +160➜164  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 41   Grants +160➜164  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -5214,7 +5214,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Spelunker XLII   Grants +164➜168  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 42   Grants +164➜168  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -5224,7 +5224,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Spelunker XLIII   Grants +168➜172  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 43   Grants +168➜172  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -5234,7 +5234,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Spelunker XLIV   Grants +172➜176  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 44   Grants +172➜176  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -5244,7 +5244,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Spelunker XLV   Grants +176➜180  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 45   Grants +176➜180  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5254,7 +5254,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Spelunker XLVI   Grants +180➜184  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 46   Grants +180➜184  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5264,7 +5264,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Spelunker XLVII   Grants +184➜188  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 47   Grants +184➜188  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5274,7 +5274,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Spelunker XLVIII   Grants +188➜192  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 48   Grants +188➜192  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5284,7 +5284,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Spelunker XLIX   Grants +192➜196  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 49   Grants +192➜196  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5294,7 +5294,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Spelunker L   Grants +196➜200  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 50   Grants +196➜200  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5304,7 +5304,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Spelunker LI   Grants +200➜204  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 51   Grants +200➜204  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5314,7 +5314,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Spelunker LII   Grants +204➜208  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 52   Grants +204➜208  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5324,7 +5324,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Spelunker LIII   Grants +208➜212  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 53   Grants +208➜212  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5334,7 +5334,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Spelunker LIV   Grants +212➜216  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 54   Grants +212➜216  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5344,7 +5344,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Spelunker LV   Grants +216➜220  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 55   Grants +216➜220  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5354,7 +5354,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Spelunker LVI   Grants +220➜224  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 56   Grants +220➜224  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5364,7 +5364,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Spelunker LVII   Grants +224➜228  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 57   Grants +224➜228  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5374,7 +5374,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Spelunker LVIII   Grants +228➜232  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 58   Grants +228➜232  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5384,7 +5384,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Spelunker LIX   Grants +232➜236  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 59   Grants +232➜236  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5394,7 +5394,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Spelunker LX   Grants +236➜240  Mining Fortune, which increases your chance for multiple ore drops.",
+            "Spelunker 60   Grants +236➜240  Mining Fortune, which increases your chance for multiple ore drops.",
             "+2  Defense",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5786,7 +5786,7 @@
           "level": 1,
           "totalExpRequired": 50.0,
           "unlocks": [
-            "Zoologist I   Gain 1% extra pet exp.",
+            "Zoologist 1   Gain 1% extra pet exp.",
             "+Gain 0.2% Exp Share rate.",
             "+1  Pet Luck",
             "+100 Coins",
@@ -5797,7 +5797,7 @@
           "level": 2,
           "totalExpRequired": 175.0,
           "unlocks": [
-            "Zoologist II   Gain 1➜2% extra pet exp.",
+            "Zoologist 2   Gain 1➜2% extra pet exp.",
             "+Gain 0.2➜0.4% Exp Share rate.",
             "+1  Pet Luck",
             "+250 Coins",
@@ -5808,7 +5808,7 @@
           "level": 3,
           "totalExpRequired": 375.0,
           "unlocks": [
-            "Zoologist III   Gain 2➜3% extra pet exp.",
+            "Zoologist 3   Gain 2➜3% extra pet exp.",
             "+Gain 0.4➜0.6% Exp Share rate.",
             "+1  Pet Luck",
             "+500 Coins",
@@ -5819,7 +5819,7 @@
           "level": 4,
           "totalExpRequired": 675.0,
           "unlocks": [
-            "Zoologist IV   Gain 3➜4% extra pet exp.",
+            "Zoologist 4   Gain 3➜4% extra pet exp.",
             "+Gain 0.6➜0.8% Exp Share rate.",
             "+1  Pet Luck",
             "+750 Coins",
@@ -5830,7 +5830,7 @@
           "level": 5,
           "totalExpRequired": 1175.0,
           "unlocks": [
-            "Zoologist V   Gain 4➜5% extra pet exp.",
+            "Zoologist 5   Gain 4➜5% extra pet exp.",
             "+Gain 0.8➜1% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000 Coins",
@@ -5841,7 +5841,7 @@
           "level": 6,
           "totalExpRequired": 1925.0,
           "unlocks": [
-            "Zoologist VI   Gain 5➜6% extra pet exp.",
+            "Zoologist 6   Gain 5➜6% extra pet exp.",
             "+Gain 1➜1.2% Exp Share rate.",
             "+1  Pet Luck",
             "+2,000 Coins",
@@ -5852,7 +5852,7 @@
           "level": 7,
           "totalExpRequired": 2925.0,
           "unlocks": [
-            "Zoologist VII   Gain 6➜7% extra pet exp.",
+            "Zoologist 7   Gain 6➜7% extra pet exp.",
             "+Gain 1.2➜1.4% Exp Share rate.",
             "+1  Pet Luck",
             "+3,000 Coins",
@@ -5863,7 +5863,7 @@
           "level": 8,
           "totalExpRequired": 4425.0,
           "unlocks": [
-            "Zoologist VIII   Gain 7➜8% extra pet exp.",
+            "Zoologist 8   Gain 7➜8% extra pet exp.",
             "+Gain 1.4➜1.6% Exp Share rate.",
             "+1  Pet Luck",
             "+4,000 Coins",
@@ -5874,7 +5874,7 @@
           "level": 9,
           "totalExpRequired": 6425.0,
           "unlocks": [
-            "Zoologist IX   Gain 8➜9% extra pet exp.",
+            "Zoologist 9   Gain 8➜9% extra pet exp.",
             "+Gain 1.6➜1.8% Exp Share rate.",
             "+1  Pet Luck",
             "+5,000 Coins",
@@ -5885,7 +5885,7 @@
           "level": 10,
           "totalExpRequired": 9925.0,
           "unlocks": [
-            "Zoologist X   Gain 9➜10% extra pet exp.",
+            "Zoologist 10   Gain 9➜10% extra pet exp.",
             "+Gain 1.8➜2% Exp Share rate.",
             "+1  Pet Luck",
             "+Free Training Session at Fann",
@@ -5897,7 +5897,7 @@
           "level": 11,
           "totalExpRequired": 14925.0,
           "unlocks": [
-            "Zoologist XI   Gain 10➜11% extra pet exp.",
+            "Zoologist 11   Gain 10➜11% extra pet exp.",
             "+Gain 2➜2.2% Exp Share rate.",
             "+1  Pet Luck",
             "+10,000 Coins",
@@ -5908,7 +5908,7 @@
           "level": 12,
           "totalExpRequired": 22425.0,
           "unlocks": [
-            "Zoologist XII   Gain 11➜12% extra pet exp.",
+            "Zoologist 12   Gain 11➜12% extra pet exp.",
             "+Gain 2.2➜2.4% Exp Share rate.",
             "+1  Pet Luck",
             "+15,000 Coins",
@@ -5919,7 +5919,7 @@
           "level": 13,
           "totalExpRequired": 32425.0,
           "unlocks": [
-            "Zoologist XIII   Gain 12➜13% extra pet exp.",
+            "Zoologist 13   Gain 12➜13% extra pet exp.",
             "+Gain 2.4➜2.6% Exp Share rate.",
             "+1  Pet Luck",
             "+20,000 Coins",
@@ -5930,7 +5930,7 @@
           "level": 14,
           "totalExpRequired": 47425.0,
           "unlocks": [
-            "Zoologist XIV   Gain 13➜14% extra pet exp.",
+            "Zoologist 14   Gain 13➜14% extra pet exp.",
             "+Gain 2.6➜2.8% Exp Share rate.",
             "+1  Pet Luck",
             "+25,000 Coins",
@@ -5941,7 +5941,7 @@
           "level": 15,
           "totalExpRequired": 67425.0,
           "unlocks": [
-            "Zoologist XV   Gain 14➜15% extra pet exp.",
+            "Zoologist 15   Gain 14➜15% extra pet exp.",
             "+Gain 2.8➜3% Exp Share rate.",
             "+1  Pet Luck",
             "+30,000 Coins",
@@ -5952,7 +5952,7 @@
           "level": 16,
           "totalExpRequired": 97425.0,
           "unlocks": [
-            "Zoologist XVI   Gain 15➜16% extra pet exp.",
+            "Zoologist 16   Gain 15➜16% extra pet exp.",
             "+Gain 3➜3.2% Exp Share rate.",
             "+1  Pet Luck",
             "+40,000 Coins",
@@ -5963,7 +5963,7 @@
           "level": 17,
           "totalExpRequired": 147425.0,
           "unlocks": [
-            "Zoologist XVII   Gain 16➜17% extra pet exp.",
+            "Zoologist 17   Gain 16➜17% extra pet exp.",
             "+Gain 3.2➜3.4% Exp Share rate.",
             "+1  Pet Luck",
             "+50,000 Coins",
@@ -5974,7 +5974,7 @@
           "level": 18,
           "totalExpRequired": 222425.0,
           "unlocks": [
-            "Zoologist XVIII   Gain 17➜18% extra pet exp.",
+            "Zoologist 18   Gain 17➜18% extra pet exp.",
             "+Gain 3.4➜3.6% Exp Share rate.",
             "+1  Pet Luck",
             "+65,000 Coins",
@@ -5985,7 +5985,7 @@
           "level": 19,
           "totalExpRequired": 322425.0,
           "unlocks": [
-            "Zoologist XIX   Gain 18➜19% extra pet exp.",
+            "Zoologist 19   Gain 18➜19% extra pet exp.",
             "+Gain 3.6➜3.8% Exp Share rate.",
             "+1  Pet Luck",
             "+80,000 Coins",
@@ -5996,7 +5996,7 @@
           "level": 20,
           "totalExpRequired": 522425.0,
           "unlocks": [
-            "Zoologist XX   Gain 19➜20% extra pet exp.",
+            "Zoologist 20   Gain 19➜20% extra pet exp.",
             "+Gain 3.8➜4% Exp Share rate.",
             "+1  Pet Luck",
             "+Light Training Session at Fann",
@@ -6008,7 +6008,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Zoologist XXI   Gain 20➜21% extra pet exp.",
+            "Zoologist 21   Gain 20➜21% extra pet exp.",
             "+Gain 4➜4.2% Exp Share rate.",
             "+1  Pet Luck",
             "+125,000 Coins",
@@ -6019,7 +6019,7 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Zoologist XXII   Gain 21➜22% extra pet exp.",
+            "Zoologist 22   Gain 21➜22% extra pet exp.",
             "+Gain 4.2➜4.4% Exp Share rate.",
             "+1  Pet Luck",
             "+150,000 Coins",
@@ -6030,7 +6030,7 @@
           "level": 23,
           "totalExpRequired": 1722425.0,
           "unlocks": [
-            "Zoologist XXIII   Gain 22➜23% extra pet exp.",
+            "Zoologist 23   Gain 22➜23% extra pet exp.",
             "+Gain 4.4➜4.6% Exp Share rate.",
             "+1  Pet Luck",
             "+175,000 Coins",
@@ -6041,7 +6041,7 @@
           "level": 24,
           "totalExpRequired": 2322425.0,
           "unlocks": [
-            "Zoologist XXIV   Gain 23➜24% extra pet exp.",
+            "Zoologist 24   Gain 23➜24% extra pet exp.",
             "+Gain 4.6➜4.8% Exp Share rate.",
             "+1  Pet Luck",
             "+200,000 Coins",
@@ -6052,7 +6052,7 @@
           "level": 25,
           "totalExpRequired": 3022425.0,
           "unlocks": [
-            "Zoologist XXV   Gain 24➜25% extra pet exp.",
+            "Zoologist 25   Gain 24➜25% extra pet exp.",
             "+Gain 4.8➜5% Exp Share rate.",
             "+1  Pet Luck",
             "+225,000 Coins",
@@ -6063,7 +6063,7 @@
           "level": 26,
           "totalExpRequired": 3822425.0,
           "unlocks": [
-            "Zoologist XXVI   Gain 25➜26% extra pet exp.",
+            "Zoologist 26   Gain 25➜26% extra pet exp.",
             "+Gain 5➜5.2% Exp Share rate.",
             "+1  Pet Luck",
             "+250,000 Coins",
@@ -6074,7 +6074,7 @@
           "level": 27,
           "totalExpRequired": 4722425.0,
           "unlocks": [
-            "Zoologist XXVII   Gain 26➜27% extra pet exp.",
+            "Zoologist 27   Gain 26➜27% extra pet exp.",
             "+Gain 5.2➜5.4% Exp Share rate.",
             "+1  Pet Luck",
             "+275,000 Coins",
@@ -6085,7 +6085,7 @@
           "level": 28,
           "totalExpRequired": 5722425.0,
           "unlocks": [
-            "Zoologist XXVIII   Gain 27➜28% extra pet exp.",
+            "Zoologist 28   Gain 27➜28% extra pet exp.",
             "+Gain 5.4➜5.6% Exp Share rate.",
             "+1  Pet Luck",
             "+300,000 Coins",
@@ -6096,7 +6096,7 @@
           "level": 29,
           "totalExpRequired": 6822425.0,
           "unlocks": [
-            "Zoologist XXIX   Gain 28➜29% extra pet exp.",
+            "Zoologist 29   Gain 28➜29% extra pet exp.",
             "+Gain 5.6➜5.8% Exp Share rate.",
             "+1  Pet Luck",
             "+325,000 Coins",
@@ -6107,7 +6107,7 @@
           "level": 30,
           "totalExpRequired": 8022425.0,
           "unlocks": [
-            "Zoologist XXX   Gain 29➜30% extra pet exp.",
+            "Zoologist 30   Gain 29➜30% extra pet exp.",
             "+Gain 5.8➜6% Exp Share rate.",
             "+1  Pet Luck",
             "+Moderate Training Session at Fann",
@@ -6119,7 +6119,7 @@
           "level": 31,
           "totalExpRequired": 9322425.0,
           "unlocks": [
-            "Zoologist XXXI   Gain 30➜31% extra pet exp.",
+            "Zoologist 31   Gain 30➜31% extra pet exp.",
             "+Gain 6➜6.2% Exp Share rate.",
             "+1  Pet Luck",
             "+375,000 Coins",
@@ -6130,7 +6130,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Zoologist XXXII   Gain 31➜32% extra pet exp.",
+            "Zoologist 32   Gain 31➜32% extra pet exp.",
             "+Gain 6.2➜6.4% Exp Share rate.",
             "+1  Pet Luck",
             "+400,000 Coins",
@@ -6141,7 +6141,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Zoologist XXXIII   Gain 32➜33% extra pet exp.",
+            "Zoologist 33   Gain 32➜33% extra pet exp.",
             "+Gain 6.4➜6.6% Exp Share rate.",
             "+1  Pet Luck",
             "+425,000 Coins",
@@ -6152,7 +6152,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Zoologist XXXIV   Gain 33➜34% extra pet exp.",
+            "Zoologist 34   Gain 33➜34% extra pet exp.",
             "+Gain 6.6➜6.8% Exp Share rate.",
             "+1  Pet Luck",
             "+450,000 Coins",
@@ -6163,7 +6163,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Zoologist XXXV   Gain 34➜35% extra pet exp.",
+            "Zoologist 35   Gain 34➜35% extra pet exp.",
             "+Gain 6.8➜7% Exp Share rate.",
             "+1  Pet Luck",
             "+475,000 Coins",
@@ -6174,7 +6174,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Zoologist XXXVI   Gain 35➜36% extra pet exp.",
+            "Zoologist 36   Gain 35➜36% extra pet exp.",
             "+Gain 7➜7.2% Exp Share rate.",
             "+1  Pet Luck",
             "+500,000 Coins",
@@ -6185,7 +6185,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Zoologist XXXVII   Gain 36➜37% extra pet exp.",
+            "Zoologist 37   Gain 36➜37% extra pet exp.",
             "+Gain 7.2➜7.4% Exp Share rate.",
             "+1  Pet Luck",
             "+550,000 Coins",
@@ -6196,7 +6196,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Zoologist XXXVIII   Gain 37➜38% extra pet exp.",
+            "Zoologist 38   Gain 37➜38% extra pet exp.",
             "+Gain 7.4➜7.6% Exp Share rate.",
             "+1  Pet Luck",
             "+600,000 Coins",
@@ -6207,7 +6207,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Zoologist XXXIX   Gain 38➜39% extra pet exp.",
+            "Zoologist 39   Gain 38➜39% extra pet exp.",
             "+Gain 7.6➜7.8% Exp Share rate.",
             "+1  Pet Luck",
             "+650,000 Coins",
@@ -6218,7 +6218,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Zoologist XL   Gain 39➜40% extra pet exp.",
+            "Zoologist 40   Gain 39➜40% extra pet exp.",
             "+Gain 7.8➜8% Exp Share rate.",
             "+1  Pet Luck",
             "+Expert Training Session at Fann",
@@ -6230,7 +6230,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Zoologist XLI   Gain 40➜41% extra pet exp.",
+            "Zoologist 41   Gain 40➜41% extra pet exp.",
             "+Gain 8➜8.2% Exp Share rate.",
             "+1  Pet Luck",
             "+750,000 Coins",
@@ -6241,7 +6241,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Zoologist XLII   Gain 41➜42% extra pet exp.",
+            "Zoologist 42   Gain 41➜42% extra pet exp.",
             "+Gain 8.2➜8.4% Exp Share rate.",
             "+1  Pet Luck",
             "+800,000 Coins",
@@ -6252,7 +6252,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Zoologist XLIII   Gain 42➜43% extra pet exp.",
+            "Zoologist 43   Gain 42➜43% extra pet exp.",
             "+Gain 8.4➜8.6% Exp Share rate.",
             "+1  Pet Luck",
             "+850,000 Coins",
@@ -6263,7 +6263,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Zoologist XLIV   Gain 43➜44% extra pet exp.",
+            "Zoologist 44   Gain 43➜44% extra pet exp.",
             "+Gain 8.6➜8.8% Exp Share rate.",
             "+1  Pet Luck",
             "+900,000 Coins",
@@ -6274,7 +6274,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Zoologist XLV   Gain 44➜45% extra pet exp.",
+            "Zoologist 45   Gain 44➜45% extra pet exp.",
             "+Gain 8.8➜9% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6285,7 +6285,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Zoologist XLVI   Gain 45➜46% extra pet exp.",
+            "Zoologist 46   Gain 45➜46% extra pet exp.",
             "+Gain 9➜9.2% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6296,7 +6296,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Zoologist XLVII   Gain 46➜47% extra pet exp.",
+            "Zoologist 47   Gain 46➜47% extra pet exp.",
             "+Gain 9.2➜9.4% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6307,7 +6307,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Zoologist XLVIII   Gain 47➜48% extra pet exp.",
+            "Zoologist 48   Gain 47➜48% extra pet exp.",
             "+Gain 9.4➜9.6% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6318,7 +6318,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Zoologist XLIX   Gain 48➜49% extra pet exp.",
+            "Zoologist 49   Gain 48➜49% extra pet exp.",
             "+Gain 9.6➜9.8% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6329,7 +6329,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Zoologist L   Gain 49➜50% extra pet exp.",
+            "Zoologist 50   Gain 49➜50% extra pet exp.",
             "+Gain 9.8➜10% Exp Share rate.",
             "+1  Pet Luck",
             "+Ultra Training Session at Fann",
@@ -6341,7 +6341,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Zoologist LI   Gain 50➜51% extra pet exp.",
+            "Zoologist 51   Gain 50➜51% extra pet exp.",
             "+Gain 10➜10.2% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6352,7 +6352,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Zoologist LII   Gain 51➜52% extra pet exp.",
+            "Zoologist 52   Gain 51➜52% extra pet exp.",
             "+Gain 10.2➜10.4% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6363,7 +6363,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Zoologist LIII   Gain 52➜53% extra pet exp.",
+            "Zoologist 53   Gain 52➜53% extra pet exp.",
             "+Gain 10.4➜10.6% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6374,7 +6374,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Zoologist LIV   Gain 53➜54% extra pet exp.",
+            "Zoologist 54   Gain 53➜54% extra pet exp.",
             "+Gain 10.6➜10.8% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6385,7 +6385,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Zoologist LV   Gain 54➜55% extra pet exp.",
+            "Zoologist 55   Gain 54➜55% extra pet exp.",
             "+Gain 10.8➜11% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6396,7 +6396,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Zoologist LVI   Gain 55➜56% extra pet exp.",
+            "Zoologist 56   Gain 55➜56% extra pet exp.",
             "+Gain 11➜11.2% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6407,7 +6407,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Zoologist LVII   Gain 56➜57% extra pet exp.",
+            "Zoologist 57   Gain 56➜57% extra pet exp.",
             "+Gain 11.2➜11.4% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6418,7 +6418,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Zoologist LVIII   Gain 57➜58% extra pet exp.",
+            "Zoologist 58   Gain 57➜58% extra pet exp.",
             "+Gain 11.4➜11.6% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6429,7 +6429,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Zoologist LIX   Gain 58➜59% extra pet exp.",
+            "Zoologist 59   Gain 58➜59% extra pet exp.",
             "+Gain 11.6➜11.8% Exp Share rate.",
             "+1  Pet Luck",
             "+1,000,000 Coins",
@@ -6440,7 +6440,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Zoologist LX   Gain 59➜60% extra pet exp.",
+            "Zoologist 60   Gain 59➜60% extra pet exp.",
             "+Gain 11.8➜12% Exp Share rate.",
             "+1  Pet Luck",
             "+Turbo! Training Session at Fann",
@@ -6454,5 +6454,5 @@
     }
   },
   "success": true,
-  "version": "0.27.0.13"
+  "version": "0.27.0.14"
 }
