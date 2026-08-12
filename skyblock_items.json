@@ -78666,12 +78666,16 @@
       "npc_sell_price": 1
     },
     {
+      "category": "AXE",
       "description": "Use to preview the current axe rune!",
       "id": "AXE_PREVIEW",
       "material": "DIAMOND_AXE",
       "name": "%%green%%Axe Preview %%gray%%(Right-Click)",
       "serializable": false,
       "soulbound": "SOLO",
+      "stats": {
+        "sweep": 5
+      },
       "tier": "SPECIAL"
     },
     {
@@ -147227,6 +147231,6 @@
       "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1786466288520,
+  "lastUpdated": 1786567274674,
   "success": true
 }
