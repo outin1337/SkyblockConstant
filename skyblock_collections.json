@@ -4692,6 +4692,7 @@
               "amountRequired": 800,
               "tier": 8,
               "unlocks": [
+                "Marshroom Recipe",
                 "+50,000 Hunting Experience",
                 "+50,000 Foraging Experience",
                 "+4 SkyBlock XP"
@@ -7128,7 +7129,7 @@
       "name": "Rift"
     }
   },
-  "lastUpdated": 1786567649568,
+  "lastUpdated": 1787577749549,
   "success": true,
-  "version": "0.27.0.14"
+  "version": "0.27.0.20"
 }
