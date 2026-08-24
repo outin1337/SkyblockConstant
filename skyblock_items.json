@@ -112015,7 +112015,7 @@
           "type": "RECIPE_INGREDIENT"
         }
       ],
-      "description": "%%gray%%A type of silk woven by the Silkbreeze. It's so soft that it practically trickles through your fingers as you hold it.",
+      "description": "%%gray%%Dropped by the %%gold%%Silkbreeze %%gray%%in %%gold%%Torrhus Canyon%%gray%%.\n\n%%dark_gray%%%%italic%%A type of silk woven by the Silkbreeze. It's so soft that it practically trickles through your fingers as you hold it.",
       "glowing": true,
       "id": "SUBLIME_SILK",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/sublime_silk",
@@ -112045,6 +112045,16 @@
       "tier": "LEGENDARY"
     },
     {
+      "description": "%%dark_gray%%%%italic%%The will of the forest materializes into this item, which it has bestowed upon you. May fortune smile upon thee, and may thy axe be ever-sharp.",
+      "has_uuid": true,
+      "id": "FORESTS_FAVOR",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/forests_favor",
+      "material": "PAPER",
+      "name": "Forest's Favor",
+      "npc_sell_price": 1000000,
+      "tier": "LEGENDARY"
+    },
+    {
       "can_auction": false,
       "category": "REFORGE_STONE",
       "id": "EXTREMELY_MILD_ADHESIVE",
@@ -112055,12 +112065,20 @@
       "tier": "RARE"
     },
     {
+      "category": "REFORGE_STONE",
+      "id": "MARSHROOM",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/reforge_stones/marshroom",
+      "material": "PAPER",
+      "name": "Marshroom",
+      "tier": "UNCOMMON"
+    },
+    {
       "components": [
         {
           "type": "RECIPE_INGREDIENT"
         }
       ],
-      "description": "%%gray%%Dropped by the %%dark_purple%%Giant Isopod %%dark_aqua%%Sea Creature %%gray%%in %%gold%%Torrhus Canyon%%gray%%.\n\n%%dark_gray%%%%italic%%A massive, sturdy piece of netting that would be more than strong enough to catch most critters when used as a net. Unfortunately, for whoever owned it, the Giant Isopod is a bit larger than your average critter.",
+      "description": "%%gray%%Dropped by the %%light_purple%%Giant Isopod %%gray%%in %%gold%%Torrhus Canyon%%gray%%.\n\n%%dark_gray%%%%italic%%A massive, sturdy piece of netting that would be more than strong enough to catch most critters when used as a net. Unfortunately, for whoever owned it, the Giant Isopod is a bit larger than your average critter.",
       "glowing": true,
       "id": "REINFORCED_NETTING",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/reinforced_netting",
@@ -112626,8 +112644,7 @@
           "type": "COLLECTION"
         }
       ],
-      "tier": "EPIC",
-      "unstackable": true
+      "tier": "EPIC"
     },
     {
       "category": "CONSUMABLE",
@@ -112643,7 +112660,7 @@
         }
       ],
       "tier": "LEGENDARY",
-      "unstackable": true
+      "unstackable": false
     },
     {
       "category": "CONSUMABLE",
@@ -112658,8 +112675,7 @@
           "type": "COLLECTION"
         }
       ],
-      "tier": "UNCOMMON",
-      "unstackable": true
+      "tier": "UNCOMMON"
     },
     {
       "category": "CONSUMABLE",
@@ -112674,8 +112690,7 @@
           "type": "COLLECTION"
         }
       ],
-      "tier": "RARE",
-      "unstackable": true
+      "tier": "RARE"
     },
     {
       "category": "CONSUMABLE",
@@ -113038,6 +113053,29 @@
       "name": "Vial of Spring Water",
       "npc_sell_price": 150000,
       "tier": "LEGENDARY"
+    },
+    {
+      "category": "SALT",
+      "id": "BRINE_TONIC",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/salts/brine_tonic",
+      "material": "PAPER",
+      "name": "Brine Tonic",
+      "tier": "RARE"
+    },
+    {
+      "components": [
+        {
+          "type": "RECIPE_INGREDIENT"
+        }
+      ],
+      "description": "%%gray%%Dropped by the %%green%%Brineling %%gray%%in %%gold%%Torrhus Canyon%%gray%%.\n\n%%dark_gray%%%%italic%%Highly concentrated saltwater, between three to eight times saltier than seawater.",
+      "glowing": true,
+      "id": "SEA_BRINE",
+      "item_model": "hypixel_skyblock:item/island_relevant/foraging_3/sea_brine",
+      "material": "PAPER",
+      "name": "Sea Brine",
+      "npc_sell_price": 1000,
+      "tier": "UNCOMMON"
     },
     {
       "category": "BELT",
@@ -120868,7 +120906,7 @@
       "category": "LASSO",
       "id": "ENTANGLER_LASSO",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/hunting/entangler_lasso",
-      "material": "LEASH",
+      "material": "PAPER",
       "museum_data": {
         "category": "HUNTING",
         "donation_xp": 4,
@@ -120889,7 +120927,7 @@
       "category": "LASSO",
       "id": "EVERSTRETCH_LASSO",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/hunting/everstretch_lasso",
-      "material": "LEASH",
+      "material": "PAPER",
       "museum_data": {
         "category": "HUNTING",
         "donation_xp": 10,
@@ -120989,7 +121027,7 @@
       "category": "LASSO",
       "id": "VINERIP_LASSO",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/hunting/vinerip_lasso",
-      "material": "LEASH",
+      "material": "PAPER",
       "museum_data": {
         "category": "HUNTING",
         "donation_xp": 2,
@@ -121177,7 +121215,7 @@
       "description": "%%gray%%%%italic%%This is barely holding together, seriously who made this?",
       "id": "ABYSMAL_LASSO",
       "item_model": "hypixel_skyblock:item/uncategorized/abysmal_lasso",
-      "material": "LEASH",
+      "material": "PAPER",
       "museum_data": {
         "category": "HUNTING",
         "donation_xp": 1,
@@ -147231,6 +147269,6 @@
       "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1787232323850,
+  "lastUpdated": 1787577248898,
   "success": true
 }
