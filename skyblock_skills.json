@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1787860351229,
+  "lastUpdated": 1788191851296,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy EXP!",
@@ -3187,7 +3187,7 @@
           "level": 12,
           "totalExpRequired": 22425.0,
           "unlocks": [
-            "Ent Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XII   Grants +1.1➜1.2  Treasure Chance.",
             "+2  Health",
             "+15,000 Coins",
@@ -6454,5 +6454,5 @@
     }
   },
   "success": true,
-  "version": "0.27.0.24"
+  "version": "0.27.0.25"
 }
