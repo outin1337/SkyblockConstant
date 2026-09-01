@@ -19610,6 +19610,7 @@
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "FESTIVE_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/festive_sinker",
       "material": "PAPER",
@@ -19626,11 +19627,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "COMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "ICY_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/icy_sinker",
       "material": "PAPER",
@@ -19656,11 +19658,12 @@
           "type": "ESSENCE"
         }
       ],
-      "tier": "RARE",
+      "tier": "COMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "HOTSPOT_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/hotspot_sinker",
       "material": "PAPER",
@@ -19682,6 +19685,7 @@
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "JUNK_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/junk_sinker",
       "material": "PAPER",
@@ -19698,11 +19702,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "PRISMARINE_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/prismarine_sinker",
       "material": "PAPER",
@@ -19719,11 +19724,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "COMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "CHUM_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/chum_sinker",
       "material": "PAPER",
@@ -19741,11 +19747,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "COMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "STINGY_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/stingy_sinker",
       "material": "PAPER",
@@ -19762,11 +19769,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "SPONGE_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/sponge_sinker",
       "material": "PAPER",
@@ -19784,11 +19792,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "COMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "LOTUS_SINKER",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/lotus_sinker",
       "material": "PAPER",
@@ -19816,6 +19825,7 @@
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "COMMON_HOOK",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/hook/common_hook",
       "material": "PAPER",
@@ -19832,11 +19842,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "COMMON",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "TREASURE_HOOK",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/hook/treasure_hook",
       "material": "PAPER",
@@ -19853,11 +19864,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "LEGENDARY",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "PUDDLE_JUMPER_HOOK",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/hook/puddle_jumper_hook",
       "material": "PAPER",
@@ -19884,6 +19896,7 @@
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "PHANTOM_HOOK",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/hook/phantom_hook",
       "material": "PAPER",
@@ -19901,11 +19914,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "EPIC",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "HOTSPOT_HOOK",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/hook/hotspot_hook",
       "material": "PAPER",
@@ -19922,11 +19936,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "EPIC",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "SHREDDED_LINE",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/line/shredded_line",
       "material": "PAPER",
@@ -19949,6 +19964,7 @@
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "TROPHY_LINE",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/line/trophy_line",
       "material": "PAPER",
@@ -19975,6 +19991,7 @@
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "TITAN_LINE",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/line/titan_line",
       "material": "PAPER",
@@ -19991,11 +20008,12 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "LEGENDARY",
       "unstackable": true
     },
     {
       "category": "FISHING_ROD_PART",
+      "force_wipe_recomb": true,
       "id": "SPEEDY_LINE",
       "item_model": "hypixel_skyblock:item/fishing/rod_part/line/speedy_line",
       "material": "PAPER",
@@ -20012,7 +20030,7 @@
           "type": "SKILL"
         }
       ],
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true
     },
     {
@@ -20101,17 +20119,12 @@
       "name": "Travel Scroll to the Lotus Atoll",
       "requirements": [
         {
-          "level": 10,
-          "skill": "FISHING",
-          "type": "SKILL"
-        },
-        {
-          "reward": "SILVER",
-          "trophy_type": "FROG",
-          "type": "TROPHY_FISHING"
+          "chapter": "lotus",
+          "tier": 2,
+          "type": "CHAPTER_TIER"
         }
       ],
-      "soulbound": "SOLO",
+      "soulbound": "COOP",
       "tier": "RARE"
     },
     {
@@ -21984,11 +21997,12 @@
       "name": "Travel Scroll to the Bayou",
       "requirements": [
         {
-          "level": 5,
-          "skill": "FISHING",
-          "type": "SKILL"
+          "chapter": "bayou",
+          "tier": 2,
+          "type": "CHAPTER_TIER"
         }
       ],
+      "soulbound": "COOP",
       "tier": "RARE"
     },
     {
@@ -23722,6 +23736,15 @@
         "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5ODI1Mjg2NTI5NiwKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTYwZmFiYjE4Y2RlYjI3NmJiZjM2OGRkOTcxOTE4YTVkYThiOTdiYjg4NjY4MzcwYWM1YzMxZmZkMGU2NGMxYyIKICAgIH0KICB9Cn0="
       },
       "tier": "MYTHIC",
+      "unstackable": true
+    },
+    {
+      "can_auction": false,
+      "durability": 3,
+      "id": "FACTION_RABBIT",
+      "material": "SKULL_ITEM",
+      "name": "Faction Rabbit",
+      "tier": "COMMON",
       "unstackable": true
     },
     {
@@ -27540,6 +27563,7 @@
       },
       "stats": {
         "ATTACK_SPEED": 2.5,
+        "CRITICAL_DAMAGE": 10,
         "FEROCITY": 4,
         "STRENGTH": 20
       },
@@ -119662,7 +119686,7 @@
           "type": "RECIPE_INGREDIENT"
         }
       ],
-      "description": "%%dark_gray%%%%italic%%These softened bones have absorbed moss over time, offering a flexible material.",
+      "description": "%%gray%%Caught as a %%gold%%Treasure %%gray%%catch in the %%red%%Tomb Floodway %%gray%%on the %%dark_green%%Moonglade Marsh%%gray%%.\n\n%%dark_gray%%%%italic%%These softened bones have absorbed moss over time, offering a flexible material.",
       "id": "FLEXBONE",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/flexbone",
       "material": "BONE",
@@ -147269,6 +147293,6 @@
       "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1787577248898,
+  "lastUpdated": 1788269374272,
   "success": true
 }
