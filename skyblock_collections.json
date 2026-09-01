@@ -203,7 +203,7 @@
               ]
             },
             {
-              "amountRequired": 1000,
+              "amountRequired": 500,
               "tier": 5,
               "unlocks": [
                 "Enchanted Book (Cayenne IV) Recipe",
@@ -211,7 +211,7 @@
               ]
             },
             {
-              "amountRequired": 2500,
+              "amountRequired": 1000,
               "tier": 6,
               "unlocks": [
                 "Stuffed Chili Pepper Recipe",
@@ -219,7 +219,7 @@
               ]
             },
             {
-              "amountRequired": 5000,
+              "amountRequired": 2500,
               "tier": 7,
               "unlocks": [
                 "Jalapeno Book Recipe",
@@ -227,7 +227,7 @@
               ]
             },
             {
-              "amountRequired": 10000,
+              "amountRequired": 5000,
               "tier": 8,
               "unlocks": [
                 "Enchanted Book (Habanero Tactics IV) Recipe",
@@ -235,7 +235,7 @@
               ]
             },
             {
-              "amountRequired": 20000,
+              "amountRequired": 10000,
               "tier": 9,
               "unlocks": [
                 "Enchanted Book (Tabasco II) Recipe",
@@ -6944,7 +6944,7 @@
               ]
             },
             {
-              "amountRequired": 5000,
+              "amountRequired": 2500,
               "tier": 4,
               "unlocks": [
                 "Enchanted Book (Transylvanian IV) Recipe",
@@ -6952,7 +6952,7 @@
               ]
             },
             {
-              "amountRequired": 15000,
+              "amountRequired": 5000,
               "tier": 5,
               "unlocks": [
                 "Displaced Leech Recipe",
@@ -6960,7 +6960,7 @@
               ]
             },
             {
-              "amountRequired": 30000,
+              "amountRequired": 10000,
               "tier": 6,
               "unlocks": [
                 "Blood Donor Ring Recipe",
@@ -6968,7 +6968,7 @@
               ]
             },
             {
-              "amountRequired": 75000,
+              "amountRequired": 25000,
               "tier": 7,
               "unlocks": [
                 "Full-Jaw Fanging Kit Recipe",
@@ -6976,7 +6976,7 @@
               ]
             },
             {
-              "amountRequired": 150000,
+              "amountRequired": 50000,
               "tier": 8,
               "unlocks": [
                 "Presumed Gallon of Red Paint Recipe",
@@ -6984,7 +6984,7 @@
               ]
             },
             {
-              "amountRequired": 250000,
+              "amountRequired": 100000,
               "tier": 9,
               "unlocks": [
                 "Hemobomb Recipe",
@@ -7129,7 +7129,7 @@
       "name": "Rift"
     }
   },
-  "lastUpdated": 1787577749549,
+  "lastUpdated": 1788269945950,
   "success": true,
-  "version": "0.27.0.20"
+  "version": "0.27.1.0"
 }
