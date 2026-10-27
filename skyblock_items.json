@@ -35807,6 +35807,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "id": "REDSTONE_TIPPED_ARROW",
       "item_model": "hypixel_skyblock:item/uncategorized/redstone_tipped_arrow",
@@ -46120,6 +46122,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "id": "GOLD_TIPPED_ARROW",
       "item_model": "hypixel_skyblock:item/uncategorized/gold_tipped_arrow",
@@ -57491,7 +57495,6 @@
     },
     {
       "can_place": false,
-      "durability": 1,
       "experience": {
         "combat": {
           "MINION_STORAGE": 5120.0
@@ -57499,7 +57502,8 @@
       },
       "glowing": true,
       "id": "ENCHANTED_BONE_BLOCK",
-      "material": "QUARTZ_BLOCK",
+      "item_model": "minecraft:bone_block",
+      "material": "PAPER",
       "name": "Enchanted Bone Block",
       "npc_sell_price": 51200,
       "tier": "RARE"
@@ -66777,6 +66781,8 @@
       ]
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "glowing": true,
       "id": "BOUNCY_ARROW",
@@ -68988,6 +68994,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "glowing": true,
       "id": "ICY_ARROW",
@@ -69460,6 +69468,8 @@
       "tier": "EPIC"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "glowing": true,
       "id": "EXPLOSIVE_ARROW",
@@ -72223,6 +72233,8 @@
       "npc_sell_price": 5
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "glowing": true,
       "id": "ARMORSHRED_ARROW",
@@ -86384,6 +86396,8 @@
       "tier": "EPIC"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "id": "EMERALD_TIPPED_ARROW",
       "item_model": "hypixel_skyblock:item/uncategorized/emerald_tipped_arrow",
@@ -92110,6 +92124,8 @@
       "npc_sell_price": 2
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "glowing": true,
       "id": "GLUE_ARROW",
@@ -92253,6 +92269,7 @@
       "material": "GOLD_SWORD",
       "name": "Sword of the Universe",
       "stats": {
+        "ATTACK_SPEED": 99999999,
         "DAMAGE": 99999999,
         "SWING_RANGE": 99999999
       },
@@ -93430,6 +93447,8 @@
       "tier": "UNCOMMON"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "id": "REINFORCED_IRON_ARROW",
       "item_model": "hypixel_skyblock:item/uncategorized/reinforced_iron_arrow",
@@ -95764,6 +95783,8 @@
       "tier": "RARE"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "glowing": true,
       "id": "NANSORB_ARROW",
@@ -98704,6 +98725,8 @@
       "tier": "EPIC"
     },
     {
+      "can_auction": false,
+      "can_trade": false,
       "category": "ARROW",
       "id": "MAGMA_ARROW",
       "item_model": "hypixel_skyblock:item/slayer/blaze/arrows/magma_arrow",
@@ -147059,6 +147082,6 @@
       "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1793110147589,
+  "lastUpdated": 1793129756033,
   "success": true
 }
