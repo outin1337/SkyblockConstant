@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793130494844,
+  "lastUpdated": 1793202794890,
   "skills": {
     "ALCHEMY": {
       "description": "Brew potions to earn Alchemy EXP!",
@@ -3307,7 +3307,7 @@
           "level": 21,
           "totalExpRequired": 822425.0,
           "unlocks": [
-            "Phantom Fisher Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXI   Grants +2➜2.1  Treasure Chance.",
             "+4 Health",
             "+125,000 Coins",
@@ -3318,8 +3318,8 @@
           "level": 22,
           "totalExpRequired": 1222425.0,
           "unlocks": [
-            "Lava Pigman Sea Creature",
-            "Fireproof Witch Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXII   Grants +2.1➜2.2  Treasure Chance.",
             "+4 Health",
             "+150,000 Coins",
@@ -6454,5 +6454,5 @@
     }
   },
   "success": true,
-  "version": "0.27.2.17"
+  "version": "0.27.2.18"
 }
