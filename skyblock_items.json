@@ -26079,6 +26079,7 @@
       "id": "TALISMAN_ENRICHMENT_SWAPPER",
       "material": "REDSTONE_COMPARATOR",
       "name": "Accessory Enrichment Swapper",
+      "soulbound": "COOP",
       "tier": "SPECIAL"
     },
     {
@@ -147082,6 +147083,6 @@
       "tier": "SPECIAL"
     }
   ],
-  "lastUpdated": 1793129756033,
+  "lastUpdated": 1793311327754,
   "success": true
 }
